@@ -1,0 +1,73 @@
+title:            figarocorso
+tagline:          Because change happens!
+description:      Some writing.
+# Your site's domain goes here. Leave localhost server or blank when working locally.
+url:              http://figarocorso.github.io
+
+# Owner/author information
+owner:
+  name:           Miguel Julián Ramos - Miky - figarocorso
+  avatar:         bio-photo.jpg
+  bio:            "Currently headbanging at Zentyal"
+  email:
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  # To register at HMFAYSAL SOCIAL, visit http://social.hmfaysal.tk
+  twitter:        miky_kun
+  facebook:       migueljulian
+  github:         figarocorso
+  linkedin:       migueljulian
+  instagram:      mikysblog
+  lastfm:         figarocorso
+  tumblr:
+  hmfaysalsocial:
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+#  - title: Articles
+#    url: /articles/
+#  - title: Setup
+#    url: /theme-setup/
+#  - title: T-Details
+#    url: /technical-details/
+#  - title: The Evil-Genius
+#    url: http://www.theevilgenius.tk/
+#    external: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Europe/Madrid
+future:      true
+pygments:    true
+markdown:    kramdown
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:year/:month/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_line_numbers: 
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
