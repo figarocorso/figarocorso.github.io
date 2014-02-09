@@ -1,7 +1,8 @@
 ---
 layout: post-index
 permalink: /blog/
-title: Cosillas que he ido escribiendo por ahí
-tags: [artículos]
-filter: outside
+title: Day by day, porque cada día cuenta
+filter: day-by-day
+image-preview: true
+tag: Day-by-Day
 ---
