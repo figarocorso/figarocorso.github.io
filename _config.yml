@@ -39,8 +39,8 @@ links:
     url: /about/
   - title: "\' Day by day \' blog"
     url: /blog/
-  - title: Stuff written all around
-    url: /articles/
+#  - title: Stuff written all around
+#    url: /articles/
 #  - title: T-Details
 #    url: /technical-details/
 #  - title: The Evil-Genius
