@@ -23,13 +23,19 @@
 </div>
 
 <div id="index" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
-  <h3><a href="{{ site.url}}/articles/">Articles</a></h3>
-  {% for post in site.posts limit:5 %}    
-  <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
-    <h2 itemprop="headline"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h2>
-    <p itemprop="text">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
-  </article>
-  {% endfor %}
+    <div id="introduction">
+    <p itemprop="text">
+       En la <a href="{{site.url}}/about/">About page</a> podrás encontrar información sobre la razón de ser de esta página. Y porqué no, también un poquito del autor.
+       <br /><br />
+       El resumen es muy rápido: Aprovechar las facilidades de GitHub + Jekyll para aglutinar todos esos cachitos de vida que he ido dejando en diversos sitios en forma de artículos / textos / loquesea. Así lo podré tener organizadito en mi ordenador, pero también en remoto.
+    </p>
+    </div>
+
+    <h3>Textos escritos por ahí</h3>
+    {% for project in site.projects %}
+        <h2 itemprop="headline"><a href="{% if project.external %}{{ project.url }}{% else %}{{ site.url }}{{ project.url }}" target="_blank{% endif %}" rel="bookmark" title="{{ project.title }}">{{ project.title }}</a></h2>
+        <p itemprop="text">{{ project.description }}</p>
+    {% endfor%}
 </div><!-- /#index -->
 
 <div class="footer-wrap">
