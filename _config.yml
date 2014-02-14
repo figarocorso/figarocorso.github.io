@@ -4,6 +4,7 @@ description:      I am gonna be adding to this page those things I write
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://figarocorso.github.io
 #url:              http://localhost:4000
+navigation:       false
 
 # Owner/author information
 owner:
@@ -39,13 +40,29 @@ links:
     url: /about/
   - title: "\' Day by day \' blog"
     url: /blog/
-#  - title: Stuff written all around
-#    url: /articles/
+  - title: "Music reviews"
+    url: /music-review/
+  - title: Stuff written all around
+    url: /articles/
 #  - title: T-Details
 #    url: /technical-details/
 #  - title: The Evil-Genius
 #    url: http://www.theevilgenius.tk/
 #    external: true
+
+projects:
+    - title: Autofocus blog
+#      url: /blog/
+      url: http://blog.migueljulian.com/
+      description: "Blog personal donde busco automotivarme para no caer en la rutina del día a día. Por ahora es un enlace externo..."
+      external: true
+    - title: Críticas (reviews) de música
+      url: /music-review/
+      description: "Críticas sobre discos o conciertos recuperados de Rockthunder y Metalthunder."
+    - title: Genbeta
+      url: "http://www.genbeta.com/autor/Miguel-Julian"
+      description: "Artículos escritos en la página Genbeta.com. Por ahora es un enlace externo porque están alojadas en su servidor, si algún día hago un script para sacarlas lo mejor posible, las incluiré en el sitio. (290 noticias publicadas)."
+      external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Madrid
