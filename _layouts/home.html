@@ -13,9 +13,8 @@
 
 {% include _navigation.html %}
 
-{% if page.image.feature %}<div class="image-wrap">
-  <img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }} feature image" itemprop="primaryImageOfPage">
-  {% if page.image.credit %}<span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>{% endif %}
+{% if page.image%}<div class="image-wrap">
+  <img src="{{ site.url }}/images/{{ page.image}}" alt="{{ page.title }} feature image" itemprop="primaryImageOfPage">
 </div><!-- /.image-wrap -->{% endif %}
 
 <div class="article-author-side">
@@ -26,12 +25,10 @@
     <div id="introduction">
     <p itemprop="text">
        En la <a href="{{site.url}}/about/">About page</a> podrás encontrar información sobre la razón de ser de esta página. Y porqué no, también un poquito del autor.
-       <br /><br />
-       El resumen es muy rápido: Aprovechar las facilidades de GitHub + Jekyll para aglutinar todos esos cachitos de vida que he ido dejando en diversos sitios en forma de artículos / textos / loquesea. Así lo podré tener organizadito en mi ordenador, pero también en remoto.
     </p>
     </div>
 
-    <h3>Textos escritos por ahí</h3>
+    <h3>Textos recopilados hasta ahora</h3>
     {% for project in site.projects %}
         <h2 itemprop="headline"><a href="{% if project.external %}{{ project.url }}{% else %}{{ site.url }}{{ project.url }}" target="_blank{% endif %}" rel="bookmark" title="{{ project.title }}">{{ project.title }}</a></h2>
         <p itemprop="text">{{ project.description }}</p>
@@ -45,6 +42,6 @@
 </div><!-- /.footer-wrap -->
 
 {% include _scripts.html %}
-  
+
 </body>
 </html>
