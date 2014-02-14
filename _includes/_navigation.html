@@ -3,11 +3,12 @@
 
     <header id="top" role="banner">
         <div class="block">
-            <h1 class="block-title">{{ site.title }}</h1>
+            <a class="header-link" href="{{ site.url }}"><h1 class="block-title">{{ site.title }}</h1></a>
             <a class="nav-btn" id="nav-open-btn" href="#nav">Navigation</a>
         </div>
     </header>
 
+    {% if site.navigation %}
     <nav id="nav" role="navigation">
         <div class="block">
             <h2 class="block-title">Chapters</h2>
@@ -20,3 +21,6 @@
             <a class="close-btn" id="nav-close-btn" href="#top">Return to Content</a>
         </div>
     </nav>
+    {% else %}
+    <div style="height:30px;"></div>
+    {% endif %}
