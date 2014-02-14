@@ -1,0 +1,4 @@
+a.header-link, a.header-link:active, a.header-link:visited, a.header-link:hover {
+    color:#eee !important;
+    text-decoration: none;
+}
