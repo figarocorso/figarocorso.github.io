@@ -6,7 +6,7 @@ tagline: Figarocorso
 tags: [about]
 modified: 09-02-2013
 image:
-  feature: stonenge_miky.jpg
+  feature: stonenge_miky_about.jpg
 ---
 
 ## About this site - Sobre el sitio
