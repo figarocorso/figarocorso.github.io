@@ -1,3 +1,10 @@
+---
+layout: post
+title: Breaker - Rompiendo Cadenas
+description: "Crítica del disco Breaker - Rompiendo Cadenas => para Rockthunder.net"
+category: music-review
+post-image: music-reviews/breaker-rompiendo.jpg
+---
 En cada aparición de un nuevo disco de la factoría nacional, todos lo vemos desde dos puntos de vista. El primero, que a veces hay trabajos bastante flojos que por así decirlo “bajan la media” del rock y el hard rock nacional. Pero el segundo punto de vista, mucho más positivista, ya que con cada nuevo trabajo nacional, se deja en evidencia que en España todavía algunos siguen teniendo interés en mover todo esto…y claro está, nosotros o agradecemos.
 <pre></pre>
 En cuanto a este nuevo disco de “Breaker”, aunque para muchos les resulte desconocido, este es su tercer trabajo, en el cual (y pese a los problemas de grabación, según anuncia la propia web del grupo) alcanzan una calidad de sonido buena, donde podemos ver que sin duda, este disco es el que ha tenido un resultado más maduro de los anteriores.
@@ -11,5 +18,5 @@ Para destacar algunos de los cortes del trabajo, y sin seguir el orden del disco
 El tercer corte, que ya está regido por un estilo un poco más “moderno” encontramos “Príncipe del Miedo”, una deliciosa canción, que personalmente me parece la mejor del disco. Acorde con las letras del disco, esta no podía estar exenta de contenido, y en este caso, estos castellonenses dan un repasito al señor Bush y a su “imperio”. Encontramos unos solos en este corte muy buenos, y cambios de ritmo currados que encajan a la perfección. Una canción directa, de esas que nos sumergen en la melodía y no nos dejan escapar hasta que nos damos cuenta que ha acabado.
 <pre></pre>
 En resumen, destacar los ritmos más o menos clásicos, unas letras muy trabajadas por su longitud y por su calidad (aunque en algún corte, abusan demasiado de la “rima fácil”, pero claro está, si grandes grupos reconocidos pueden, y son alabados, por qué Breaker no). Para todos aquellos amantes del hard rock recomiendo este disco para ir abriendo sus mentes y descubrir nuevos grupos que sin duda dan pinceladas de calidad al panorama musical actual.
-
-http://www.rockthunder.net/critica/1270/breaker-rompiendo-cadenas
+<pre></pre>
+[Rockthunder.net](http://www.rockthunder.net/critica/1270/breaker-rompiendo-cadenas)
