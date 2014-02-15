@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Masterplan - Aeronautics
-description: "Crítica del disco Masterplan - Aeronautics para Rockthunder.net"
+description: "Crítica del disco Masterplan - Aeronautics => para Rockthunder.net"
 category: music-review
+post-image: music-reviews/masterplan-aeronautics.jpg
 ---
 
 Por fin, ya ha llegado. Lo estabamos esperando todos. Después de la revolución que montaron en el mundo del heavy metal el pasado año 2003, Masterplan ha vuelto para hacernos más fácil la vida. El sonido el de siempre pero, como iban a ser menos, evolucionando hacia una vertiente un poco más progresiva y mezclando con esos toques melódicos que tanto nos gustan. En este nuevo álbum "Aeronautics" nos deleitan con 10 canciones que llevan su firma, la del grupo revelación del 2004. Sonido directo, canciones que fusionan el heavy metal más puro con el rock progresivo que tanto suena en estos últimos tiempos.
@@ -18,5 +19,5 @@ Damos otro salto, pero esta vez hacia atrás, para encontrarnos con "Headbanger'
 Como no, el sexto y el último corte del disco son más blanditos. Canciones en las que no nos solemos fijar, pero que son unas verdaderas delicias. En "After This War" hay un "duelo" entre guitarras y voz, digno de mención, una voz rota y unos acordes perfectos no dejan de asombrarnos.
 <pre></pre>
 Para ir resumiendo un poco. En pocas palabras, un disco diez. Era difícil mantener el status que tenían hasta ahora puesto que la calidad del anterior disco es tremenda. Sólo hace falta que las ventas les acompañen y muy pronto oiremos, y mucho, hablar de este grupo alemán. Ya está a la venta el single, pero si esperamos un poco, a mediados de enero saldrá el disco. Personalmente se lo recomiendo a todo el mundo y en particular a todos aquellos que ya escucharon y les gustó el primer trabajo de Masterplan. Como no, los amantes de la buena música estarán encantados con este trabajo.
-
-http://www.rockthunder.net/critica/1052/masterplan-aeronautics
+<pre></pre>
+[Rockthunder.net](http://www.rockthunder.net/critica/1052/masterplan-aeronautics)
