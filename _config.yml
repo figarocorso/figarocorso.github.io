@@ -38,12 +38,12 @@ links:
     url: /
   - title: About
     url: /about/
+  - title: Artículos
+    url: /articles/
   - title: "\' Day by day \' blog"
     url: /blog/
   - title: "Music reviews"
     url: /music-review/
-  - title: Stuff written all around
-    url: /articles/
 #  - title: T-Details
 #    url: /technical-details/
 #  - title: The Evil-Genius
@@ -56,6 +56,9 @@ projects:
       url: http://blog.migueljulian.com/
       description: "Blog personal donde busco automotivarme para no caer en la rutina del día a día. Por ahora es un enlace externo..."
       external: true
+    - title: Artículos
+      url: /articles/
+      description: "Artículos que podría llamar 'serios' que han sido publicados por diversos medios."
     - title: Críticas (reviews) de música
       url: /music-review/
       description: "Críticas sobre discos o conciertos recuperados de Rockthunder y Metalthunder."
