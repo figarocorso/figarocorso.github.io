@@ -58,7 +58,7 @@ projects:
       external: true
     - title: Artículos
       url: /articles/
-      description: "Artículos que podría llamar 'serios' que han sido publicados por diversos medios."
+      description: "Artículos que han sido publicados por diversos medios."
     - title: Críticas (reviews) de música
       url: /music-review/
       description: "Críticas sobre discos o conciertos recuperados de Rockthunder y Metalthunder."
