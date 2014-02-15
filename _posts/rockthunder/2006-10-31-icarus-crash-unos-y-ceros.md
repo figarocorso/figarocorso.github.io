@@ -1,3 +1,11 @@
+---
+layout: post
+title: Icarus Crash - Unos y Ceros
+description: "Crítica del disco Icarus Crash - Unos y Ceros => para Rockthunder.net"
+category: music-review
+post-image: music-reviews/icaruscrash_cerosyunosg.gif
+---
+
 Bandas jóvenes que surgen en el panorama del rock español. La verdad es que en los últimos años la proliferación de este tipo de bandas está siendo importante, y siendo sincero muchos de los grupos que lanzan sus maquetas al aire no alcanzan un mínimo de calidad. En este caso, creo que estamos ante una excepción.
 <pre></pre>
 Estamos ante la maqueta de “Icarus Crash”, un grupo que ha colaborado en varios recopilatorios de versiones como “Versus” y “17 Calabazas”. Y que aunque a primera vista uno espera muy poquito del grupo, al escuchar el disco, uno se queda sorprendido de la calidad que aparentan atesorar, y es que está claro que esta banda malagueña sabe lo que se hace y sobretodo saben los que quieren componer, lo cual es de agradecer en estos casos.
@@ -12,5 +20,5 @@ Nunca puede faltar la baladita en todo grupo que se precie. Una intro de piano n
 Para resumir, comentar que para tratarse de un grupo novel y español, la calidad del disco “Unos y Ceros” es muy grande. Un rock alternativo con toques electrónicos muy comedido, controlado y con buenas melodías. Mezcolanza de estilos siguiendo una firma. Desde aquí recomendamos visitar su web, ya que os aseguro que superaran vuestras espectativas.
 <pre></pre>
 Por cierto, en la maqueta encontramos un tema oculto que me ha sorprendido. Parece más bien un tema de investigación de melodías electrónicas, y fusión de estilos, con una base rítmica. Me ha resultado muy curiosa y pegadiza...como el resto del disco, sorprendente.
-
-http://www.rockthunder.net/critica/2463/icarus-crash---unos-y-ceros
+<pre></pre>
+[Rockthunder.net](http://www.rockthunder.net/critica/2463/icarus-crash---unos-y-ceros)
