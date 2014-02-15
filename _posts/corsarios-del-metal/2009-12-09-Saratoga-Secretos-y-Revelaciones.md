@@ -3,6 +3,7 @@ layout: post
 title: Saratoga - Secretos y Revelaciones
 description: "Crítica del disco Saratoga - Secretos y Revelaciones => para Corsarios del Metal"
 category: music-review
+post-image: music-reviews/Saratoga-Secretos.jpg
 ---
 
 Primer paso: el single… La impresión fue bastante buena, tanto que tienes ganas de ver cómo va a acabar la aventura. Segundo paso: escuchar el disco… Y es que no he sido la primera persona que dice aquello de “me esperaba más”. Tercer paso: escucharlo unas cuantas veces más…. Poco a poco se descubren más cosas, de hecho, el disco se va descubriendo a sí mismo, logrando que tema tras tema entres dentro de sus melodías cosa que en un principio parecía más difícil.
@@ -16,3 +17,5 @@ Ya estaba en el single, pero “No sufriré jamás por tí” me sigue sorprendi
 Siendo SARATOGA, una vez más hay que volver a alabar los temas lentos como “Mar de Luz” (ojo con la guitarra y ritmos de este tema) y “Cuando los sueños te hagan llorar”, diferentes pero muy buenos ambos dos. Pero no me puedo despedir sin comentar dos temas que me sorprendieron muy gratamente desde la primera vez que escuché el trabajo: “Luna Llena” y “Lágrimas de un Ángel”. El primero aparece rodeado de un ambiente y unos ritmos más oscuros que desembocan en unos estribillos optimistas y más limpios. Y desde el segundo nos muestran la visión de un soldado que desembarca en Normandía y que sólo puede ver la muerte delante de sus ojos.
 <pre></pre>
 Como resumen, pese a que mi primera impresión fue decepcionante con ese “me esperaba más” que decía al principio, después de escucharlo unas cuantas veces me parece un buen trabajo en el que podemos encontrar muchos aspectos a destacar y que, sobretodo, está repleto de calidad sonora y buen heavy metal. Sobre si supera o mantiene el listón con respecto a trabajos anteriores ya sois vosotros, los oyentes, los que tenéis que decidir.
+<pre></pre>
+[Corsarios del Metal](http://corsariosdelmetal.blogspot.com.es/2009/12/critica-saratoga-secretos-y.html)
