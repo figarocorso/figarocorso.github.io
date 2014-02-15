@@ -40,6 +40,8 @@ links:
     url: /about/
   - title: Artículos
     url: /articles/
+  - title: Relatos
+    url: /short-stories/
   - title: "\' Day by day \' blog"
     url: /blog/
   - title: "Music reviews"
@@ -59,6 +61,9 @@ projects:
     - title: Artículos
       url: /articles/
       description: "Artículos que han sido publicados por diversos medios."
+    - title: Relatos
+      url: /short-stories/
+      description: "Algunos relatos cortos de diferente temática. Sangre, amor, aventuras... sigo recopilando algunos."
     - title: Críticas (reviews) de música
       url: /music-review/
       description: "Críticas sobre discos o conciertos recuperados de Rockthunder y Metalthunder."
