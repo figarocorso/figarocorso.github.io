@@ -1,0 +1,920 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+                                                                                                                                                                                                                                                                                <title>jPDF Tweak, todo lo que necesitas para editar archivos PDF</title>
+                  <meta name="description" content="jPDF Tweak es una herramienta libre, desarrollada en Java para editar archivos PDF. Pese a tener una mejorable interfaz, nos proporciona una buena..." />
+            <meta name="news_keywords" content="open source, Editor de pdf"/>
+       
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />    
+    <meta name='robots' content='noodp' />
+    <meta property="fb:admins" content="100000716994885"/>
+    <meta name="application-name" content="Genbeta"/>
+    <meta name="msapplication-tooltip" content="Software y web. Genbeta"/>
+    <meta name="msapplication-starturl" content="http://www.genbeta.com"/>
+    <meta name="msapplication-task" content="name=Lo mejor;action-uri=http://www.genbeta.com/lomejor;icon-uri=http://img.genbeta.com/lp2/v6/images/pin-bg-lomejor-icon.ico" />
+        <meta name="msapplication-task" content="name=Respuestas;action-uri=http://www.genbeta.com/respuestas;icon-uri=http://img.genbeta.com/lp2/v6/images/pin-bg-respuestas-icon.ico" />
+                <!--[if !IE]><!--> <link rel="shortcut icon" href="http://img.genbeta.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if lt IE 9]><!--> <link rel="shortcut icon" href="http://img.genbeta.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if gte IE 9]>
+            <link rel="shortcut icon" type="image/x-icon" href="http://img.genbeta.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+            <link rel=icon type="image/ico" href="http://img.genbeta.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+        <![endif]-->
+    
+    <link rel="apple-touch-icon" href="http://img.genbeta.com/lp2/mobile/images/apple-touch-icon.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-57-precomposed.png">
+
+        <link rel="stylesheet" type="text/css" href="http://img.genbeta.com/lp2/v6/main.css?v=24272">
+        <link rel="publisher" href="http://plus.google.com/106643481235450321345" />
+    <link rel="alternate" type="application/rss+xml" title="" href="/index.xml" />
+    <!--[if lt IE 7]>
+      <link rel="stylesheet" type="text/css" href="http://img.genbeta.com/lp2/v6/ie7.css">
+    <![endif]-->
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', "UA-78515-6"]);
+  _gaq.push(['_setCampaignCookieTimeout', 259200000]);
+  _gaq.push(['_setDomainName', ".genbeta.com"]);
+  _gaq.push(['_setSiteSpeedSampleRate', 5]);
+  _gaq.push(['t2._setAccount', "UA-78515-62"]);
+  _gaq.push(['t2._setCampaignCookieTimeout', 259200000]);
+  _gaq.push(['t2._setDomainName', ".genbeta.com"]);
+  (function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') +       '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  })();
+</script>
+
+ <link rel="canonical" href="http://www.genbeta.com/herramientas/jpdf-tweak-todo-lo-que-necesitas-para-editar-archivos-pdf" />
+ <link rel="image_src" href="http://img.genbeta.com/resize/75/thumbnails/b/58035.jpg" />
+ <meta property="og:title" content="jPDF Tweak, todo lo que necesitas para editar archivos PDF">
+ <meta property="og:description" content="jPDF Tweak es una herramienta libre, desarrollada en Java para editar archivos PDF. Pese a tener una mejorable interfaz, nos proporciona una buena...">
+ <meta property="og:image" content="http://img.genbeta.com/original/58035.jpg">
+    <script>
+    _gaq.push(['t2._setPageGroup', '1', 'post']);
+    _gaq.push(['t2._setPageGroup', '2', "miguel julián"]);
+    _gaq.push(['t2._setPageGroup', '3', "herramientas"]);
+    _gaq.push(['t2._setPageGroup', '4', "normal"]);
+    _gaq.push(['_setPageGroup', '1', 'post']);
+    _gaq.push(['_setPageGroup', '2', "miguel julián"]);
+    _gaq.push(['_setPageGroup', '3', "herramientas"]);
+    _gaq.push(['_setPageGroup', '4', "normal"]);
+       </script>
+   </head>
+       <body id="body" class="article-single">
+
+    <script type='text/javascript'>
+    var MAX_source = "";
+    var GPTcats = ["herramientas"];
+    var GPTtags = ["open-source", "editor-de-pdf"];
+      </script>
+      <script type='text/javascript'>
+googletag.pubads().setTargeting("origin", "direct").setTargeting("screen", screen.width.toString()).setTargeting("cat", GPTcats).setTargeting("tag", GPTtags);
+if (navigator.userAgent.match(/iPad/i) != null) {
+  googletag.pubads().setTargeting("ua", "ipad");
+} 
+ 
+googletag.defineSlot('/4712/GEB/interior_top', [1000, 40], 'div-gpt-top').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_lateral', [[160, 600], [200,600], [300,600], [300,250]], 'div-gpt-lat').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_central', [[300, 250], [400,400], [1000,250]], 'div-gpt-cen').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_central2', [[300, 250],[400,400],[690, 250]], 'div-gpt-cen2').addService(googletag.pubads());
+googletag.defineSlot('/1018282/GEB-BOT2-interior',[728, 90], 'div-gpt-bot').addService(googletag.pubads());
+googletag.defineSlot('/1018282/GEB-INP', [500, 80], 'div-gpt-inp').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interstitial', [1000, 525], 'div-gpt-int').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().enableSyncRendering();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+</script>
+
+       <script type="text/javascript">
+      WSL2 = {};
+      WSL2.config = {};
+      WSL2.config.fbapikey = "360028941603";
+      WSL2.config.cookieDomain = "";
+      WSL2.config.imagePath = 'http://img.genbeta.com/lp2/v6';
+      WSL2.config.siteName = "Genbeta";
+      window.___gcfg = {lang: 'es'};
+    </script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="http://code.jquery.com/jquery-migrate-1.1.0.js"></script>
+            <script src="http://img.weblogssl.com/LPbackend/prod/v2/js/frontend-758.js"></script>
+          <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _c1 = new WSL2.Cookie;
+      loginStatus = (_c1.hasSession()) ? "yes:" + _c1.loginType() : "no";
+      _gaq.push(['t2._setCustomVar', 4, '.genbeta.com', 'loginstatus:' + loginStatus, 2]);
+      _gaq.push(['_trackPageview']);
+      _gaq.push(['t2._trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); 
+    ga.type = 'text/javascript';
+    ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+  })();
+      var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "11306788" });
+         (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[1]; 
+          s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb": "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+    </script>
+
+    <div id="fb-root"></div>
+  <!-- fb needs this -->
+
+  <script src="//platform.twitter.com/widgets.js" id="tweetjs"></script>
+  <script src="//apis.google.com/js/plusone.js" id="gplus1js"></script>
+  <script src="//connect.facebook.net/es_ES/all.js#xfbml=1" id="fbjssdk"></script>
+  <div class="customize-me">
+  <div class="content-fixed">
+    <div class="container">
+                <!-- .header -->
+            <div class="header header-page">
+        <h1 class="site-logo"><a href="http://www.genbeta.com" title="Ir a la portada">Software y web. Genbeta<span></span></a></h1>
+        <form method="get" action="/busqueda" id="search" class="search" style="top:62px; width:310px; padding: 0;">
+    <p>
+        <input type="hidden" name="cx" value="partner-pub-9977500652563564:0292109475">
+        <input type="text" id="gsearch" name="q" accesskey="4" title="Buscar" placeholder="Busca en Genbeta con Google">
+        <input type="hidden" name="ie" value="UTF-8">
+        <input type="hidden" name="oe" value="UTF-8">
+        <input type="hidden" name="cof" value="FORID:10">
+        <button class="button">Buscar <span class="arrow">&raquo;</span></button>
+    </p>
+</form>
+<script type="text/javascript" src="http://www.google.es/coop/cse/brand?form=cse-search-box&amp;lang=es"></script>
+            <div class="nav nav-main">
+    <ul class="nav-primary">
+        <li class="home-link"><a href="/" title="Volver a portada">Portada</a></li>
+        <li class="respuestas-link"><a href="/respuestas">Respuestas</a></li>
+        <li class="temas-submenu">
+            <ul class="nav-secondary">
+                                   <li><a href="/categoria/actualidad" title="Ir a la categoría Actualidad">Actualidad</a></li>
+                                   <li><a href="/categoria/linux" title="Ir a la categoría Linux">Linux</a></li>
+                                   <li><a href="/categoria/movil" title="Ir a la categoría Móvil">Móvil</a></li>
+                                   <li><a href="/categoria/windows" title="Ir a la categoría Windows">Windows</a></li>
+                                   <li><a href="/categoria/herramientas" title="Ir a la categoría Herramientas">Herramientas</a></li>
+                                <li><a href="/archivos" title="Ver todas las categorías">Más &raquo;</a></li>
+            </ul>
+        </li>
+                  
+            </ul>
+</div>
+
+        <div class="nav nav-tags">
+        <h3>No te pierdas <span class="arrow">&raquo;</span></h3>
+        <ul>
+                        <li><a href="/tag/tasa-google" title="Todo sobre Tasa Google">Tasa Google</a></li>
+                        <li><a href="/tag/ley-lassalle" title="Todo sobre Ley Lassalle">Ley Lassalle</a></li>
+                        <li><a href="/tag/balance-de-windows-8" title="Todo sobre Balance de Windows 8">Balance de Windows 8</a></li>
+                        <li><a href="/tag/cazadores-de-fakes" title="Todo sobre Cazadores de Fakes">Cazadores de Fakes</a></li>
+                        <li><a href="/tag/satya-nadella" title="Todo sobre Satya Nadella">Satya Nadella</a></li>
+                    </ul>
+</div>
+<!-- .nav-tags -->
+
+                    <div class="ad ad-desplegable">
+  <a class="ad-contact" id="div-gpt-top-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+  <div class="ad-box">
+    <div id='div-gpt-top' style='width: 1000px;'>
+    <script type="text/javascript">
+        googletag.cmd.push(function() {
+        googletag.display("div-gpt-top");
+        });
+    </script>
+    </div>
+  </div>
+</div>
+<!-- .ad-box - desplegable -->
+
+  <div class="nav">
+   <ul class="article-nav-controls">
+                              <li><a class="article-control article-previous" href="/web/la-web-en-tiempo-real-util-o-chuminada-tecnologica"><span>La web en tiempo real, ¿útil o chuminada tecnológica?</span></a></li>
+                                             <li><a class="article-control article-next" href="/buscadores/bing-anade-los-resultados-del-circulo-social-de-facebook-a-sus-busquedas"><span>Bing añade los resultados del círculo social de Facebook a sus búsquedas</span></a></li>
+                  </ul>
+  </div>
+              </div>
+                   <div class="article article-pre-content">
+  <h1 class="article-header">jPDF Tweak, todo lo que necesitas para editar archivos PDF</h1>
+  <div class="article-date">14 de octubre de 2010 | 00:43 CET <span id="is_editor"></span></div>
+  <div class="article-author-details">
+  <div class="figure">
+    <a rel='author' href="/autor/miguel-julian">
+      <img src="http://www.gravatar.com/avatar/14216b3a89c997bfc641f9d3abf7bc0b?s=80&amp;d=mm&amp;r=g" alt="miguel-julian">
+    </a>
+  </div>
+  <h2><a rel='author' href="/autor/miguel-julian">Miguel Julián</a></h2>
+      </div>
+<!-- .article-author-details -->
+</div>
+           </div>
+    <!-- .container -->
+  </div>
+  <!-- .content-fixed -->
+
+  <div class="content-dinamic">
+    <div class="container">
+          <script type="text/javascript">
+        $(function()
+        {
+          AML.postVoteView = new AML.Post.View.PostVoteView({postId:"58035", el:".social-sharing" });
+          AML.isEditorView = new AML.Post.View.IsEditorView({postId:"58035", model: WSL2.User });
+        });
+      </script>
+
+    <div class="aside">
+            <div id="ad-lateral" class="ad ad-primer-escaparate">
+  <a class="ad-contact" id="div-gpt-lat-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-lat' class="ad-box" style='width: 300px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-lat");
+    });
+    </script>
+    </div>
+</div>
+<!-- .ad-box - escaparate vertical -->
+
+           <!-- .ad-box - escaparate vertical -->
+            
+                  
+<div class="aside-box aside-subscribe">
+  <h3 class="aside-header">Síguenos</h3>
+  
+          
+  <form id="feedForm" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" >
+    <label for="subscribe-email">Newsletter:</label>  
+      <input type="text" name="email" type="text" id="feedburnermail" placeholder="Correo electrónico"/>
+      <input type="hidden" name="uri" value="genbeta"/>
+      <input type="hidden" name="loc" value="es_ES">
+      <button class="button" type="submit">Suscríbete <span class="arrow">&raquo;</span></button>
+  </form>
+  <ul class="subs-channels">
+    <li class="channel-rss" id="rss"> <a href="/index.xml" rel="nofollow" title="Suscríbete por RSS a las novedades en Genbeta"><span></span>RSS</a></li>
+    <li class="channel-twitter"><a href="http://twitter.com/genbeta" title="Sigue las novedades de Genbeta en Twitter"><span></span>Twitter</a></li>
+    <li class="channel-fb"><a href="http://www.facebook.com/pages/Genbeta/54999640934" title="Conéctate a la página de Genbeta en Facebook"><span></span>Facebook</a></li>
+    <li class="channel-gplus"><a href="https://plus.google.com/109731528328750280665/posts" title="Sigue a Genbeta en Google Plus"><span></span>Google Plus</a></li>
+    <li class="channel-feedly"><a style="margin-right: 0;" title="Suscríbete a Genbeta con Feedly" href='http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fwww.genbeta.com%2Findex.xml'  target='blank'><img id='feedlyFollow' src='http://img.weblogssl.com/g/xataka4/common/m-icon-feedly.png' alt='follow us in feedly' width='32' height='32'></a></li>
+  </ul>
+  <ul class="devices-channels">
+    <li><a title="Versión para móviles" href="http://m.genbeta.com" class="button button-secondary"><img src="http://img.weblogssl.com/g/xataka4/common/mobile.png">Versión móvil</a></li>
+        <li>
+        <a id="tabletViceVersaLink" href="http://t.genbeta.com" class="button button-secondary" title="Versión tablet"><img src="http://img.weblogssl.com/g/xataka4/common/tablet.png"> Versión tablet</a>
+    </li>
+      </ul>
+
+    <script>
+  $(function() {
+      $("#feedForm").submit(function(e) {
+          e.preventDefault();
+          email = $("#feedburnermail").val();
+          emailPattern = /^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$/i
+          if (emailPattern.test(email)) {
+              window.open('http://mailer.weblogssl.com/subscribe_check/' + email +'/genbeta/Genbeta','','width=500,height=500');
+          } else {
+              alert("El correo electrónico introducido no es correcto");
+          }
+      });
+  });
+  </script>
+  
+</div>
+            <!-- .article-promo -->
+    </div>
+
+    <!-- .aside -->
+
+                    
+    <div class="section section-article-single">
+            <div class="article">
+        <div class="article-summary">
+          <p><img id="image58165" src="http://img.genbeta.com/2010/10/jpdf-tweak-cabecera-dos.jpg" class="centro_sinmarco" alt="jpdf Tweak - Una navaja suiza para editar tus PDFs" /></p>
+
+                              <div class="article-metadata">
+            <div class="article-comments" id="postCommentCount">
+              <a href="#comments" title="Ir a comentarios">
+                Comentarios 6
+              </a>
+            </div>
+            <div class="article-links">
+              <div class="social-sharing">
+                <div class="social-sharing-widgets">
+                                    <div class="wsl-favorite">
+                    <button class="button button-small">Me gusta</button>
+                    <span class="wsl-count">11</span>
+                  </div>
+                                    <!-- twitter -->
+                  <a class="twitter-share-button" href="http://twitter.com/share" data-count="horizontal" data-url="http://www.genbeta.com/p/58035" data-counturl="http://www.genbeta.com/herramientas/jpdf-tweak-todo-lo-que-necesitas-para-editar-archivos-pdf" data-text="jPDF Tweak, todo lo que necesitas para editar archivos PDF" data-via="genbeta" data-lang="es">Tweet</a>
+                  <!-- g+ -->
+                  <div class="g-plusone" data-size="medium" data-href="http://www.genbeta.com/herramientas/jpdf-tweak-todo-lo-que-necesitas-para-editar-archivos-pdf" data-callback="gplusClickHandler" ></div>
+                  <!-- facebook like -->
+                  <div href="http://www.genbeta.com/herramientas/jpdf-tweak-todo-lo-que-necesitas-para-editar-archivos-pdf" class="fb-like" data-send="false" data-layout="button_count" data-show-faces="false"></div>
+                </div>
+              </div>
+              <!-- .social-sharing -->
+            </div>
+            <!-- .article-links -->
+          </div>
+          <!-- .article-metadata -->
+
+
+          	<p></p>
+
+	<p>El formato <span class="caps">PDF</span> no deja de estar en la palestra de la información. Pero a estas alturas nadie puede negar que es <strong>usado mayoritariamente como un estándar para compartir documentos</strong>, sobretodo, a través de internet.</p>
+
+	<p>Y ya que seguiremos utilizándolo, hay que tener un buen repositorio de aplicaciones tanto para su visualización como para su creación y edición. En este último apartado encontramos <strong>jPDF Tweak, una herramienta <em>open source</em> que debemos tener en la recámara</strong> debido a sus múltiples posibilidades.</p>
+
+	<p>Tal y como comentan en su web jPDF Tweak es la <strong><em>Navaja Suiza para los ficheros PDF</em></strong>. Nos va a permitir desde unir diferentes archivos <span class="caps">PDF</span> en un único archivo hasta protegerlo con contraseña. Vamos con un poco más de detalle con esta excelente utilidad.<br />
+<!--more--><br />
+<h2>Primeros pasos con jPDF Tweak</h2><br />
+La aplicación está <strong>desarrollada en Java</strong>. Lo que en un principio asegura la portabilidad del software a cualquier plataforma. Sólo tenemos que ir a la página del proyecto, descargar el fichero comprimido y abrir el archivo <span class="caps">JAR</span>. Claro, que para ello tendremos que tener instalada la <a href="http://www.java.com/es/download/">Máquina Virtual de Java</a>.</p>
+
+	<p><a href="http://www.genbeta.com/galeria/jpdf-tweak/4"><img class="centro" id="image769" src="http://img.genbeta.com/galleries/jpdf-tweak/normal_jpdf-tweak-instalacion.jpg" /></a></p>
+
+	<p>Uno de los grandes males que tienen la mayoría de las aplicaciones Java es la cantidad de recursos que consumen. El programa arranca consumiendo unos 53MB de memoria y <strong>después de hacer las primeras pruebas casi alcanzaba los 100MB en memoria</strong>. Son unos números bastante altos para un programa de estas características, pero normalmente no lo necesitaremos tener abierto mientras hacemos otras cosas, así que tampoco es crítico para los ordenadores de hoy en día.</p>
+
+	<p>Ahora que ya tenemos el programa arrancado sólo nos resta navegar por su interfaz y probar las diferentes, y amplias, posibilidades que nos ofrece. </p>
+
+	<p><h2>Muchas opciones, muchas pestañas</h2><br />
+Tal y como se había comentado, esta <em>Navaja Suiza para los PDF</em> tiene muchas opciones, y están agrupadas en bastantes pestañas. <strong>Once pestañas en total</strong>.</p>
+
+	<p><strong>Las más importantes, la primera y la última</strong>. En la primera pestaña <em>input</em> elegiremos el fichero (o los ficheros) que queremos modificar; y en la última, elegiremos el fichero que queremos que se genere (así como algunas opciones más avanzadas). De esta forma si sencillamente queremos unir dos archivos <span class="caps">PDF</span> sólo tendremos que visitar estas dos pestañas.</p>
+
+	<p>Si, en cambio, queremos imprimir un documento, y para ahorrar papel queremos mostrar más de una página por hoja, encontraremos la opción bajo la pestaña <em>Shuffle/N-up</em>. En cambio en la pestaña <em>Watermark</em> podremos encontrar opciones para, por ejemplo elegir <strong>poner la primera página de otro <span class="caps">PFD</span> como marca de agua del que estemos editando</strong>. No podía faltar la posibilidad de añadir texto como marca de agua para poder, por ejemplo, etiquetar las hojas como <em>Borrador</em>.</p>
+
+	<p><h2>Tamaño de página y numeración</h2><br />
+Unas de las opciones más interesantes para el día a día se encuentran bajo la pestaña <em>Page Size</em>. Muchas veces encontramos ficheros <span class="caps">PDF</span> que tienen páginas rotadas y, a la hora de imprimir, nunca conseguimos arreglarlo y salen cortadas o escaladas. Además de poder reducir el tamaño de las páginas de un documento (medido en puntos PostScript, 1/72 de pulgada) podremos <strong>rotar automáticamente las páginas que deseemos</strong>.</p>
+
+	<p>En un principio numerar las páginas para que un visor de <span class="caps">PDF</span> nos muestre un prefijo (como <em>Pag.</em>) no parece una característica importante. Pero al poder realizar diferentes numeraciones en un mismo documento podremos numerar páginas como <em>Anexo I, Anexo II, ...</em> mientras que todas las anteriores tenían <em>Pag. 1, Pag. 2, ...</em>. O <strong>insertar numeraciones diferentes a mitad de un documento para después volver a la normalidad</strong>.</p>
+
+	<p>Una opción interesante es la de <strong>numerar las páginas</strong>, eligiendo la altura a la que queremos que aparezca y la fuente de la numeración. No tendremos más opciones, pero si queremos numerar un documento del que no disponemos el archivo original, resultará de mucha utilidad.</p>
+
+	<p><h2>Otras opciones</h2><br />
+Y es que once pestañas dan para mucho y todavía quedan opciones por explorar. Me ha sorprendido encontrarme la posibilidad de poder cambiar la <strong>autoría y fecha de creación del documento</strong>, así como añadir diferentes campos personalizados. En esta línea también podremos <strong>añadir una contraseña</strong> de autor o de usuario al <span class="caps">PDF</span>, así como <strong>cifrarlo</strong> (decentemente) y <strong>firmarlo </strong>mediante un certificado. También podremos definir los <strong>permisos</strong> con los que se abre nuestro fichero (para que pueda ser rellenado, impreso o copiado).</p>
+
+	<p>Cómo no, podremos <strong>insertar marcadores</strong> para facilitar la navegación y crear un índice de nuestro documento. También podremos añadir ficheros adjuntos al documento. Estas opciones se pueden realizar en una multitud de aplicaciones de una forma más visual. Pero jPDF Tweak también nos da la opción.</p>
+
+	<p><h2>Una última sorpresa: Interaction</h2><br />
+En esta pestaña encontraremos opciones con las que podremos configurar nuestro <span class="caps">PDF</span> como fondo para una <strong>presentación digital</strong>. Podremos elegir el tiempo que una transparencia se está mostrando así como transiciones entre ellas.</p>
+
+	<p>Pero todavía sorprenden más las opciones de la mitad derecha de la pantalla. Donde podremos elegir el <strong>modo en el que queremos que se abra el lector de PDF</strong>, por ejemplo, para arrancar directamente en pantalla completa (muchos lectores piden confirmación antes de pasar a pantalla completa de forma automática). Pero también podremos definir diferentes opciones para esconder barras de herramientas, de menú u opciones predefinidas a la hora de imprimir.</p>
+
+	<p><h2>jPDF Tweak: Lo mejor</h2><br />
+Se trata de una <strong>herramienta completa y libre</strong>, que podremos ejecutar en casi cualquier ordenador si tenemos instalado el intérprete de Java. Realmente podemos modificar muchísimas opciones de un archivo <span class="caps">PDF</span>. Creo que aquellas personas que trabajamos diariamente con este tipo de archivos sabremos apreciar algunas de las utilidades, ya que, al ser tan variadas, se adaptan a casi cualquier necesidad. </p>
+
+	<p>Opciones como la de numerar las páginas del documento, cuando se va a imprimir y no va a ser grapado o encuadernado deberían ser obligatorias (al menos para aquellas personas que somos propensas a dejar caer carpetas al suelo).</p>
+
+	<p>Como hemos comentado, la pestaña <em>Interaction</em> no posibilitará obtener mayor control sobre <strong>nuestras presentaciones digitales</strong>. Y exportar a <span class="caps">PDF</span> realmente es interesante cuando no va a ser realizada en nuestra computadora.</p>
+
+	<p><h2>jPDF Tweak: Lo peor</h2><br />
+La mayoría de estos puntos van encaminados a dos direcciones. La falta de ayuda durante el uso de la aplicación y la <strong>complejidad de la interfaz</strong>. De nuevo nos encontramos ante el compromiso de ofrecer multitud de posibilidades y hacer el programa accesible a los usuario menos avezados. </p>
+
+	<p>Si bien la interfaz es claramente mejorable, una de las primeras mejoras debería ir en la línea de <strong>añadir ayudas contextuales</strong> durante el uso de la aplicación. Desde luego todo sería más fácil si las opciones estuvieran en otros idiomas.</p>
+
+	<p>Además, algunas de las opciones se pueden realizar <strong>de formas más visual con otras herramientas</strong>. Con muchos visualizadores de <span class="caps">PDF</span> se pueden añadir marcadores o adjuntos a un fichero. Y, en entornos de producción, encontramos impresoras cuyos drivers nos permiten agregar marcas de agua y opciones de N-up y escalado.</p>
+
+  
+<div class="slide-gallery slide-gallery-post">
+    <h2>
+        <a href="http://www.genbeta.com/galeria/jpdf-tweak">
+            Ver galeria completa &raquo;</a> jPDF Tweak (6 fotos)
+    </h2>
+    <!-- Elastislide Carousel -->
+    <ul id="carousel-0" class="elastislide-list">
+                    <li>
+                <a href="http://www.genbeta.com/galeria/jpdf-tweak/1">
+                    <img src="http://img.genbeta.com/galleries/jpdf-tweak/120_120_consumo-memoria.jpg" alt="image01" data-type="gallery"/>
+                </a>
+            </li>
+                    <li>
+                <a href="http://www.genbeta.com/galeria/jpdf-tweak/2">
+                    <img src="http://img.genbeta.com/galleries/jpdf-tweak/120_120_input-options.jpg" alt="image01" data-type="gallery"/>
+                </a>
+            </li>
+                    <li>
+                <a href="http://www.genbeta.com/galeria/jpdf-tweak/3">
+                    <img src="http://img.genbeta.com/galleries/jpdf-tweak/120_120_interaction-presentacion-digital.jpg" alt="image01" data-type="gallery"/>
+                </a>
+            </li>
+                    <li>
+                <a href="http://www.genbeta.com/galeria/jpdf-tweak/4">
+                    <img src="http://img.genbeta.com/galleries/jpdf-tweak/120_120_jpdf-tweak-instalacion.jpg" alt="image01" data-type="gallery"/>
+                </a>
+            </li>
+                    <li>
+                <a href="http://www.genbeta.com/galeria/jpdf-tweak/5">
+                    <img src="http://img.genbeta.com/galleries/jpdf-tweak/120_120_page-size.jpg" alt="image01" data-type="gallery"/>
+                </a>
+            </li>
+                    <li>
+                <a href="http://www.genbeta.com/galeria/jpdf-tweak/6">
+                    <img src="http://img.genbeta.com/galleries/jpdf-tweak/120_120_watermark.jpg" alt="image01" data-type="gallery"/>
+                </a>
+            </li>
+            </ul>
+    <!-- End Elastislide Carousel -->
+</div>
+
+<script>
+ window.addEventListener('load', function(){
+    $("#carousel-0").elastislide();
+ });
+</script>
+
+
+	<p>Vía | <a href="http://www.softpedia.com/reviews/windows/jPDF-Tweak-Review-159060.shtml">Softpedia</a><br />
+Descarga | <a href="http://prdownloads.sourceforge.net/jpdftweak/jpdftweak-compact-0.9.5.zip?download">jPDF Tweak</a><br />
+Imagen | <a href="http://www.flickr.com/photos/xjara69/3387985048/">Flickr</a></p>                  </div>
+
+                        
+        <div class="ad links-ad-inpost">
+    <div id='div-gpt-inp' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-inp");
+    });
+    </script>
+    </div>
+</div>
+
+
+        
+        <div class="article-taxonomy">
+                      <div class="nav article-tags article-categories">
+  <h2>Categorías</h2>
+    <ul>
+                      
+      <li><a href="/categoria/herramientas">Herramientas</a></li>
+        </ul>
+</div>
+            <div class="nav article-tags">
+  <h2>Tags</h2>
+  <ul>
+                                             
+      <li><a href="/tag/open-source">open source</a></li>
+                                             
+      <li><a href="/tag/editor-de-pdf">Editor de pdf</a></li>
+          
+  </ul>
+</div>
+                  </div>
+        <!-- .article-metadata -->
+      </div>
+      <!-- .article -->
+    </div>
+    <!-- .section-articles -->
+            <div id="ad-center" class="ad ad-escaparate-medio">
+  <a class="ad-contact" id="div-gpt-cen-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-cen' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+
+        
+        
+    <div class="section section-related">
+               <div id="outBrainVerticalWidget" class="post-related-posts related-double">
+  <h3>Artículos recomendados</h3>
+  <div class="post-related-content">
+   
+    <div class="OUTBRAIN" data-src="http://www.genbeta.com/herramientas/jpdf-tweak-todo-lo-que-necesitas-para-editar-archivos-pdf" data-widget-id="AR_2" data-ob-template="genbeta" >
+    </div>
+    <script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js">
+    </script>
+  </div>
+  <!-- .post-related-content -->
+  <p class="post-related-more">
+    <a href="/categoria/herramientas" title="Ver más artículos relacionados">
+    Ver más artículos <span class="arrow">»</span>    
+    </a>
+    </p>
+</div>     
+     <!-- .post-related-products -->
+     <div class="post-related-qa">
+    <h3>Respuestas</h3>
+        <div class="post-related-content">
+            <ul>
+                            <li>
+                    <div class="answer-number empty-topic">
+                        <strong>0</strong>
+                    </div>
+                    <a href="/respuestas/recomendacion-proyecto-open-source">¿Recomendación proyecto open source?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2012-04-04T00:18:11Z"></abbr>
+                    </span>            
+                </li>
+                        </ul>
+        </div>
+        <!-- .post-related-content -->
+        <p class="post-related-more">
+            <a href="/respuestas" title="Ver más respuestas relacionados">
+                Ver más respuestas
+                <span class="arrow">»</span>
+            </a>
+        </p>
+</div>
+
+<script type="text/javascript">
+   $(function(){
+      $("abbr.timeago").timeago();
+   });
+</script>
+     </div>
+
+
+  <!-- Comments Section -->
+        <a id="to-comments"></a>
+  <div id="comments" class="section section-comments">
+            <div class="standalone-message">
+            <div class="message aviso"><h3>Los comentarios se han cerrado</h3></div>
+        </div>
+        <!-- #comment-write -->
+            <div id="ad-center2" class="ad ad-segundo-escaparate">
+  <a class="ad-contact" id="div-gpt-cen2-contact" style='display:none'
+  href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-cen2' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen2");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+    <div id="comments-header" class="header-section">
+      <div class="comment-order">
+    	<h3>Ordenar por:</h3>
+      </div>
+      <!-- #comment-order -->
+          	<h2>
+              6 comentarios
+            </h2>
+    </div>
+    <div id="top-section-settings"></div>
+    <ul class="comment-list"></ul>
+        <div class="nav"></div>
+    <div id="bottom-section-settings"></div>
+  </div>
+    <script type="text/javascript">
+      $(function()
+      {
+        var commentList = new AML.Comments.Model.CommentList({},{postId:58035});
+        commentList.resetParsed({"comments":[{"id":"314017","post_id":"58035","date":1287022145,"content_filtered":"<p>Muy completo el art\u00edculo, felicidades =)<\/p>\n\n<p>Otra <a href=\"http:\/\/www.addictivetips.com\/windows-tips\/open-source-pdf-management-software-pdf-rider\/\" rel=\"nofollow\">alternativa<\/a> es <a href=\"http:\/\/pdfrider.codeplex.com\/releases\/view\/53353\" rel=\"nofollow\">Pdf Rider<\/a> (un front-end de pdftk), que aparte de ser muy bonito y de c\u00f3digo abierto, tiene bastantes opciones. Aunque su mayor desventaja es que requiere Microsoft .Net 3.5, por lo que no es multiplataforma como jpdf Tweak<\/p>","content":"<p>Muy completo el art\u00edculo, felicidades =)<\/p>\n\n<p>Otra <a href=\"http:\/\/www.addictivetips.com\/windows-tips\/open-source-pdf-management-software-pdf-rider\/\" rel=\"nofollow\">alternativa<\/a> es <a href=\"http:\/\/pdfrider.codeplex.com\/releases\/view\/53353\" rel=\"nofollow\">Pdf Rider<\/a> (un front-end de pdftk), que aparte de ser muy bonito y de c\u00f3digo abierto, tiene bastantes opciones. Aunque su mayor desventaja es que requiere Microsoft .Net 3.5, por lo que no es multiplataforma como jpdf Tweak<\/p>","karma":"33.00","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"xallow","user_id":"9302","author":"","webpage":null,"user_name":"xallow","karma_level":"40.00","iseditor":"0","global_id":"84472","facebook_uid":null,"index":1,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/84472_1.png"},{"id":"314031","post_id":"58035","date":1287050172,"content_filtered":"<p>Probad tambi\u00e9n PDF Split&amp;Merge.<\/p>\n\n<p>Es una maravilla lo bien que funciona y lo f\u00e1cil que es. Y es gratuito.<\/p>","content":"<p>Probad tambi\u00e9n PDF Split&amp;Merge.<\/p>\n\n<p>Es una maravilla lo bien que funciona y lo f\u00e1cil que es. Y es gratuito.<\/p>","karma":"25.00","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Eagle","user_id":"13187","author":"Eagle","webpage":"http:\/\/www.mcvendrell.com","user_name":"mcvendrell","karma_level":"52.00","iseditor":"0","global_id":"52578","facebook_uid":"100003618646396","index":2,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/52578_1.png"},{"id":"314035","post_id":"58035","date":1287052071,"content_filtered":"<p>prefiero el pdfsam, muy bueno y gratis, adem\u00e1s intuitivo...\n<a href=\"\" rel=\"nofollow\">http:\/\/goo.gl\/1edH<\/a><\/p>","content":"<p>prefiero el pdfsam, muy bueno y gratis, adem\u00e1s intuitivo...\n<a href=\"\" rel=\"nofollow\">http:\/\/goo.gl\/1edH<\/a><\/p>","karma":"25.00","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"0","comment_author":"57959","user_id":"57959","author":"","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"268128","facebook_uid":"648371726","index":3,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/648371726\/picture"},{"id":"314038","post_id":"58035","date":1287053494,"content_filtered":"<p>muy \u00fatiles todos. los verdaderos comentarios positivos son los que aportan alternativas (como #1, #2 y #3) y los que comentan otros aspectos sobre el tema de forma constructiva. \u00a1\u00a1positivos para todos!!<\/p>","content":"muy \u00fatiles todos. los verdaderos comentarios positivos son los que aportan alternativas (como #1, #2 y #3) y los que comentan otros aspectos sobre el tema de forma constructiva. \u00a1\u00a1positivos para todos!!","karma":"10.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"logoff","user_id":"2589","author":"logoff","webpage":null,"user_name":"logoff","karma_level":"39.00","iseditor":"0","global_id":"5957","facebook_uid":null,"index":4,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/5957_1.png"},{"id":"314049","post_id":"58035","date":1287058115,"content_filtered":"<p>Muchas gracias por los aportes. Es bueno tener una buena rec\u00e1mara de programas para editar PDFs y la verdad es que hay toneladas de aplicaciones. Un saludo.<\/p>","content":"Muchas gracias por los aportes. Es bueno tener una buena rec\u00e1mara de programas para editar PDFs y la verdad es que hay toneladas de aplicaciones. Un saludo.","karma":"8.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Miguel Juli\u00e1n","user_id":"64242","author":"Miguel Juli\u00e1n","webpage":null,"user_name":null,"karma_level":"27.00","iseditor":"0","global_id":"300660","facebook_uid":null,"index":5,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/300660_1.png"},{"id":"314325","post_id":"58035","date":1287109726,"content_filtered":"<p>Uno de los problemas del Kindle es que la letra de los pdf tecnicos se ve demasiado peque\u00f1a. Una buena aplicacion en el Ipad es GoodReader, que permite hacer un \"zoom personalizado\" a las paginas y asi sacar los bordes y solo ver el area de los textos. En el kindle esa opcion no existe, me pregunto si con esta aplicacion, o con otra, se pueden recortar los margenes de los pdf para que al pasarlos al kindle se vea el texto de los pdf mas grande?<\/p>","content":"Uno de los problemas del Kindle es que la letra de los pdf tecnicos se ve demasiado peque\u00f1a. Una buena aplicacion en el Ipad es GoodReader, que permite hacer un \"zoom personalizado\" a las paginas y asi sacar los bordes y solo ver el area de los textos. En el kindle esa opcion no existe, me pregunto si con esta aplicacion, o con otra, se pueden recortar los margenes de los pdf para que al pasarlos al kindle se vea el texto de los pdf mas grande?","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"darkested","user_id":"30851","author":"darkested","webpage":null,"user_name":"darkested","karma_level":"22.00","iseditor":"0","global_id":"3975","facebook_uid":null,"index":6,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/f0c910a67677e92979bd2bc377f9d96f"}],"meta":{"more_records":"false","start":0,"total":6,"order":"valued","totalCount":6},"commentStatus":"closed"});
+
+	window.App = new AML.Comments.Application(58035, commentList);
+	Backbone.history.start();
+      });
+    </script>
+
+  <!-- Comments and Other Stuff -->
+
+  <div id="ad-bottom" class="ad ad-boton">
+  <a class="ad-contact" id="div-gpt-bot-contact" style="display:none" href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-bot' class="ad-box" style='width: 728px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-bot");
+    });
+    </script>
+    </div>
+</div>
+
+  <!-- .ad - boton -->
+  <div class="sidebar-seo-links">
+    <h4>Más en Genbeta</h4>
+    <ul>
+              <li>
+          <a  href="/imagen-digital/nvidia-empieza-a-contribuir-al-desarrollo-de-nouveau" class="thumb80">
+            <img title="NVIDIA empieza a contribuir al desarrollo de Nouveau" src="http://img.genbeta.com/tb/80_80/110656.jpg" alt="NVIDIA empieza a contribuir al desarrollo de Nouveau">
+          </a>
+          <a  href="/imagen-digital/nvidia-empieza-a-contribuir-al-desarrollo-de-nouveau">
+            NVIDIA empieza a contribuir al desarrollo de Nouveau
+          </a>
+        </li>
+              <li>
+          <a  href="/herramientas/momentum-una-lista-de-tareas-en-chrome-que-aparece-justo-cuando-mas-lo-necesitas" class="thumb80">
+            <img title="Momentum, una lista de tareas en Chrome que aparece justo cuando más lo necesitas " src="http://img.genbeta.com/tb/80_80/110905.jpg" alt="Momentum, una lista de tareas en Chrome que aparece justo cuando más lo necesitas ">
+          </a>
+          <a  href="/herramientas/momentum-una-lista-de-tareas-en-chrome-que-aparece-justo-cuando-mas-lo-necesitas">
+            Momentum, una lista de tareas en Chrome que aparece justo cuando más lo necesitas 
+          </a>
+        </li>
+              <li>
+          <a  href="/herramientas/los-desarrolladores-ya-pueden-integrar-sus-aplicaciones-con-chromecast" class="thumb80">
+            <img title="Los desarrolladores ya pueden integrar sus aplicaciones con Chromecast" src="http://img.genbeta.com/tb/80_80/110665.jpg" alt="Los desarrolladores ya pueden integrar sus aplicaciones con Chromecast">
+          </a>
+          <a  href="/herramientas/los-desarrolladores-ya-pueden-integrar-sus-aplicaciones-con-chromecast">
+            Los desarrolladores ya pueden integrar sus aplicaciones con Chromecast
+          </a>
+        </li>
+              <li>
+          <a  href="/herramientas/cinco-alternativas-gratuitas-para-sustituir-a-logmein-free" class="thumb80">
+            <img title="Cinco alternativas gratuitas para sustituir a LogMeIn Free" src="http://img.genbeta.com/tb/80_80/110452.jpg" alt="Cinco alternativas gratuitas para sustituir a LogMeIn Free">
+          </a>
+          <a  href="/herramientas/cinco-alternativas-gratuitas-para-sustituir-a-logmein-free">
+            Cinco alternativas gratuitas para sustituir a LogMeIn Free
+          </a>
+        </li>
+              <li>
+          <a  href="/herramientas/logmein-retira-su-modalidad-gratuita" class="thumb80">
+            <img title="LogMeIn retira su modalidad gratuita" src="http://img.genbeta.com/tb/80_80/110392.jpg" alt="LogMeIn retira su modalidad gratuita">
+          </a>
+          <a  href="/herramientas/logmein-retira-su-modalidad-gratuita">
+            LogMeIn retira su modalidad gratuita
+          </a>
+        </li>
+          </ul>
+</div>
+<!-- related-posts SEO links-->
+       
+    </div>
+  <!-- .container -->
+  </div>
+  <!-- .content-dinamic -->
+
+  <div class= "nav nav-blog">
+  <div class= "container">
+    <h2><strong>&#43;</strong> en Genbeta</h2>
+    <ul>
+      <li class= "blog-section section-lomejor"><a href="/lomejor">Lo mejor</a></li>
+      <li class= "blog-section section-temas"><a href="/archivos">Temas</a></li>
+            <li class= "blog-section section-productos"><a href="/productos">Productos</a></li>
+                  <li class= "blog-section section-respuestas"><a href="/respuestas">Respuestas</a></li>
+            
+            <li class="blog-section section-club"><a href="/club">Club</a></li>
+            <li class= "blog-section section-comunidad"><a href="/comunidad">Comunidad</a></li>
+      <li class="blog-section section-staff"><a href="/quienes-somos">Staff</a></li>
+    </ul>
+  </div>
+</div>
+  
+<div class="footer">
+        <div class="footer-media">
+                <div class="links-category">
+            <h2>Tecnología</h2>
+            <ul>
+                              <li class="tec-xataka"><a href="http://www.xataka.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka<span></span></a></li>
+                              <li class="tec-xatakamovil"><a href="http://www.xatakamovil.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Móvil<span></span></a></li>
+                              <li class="tec-xatakafoto"><a href="http://www.xatakafoto.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Foto<span></span></a></li>
+                              <li class="tec-xatakandroid"><a href="http://www.xatakandroid.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Android<span></span></a></li>
+                              <li class="tec-xatakaon"><a href="http://www.xatakaon.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka On<span></span></a></li>
+                              <li class="tec-xatakahome"><a href="http://www.xatakahome.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Smart Home<span></span></a></li>
+                              <li class="tec-xatakawindows"><a href="http://xatakawindows.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Windows<span></span></a></li>
+                              <li class="tec-xatakaciencia"><a href="http://www.xatakaciencia.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Ciencia<span></span></a></li>
+                              <li class="tec-applesfera"><a href="http://www.applesfera.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Applesfera<span></span></a></li>
+                              <li class="tec-vidaextra"><a href="http://www.vidaextra.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vida Extra<span></span></a></li>
+                              <li class="tec-genbeta"><a href="http://www.genbeta.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Genbeta<span></span></a></li>
+                              <li class="tec-genbetadev"><a href="http://www.genbetadev.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Genbeta Dev<span></span></a></li>
+                          </ul>
+        </div>
+            </div>
+    
+    <div class="footer-links">
+                        <div class="links-category">
+            <h2>Estilos de vida</h2>
+            <ul>
+                              <li><a href="http://www.trendencias.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias</a></li>
+                              <li><a href="http://www.trendenciasbelleza.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Belleza</a></li>
+                              <li><a href="http://www.trendenciashombre.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Hombre</a></li>
+                              <li><a href="http://www.trendenciasshopping.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Shopping</a></li>
+                              <li><a href="http://www.trendenciaslifestyle.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Lifestyle</a></li>
+                              <li><a href="http://www.directoalpaladar.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Directo al Paladar</a></li>
+                              <li><a href="http://www.bebesymas.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bebés y Más</a></li>
+                              <li><a href="http://www.pequesymas.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Peques y Más</a></li>
+                              <li><a href="http://www.vitonica.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vitónica</a></li>
+                              <li><a href="http://www.decoesfera.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Decoesfera</a></li>
+                              <li><a href="http://www.embelezzia.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Embelezzia</a></li>
+                              <li><a href="http://www.ambienteg.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ambiente G</a></li>
+                              <li><a href="http://www.poprosa.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Poprosa</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Motor</h2>
+            <ul>
+                              <li><a href="http://www.motorpasion.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión</a></li>
+                              <li><a href="http://www.motorpasionf1.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión F1</a></li>
+                              <li><a href="http://www.motorpasionmoto.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Moto</a></li>
+                              <li><a href="http://www.motorpasionfuturo.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Futuro</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Ocio</h2>
+            <ul>
+                              <li><a href="http://www.blogdecine.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog de Cine</a></li>
+                              <li><a href="http://www.vayatele.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">¡Vaya Tele!</a></li>
+                              <li><a href="http://www.hipersonica.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Hipersónica</a></li>
+                              <li><a href="http://www.diariodelviajero.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Diario del Viajero</a></li>
+                              <li><a href="http://www.papelenblanco.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Papel en Blanco</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Economía</h2>
+            <ul>
+                              <li><a href="http://www.elblogsalmon.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">El Blog Salmón</a></li>
+                              <li><a href="http://www.pymesyautonomos.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Pymes y Autónomos</a></li>
+                              <li><a href="http://www.tecnologiapyme.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Tecnología Pyme</a></li>
+                              <li><a href="http://www.ahorrodiario.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ahorro Diario</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Latinoamérica</h2>
+            <ul>
+                              <li><a href="http://www.xataka.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Brasil</a></li>
+                              <li><a href="http://www.trendencias.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Brasil</a></li>
+                              <li><a href="http://www.motorpasion.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Brasil</a></li>
+                              <li><a href="http://www.xataka.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka México</a></li>
+                              <li><a href="http://www.motorpasion.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión México</a></li>
+                              <li><a href="http://www.directoalpaladar.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Directo Al Paladar México</a></li>
+                              <li><a href="http://www.xatakandroid.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Android México</a></li>
+                              <li><a href="http://www.vidaextra.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vida Extra México</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Participamos en</h2>
+            <ul>
+                              <li><a href="http://www.ebayers.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">eBayers</a></li>
+                              <li><a href="http://www.circulaseguro.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Circula Seguro</a></li>
+                              <li><a href="http://www.circulaseguro.pt/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Circula Seguro PT</a></li>
+                              <li><a href="http://www.actibva.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Actibva</a></li>
+                              <li><a href="http://www.anexom.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Anexo M</a></li>
+                              <li><a href="http://blog.cocacola.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Happing Magazine</a></li>
+                              <li><a href="http://blog.sage.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog Sage</a></li>
+                              <li><a href="http://www.optimismodigital.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Optimismo Digital</a></li>
+                              <li><a href="http://www.1001experiencias.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">1001 Experiencias</a></li>
+                              <li><a href="http://www.ennaranja.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">En Naranja</a></li>
+                              <li><a href="http://www.essieblog.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Essie Blog</a></li>
+                              <li><a href="http://blogginzenith.zenithmedia.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bloggin Zenith</a></li>
+                              <li><a href="http://www.urbanfire.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Urbanfire</a></li>
+                              <li><a href="http://www.tecnologiadetuatu.elcorteingles.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Tecnología de tú a tú</a></li>
+                              <li><a href="http://www.ciudadano00.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ciudadano 0,0</a></li>
+                              <li><a href="http://blogfanta.cocacola.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog Fanta</a></li>
+                              <li><a href="http://mimundo.philips.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Mi Mundo Philips</a></li>
+                              <li><a href="http://www.bbvacontuempresa.es?utm_source=genbeta&utm_medium=network&utm_campaign=footer">BBVA con tu empresa</a></li>
+                              <li><a href="http://www.perutravelblog.net/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Perú Travel Blog</a></li>
+                              <li><a href="http://bscene.bershka.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bershka Bscene</a></li>
+                              <li><a href="http://www.institutodelafelicidad.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Instituto de la Felicidad</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                    </div>
+</div>
+
+<div class="closure">
+    <div class="container">
+        <div class="weblogssl"><a href="http://www.weblogssl.com">Weblogs SL<span></span></a></div>
+        <ul class="nav">
+            <li><a href="/quienes-somos">¿Quienes somos?</a></li>
+            <li><a href="http://www.weblogssl.com/contenidos">Condiciones de uso</a></li>
+            <li><a href="http://www.weblogssl.com/cookies">Política de cookies</a></li>
+            <li><a href="http://www.weblogssl.com/aviso">Aviso legal</a></li>
+            <li><a title="Publicidad en Genbeta" href="http://www.socialmediasl.com/genbeta.php">Publicidad</a></li>
+            <li><a href="/ayuda-2012">Ayuda</a></li>
+            <li><a href="/contacto">Contacto</a></li>
+        </ul>
+    </div>
+</div>
+
+<div id="cookies-overlay"></div>
+
+  <script type="text/javascript">
+    $(function() {
+      new AML.Auth.View.CookiesOverlayView;
+    });
+  </script>
+
+</div>
+<div id="favicons-list">
+
+    <div class="userbar">
+        <a class="head-shortcut" href="#body" title="Volver arriba">&uarr;</a>
+        <div class="userbox" id="wsl_userbox">
+        </div>
+
+        <div class="favicons" style="width: auto; ">
+
+            <div id="scroll-menu">
+
+                <div class="disabledHotSpotLeft">«</div>
+                <div class="disabledHotSpotRight">»</div>
+                <div class="scrollingHotSpotLeft">«</div>
+                <div class="scrollingHotSpotRight">»</div>
+
+                <div class="scrollWrapper">
+                    <div class="scrollableArea">
+
+                        <ul class="favicroll">
+                            <li id="wsl"><a target="_top" href="http://www.weblogssl.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><em><strong>Blog corporativo</strong></em></a></li>
+
+                            <li><a target="_top" href="http://www.xataka.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b1"><strong>XTK</strong></span> <em><strong>Xataka - Gadgets y electrónica de consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vidaextra.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b2"><strong>VX</strong></span> <em><strong>VidaExtra - Videojuegos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.blogdecine.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b3"><strong>BDC</strong></span> <em><strong>Blog de cine - Cine  y críticas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.elblogsalmon.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b5"><strong>EBS</strong></span> <em><strong>El Blog Salmón - Economía y finanzas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.genbeta.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b6"><strong>GBT</strong></span> <em><strong>Genbeta - Software</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasion.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b7"><strong>MP</strong></span> <em><strong>MotorPasión - Coches y motor</strong></em></a></li>
+                            <li><a target="_top" href="http://www.directoalpaladar.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b8"><strong>DAP</strong></span> <em><strong>Directo al paladar - Gastronomía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.bebesymas.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b9"><strong>BYM</strong></span> <em><strong>Bebés y más - Todo sobre bebés</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vayatele.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b11"><strong>VYT</strong></span> <em><strong>¡Vaya Tele! - Series y televisión</strong></em></a></li>
+                            <li><a target="_top" href="http://www.diariodelviajero.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b12"><strong>DDV</strong></span> <em><strong>Diario del viajero - Viajes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakaciencia.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b13"><strong>XCI</strong></span> <em><strong>Xataka Ciencia - Ciencia</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendencias.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b14"><strong>TRE</strong></span> <em><strong>Trendencias - Moda y tendencias</strong></em></a></li>
+                            <li><a target="_top" href="http://www.hipersonica.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b15"><strong>HIP</strong></span> <em><strong>HiperSónica - Música</strong></em></a></li>
+                            <li><a target="_top" href="http://www.applesfera.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b16"><strong>APP</strong></span> <em><strong>Applesfera - Apple</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasshopping.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b17"><strong>COM</strong></span> <em><strong>Trendencias Shopping - Compras y consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakamovil.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b18"><strong>XTM</strong></span> <em><strong>Xataka Móvil - Móviles</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ambienteg.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b19"><strong>AMG</strong></span> <em><strong>Ambiente G - Gays y lesbianas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionmoto.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b20"><strong>MMO</strong></span> <em><strong>Motorpasión Moto - Motos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.papelenblanco.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b21"><strong>PEB</strong></span> <em><strong>Papel en blanco - Literatura</strong></em></a></li>
+                            <li><a target="_top" href="http://www.decoesfera.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b22"><strong>DEC</strong></span> <em><strong>Decoesfera - Decoración e interiorismo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionf1.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b23"><strong>MF1</strong></span> <em><strong>Motorpasión F1 - Carreras</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vitonica.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b24"><strong>VIT</strong></span> <em><strong>Vitónica - Vida sana</strong></em></a></li>
+                            <li><a target="_top" href="http://www.embelezzia.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b25"><strong>EMB</strong></span> <em><strong>Embelezzia - Lujo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.poprosa.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b26"><strong>POP</strong></span> <em><strong>Poprosa - Famosos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakafoto.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b27"><strong>XTF</strong></span> <em><strong>Xataka Foto - Fotografía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.pymesyautonomos.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b28"><strong>PYA</strong></span> <em><strong>Pymes y autónomos - Pymes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasbelleza.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b30"><strong>TRB</strong></span> <em><strong>Trendencias Belleza - Belleza y cosmética</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.tecnologiapyme.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b34"><strong>TPY</strong></span> <em><strong>Tecnología Pyme - Tecnología para empresas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ahorrodiario.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b35"><strong>AHD</strong></span> <em><strong>Ahorro Diario - Ahorro</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciashombre.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b36"><strong>TRH</strong></span> <em><strong>Trendencias Hombre - Moda y estilo masculino</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.pequesymas.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b37"><strong>PEQ</strong></span> <em><strong>Peques y más - Niños e infancia</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakaon.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b39"><strong>XTO</strong></span> <em><strong>Xataka On - Todo sobre conectividad, ADSL</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakandroid.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b40"><strong>XTA</strong></span> <em><strong>Xataka Android - Android, aplicaciones y dispositivos</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.genbetadev.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b41"><strong>GBD</strong></span> <em><strong>Genbeta Dev - Desarrollo de software</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.motorpasionfuturo.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b42"><strong>MPF</strong></span> <em><strong>Motorpasión Futuro - Innovación y Motor</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakahome.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b44"><strong>XSH</strong></span> <em><strong>Xataka Smart Home - Inteligencia doméstica digital</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakawindows.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b45"><strong>XTW</strong></span> <em><strong>Xataka Windows - Universo Microsoft</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciaslifestyle.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b46"><strong>TLS</strong></span> <em><strong>Trendencias Lifestyle</strong></em></a></li>
+                        </ul>
+
+                    </div>
+                </div>
+                <!-- .scrollWrapper-->
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<div id="wsl_dialog"></div>
+<script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', function() {
+  try {
+    if (window.external.msIsSiteMode()) {
+      window.external.msSiteModeClearJumpList();
+      window.external.msSiteModeCreateJumplist('Mensajes Recientes');
+            window.external.msSiteModeAddJumpListItem('Office\x20para\x20iPad,\x20m\u00E1s\x20pronto\x20que\x20tarde\x3A\x20para\x20la\x20primera\x20mitad\x20de\x202014', 'http://www.genbeta.com/ofimatica/office-para-ipad-mas-pronto-que-tarde-para-la-primera-mitad-de-2014', '');
+            window.external.msSiteModeAddJumpListItem('Bittorrent\x20Live,\x20el\x20streaming\x20P2P,\x20llegar\u00E1\x20pronto\x20a\x20los\x20m\u00F3viles\x20', 'http://www.genbeta.com/multimedia/bittorrent-live-el-streaming-p2p-llegara-pronto-a-los-moviles', '');
+            window.external.msSiteModeAddJumpListItem('La\x20hipocres\u00EDa\x20de\x20algunos\x20medios\x20tradicionales.\x20La\x20imagen\x20de\x20la\x20semana\x20', 'http://www.genbeta.com/actualidad/la-hipocresia-de-algunos-medios-tradicionales-la-imagen-de-la-semana', '');
+            window.external.msSiteModeAddJumpListItem('\x22Tasa\x20Google\x22\x3A\x20si\x20tienes\x20un\x20blog\x20tambi\u00E9n\x20te\x20afecta,\x20solo\x20que\x20otros\x20la\x20cobrar\u00E1n\x20por\x20ti\x20', 'http://www.genbeta.com/actualidad/tasa-google-si-tienes-un-blog-tambien-te-afecta-solo-que-otros-la-cobraran-por-ti', '');
+            window.external.msSiteModeAddJumpListItem('Kickstarter,\x20tras\x20sufrir\x20un\x20ataque,\x20recomienda\x20cambiar\x20contrase\u00F1as\x20', 'http://www.genbeta.com/web/kickstarter-tras-sufrir-un-ataque-recomienda-cambiar-contrasenas', '');
+            window.external.msSiteModeShowJumpList();
+    }
+  } catch (exp) {
+    // do nothing
+  }
+  });
+</script>
+
+
+<script type='text/javascript'>
+    (function() {
+      new ViceVersaLink("http://t.genbeta.com");
+    })();
+</script>
+
+<script type='text/javascript'>
+  window.onerror = function(message, file, line) {
+    var sFormattedMessage = '[' + file + ' (' + line + ')] ' + message;
+    _gaq.push(['_trackEvent', 'Errors', 'Browser', sFormattedMessage, null, true]);
+  }
+    
+</script>
+
+</body>
+</html>

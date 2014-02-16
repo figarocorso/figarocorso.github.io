@@ -1,0 +1,890 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+                                                                                                                                                                                                                                                                                <title>La evolución de los pagos, ¿diremos pronto adiós al dinero de papel?</title>
+                  <meta name="description" content="Las monedas y billetes que se pueden ver a día de hoy en muchos museos denotan que utilizamos un medio obsoleto. Analizar la banca online y las..." />
+            <meta name="news_keywords" content="NFC, Visa, pago móvil, Tarjeta de crédito, Banca online"/>
+       
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />    
+    <meta name='robots' content='noodp' />
+    <meta property="fb:admins" content="100000716994885"/>
+    <meta name="application-name" content="Genbeta"/>
+    <meta name="msapplication-tooltip" content="Software y web. Genbeta"/>
+    <meta name="msapplication-starturl" content="http://www.genbeta.com"/>
+    <meta name="msapplication-task" content="name=Lo mejor;action-uri=http://www.genbeta.com/lomejor;icon-uri=http://img.genbeta.com/lp2/v6/images/pin-bg-lomejor-icon.ico" />
+        <meta name="msapplication-task" content="name=Respuestas;action-uri=http://www.genbeta.com/respuestas;icon-uri=http://img.genbeta.com/lp2/v6/images/pin-bg-respuestas-icon.ico" />
+                <!--[if !IE]><!--> <link rel="shortcut icon" href="http://img.genbeta.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if lt IE 9]><!--> <link rel="shortcut icon" href="http://img.genbeta.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if gte IE 9]>
+            <link rel="shortcut icon" type="image/x-icon" href="http://img.genbeta.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+            <link rel=icon type="image/ico" href="http://img.genbeta.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+        <![endif]-->
+    
+    <link rel="apple-touch-icon" href="http://img.genbeta.com/lp2/mobile/images/apple-touch-icon.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-57-precomposed.png">
+
+        <link rel="stylesheet" type="text/css" href="http://img.genbeta.com/lp2/v6/main.css?v=24272">
+        <link rel="publisher" href="http://plus.google.com/106643481235450321345" />
+    <link rel="alternate" type="application/rss+xml" title="" href="/index.xml" />
+    <!--[if lt IE 7]>
+      <link rel="stylesheet" type="text/css" href="http://img.genbeta.com/lp2/v6/ie7.css">
+    <![endif]-->
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', "UA-78515-6"]);
+  _gaq.push(['_setCampaignCookieTimeout', 259200000]);
+  _gaq.push(['_setDomainName', ".genbeta.com"]);
+  _gaq.push(['_setSiteSpeedSampleRate', 5]);
+  _gaq.push(['t2._setAccount', "UA-78515-62"]);
+  _gaq.push(['t2._setCampaignCookieTimeout', 259200000]);
+  _gaq.push(['t2._setDomainName', ".genbeta.com"]);
+  (function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') +       '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  })();
+</script>
+
+ <link rel="canonical" href="http://www.genbeta.com/movil/la-evolucion-de-los-pagos-diremos-pronto-adios-al-dinero-de-papel" />
+ <link rel="image_src" href="http://img.genbeta.com/resize/75/thumbnails/b/63700.jpg" />
+ <meta property="og:title" content="La evolución de los pagos, ¿diremos pronto adiós al dinero de papel?">
+ <meta property="og:description" content="Las monedas y billetes que se pueden ver a día de hoy en muchos museos denotan que utilizamos un medio obsoleto. Analizar la banca online y las...">
+ <meta property="og:image" content="http://img.genbeta.com/original/63700.jpg">
+    <script>
+    _gaq.push(['t2._setPageGroup', '1', 'post']);
+    _gaq.push(['t2._setPageGroup', '2', "miguel julián"]);
+    _gaq.push(['t2._setPageGroup', '3', "movil"]);
+    _gaq.push(['t2._setPageGroup', '4', "normal"]);
+    _gaq.push(['_setPageGroup', '1', 'post']);
+    _gaq.push(['_setPageGroup', '2', "miguel julián"]);
+    _gaq.push(['_setPageGroup', '3', "movil"]);
+    _gaq.push(['_setPageGroup', '4', "normal"]);
+       </script>
+   </head>
+       <body id="body" class="article-single">
+
+    <script type='text/javascript'>
+    var MAX_source = "";
+    var GPTcats = ["web", "movil"];
+    var GPTtags = ["nfc", "visa", "pago-movil", "tarjeta-de-credito", "banca-online"];
+      </script>
+      <script type='text/javascript'>
+googletag.pubads().setTargeting("origin", "googlesearch").setTargeting("screen", screen.width.toString()).setTargeting("cat", GPTcats).setTargeting("tag", GPTtags);
+if (navigator.userAgent.match(/iPad/i) != null) {
+  googletag.pubads().setTargeting("ua", "ipad");
+} 
+ 
+googletag.defineSlot('/4712/GEB/interior_top', [1000, 40], 'div-gpt-top').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_lateral', [[160, 600], [200,600], [300,600], [300,250]], 'div-gpt-lat').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_central', [[300, 250], [400,400], [1000,250]], 'div-gpt-cen').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_central2', [[300, 250],[400,400],[690, 250]], 'div-gpt-cen2').addService(googletag.pubads());
+googletag.defineSlot('/1018282/GEB-BOT2-interior',[728, 90], 'div-gpt-bot').addService(googletag.pubads());
+googletag.defineSlot('/1018282/GEB-INP', [500, 80], 'div-gpt-inp').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interstitial', [1000, 525], 'div-gpt-int').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().enableSyncRendering();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+</script>
+
+       <script type="text/javascript">
+      WSL2 = {};
+      WSL2.config = {};
+      WSL2.config.fbapikey = "360028941603";
+      WSL2.config.cookieDomain = "";
+      WSL2.config.imagePath = 'http://img.genbeta.com/lp2/v6';
+      WSL2.config.siteName = "Genbeta";
+      window.___gcfg = {lang: 'es'};
+    </script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="http://code.jquery.com/jquery-migrate-1.1.0.js"></script>
+            <script src="http://img.weblogssl.com/LPbackend/prod/v2/js/frontend-758.js"></script>
+          <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _c1 = new WSL2.Cookie;
+      loginStatus = (_c1.hasSession()) ? "yes:" + _c1.loginType() : "no";
+      _gaq.push(['t2._setCustomVar', 4, '.genbeta.com', 'loginstatus:' + loginStatus, 2]);
+      _gaq.push(['_trackPageview']);
+      _gaq.push(['t2._trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); 
+    ga.type = 'text/javascript';
+    ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+  })();
+      var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "11306788" });
+         (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[1]; 
+          s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb": "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+    </script>
+
+    <div id="fb-root"></div>
+  <!-- fb needs this -->
+
+  <script src="//platform.twitter.com/widgets.js" id="tweetjs"></script>
+  <script src="//apis.google.com/js/plusone.js" id="gplus1js"></script>
+  <script src="//connect.facebook.net/es_ES/all.js#xfbml=1" id="fbjssdk"></script>
+  <div class="customize-me">
+  <div class="content-fixed">
+    <div class="container">
+                <!-- .header -->
+            <div class="header header-page">
+        <h1 class="site-logo"><a href="http://www.genbeta.com" title="Ir a la portada">Software y web. Genbeta<span></span></a></h1>
+        <form method="get" action="/busqueda" id="search" class="search" style="top:62px; width:310px; padding: 0;">
+    <p>
+        <input type="hidden" name="cx" value="partner-pub-9977500652563564:0292109475">
+        <input type="text" id="gsearch" name="q" accesskey="4" title="Buscar" placeholder="Busca en Genbeta con Google">
+        <input type="hidden" name="ie" value="UTF-8">
+        <input type="hidden" name="oe" value="UTF-8">
+        <input type="hidden" name="cof" value="FORID:10">
+        <button class="button">Buscar <span class="arrow">&raquo;</span></button>
+    </p>
+</form>
+<script type="text/javascript" src="http://www.google.es/coop/cse/brand?form=cse-search-box&amp;lang=es"></script>
+            <div class="nav nav-main">
+    <ul class="nav-primary">
+        <li class="home-link"><a href="/" title="Volver a portada">Portada</a></li>
+        <li class="respuestas-link"><a href="/respuestas">Respuestas</a></li>
+        <li class="temas-submenu">
+            <ul class="nav-secondary">
+                                   <li><a href="/categoria/actualidad" title="Ir a la categoría Actualidad">Actualidad</a></li>
+                                   <li><a href="/categoria/linux" title="Ir a la categoría Linux">Linux</a></li>
+                                   <li><a href="/categoria/movil" title="Ir a la categoría Móvil">Móvil</a></li>
+                                   <li><a href="/categoria/windows" title="Ir a la categoría Windows">Windows</a></li>
+                                   <li><a href="/categoria/herramientas" title="Ir a la categoría Herramientas">Herramientas</a></li>
+                                <li><a href="/archivos" title="Ver todas las categorías">Más &raquo;</a></li>
+            </ul>
+        </li>
+                  
+            </ul>
+</div>
+
+        <div class="nav nav-tags">
+        <h3>No te pierdas <span class="arrow">&raquo;</span></h3>
+        <ul>
+                        <li><a href="/tag/tasa-google" title="Todo sobre Tasa Google">Tasa Google</a></li>
+                        <li><a href="/tag/ley-lassalle" title="Todo sobre Ley Lassalle">Ley Lassalle</a></li>
+                        <li><a href="/tag/balance-de-windows-8" title="Todo sobre Balance de Windows 8">Balance de Windows 8</a></li>
+                        <li><a href="/tag/cazadores-de-fakes" title="Todo sobre Cazadores de Fakes">Cazadores de Fakes</a></li>
+                        <li><a href="/tag/satya-nadella" title="Todo sobre Satya Nadella">Satya Nadella</a></li>
+                    </ul>
+</div>
+<!-- .nav-tags -->
+
+                    <div class="ad ad-desplegable">
+  <a class="ad-contact" id="div-gpt-top-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+  <div class="ad-box">
+    <div id='div-gpt-top' style='width: 1000px;'>
+    <script type="text/javascript">
+        googletag.cmd.push(function() {
+        googletag.display("div-gpt-top");
+        });
+    </script>
+    </div>
+  </div>
+</div>
+<!-- .ad-box - desplegable -->
+
+  <div class="nav">
+   <ul class="article-nav-controls">
+                              <li><a class="article-control article-previous" href="/redes-sociales-y-comunidades/coca-cola-te-permite-crear-una-lata-personalizada-gracias-a-facebook-connect"><span>Coca Cola te permite crear una lata personalizada gracias a Facebook Connect</span></a></li>
+                                             <li><a class="article-control article-next" href="/redes-sociales-y-comunidades/hootsuite-mejora-notablemente-sus-herramientas-de-administracion-de-facebook"><span>Hootsuite mejora notablemente sus herramientas de administración de Facebook</span></a></li>
+                  </ul>
+  </div>
+              </div>
+                   <div class="article article-pre-content">
+  <h1 class="article-header">La evolución de los pagos, ¿diremos pronto adiós al dinero de papel?</h1>
+  <div class="article-date">30 de agosto de 2011 | 20:58 CET <span id="is_editor"></span></div>
+  <div class="article-author-details">
+  <div class="figure">
+    <a rel='author' href="/autor/miguel-julian">
+      <img src="http://www.gravatar.com/avatar/14216b3a89c997bfc641f9d3abf7bc0b?s=80&amp;d=mm&amp;r=g" alt="miguel-julian">
+    </a>
+  </div>
+  <h2><a rel='author' href="/autor/miguel-julian">Miguel Julián</a></h2>
+      </div>
+<!-- .article-author-details -->
+</div>
+           </div>
+    <!-- .container -->
+  </div>
+  <!-- .content-fixed -->
+
+  <div class="content-dinamic">
+    <div class="container">
+          <script type="text/javascript">
+        $(function()
+        {
+          AML.postVoteView = new AML.Post.View.PostVoteView({postId:"63700", el:".social-sharing" });
+          AML.isEditorView = new AML.Post.View.IsEditorView({postId:"63700", model: WSL2.User });
+        });
+      </script>
+
+    <div class="aside">
+            <div id="ad-lateral" class="ad ad-primer-escaparate">
+  <a class="ad-contact" id="div-gpt-lat-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-lat' class="ad-box" style='width: 300px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-lat");
+    });
+    </script>
+    </div>
+</div>
+<!-- .ad-box - escaparate vertical -->
+
+           <!-- .ad-box - escaparate vertical -->
+            
+                  
+<div class="aside-box aside-subscribe">
+  <h3 class="aside-header">Síguenos</h3>
+  
+          
+  <form id="feedForm" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" >
+    <label for="subscribe-email">Newsletter:</label>  
+      <input type="text" name="email" type="text" id="feedburnermail" placeholder="Correo electrónico"/>
+      <input type="hidden" name="uri" value="genbeta"/>
+      <input type="hidden" name="loc" value="es_ES">
+      <button class="button" type="submit">Suscríbete <span class="arrow">&raquo;</span></button>
+  </form>
+  <ul class="subs-channels">
+    <li class="channel-rss" id="rss"> <a href="/index.xml" rel="nofollow" title="Suscríbete por RSS a las novedades en Genbeta"><span></span>RSS</a></li>
+    <li class="channel-twitter"><a href="http://twitter.com/genbeta" title="Sigue las novedades de Genbeta en Twitter"><span></span>Twitter</a></li>
+    <li class="channel-fb"><a href="http://www.facebook.com/pages/Genbeta/54999640934" title="Conéctate a la página de Genbeta en Facebook"><span></span>Facebook</a></li>
+    <li class="channel-gplus"><a href="https://plus.google.com/109731528328750280665/posts" title="Sigue a Genbeta en Google Plus"><span></span>Google Plus</a></li>
+    <li class="channel-feedly"><a style="margin-right: 0;" title="Suscríbete a Genbeta con Feedly" href='http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fwww.genbeta.com%2Findex.xml'  target='blank'><img id='feedlyFollow' src='http://img.weblogssl.com/g/xataka4/common/m-icon-feedly.png' alt='follow us in feedly' width='32' height='32'></a></li>
+  </ul>
+  <ul class="devices-channels">
+    <li><a title="Versión para móviles" href="http://m.genbeta.com" class="button button-secondary"><img src="http://img.weblogssl.com/g/xataka4/common/mobile.png">Versión móvil</a></li>
+        <li>
+        <a id="tabletViceVersaLink" href="http://t.genbeta.com" class="button button-secondary" title="Versión tablet"><img src="http://img.weblogssl.com/g/xataka4/common/tablet.png"> Versión tablet</a>
+    </li>
+      </ul>
+
+    <script>
+  $(function() {
+      $("#feedForm").submit(function(e) {
+          e.preventDefault();
+          email = $("#feedburnermail").val();
+          emailPattern = /^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$/i
+          if (emailPattern.test(email)) {
+              window.open('http://mailer.weblogssl.com/subscribe_check/' + email +'/genbeta/Genbeta','','width=500,height=500');
+          } else {
+              alert("El correo electrónico introducido no es correcto");
+          }
+      });
+  });
+  </script>
+  
+</div>
+            <!-- .article-promo -->
+    </div>
+
+    <!-- .aside -->
+
+                    
+    <div class="section section-article-single">
+            <div class="article">
+        <div class="article-summary">
+          <p><img id="image63790" src="http://img.genbeta.com/2011/08/evolucion-de-los-pagos-monedas.jpg" class="centro" alt="Las monedas se vienen utilizando durante demasiados siglos como método de pago" /></p>
+
+                              <div class="article-metadata">
+            <div class="article-comments" id="postCommentCount">
+              <a href="#comments" title="Ir a comentarios">
+                Comentarios 24
+              </a>
+            </div>
+            <div class="article-links">
+              <div class="social-sharing">
+                <div class="social-sharing-widgets">
+                                    <div class="wsl-favorite">
+                    <button class="button button-small">Me gusta</button>
+                    <span class="wsl-count">2</span>
+                  </div>
+                                    <!-- twitter -->
+                  <a class="twitter-share-button" href="http://twitter.com/share" data-count="horizontal" data-url="http://www.genbeta.com/p/63700" data-counturl="http://www.genbeta.com/movil/la-evolucion-de-los-pagos-diremos-pronto-adios-al-dinero-de-papel" data-text="La evolución de los pagos, ¿diremos pronto adiós al dinero de papel?" data-via="genbeta" data-lang="es">Tweet</a>
+                  <!-- g+ -->
+                  <div class="g-plusone" data-size="medium" data-href="http://www.genbeta.com/movil/la-evolucion-de-los-pagos-diremos-pronto-adios-al-dinero-de-papel" data-callback="gplusClickHandler" ></div>
+                  <!-- facebook like -->
+                  <div href="http://www.genbeta.com/movil/la-evolucion-de-los-pagos-diremos-pronto-adios-al-dinero-de-papel" class="fb-like" data-send="false" data-layout="button_count" data-show-faces="false"></div>
+                </div>
+              </div>
+              <!-- .social-sharing -->
+            </div>
+            <!-- .article-links -->
+          </div>
+          <!-- .article-metadata -->
+
+
+          	<p></p>
+
+	<p>Si dejas de lado la vorágine del día a día y paras durante un minuto, podrás mirar a tu alrededor y darte cuenta de que estamos rodeados de evoluciones que, si <strong>alguien de 1920</strong> levantara la cabeza, no creería. Fibras inteligentes en ropas y calzados, coches que empiezan a conducir solos, ordenadores y teléfonos sin cables conectados <em>a una gran red</em>. Seguramente <strong>uno de los aspectos de la vida actual que sabría utilizar sin problema serían las monedas</strong> y los billetes.</p>
+
+	<p>Tal vez los únicos avances en lo que a monedas y billetes se refiera sean las técnicas para evitar la falsificación de los mismos. El <strong>acto de acudir a un cajero o a una sucursal</strong> (y aguantar un software muy lento en muchas ocasiones) para sacar dinero empieza a dejar de tener sentido. El mayor uso de tarjetas de crédito (o débito) es un ejemplo que ilustra el cambio.<br />
+<!--more--><br />
+Si bien no todos los sectores de la población parecen poder asimilar un <strong>cambio drástico</strong> en lo que a la utilización de billetes y monedas se refiere, está claro que todavía se tendrían que mejorar muchos aspectos en varios caballos de batalla donde posiblemente la palabra <strong>homogeneización </strong>debería escribirse con mayúsculas.</p>
+
+	<p><h2>La banca online</h2><br />
+<img id="image63792" src="http://img.genbeta.com/2011/08/banca-online.jpg" class="centro" alt="Banca Online - Banco Santander" /></p>
+
+	<p>Tener que presentarte en una sucursal de tu banco o caja (si tus horarios te lo permiten) y aguantar una buena fila de personas no parece que vaya a ser una costumbre que debiera perdurar. Pero hoy en día, en muchísimas ocasiones es inebitable. La gran mayoría de bancos y cajas han realizado un <strong>esfuerzo para proporcionar a sus clientes de una interfaz web</strong>.</p>
+
+	<p>Las cuales en muchos casos dejan mucho que desear, donde por ejemplo, para visualizar los detalles de una transación tienes que descargar y abrir un archivo <span class="caps">PDF</span> que contiene un recibo de toda la vida. Muchas<strong> interfaces parecen diseñadas por un niño de 9 años delante del Paint en una tarde aburrida de verano.</strong> Y a la hora de realizar alguna operación o contratar servicios las ayudas no siempre aparecen para solventar tus dudas.</p>
+
+	<p>Cada día más personas poseen un smartphone de forma que desarrollar aplicaciones para dichos dispositivos debería ser un esfuerzo para encontrarse en la cresta de la ola, y un buen ejemplo es la recientemente publicada aplicación para iOS de <a href="http://itunes.apple.com/es/app/ing-direct-espana/id456274587?mt=8"><span class="caps">ING</span> Direct España</a>. <strong>Poco a poco las entidades más importantes han ido dando el paso</strong>, dentro de pocos años seguramente será imprescindible.</p>
+
+	<p><h2>Pagos a través de internet</h2><br />
+<img id="image63793" src="http://img.genbeta.com/2011/08/wallet.jpg" class="centro" alt="Se extiende el uso de las carteras digitales" /></p>
+
+	<p>American Express, Mastercad y <span class="caps">VISA</span> con diferentes acuerdos y adquisiciones parecen dirigir sus rumbos en una clara dirección. Y esa no es otra que<strong> diversas implementaciones de una cartera digital</strong> (como es el caso del acuerdo de Mastercard y Google Wallet) para realizar transacciones a través de internet de forma segura sin necesidad de aportar datos de nuestras tarjetas de crédito.</p>
+
+	<p>Básicamente quieren seguir el camino que empezaron otros como <a href="http://www.genbeta.com/productos/herramientas/paypal">PayPal</a> algunos años atrás. Pero imagina que deseas montar un pequeño sitio web donde vendes bañadores de pana a topos. Una buena idea de negocio, pero para implementar los diferentes métodos de pago necesitarás bastante tiempo y mantenerte siempre a la última. ¿Para cuándo un portal que aglutine todos los servicios de pago que anteriormente se hayan suscrito? En este caso, <strong>el avance busca copar más mercado en lugar de beneficiar al cliente</strong>.</p>
+
+	<p>La evolución del mercado indica que cada vez más personas realizan la gran mayoría de sus compras a través de internet, incluso las compras del supermercado con servicios como Alice. Pero seguimos saliendo a la calle para comprar unos limones de última hora para preparar un buen combinado. <strong>Las monedas y los billetes nos persiguirán siempre, ¿o no?</strong></p>
+
+	<p><h2>Pagando con el móvil</h2><br />
+<img id="image63791" src="http://img.genbeta.com/2011/08/tecnologia-nfc-visa.jpg" class="centro" alt="Tecnología NFC en acción - VISA" /></p>
+
+	<p>Algunas ciudades ya tienen una <strong>tarjeta </strong>que, previa carga, al aproximarla a un pequeño aparato descuenta una cantidad de dinero. Normalmente es usada para el<strong> transporte público</strong>, pero en lugares como Tokio ya puede ser usada para disfrutar de otros servicios. Parece una buena opción siempre que para recargarla no tengas que insertar billetes y monedas en una maquinita endemoniada.</p>
+
+	<p>Pero uno de los métodos de pago que parece va a implmentarse en los próximos años es la utilización de <strong>un chip <span class="caps">NFC</span> en los teléfonos móviles</strong> (el Nexus S ya vienen con él incorporado, listo para usarse con <a href="http://www.genbeta.com/productos/comercio-electronico/google-wallet">Google Wallet</a>). <span class="caps">NFC</span> hace referencia a las siglas Near Field Communications, que permite a un dispositivo establecer una comunicación para intercambiar datos digitales simplemente cuando dos dispositivos se encuentran cerca.</p>
+
+	<p><strong>Es muy posible que esta tecnología unida a las carteras digitales, suplante a las tarjetas de crédito</strong>. Pero esperar que desplace a las tradicionales monedas parece una utopía. Tal vez sólo sea cuestión de tiempo (de bastante tiempo), pero una moneda sigue siendo uno de los objetos más obsoletos que tenemos a nuestro alrededor. Sino sólo hay que ir a un museo con restos antiguos para darnos cuenta de ello.</p>
+
+	<p>Más información | <a href="http://techcrunch.com/2011/08/07/how-visa-plans-to-dominate-mobile-payments-create-the-digital-wallet-and-more/">TechCrunch</a><br />
+En Genbeta | <a href="http://www.genbeta.com/movil/google-wallet-pretende-convertir-tu-telefono-en-tu-tarjeta-de-credito">Google Wallet pretende convertir tu teléfono en tu tarjeta de crédito</a><br />
+Imágenes | <a href="http://www.flickr.com/photos/jeffbelmonte/8228640/sizes/z/in/photostream/">Cabecera</a> | <a href="http://www.flickr.com/photos/hejog/2128581871/">Pagos en internet</a></p>                  </div>
+
+                        
+        <div class="ad links-ad-inpost">
+    <div id='div-gpt-inp' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-inp");
+    });
+    </script>
+    </div>
+</div>
+
+
+        
+        <div class="article-taxonomy">
+                      <div class="nav article-tags article-categories">
+  <h2>Categorías</h2>
+    <ul>
+                      
+      <li><a href="/categoria/web">Web</a></li>
+                      
+      <li><a href="/categoria/movil">Móvil</a></li>
+        </ul>
+</div>
+            <div class="nav article-tags">
+  <h2>Tags</h2>
+  <ul>
+                                             
+      <li><a href="/tag/nfc">NFC</a></li>
+                                             
+      <li><a href="/tag/visa">Visa</a></li>
+                                             
+      <li><a href="/tag/pago-movil">pago móvil</a></li>
+                                             
+      <li><a href="/tag/tarjeta-de-credito">Tarjeta de crédito</a></li>
+                                             
+      <li><a href="/tag/banca-online">Banca online</a></li>
+          
+  </ul>
+</div>
+                  </div>
+        <!-- .article-metadata -->
+      </div>
+      <!-- .article -->
+    </div>
+    <!-- .section-articles -->
+            <div id="ad-center" class="ad ad-escaparate-medio">
+  <a class="ad-contact" id="div-gpt-cen-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-cen' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+
+        
+        
+    <div class="section section-related">
+               <div id="outBrainVerticalWidget" class="post-related-posts ">
+  <h3>Artículos recomendados</h3>
+  <div class="post-related-content">
+   
+    <div class="OUTBRAIN" data-src="http://www.genbeta.com/movil/la-evolucion-de-los-pagos-diremos-pronto-adios-al-dinero-de-papel" data-widget-id="AR_2" data-ob-template="genbeta" >
+    </div>
+    <script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js">
+    </script>
+  </div>
+  <!-- .post-related-content -->
+  <p class="post-related-more">
+    <a href="/categoria/movil" title="Ver más artículos relacionados">
+    Ver más artículos <span class="arrow">»</span>    
+    </a>
+    </p>
+</div>     
+      <div class="post-related-products">
+   <h3>Productos</h3>
+   <div id="post-related-products" class="post-related-content">
+                    <div class="product">
+            <h4><a href="/productos/herramientas/paypal">PayPal</a></h4>
+            <a href="/productos/herramientas/paypal" class="figure">
+              <img src="http://img.genbeta.com/thumbnails/b/66183.jpg" alt="PayPal">
+            </a>
+        </div>
+                <div class="product">
+            <h4><a href="/productos/comercio-electronico/google-wallet">Google Wallet</a></h4>
+            <a href="/productos/comercio-electronico/google-wallet" class="figure">
+              <img src="http://img.genbeta.com/thumbnails/b/67659.jpg" alt="Google Wallet">
+            </a>
+        </div>
+                </div>
+  <p class="post-related-more">
+    <a href="/productos//" title="Ver más productos relacionados">
+      Ver más productos <span class="arrow">»</span>
+    </a>
+  </p>
+ </div>
+<!-- .post-related-products -->
+     <div class="post-related-qa">
+    <h3>Respuestas</h3>
+        <div class="post-related-content">
+            <ul>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>4</strong>
+                    </div>
+                    <a href="/respuestas/que-plataforma-o-servicio-de-pagos-creeis-que-sera-el-mas-usado">¿Qué plataforma o servicio de pagos creéis que será el más usado?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2012-09-21T17:20:03Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number hot-topic">
+                        <strong>28</strong>
+                    </div>
+                    <a href="/respuestas/cambiariais-vuestra-tarjeta-de-credito-por-el-movil-como-medio-de-pago">¿Cambiaríais vuestra tarjeta de crédito por el móvil como medio de pago?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2012-04-15T15:22:40Z"></abbr>
+                    </span>            
+                </li>
+                        </ul>
+        </div>
+        <!-- .post-related-content -->
+        <p class="post-related-more">
+            <a href="/respuestas" title="Ver más respuestas relacionados">
+                Ver más respuestas
+                <span class="arrow">»</span>
+            </a>
+        </p>
+</div>
+
+<script type="text/javascript">
+   $(function(){
+      $("abbr.timeago").timeago();
+   });
+</script>
+     </div>
+
+
+  <!-- Comments Section -->
+        <a id="to-comments"></a>
+  <div id="comments" class="section section-comments">
+            <div class="standalone-message">
+            <div class="message aviso"><h3>Los comentarios se han cerrado</h3></div>
+        </div>
+        <!-- #comment-write -->
+            <div id="ad-center2" class="ad ad-segundo-escaparate">
+  <a class="ad-contact" id="div-gpt-cen2-contact" style='display:none'
+  href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-cen2' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen2");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+    <div id="comments-header" class="header-section">
+      <div class="comment-order">
+    	<h3>Ordenar por:</h3>
+      </div>
+      <!-- #comment-order -->
+          	<h2>
+              24 comentarios
+            </h2>
+    </div>
+    <div id="top-section-settings"></div>
+    <ul class="comment-list"></ul>
+        <div class="nav"></div>
+    <div id="bottom-section-settings"></div>
+  </div>
+    <script type="text/javascript">
+      $(function()
+      {
+        var commentList = new AML.Comments.Model.CommentList({},{postId:63700});
+        commentList.resetParsed({"comments":[{"id":"361001","post_id":"63700","date":1314740818,"content_filtered":"<p>\u00bfAhora los billetes?\n\u00bfEs que en Genbeta no pueden estar una semana sin matar algo?\nNo creo que sea en el corto plazo, culturalmente el dinero en efectivo es un s\u00edmbolo muy importante. Puede que en 20 o 30 a\u00f1os cuando la actual generaci\u00f3n de j\u00f3venes tecnologizados alcance su independencia econ\u00f3mica<\/p>","content":"<p>\u00bfAhora los billetes?\n\u00bfEs que en Genbeta no pueden estar una semana sin matar algo?\nNo creo que sea en el corto plazo, culturalmente el dinero en efectivo es un s\u00edmbolo muy importante. Puede que en 20 o 30 a\u00f1os cuando la actual generaci\u00f3n de j\u00f3venes tecnologizados alcance su independencia econ\u00f3mica<\/p>","karma":"110.00","parent":"0","comment_edited_date":"","vote_count":"12","comment_level":2,"comment_deleted_date":"","tree_level":"0","comment_approved":"0","comment_author":"Diego Germ\u00e1n Gonzalez","user_id":"18808","author":"Diego Germ\u00e1n Gonzalez","webpage":null,"user_name":"dggonzalez","karma_level":"32.00","iseditor":"0","global_id":"133442","facebook_uid":null,"index":2,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/963785ed6ba925a47584c60e210417be"},{"id":"361044","post_id":"63700","date":1314755303,"content_filtered":"<p>Tranquilo no lo mata genbeta, el dinero se matara el solito como sigamos con el sistema insostenible de hoy en d\u00eda. Al ritmo que crece el dinero (y por tanto la deuda, la cual crece a un ritmo aritm\u00e9tico)en 20 o 30 a\u00f1os no habr\u00e1 dinero real y no me refiero al soporte, sino al dinero en s\u00ed. Eso si, numeritos para ver a trav\u00e9s de la banca online habr\u00e1 para dar y regalar.<\/p>","content":"<p>Tranquilo no lo mata genbeta, el dinero se matara el solito como sigamos con el sistema insostenible de hoy en d\u00eda. Al ritmo que crece el dinero (y por tanto la deuda, la cual crece a un ritmo aritm\u00e9tico)en 20 o 30 a\u00f1os no habr\u00e1 dinero real y no me refiero al soporte, sino al dinero en s\u00ed. Eso si, numeritos para ver a trav\u00e9s de la banca online habr\u00e1 para dar y regalar.<\/p>","karma":"25.00","parent":"361001","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"carlosmactinez","user_id":"73091","author":"","webpage":null,"user_name":"carlosmactinez","karma_level":"22.00","iseditor":"0","global_id":"95895","facebook_uid":null,"index":14,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/3c77343c9ac43b931859c794d1469bf2"},{"id":"361047","post_id":"63700","date":1314756317,"content_filtered":"<p>Y cuando las generaciones que no se puedan adaptar desaparescan.<\/p>","content":"Y cuando las generaciones que no se puedan adaptar desaparescan.","karma":"5.00","parent":"361001","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"69202","user_id":"69202","author":"","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"328281","facebook_uid":"100001664464857","index":15,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100001664464857\/picture"},{"id":"361014","post_id":"63700","date":1314743163,"content_filtered":"<p>Evidentemente, es un sistema al que el sistema tiende. Por tres motivos por lo menos se me ocurre; porque hay m\u00e1s control sobre el dinero negro, porque cada transacci\u00f3n tiene un coste asociados y la banca entrar\u00eda a gravar hasta por tomar caf\u00e9, y porque se gasta m\u00e1s al no tener control directo del gasto ni tope en el bolsillo, y es en ese pilar del consumismo en el que se sustentan las econom\u00edas occidentales. As\u00ed que el estado y la banca ganan y el ciudadano-usuario pierde relegado a su papel de mero consumidor. <\/p>\n\n<p>Sin embargo, el dinero en papel moneda es necesario para algunas situaciones, entre las que se me ocurren: Necesidad de tener soporte material de tus propios bienes (la gente necesitamos llevar dinero encima), evitar la marginaci\u00f3n de las personas que no manejan nuevas tecnolog\u00edas ni control de dinero digital (ancianos?) o dar acceso al dinero a los menores de edad, que en muchas ocasiones no pueden disponer de un control libre de su propio gasto (y son los mejores consumidores). Adem\u00e1s, un d\u00eda de corte de luz la econom\u00eda se colapsa.<\/p>\n\n<p>As\u00ed visto, es probable que su uso se intente hacer cada vez mayor, relegando la moneda a lo residual. <\/p>\n\n<p>Bueno, al menos as\u00ed lo veo yo, que de econ\u00f3micas s\u00e9 lo justo para llegar con d\u00e9ficit a final de mes. <\/p>\n\n<p>Por cierto, *inevitable* es con V, hay una errata. --&gt; \"Pero hoy en d\u00eda, en much\u00edsimas ocasiones es inebitable\"<\/p>\n\n<p>Saludos,<\/p>","content":"<p>Evidentemente, es un sistema al que el sistema tiende. Por tres motivos por lo menos se me ocurre; porque hay m\u00e1s control sobre el dinero negro, porque cada transacci\u00f3n tiene un coste asociados y la banca entrar\u00eda a gravar hasta por tomar caf\u00e9, y porque se gasta m\u00e1s al no tener control directo del gasto ni tope en el bolsillo, y es en ese pilar del consumismo en el que se sustentan las econom\u00edas occidentales. As\u00ed que el estado y la banca ganan y el ciudadano-usuario pierde relegado a su papel de mero consumidor. <\/p>\n\n<p>Sin embargo, el dinero en papel moneda es necesario para algunas situaciones, entre las que se me ocurren: Necesidad de tener soporte material de tus propios bienes (la gente necesitamos llevar dinero encima), evitar la marginaci\u00f3n de las personas que no manejan nuevas tecnolog\u00edas ni control de dinero digital (ancianos?) o dar acceso al dinero a los menores de edad, que en muchas ocasiones no pueden disponer de un control libre de su propio gasto (y son los mejores consumidores). Adem\u00e1s, un d\u00eda de corte de luz la econom\u00eda se colapsa.<\/p>\n\n<p>As\u00ed visto, es probable que su uso se intente hacer cada vez mayor, relegando la moneda a lo residual. <\/p>\n\n<p>Bueno, al menos as\u00ed lo veo yo, que de econ\u00f3micas s\u00e9 lo justo para llegar con d\u00e9ficit a final de mes. <\/p>\n\n<p>Por cierto, *inevitable* es con V, hay una errata. --&gt; \"Pero hoy en d\u00eda, en much\u00edsimas ocasiones es inebitable\"<\/p>\n\n<p>Saludos,<\/p>","karma":"58.00","parent":"0","comment_edited_date":1314743228,"vote_count":"4","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Entrambosmares","user_id":"6337","author":"Entrambosmares","webpage":"http:\/\/concentracentro.com","user_name":"entrambosmares","karma_level":"25.00","iseditor":"0","global_id":"514","facebook_uid":null,"index":5,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/fc90473975999b2d1eb724a616752168"},{"id":"361030","post_id":"63700","date":1314748048,"content_filtered":"<p>Pagando con un billete ning\u00fan intermediario se queda con comisi\u00f3n, con tarjeta si, con paypal y similares tambi\u00e9n. Eso solo es un buen negocio para el que lo impulsa. As\u00ed que no, al dinero en met\u00e1lico le queda mucha vida por delante.<\/p>","content":"<p>Pagando con un billete ning\u00fan intermediario se queda con comisi\u00f3n, con tarjeta si, con paypal y similares tambi\u00e9n. Eso solo es un buen negocio para el que lo impulsa. As\u00ed que no, al dinero en met\u00e1lico le queda mucha vida por delante.<\/p>","karma":"35.00","parent":"0","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"juaner","user_id":"66264","author":"","webpage":null,"user_name":"juaner","karma_level":"48.00","iseditor":"0","global_id":"301541","facebook_uid":null,"index":10,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/301541_1.png"},{"id":"361004","post_id":"63700","date":1314741364,"content_filtered":"<p>Despues de ver como VISA bloqueo las cuentas de wikileaks, cada vez tienen menos credibilidad las tarjetas. Si cuando empezo el corralito la gente hubiera guardado una peque\u00f1a parte de sus ahorros en dolares en billetes o en oro habrian perdido mucho menos dinero. Por eso mismo esta el oro tan caro.<\/p>\n\n<p>Creia que esta pagina era de aplicaciones y no de publicidad.<\/p>","content":"<p>Despues de ver como VISA bloqueo las cuentas de wikileaks, cada vez tienen menos credibilidad las tarjetas. Si cuando empezo el corralito la gente hubiera guardado una peque\u00f1a parte de sus ahorros en dolares en billetes o en oro habrian perdido mucho menos dinero. Por eso mismo esta el oro tan caro.<\/p>\n\n<p>Creia que esta pagina era de aplicaciones y no de publicidad.<\/p>","karma":"15.00","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"otro mas","user_id":"2544","author":"otro mas","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"13276","facebook_uid":null,"index":3,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/ee8eca192ef066d994a41ecf4aedc691"},{"id":"361006","post_id":"63700","date":1314741510,"content_filtered":"<p>Pero si el oro es lo unico que no baja, solo sube. Eso tengo entendido (Yo de economia se poco).<\/p>","content":"Pero si el oro es lo unico que no baja, solo sube. Eso tengo entendido (Yo de economia se poco).","karma":"8.00","parent":"361004","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"afsoons","user_id":"63698","author":"","webpage":null,"user_name":"afsoons","karma_level":"39.00","iseditor":"0","global_id":"274770","facebook_uid":null,"index":4,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/d0e139884eae2982b343f7de90e33f86"},{"id":"361092","post_id":"63700","date":1314798903,"content_filtered":"<p>\"El oro es lo \u00fanico que no baja\" No se de que me suena esa expresi\u00f3n, de que nunca baja. (jejeje)<\/p>","content":"\"El oro es lo \u00fanico que no baja\" No se de que me suena esa expresi\u00f3n, de que nunca baja. (jejeje)","karma":"8.00","parent":"361006","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"lordofthecoffee","user_id":"12991","author":"","webpage":null,"user_name":"lordofthecoffee","karma_level":"47.00","iseditor":"0","global_id":"88651","facebook_uid":null,"index":18,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/88651_2.png"},{"id":"361015","post_id":"63700","date":1314743178,"content_filtered":"<p>es precisamente lo que ha dicho xD<\/p>\n\n<p>El dinero en papel est\u00e1 lejos de extinguirse, lo ver\u00e9is desde la parte tecnol\u00f3gica, pero aun hay mucha gente que, por una u otra raz\u00f3n, se mantiene lejos de estas \"modernas ideas\" y no gente precisamente mayor.<\/p>\n\n<p>Veo un gran error tratar de digitalizar todo, est\u00e1 muy bien, es muy c\u00f3modo y todo lo que quer\u00e1is, pero algo f\u00edsico ha tenido, tiene y tendr\u00e1, m\u00e1s valor que algo virtual. Por otro lado, su evoluci\u00f3n l\u00f3gica es esa, ya pas\u00f3 con la introducci\u00f3n de papel como moneda de cambio, mucha gente fue reacia al cambio, ya que el valor que se le da a ese papel es virtual, al contrario de las monedas, especialmente antiguamente, que ten\u00edan su valor met\u00e1lico.<\/p>","content":"es precisamente lo que ha dicho xD\n\nEl dinero en papel est\u00e1 lejos de extinguirse, lo ver\u00e9is desde la parte tecnol\u00f3gica, pero aun hay mucha gente que, por una u otra raz\u00f3n, se mantiene lejos de estas \"modernas ideas\" y no gente precisamente mayor.\n\nVeo un gran error tratar de digitalizar todo, est\u00e1 muy bien, es muy c\u00f3modo y todo lo que quer\u00e1is, pero algo f\u00edsico ha tenido, tiene y tendr\u00e1, m\u00e1s valor que algo virtual. Por otro lado, su evoluci\u00f3n l\u00f3gica es esa, ya pas\u00f3 con la introducci\u00f3n de papel como moneda de cambio, mucha gente fue reacia al cambio, ya que el valor que se le da a ese papel es virtual, al contrario de las monedas, especialmente antiguamente, que ten\u00edan su valor met\u00e1lico.","karma":"5.00","parent":"361006","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"Nyaran Yuu","user_id":"62158","author":"Nyaran Yuu","webpage":"http:\/\/www.pistachitos.com","user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"289564","facebook_uid":null,"index":6,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/5c16868c071d961be4e789dae846cc27"},{"id":"361026","post_id":"63700","date":1314746003,"content_filtered":"<p>\u00bfdiremos pronto adi\u00f3s al dinero de papel?<\/p>\n\n<p>\nen Australia los billetes son de plastico<\/p>\n\n<p><a href=\"http:\/\/s2.subirimagenes.com\/imagen\/4992945awesome.png\" rel=\"nofollow\">http:\/\/s2.subirimagenes.com\/imagen\/4992945awesome.png<\/a><\/p>","content":"\u00bfdiremos pronto adi\u00f3s al dinero de papel?\n\n\nen Australia los billetes son de plastico\n\n<a href=\"http:\/\/s2.subirimagenes.com\/imagen\/4992945awesome.png\">http:\/\/s2.subirimagenes.com\/imagen\/4992945awesome....<\/a>","karma":"10.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Adri","user_id":"58559","author":"Adri","webpage":"http:\/\/elvampirochupabits.blogspot.com\/","user_name":"randomguy","karma_level":"43.00","iseditor":"0","global_id":"270662","facebook_uid":null,"index":9,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/270662_3.png"},{"id":"361048","post_id":"63700","date":1314756362,"content_filtered":"<p>Tambien en m\u00e9xico algunos ya no son de papel xD<\/p>","content":"Tambien en m\u00e9xico algunos ya no son de papel xD","karma":"5.00","parent":"361026","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"69202","user_id":"69202","author":"","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"328281","facebook_uid":"100001664464857","index":16,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100001664464857\/picture"},{"id":"361065","post_id":"63700","date":1314780416,"content_filtered":"<p>No desaparecer\u00e1 mientras a las tiendas le interese que pagues en efectivo en lugar de tarjeta ... (ya que las fr\u00eden a comisiones). <\/p>\n\n<p>Yo he ido a sitios a comprar donde si pagas en efectivo te hacen un descuento, si pagas con tarjeta precio normal de venta al p\u00fablico??? \n\u00bfpor qu\u00e9??? porque se ahorran la comisi\u00f3n de la tarjeta...<\/p>","content":"No desaparecer\u00e1 mientras a las tiendas le interese que pagues en efectivo en lugar de tarjeta ... (ya que las fr\u00eden a comisiones). \n\nYo he ido a sitios a comprar donde si pagas en efectivo te hacen un descuento, si pagas con tarjeta precio normal de venta al p\u00fablico??? \n\u00bfpor qu\u00e9??? porque se ahorran la comisi\u00f3n de la tarjeta...","karma":"10.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"37619","user_id":"37619","author":"","webpage":null,"user_name":"ikkipower1984","karma_level":"50.00","iseditor":"0","global_id":"194300","facebook_uid":"1512726905","index":17,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1512726905\/picture"},{"id":"361135","post_id":"63700","date":1314818482,"content_filtered":"<p>La comisi\u00f3n de la tarjeta, los gastos de operaci\u00f3n, los gastos de la cuenta donde te deposita la plata, lo que pierdes desde que se realiza la operaci\u00f3n hasta que te pagan...<\/p>","content":"La comisi\u00f3n de la tarjeta, los gastos de operaci\u00f3n, los gastos de la cuenta donde te deposita la plata, lo que pierdes desde que se realiza la operaci\u00f3n hasta que te pagan...","karma":"10.00","parent":"361065","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"0","comment_author":"Diego Germ\u00e1n Gonzalez","user_id":"18808","author":"Diego Germ\u00e1n Gonzalez","webpage":null,"user_name":"dggonzalez","karma_level":"32.00","iseditor":"0","global_id":"133442","facebook_uid":null,"index":20,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/963785ed6ba925a47584c60e210417be"},{"id":"361101","post_id":"63700","date":1314805013,"content_filtered":"<p>Ustedes no piensan en el mercado negro, los sobornos y dem\u00e1s jugadas ''detr\u00e1s del tel\u00f3n''. No me imagino un pol\u00edtico recibiendo dinero del narcotr\u00e1fico mediante un pendrive... xD<\/p>","content":"Ustedes no piensan en el mercado negro, los sobornos y dem\u00e1s jugadas ''detr\u00e1s del tel\u00f3n''. No me imagino un pol\u00edtico recibiendo dinero del narcotr\u00e1fico mediante un pendrive... xD","karma":"10.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":" ","user_id":"2332","author":" ","webpage":null,"user_name":"3698","karma_level":"56.00","iseditor":"0","global_id":"19363","facebook_uid":null,"index":19,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/ce5e21230ada4c6bf50bf4065c6e6b7f"},{"id":"361155","post_id":"63700","date":1314821965,"content_filtered":"<p>Pero si ahora los sobornos son siempre en cuentas secretas en paraisos fiscales. Eso del maletin es de las peliculas.<\/p>","content":"Pero si ahora los sobornos son siempre en cuentas secretas en paraisos fiscales. Eso del maletin es de las peliculas.","karma":"5.00","parent":"361101","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"otro mas","user_id":"2544","author":"otro mas","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"13276","facebook_uid":null,"index":21,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/ee8eca192ef066d994a41ecf4aedc691"},{"id":"360999","post_id":"63700","date":1314739095,"content_filtered":"<p>Hace a\u00f1os se decia lo mismo de las \"tarjetas monedero\" y mira como acabaron.<\/p>","content":"Hace a\u00f1os se decia lo mismo de las \"tarjetas monedero\" y mira como acabaron.","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"acerswap","user_id":"75819","author":"acerswap","webpage":null,"user_name":null,"karma_level":"50.00","iseditor":"0","global_id":"356365","facebook_uid":null,"index":1,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/4b499c118f10594fa4ccb8bd4aa6d9c8"},{"id":"361022","post_id":"63700","date":1314744629,"content_filtered":"<p>Ok. Pero de trasfondo siempre existir\u00e1n billetitos de papel, as\u00ed que de partida el t\u00edtulo esta bastante lejos de la realidad.<\/p>\n\n<p>Claro, puedes comprar con tarjetas de cr\u00e9dito, o pagar el autobus con una tarjeta electronica, pero en alg\u00fan momento deber\u00e1s acercarte a una oficina y desembolsar dinero para pagarlo (o lo descontar\u00e1n de tus fondos bancarios) as\u00ed que no estamos hablando de una reinvencion de la rueda, sino de facilidades para pagar.<\/p>\n\n<p>El dinero mueve el mundo, pese a quien le pese, y es ut\u00f3pico pensar que unas tarjetitas lo reemplazaran ya que, sin billetes en alg\u00fan lado, son totalmente in\u00fatiles.<\/p>","content":"Ok. Pero de trasfondo siempre existir\u00e1n billetitos de papel, as\u00ed que de partida el t\u00edtulo esta bastante lejos de la realidad.\n\nClaro, puedes comprar con tarjetas de cr\u00e9dito, o pagar el autobus con una tarjeta electronica, pero en alg\u00fan momento deber\u00e1s acercarte a una oficina y desembolsar dinero para pagarlo (o lo descontar\u00e1n de tus fondos bancarios) as\u00ed que no estamos hablando de una reinvencion de la rueda, sino de facilidades para pagar.\n\nEl dinero mueve el mundo, pese a quien le pese, y es ut\u00f3pico pensar que unas tarjetitas lo reemplazaran ya que, sin billetes en alg\u00fan lado, son totalmente in\u00fatiles.","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"the.glz","user_id":"93242","author":"ejner69","webpage":"http:\/\/ejner.cl\/","user_name":"ejner69","karma_level":"39.00","iseditor":"0","global_id":"430423","facebook_uid":"100001116385878","index":7,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/430423_2.png"},{"id":"361032","post_id":"63700","date":1314748105,"content_filtered":"<p>La idea de acabar con el dinero fisico hace tiempo que corre por los circulos economico-academicos, pero precisamente la existencia del dinero en \"B\" (negro) no lo hara posible, ya que tanto el oro como los diamantes comprados legalmente se pagan por transferencias, mientras que los ilegales son en efectivo. Yo prefiero el mix de visa para el diario pero con un sistema fisico que te de margen...erencias, mientras que los ilegales son en efectivo. Yo prefiero el mix de visa para el diario pero con un sistema fisico que te de margen...<\/p>","content":"La idea de acabar con el dinero fisico hace tiempo que corre por los circulos economico-academicos, pero precisamente la existencia del dinero en \"B\" (negro) no lo hara posible, ya que tanto el oro como los diamantes comprados legalmente se pagan por transferencias, mientras que los ilegales son en efectivo. Yo prefiero el mix de visa para el diario pero con un sistema fisico que te de margen...erencias, mientras que los ilegales son en efectivo. Yo prefiero el mix de visa para el diario pero con un sistema fisico que te de margen...","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"93675","user_id":"93675","author":"","webpage":null,"user_name":null,"karma_level":"17.00","iseditor":"0","global_id":"382447","facebook_uid":"854590146","index":11,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/854590146\/picture"},{"id":"361033","post_id":"63700","date":1314748183,"content_filtered":"<p>como siempre, errores en la publicacion de comentarios...<\/p>","content":"como siempre, errores en la publicacion de comentarios...","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"93675","user_id":"93675","author":"","webpage":null,"user_name":null,"karma_level":"17.00","iseditor":"0","global_id":"382447","facebook_uid":"854590146","index":12,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/854590146\/picture"},{"id":"361037","post_id":"63700","date":1314751211,"content_filtered":"<p>Eso no desaparece en la vida, sino estar\u00edamos hablando de desaparecer la tienda f\u00edsica y mientras haya pagaremos con papelitos y adem\u00e1s que yo no pago nada de forma electr\u00f3nica y lo seguir\u00e9 haciendo hasta que no haya otra opci\u00f3n, porque lo que quieren establecer es como en EEUU pago electr\u00f3nico para guardar un historial de pagos para ver si habitualmente eres solvente o no para as\u00ed darte hipotecas o no.<\/p>","content":"Eso no desaparece en la vida, sino estar\u00edamos hablando de desaparecer la tienda f\u00edsica y mientras haya pagaremos con papelitos y adem\u00e1s que yo no pago nada de forma electr\u00f3nica y lo seguir\u00e9 haciendo hasta que no haya otra opci\u00f3n, porque lo que quieren establecer es como en EEUU pago electr\u00f3nico para guardar un historial de pagos para ver si habitualmente eres solvente o no para as\u00ed darte hipotecas o no.","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"javier_vg","user_id":"91199","author":"","webpage":null,"user_name":"javier_vg","karma_level":"20.00","iseditor":"0","global_id":"425140","facebook_uid":null,"index":13,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/425140_2.png"},{"id":"361156","post_id":"63700","date":1314822136,"content_filtered":"<p>Pasamos del oro al papel, y del papel los ceros y unos (\u00bfbitcoin?). A estas alturas ya no es ninguna sorpresa, pero si resulta bastante interesante sus posibles consecuencias. Sin \u00ednfulas de economista, puedo hacer algunos comentarios al respecto:<\/p>\n\n<p>Luego del establecimiento mundial del est\u00e1ndar del oro, la econom\u00eda mundial se ve casada con \u00e9ste bien inherentemente escaso limitando su posibilidad de crecimiento dada su precariedad. La tendencia de acumular o almacenar el oro reduce el desenvolvimiento de la propia econom\u00eda, es decir, reduce el trabajo productivo.  De este modo, los estados tienen la \"penosa\" necesidad de imponer mecanismos de regulaci\u00f3n para incentivar (o forzar) la no acumulaci\u00f3n del dinero improductivo: intereses para estimular a aquellos acumuladores para que lo muevan, e impuestos para gravar a los que no lo muevan. De esta manera el circulante deber\u00eda reflejar la salud del sistema econ\u00f3mico en t\u00e9rminos de una alta productividad acarreando la mejora en la calidad de vida de todos... \u00a1y ser\u00edamos felices por siempre!. Bueno, no tanto. Lo cierto, es que en el pasado algunos estados vieron como era muy dif\u00edcil basar la econom\u00eda en ese bien escaso y tuvieron la genial idea de imponer otro criterio de intercambio, ahora basada en la emisi\u00f3n de papel moneda (\u00bfreserva federal?) el cual no estar\u00eda respaldado por una cantidad fija de oro sino por el compromiso de su valor fluctuante impuesto por los sistemas legales establecido (tambi\u00e9n conocido como estado de derecho). La emisi\u00f3n descontrolada de este papel provoc\u00f3, debido a la insuficiente cantidad de oro como respaldo, la imposibilidad de financiar el gasto p\u00fablico y el costo de una que otra guerra por ah\u00ed, dando como resultado una peque\u00f1a gran depresi\u00f3n. Bueno, la idea de que ese papel impreso ya no estar\u00eda respaldado en oro estuvo bien justificada con la promesa de que alguien pagar\u00eda eso en el futuro (\u00a1adivina quien es ese alguien!, y uno de los m\u00e9todos son los impuestos y la inflaci\u00f3n), en otras palabras, hemos estado imprimiendo deuda en papel.<\/p>\n\n<p>Por otro lado, no tan parad\u00f3jicamente, el 95% del dinero existente actualmente en el mundo es electr\u00f3nico. Y mi reflexi\u00f3n principal es justamente la raz\u00f3n de la existencia de ese 5% restante. Y es que aunque la desaparici\u00f3n del dinero f\u00edsico pueda parecer un desprop\u00f3sito para muchos sectores productivos en la actualidad, la verdad es que puede resultar muy beneficioso para la sociedad en su conjunto. Si ese dinero electr\u00f3nico es controlado por un estado verdaderamente democr\u00e1tico (fuera de los tent\u00e1culos de la c\u00fapula financiera mundial, la cual por cierto provoc\u00f3 esta bendita crisis) podr\u00eda representar buena parte de la soluci\u00f3n de los problemas mundanos y sociales que nos aquejan. Actualmente, existen los medios t\u00e9cnicos para hacerlo realidad; son mas bien consideraciones de car\u00e1cter pol\u00edtico y elitesco las que frenan ese desarrollo en favor de un dise\u00f1o mas conveniente para un sector de poder determinado...<\/p>","content":"Pasamos del oro al papel, y del papel los ceros y unos (\u00bfbitcoin?). A estas alturas ya no es ninguna sorpresa, pero si resulta bastante interesante sus posibles consecuencias. Sin \u00ednfulas de economista, puedo hacer algunos comentarios al respecto:\n\nLuego del establecimiento mundial del est\u00e1ndar del oro, la econom\u00eda mundial se ve casada con \u00e9ste bien inherentemente escaso limitando su posibilidad de crecimiento dada su precariedad. La tendencia de acumular o almacenar el oro reduce el desenvolvimiento de la propia econom\u00eda, es decir, reduce el trabajo productivo.  De este modo, los estados tienen la \"penosa\" necesidad de imponer mecanismos de regulaci\u00f3n para incentivar (o forzar) la no acumulaci\u00f3n del dinero improductivo: intereses para estimular a aquellos acumuladores para que lo muevan, e impuestos para gravar a los que no lo muevan. De esta manera el circulante deber\u00eda reflejar la salud del sistema econ\u00f3mico en t\u00e9rminos de una alta productividad acarreando la mejora en la calidad de vida de todos... \u00a1y ser\u00edamos felices por siempre!. Bueno, no tanto. Lo cierto, es que en el pasado algunos estados vieron como era muy dif\u00edcil basar la econom\u00eda en ese bien escaso y tuvieron la genial idea de imponer otro criterio de intercambio, ahora basada en la emisi\u00f3n de papel moneda (\u00bfreserva federal?) el cual no estar\u00eda respaldado por una cantidad fija de oro sino por el compromiso de su valor fluctuante impuesto por los sistemas legales establecido (tambi\u00e9n conocido como estado de derecho). La emisi\u00f3n descontrolada de este papel provoc\u00f3, debido a la insuficiente cantidad de oro como respaldo, la imposibilidad de financiar el gasto p\u00fablico y el costo de una que otra guerra por ah\u00ed, dando como resultado una peque\u00f1a gran depresi\u00f3n. Bueno, la idea de que ese papel impreso ya no estar\u00eda respaldado en oro estuvo bien justificada con la promesa de que alguien pagar\u00eda eso en el futuro (\u00a1adivina quien es ese alguien!, y uno de los m\u00e9todos son los impuestos y la inflaci\u00f3n), en otras palabras, hemos estado imprimiendo deuda en papel.\n\nPor otro lado, no tan parad\u00f3jicamente, el 95% del dinero existente actualmente en el mundo es electr\u00f3nico. Y mi reflexi\u00f3n principal es justamente la raz\u00f3n de la existencia de ese 5% restante. Y es que aunque la desaparici\u00f3n del dinero f\u00edsico pueda parecer un desprop\u00f3sito para muchos sectores productivos en la actualidad, la verdad es que puede resultar muy beneficioso para la sociedad en su conjunto. Si ese dinero electr\u00f3nico es controlado por un estado verdaderamente democr\u00e1tico (fuera de los tent\u00e1culos de la c\u00fapula financiera mundial, la cual por cierto provoc\u00f3 esta bendita crisis) podr\u00eda representar buena parte de la soluci\u00f3n de los problemas mundanos y sociales que nos aquejan. Actualmente, existen los medios t\u00e9cnicos para hacerlo realidad; son mas bien consideraciones de car\u00e1cter pol\u00edtico y elitesco las que frenan ese desarrollo en favor de un dise\u00f1o mas conveniente para un sector de poder determinado...","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"gerardgbt","user_id":"93709","author":"","webpage":null,"user_name":"gerardgbt","karma_level":"17.00","iseditor":"0","global_id":"441745","facebook_uid":null,"index":22,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/41aa7fd39ad50f7998b1825098123931"},{"id":"369216","post_id":"63700","date":1319445730,"content_filtered":"<p>Nunca con el control del sistema actual si no queremos convertirnos en esclavos de la corrupci\u00f3n. <\/p>\n\n<p>  El d\u00eda que el dinero se convierta \u00fanicamente en electr\u00f3nico deber\u00eda ser cuando todas las operaciones realizadas sean cristalinas y montar un banco deje de ser un cheque en blanco.<\/p>","content":"Nunca con el control del sistema actual si no queremos convertirnos en esclavos de la corrupci\u00f3n. \n\n  El d\u00eda que el dinero se convierta \u00fanicamente en electr\u00f3nico deber\u00eda ser cuando todas las operaciones realizadas sean cristalinas y montar un banco deje de ser un cheque en blanco.","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"66717","user_id":"66717","author":"","webpage":null,"user_name":"showbits","karma_level":"22.00","iseditor":"0","global_id":"208765","facebook_uid":"1293183575","index":23,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1293183575\/picture"},{"id":"438478","post_id":"63700","date":1374197591,"content_filtered":"<p>Adoraria esta vivo para ver o dinheiro de papel e moedas desaparecer. Realizarmos pagamentos das transa\u00e7\u00f5es atrav\u00e9s do smartphone e imediatamente receber o recibo no e-mail ou sms e armazen\u00e1-lo em nuvem ou no cart\u00e3o de mem\u00f3ria do celular. Entretanto, ainda h\u00e1 muita gente com pouco conhecimento tecnol\u00f3gico e que n\u00e3o confia em computadores, internet, etc. S\u00e3o pessoas que ter\u00e3o grande dificuldade em adaptar-se a estes sistemas. Para ajudar, o governo de pa\u00edses em desenvolvimento como o Brasil n\u00e3o investe o suficiente na educa\u00e7\u00e3o de jovens e adultos. Dessa forma, sempre teremos gente a margem dos avan\u00e7os tecnol\u00f3gicos.<\/p>","content":"Adoraria esta vivo para ver o dinheiro de papel e moedas desaparecer. Realizarmos pagamentos das transa\u00e7\u00f5es atrav\u00e9s do smartphone e imediatamente receber o recibo no e-mail ou sms e armazen\u00e1-lo em nuvem ou no cart\u00e3o de mem\u00f3ria do celular. Entretanto, ainda h\u00e1 muita gente com pouco conhecimento tecnol\u00f3gico e que n\u00e3o confia em computadores, internet, etc. S\u00e3o pessoas que ter\u00e3o grande dificuldade em adaptar-se a estes sistemas. Para ajudar, o governo de pa\u00edses em desenvolvimento como o Brasil n\u00e3o investe o suficiente na educa\u00e7\u00e3o de jovens e adultos. Dessa forma, sempre teremos gente a margem dos avan\u00e7os tecnol\u00f3gicos.","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"","user_id":"128113","author":"","webpage":null,"user_name":"alex.machado1979","karma_level":"7.00","iseditor":"0","global_id":"751535","facebook_uid":"100000506660425","index":24,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100000506660425\/picture"},{"id":"361025","post_id":"63700","date":1314745096,"content_filtered":"<p>-El futuro es de de San Manzana y todo y todo y todo pasa y pasar\u00e1 por \u00e9l. Dios salve nuestro dinero cuando se nos acabe la bateria del ifone.<\/p>","content":"<p>-El futuro es de de San Manzana y todo y todo y todo pasa y pasar\u00e1 por \u00e9l. Dios salve nuestro dinero cuando se nos acabe la bateria del ifone.<\/p>","karma":"-15.00","parent":"0","comment_edited_date":"","vote_count":"3","comment_level":4,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"hio","user_id":"93671","author":"","webpage":null,"user_name":"hio","karma_level":"17.00","iseditor":"0","global_id":"334221","facebook_uid":null,"index":8,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/aeab3500f584783492b61ddd27e15d7c"}],"meta":{"more_records":"false","start":0,"total":24,"order":"valued","totalCount":24},"commentStatus":"closed"});
+
+	window.App = new AML.Comments.Application(63700, commentList);
+	Backbone.history.start();
+      });
+    </script>
+
+  <!-- Comments and Other Stuff -->
+
+  <div id="ad-bottom" class="ad ad-boton">
+  <a class="ad-contact" id="div-gpt-bot-contact" style="display:none" href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-bot' class="ad-box" style='width: 728px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-bot");
+    });
+    </script>
+    </div>
+</div>
+
+  <!-- .ad - boton -->
+  <div class="sidebar-seo-links">
+    <h4>Más en Genbeta</h4>
+    <ul>
+              <li>
+          <a  href="/web/kickstarter-tras-sufrir-un-ataque-recomienda-cambiar-contrasenas" class="thumb80">
+            <img title="Kickstarter, tras sufrir un ataque, recomienda cambiar contraseñas " src="http://img.genbeta.com/tb/80_80/110976.jpg" alt="Kickstarter, tras sufrir un ataque, recomienda cambiar contraseñas ">
+          </a>
+          <a  href="/web/kickstarter-tras-sufrir-un-ataque-recomienda-cambiar-contrasenas">
+            Kickstarter, tras sufrir un ataque, recomienda cambiar contraseñas 
+          </a>
+        </li>
+              <li>
+          <a  href="/multimedia/bittorrent-live-el-streaming-p2p-llegara-pronto-a-los-moviles" class="thumb80">
+            <img title="Bittorrent Live, el streaming P2P, llegará pronto a los móviles " src="http://img.genbeta.com/tb/80_80/110968.jpg" alt="Bittorrent Live, el streaming P2P, llegará pronto a los móviles ">
+          </a>
+          <a  href="/multimedia/bittorrent-live-el-streaming-p2p-llegara-pronto-a-los-moviles">
+            Bittorrent Live, el streaming P2P, llegará pronto a los móviles 
+          </a>
+        </li>
+              <li>
+          <a  href="/movil/cuanto-vale-realmente-viber-y-por-que-rakuten-ha-decidido-comprarlo" class="thumb80">
+            <img title="¿Cuánto vale realmente Viber y por qué Rakuten ha decidido comprarlo? " src="http://img.genbeta.com/tb/80_80/110947.jpg" alt="¿Cuánto vale realmente Viber y por qué Rakuten ha decidido comprarlo? ">
+          </a>
+          <a  href="/movil/cuanto-vale-realmente-viber-y-por-que-rakuten-ha-decidido-comprarlo">
+            ¿Cuánto vale realmente Viber y por qué Rakuten ha decidido comprarlo? 
+          </a>
+        </li>
+              <li>
+          <a  href="/movil/rakuten-compra-viber-por-900-millones-de-dolares" class="thumb80">
+            <img title="Rakuten compra Viber por 900 millones de dólares " src="http://img.genbeta.com/tb/80_80/110937.jpg" alt="Rakuten compra Viber por 900 millones de dólares ">
+          </a>
+          <a  href="/movil/rakuten-compra-viber-por-900-millones-de-dolares">
+            Rakuten compra Viber por 900 millones de dólares 
+          </a>
+        </li>
+              <li>
+          <a  href="/movil/blackberry-no-se-rinde-y-lanza-la-segunda-version-de-bbm-para-ios-y-android" class="thumb80">
+            <img title="BlackBerry no se rinde y lanza la segunda versión de BBM para iOS y Android " src="http://img.genbeta.com/tb/80_80/110925.jpg" alt="BlackBerry no se rinde y lanza la segunda versión de BBM para iOS y Android ">
+          </a>
+          <a  href="/movil/blackberry-no-se-rinde-y-lanza-la-segunda-version-de-bbm-para-ios-y-android">
+            BlackBerry no se rinde y lanza la segunda versión de BBM para iOS y Android 
+          </a>
+        </li>
+          </ul>
+</div>
+<!-- related-posts SEO links-->
+       
+    </div>
+  <!-- .container -->
+  </div>
+  <!-- .content-dinamic -->
+
+  <div class= "nav nav-blog">
+  <div class= "container">
+    <h2><strong>&#43;</strong> en Genbeta</h2>
+    <ul>
+      <li class= "blog-section section-lomejor"><a href="/lomejor">Lo mejor</a></li>
+      <li class= "blog-section section-temas"><a href="/archivos">Temas</a></li>
+            <li class= "blog-section section-productos"><a href="/productos">Productos</a></li>
+                  <li class= "blog-section section-respuestas"><a href="/respuestas">Respuestas</a></li>
+            
+            <li class="blog-section section-club"><a href="/club">Club</a></li>
+            <li class= "blog-section section-comunidad"><a href="/comunidad">Comunidad</a></li>
+      <li class="blog-section section-staff"><a href="/quienes-somos">Staff</a></li>
+    </ul>
+  </div>
+</div>
+  
+<div class="footer">
+        <div class="footer-media">
+                <div class="links-category">
+            <h2>Tecnología</h2>
+            <ul>
+                              <li class="tec-xataka"><a href="http://www.xataka.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka<span></span></a></li>
+                              <li class="tec-xatakamovil"><a href="http://www.xatakamovil.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Móvil<span></span></a></li>
+                              <li class="tec-xatakafoto"><a href="http://www.xatakafoto.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Foto<span></span></a></li>
+                              <li class="tec-xatakandroid"><a href="http://www.xatakandroid.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Android<span></span></a></li>
+                              <li class="tec-xatakaon"><a href="http://www.xatakaon.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka On<span></span></a></li>
+                              <li class="tec-xatakahome"><a href="http://www.xatakahome.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Smart Home<span></span></a></li>
+                              <li class="tec-xatakawindows"><a href="http://xatakawindows.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Windows<span></span></a></li>
+                              <li class="tec-xatakaciencia"><a href="http://www.xatakaciencia.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Ciencia<span></span></a></li>
+                              <li class="tec-applesfera"><a href="http://www.applesfera.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Applesfera<span></span></a></li>
+                              <li class="tec-vidaextra"><a href="http://www.vidaextra.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vida Extra<span></span></a></li>
+                              <li class="tec-genbeta"><a href="http://www.genbeta.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Genbeta<span></span></a></li>
+                              <li class="tec-genbetadev"><a href="http://www.genbetadev.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Genbeta Dev<span></span></a></li>
+                          </ul>
+        </div>
+            </div>
+    
+    <div class="footer-links">
+                        <div class="links-category">
+            <h2>Estilos de vida</h2>
+            <ul>
+                              <li><a href="http://www.trendencias.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias</a></li>
+                              <li><a href="http://www.trendenciasbelleza.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Belleza</a></li>
+                              <li><a href="http://www.trendenciashombre.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Hombre</a></li>
+                              <li><a href="http://www.trendenciasshopping.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Shopping</a></li>
+                              <li><a href="http://www.trendenciaslifestyle.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Lifestyle</a></li>
+                              <li><a href="http://www.directoalpaladar.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Directo al Paladar</a></li>
+                              <li><a href="http://www.bebesymas.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bebés y Más</a></li>
+                              <li><a href="http://www.pequesymas.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Peques y Más</a></li>
+                              <li><a href="http://www.vitonica.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vitónica</a></li>
+                              <li><a href="http://www.decoesfera.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Decoesfera</a></li>
+                              <li><a href="http://www.embelezzia.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Embelezzia</a></li>
+                              <li><a href="http://www.ambienteg.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ambiente G</a></li>
+                              <li><a href="http://www.poprosa.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Poprosa</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Motor</h2>
+            <ul>
+                              <li><a href="http://www.motorpasion.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión</a></li>
+                              <li><a href="http://www.motorpasionf1.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión F1</a></li>
+                              <li><a href="http://www.motorpasionmoto.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Moto</a></li>
+                              <li><a href="http://www.motorpasionfuturo.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Futuro</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Ocio</h2>
+            <ul>
+                              <li><a href="http://www.blogdecine.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog de Cine</a></li>
+                              <li><a href="http://www.vayatele.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">¡Vaya Tele!</a></li>
+                              <li><a href="http://www.hipersonica.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Hipersónica</a></li>
+                              <li><a href="http://www.diariodelviajero.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Diario del Viajero</a></li>
+                              <li><a href="http://www.papelenblanco.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Papel en Blanco</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Economía</h2>
+            <ul>
+                              <li><a href="http://www.elblogsalmon.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">El Blog Salmón</a></li>
+                              <li><a href="http://www.pymesyautonomos.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Pymes y Autónomos</a></li>
+                              <li><a href="http://www.tecnologiapyme.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Tecnología Pyme</a></li>
+                              <li><a href="http://www.ahorrodiario.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ahorro Diario</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Latinoamérica</h2>
+            <ul>
+                              <li><a href="http://www.xataka.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Brasil</a></li>
+                              <li><a href="http://www.trendencias.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Brasil</a></li>
+                              <li><a href="http://www.motorpasion.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Brasil</a></li>
+                              <li><a href="http://www.xataka.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka México</a></li>
+                              <li><a href="http://www.motorpasion.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión México</a></li>
+                              <li><a href="http://www.directoalpaladar.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Directo Al Paladar México</a></li>
+                              <li><a href="http://www.xatakandroid.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Android México</a></li>
+                              <li><a href="http://www.vidaextra.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vida Extra México</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Participamos en</h2>
+            <ul>
+                              <li><a href="http://www.ebayers.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">eBayers</a></li>
+                              <li><a href="http://www.circulaseguro.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Circula Seguro</a></li>
+                              <li><a href="http://www.circulaseguro.pt/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Circula Seguro PT</a></li>
+                              <li><a href="http://www.actibva.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Actibva</a></li>
+                              <li><a href="http://www.anexom.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Anexo M</a></li>
+                              <li><a href="http://blog.cocacola.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Happing Magazine</a></li>
+                              <li><a href="http://blog.sage.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog Sage</a></li>
+                              <li><a href="http://www.optimismodigital.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Optimismo Digital</a></li>
+                              <li><a href="http://www.1001experiencias.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">1001 Experiencias</a></li>
+                              <li><a href="http://www.ennaranja.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">En Naranja</a></li>
+                              <li><a href="http://www.essieblog.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Essie Blog</a></li>
+                              <li><a href="http://blogginzenith.zenithmedia.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bloggin Zenith</a></li>
+                              <li><a href="http://www.urbanfire.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Urbanfire</a></li>
+                              <li><a href="http://www.tecnologiadetuatu.elcorteingles.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Tecnología de tú a tú</a></li>
+                              <li><a href="http://www.ciudadano00.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ciudadano 0,0</a></li>
+                              <li><a href="http://blogfanta.cocacola.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog Fanta</a></li>
+                              <li><a href="http://mimundo.philips.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Mi Mundo Philips</a></li>
+                              <li><a href="http://www.bbvacontuempresa.es?utm_source=genbeta&utm_medium=network&utm_campaign=footer">BBVA con tu empresa</a></li>
+                              <li><a href="http://www.perutravelblog.net/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Perú Travel Blog</a></li>
+                              <li><a href="http://bscene.bershka.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bershka Bscene</a></li>
+                              <li><a href="http://www.institutodelafelicidad.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Instituto de la Felicidad</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                    </div>
+</div>
+
+<div class="closure">
+    <div class="container">
+        <div class="weblogssl"><a href="http://www.weblogssl.com">Weblogs SL<span></span></a></div>
+        <ul class="nav">
+            <li><a href="/quienes-somos">¿Quienes somos?</a></li>
+            <li><a href="http://www.weblogssl.com/contenidos">Condiciones de uso</a></li>
+            <li><a href="http://www.weblogssl.com/cookies">Política de cookies</a></li>
+            <li><a href="http://www.weblogssl.com/aviso">Aviso legal</a></li>
+            <li><a title="Publicidad en Genbeta" href="http://www.socialmediasl.com/genbeta.php">Publicidad</a></li>
+            <li><a href="/ayuda-2012">Ayuda</a></li>
+            <li><a href="/contacto">Contacto</a></li>
+        </ul>
+    </div>
+</div>
+
+<div id="cookies-overlay"></div>
+
+  <script type="text/javascript">
+    $(function() {
+      new AML.Auth.View.CookiesOverlayView;
+    });
+  </script>
+
+</div>
+<div id="favicons-list">
+
+    <div class="userbar">
+        <a class="head-shortcut" href="#body" title="Volver arriba">&uarr;</a>
+        <div class="userbox" id="wsl_userbox">
+        </div>
+
+        <div class="favicons" style="width: auto; ">
+
+            <div id="scroll-menu">
+
+                <div class="disabledHotSpotLeft">«</div>
+                <div class="disabledHotSpotRight">»</div>
+                <div class="scrollingHotSpotLeft">«</div>
+                <div class="scrollingHotSpotRight">»</div>
+
+                <div class="scrollWrapper">
+                    <div class="scrollableArea">
+
+                        <ul class="favicroll">
+                            <li id="wsl"><a target="_top" href="http://www.weblogssl.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><em><strong>Blog corporativo</strong></em></a></li>
+
+                            <li><a target="_top" href="http://www.xataka.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b1"><strong>XTK</strong></span> <em><strong>Xataka - Gadgets y electrónica de consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vidaextra.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b2"><strong>VX</strong></span> <em><strong>VidaExtra - Videojuegos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.blogdecine.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b3"><strong>BDC</strong></span> <em><strong>Blog de cine - Cine  y críticas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.elblogsalmon.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b5"><strong>EBS</strong></span> <em><strong>El Blog Salmón - Economía y finanzas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.genbeta.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b6"><strong>GBT</strong></span> <em><strong>Genbeta - Software</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasion.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b7"><strong>MP</strong></span> <em><strong>MotorPasión - Coches y motor</strong></em></a></li>
+                            <li><a target="_top" href="http://www.directoalpaladar.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b8"><strong>DAP</strong></span> <em><strong>Directo al paladar - Gastronomía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.bebesymas.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b9"><strong>BYM</strong></span> <em><strong>Bebés y más - Todo sobre bebés</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vayatele.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b11"><strong>VYT</strong></span> <em><strong>¡Vaya Tele! - Series y televisión</strong></em></a></li>
+                            <li><a target="_top" href="http://www.diariodelviajero.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b12"><strong>DDV</strong></span> <em><strong>Diario del viajero - Viajes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakaciencia.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b13"><strong>XCI</strong></span> <em><strong>Xataka Ciencia - Ciencia</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendencias.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b14"><strong>TRE</strong></span> <em><strong>Trendencias - Moda y tendencias</strong></em></a></li>
+                            <li><a target="_top" href="http://www.hipersonica.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b15"><strong>HIP</strong></span> <em><strong>HiperSónica - Música</strong></em></a></li>
+                            <li><a target="_top" href="http://www.applesfera.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b16"><strong>APP</strong></span> <em><strong>Applesfera - Apple</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasshopping.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b17"><strong>COM</strong></span> <em><strong>Trendencias Shopping - Compras y consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakamovil.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b18"><strong>XTM</strong></span> <em><strong>Xataka Móvil - Móviles</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ambienteg.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b19"><strong>AMG</strong></span> <em><strong>Ambiente G - Gays y lesbianas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionmoto.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b20"><strong>MMO</strong></span> <em><strong>Motorpasión Moto - Motos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.papelenblanco.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b21"><strong>PEB</strong></span> <em><strong>Papel en blanco - Literatura</strong></em></a></li>
+                            <li><a target="_top" href="http://www.decoesfera.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b22"><strong>DEC</strong></span> <em><strong>Decoesfera - Decoración e interiorismo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionf1.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b23"><strong>MF1</strong></span> <em><strong>Motorpasión F1 - Carreras</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vitonica.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b24"><strong>VIT</strong></span> <em><strong>Vitónica - Vida sana</strong></em></a></li>
+                            <li><a target="_top" href="http://www.embelezzia.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b25"><strong>EMB</strong></span> <em><strong>Embelezzia - Lujo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.poprosa.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b26"><strong>POP</strong></span> <em><strong>Poprosa - Famosos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakafoto.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b27"><strong>XTF</strong></span> <em><strong>Xataka Foto - Fotografía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.pymesyautonomos.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b28"><strong>PYA</strong></span> <em><strong>Pymes y autónomos - Pymes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasbelleza.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b30"><strong>TRB</strong></span> <em><strong>Trendencias Belleza - Belleza y cosmética</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.tecnologiapyme.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b34"><strong>TPY</strong></span> <em><strong>Tecnología Pyme - Tecnología para empresas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ahorrodiario.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b35"><strong>AHD</strong></span> <em><strong>Ahorro Diario - Ahorro</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciashombre.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b36"><strong>TRH</strong></span> <em><strong>Trendencias Hombre - Moda y estilo masculino</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.pequesymas.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b37"><strong>PEQ</strong></span> <em><strong>Peques y más - Niños e infancia</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakaon.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b39"><strong>XTO</strong></span> <em><strong>Xataka On - Todo sobre conectividad, ADSL</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakandroid.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b40"><strong>XTA</strong></span> <em><strong>Xataka Android - Android, aplicaciones y dispositivos</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.genbetadev.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b41"><strong>GBD</strong></span> <em><strong>Genbeta Dev - Desarrollo de software</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.motorpasionfuturo.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b42"><strong>MPF</strong></span> <em><strong>Motorpasión Futuro - Innovación y Motor</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakahome.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b44"><strong>XSH</strong></span> <em><strong>Xataka Smart Home - Inteligencia doméstica digital</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakawindows.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b45"><strong>XTW</strong></span> <em><strong>Xataka Windows - Universo Microsoft</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciaslifestyle.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b46"><strong>TLS</strong></span> <em><strong>Trendencias Lifestyle</strong></em></a></li>
+                        </ul>
+
+                    </div>
+                </div>
+                <!-- .scrollWrapper-->
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<div id="wsl_dialog"></div>
+<script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', function() {
+  try {
+    if (window.external.msIsSiteMode()) {
+      window.external.msSiteModeClearJumpList();
+      window.external.msSiteModeCreateJumplist('Mensajes Recientes');
+            window.external.msSiteModeAddJumpListItem('Office\x20para\x20iPad,\x20m\u00E1s\x20pronto\x20que\x20tarde\x3A\x20para\x20la\x20primera\x20mitad\x20de\x202014', 'http://www.genbeta.com/ofimatica/office-para-ipad-mas-pronto-que-tarde-para-la-primera-mitad-de-2014', '');
+            window.external.msSiteModeAddJumpListItem('Bittorrent\x20Live,\x20el\x20streaming\x20P2P,\x20llegar\u00E1\x20pronto\x20a\x20los\x20m\u00F3viles\x20', 'http://www.genbeta.com/multimedia/bittorrent-live-el-streaming-p2p-llegara-pronto-a-los-moviles', '');
+            window.external.msSiteModeAddJumpListItem('La\x20hipocres\u00EDa\x20de\x20algunos\x20medios\x20tradicionales.\x20La\x20imagen\x20de\x20la\x20semana\x20', 'http://www.genbeta.com/actualidad/la-hipocresia-de-algunos-medios-tradicionales-la-imagen-de-la-semana', '');
+            window.external.msSiteModeAddJumpListItem('\x22Tasa\x20Google\x22\x3A\x20si\x20tienes\x20un\x20blog\x20tambi\u00E9n\x20te\x20afecta,\x20solo\x20que\x20otros\x20la\x20cobrar\u00E1n\x20por\x20ti\x20', 'http://www.genbeta.com/actualidad/tasa-google-si-tienes-un-blog-tambien-te-afecta-solo-que-otros-la-cobraran-por-ti', '');
+            window.external.msSiteModeAddJumpListItem('Kickstarter,\x20tras\x20sufrir\x20un\x20ataque,\x20recomienda\x20cambiar\x20contrase\u00F1as\x20', 'http://www.genbeta.com/web/kickstarter-tras-sufrir-un-ataque-recomienda-cambiar-contrasenas', '');
+            window.external.msSiteModeShowJumpList();
+    }
+  } catch (exp) {
+    // do nothing
+  }
+  });
+</script>
+
+
+<script type='text/javascript'>
+    (function() {
+      new ViceVersaLink("http://t.genbeta.com");
+    })();
+</script>
+
+<script type='text/javascript'>
+  window.onerror = function(message, file, line) {
+    var sFormattedMessage = '[' + file + ' (' + line + ')] ' + message;
+    _gaq.push(['_trackEvent', 'Errors', 'Browser', sFormattedMessage, null, true]);
+  }
+    
+</script>
+
+</body>
+</html>

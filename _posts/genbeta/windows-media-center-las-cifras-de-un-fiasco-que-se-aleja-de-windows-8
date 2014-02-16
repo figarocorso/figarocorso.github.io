@@ -1,0 +1,884 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+                                                                                                                                                                                                                                                                                <title>Windows Media Center, las cifras de un fiasco que se aleja de Windows 8</title>
+                  <meta name="description" content="Una de las novedades de Windows 7 era la inclusión de un nuevo media center (un software para gestionar y visualizar contenido multimedia)..." />
+            <meta name="news_keywords" content="Multimedia, media center, estadísticas uso"/>
+       
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />    
+    <meta name='robots' content='noodp' />
+    <meta property="fb:admins" content="100000716994885"/>
+    <meta name="application-name" content="Genbeta"/>
+    <meta name="msapplication-tooltip" content="Software y web. Genbeta"/>
+    <meta name="msapplication-starturl" content="http://www.genbeta.com"/>
+    <meta name="msapplication-task" content="name=Lo mejor;action-uri=http://www.genbeta.com/lomejor;icon-uri=http://img.genbeta.com/lp2/v6/images/pin-bg-lomejor-icon.ico" />
+        <meta name="msapplication-task" content="name=Respuestas;action-uri=http://www.genbeta.com/respuestas;icon-uri=http://img.genbeta.com/lp2/v6/images/pin-bg-respuestas-icon.ico" />
+                <!--[if !IE]><!--> <link rel="shortcut icon" href="http://img.genbeta.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if lt IE 9]><!--> <link rel="shortcut icon" href="http://img.genbeta.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if gte IE 9]>
+            <link rel="shortcut icon" type="image/x-icon" href="http://img.genbeta.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+            <link rel=icon type="image/ico" href="http://img.genbeta.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+        <![endif]-->
+    
+    <link rel="apple-touch-icon" href="http://img.genbeta.com/lp2/mobile/images/apple-touch-icon.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-57-precomposed.png">
+
+        <link rel="stylesheet" type="text/css" href="http://img.genbeta.com/lp2/v6/main.css?v=24272">
+        <link rel="publisher" href="http://plus.google.com/106643481235450321345" />
+    <link rel="alternate" type="application/rss+xml" title="" href="/index.xml" />
+    <!--[if lt IE 7]>
+      <link rel="stylesheet" type="text/css" href="http://img.genbeta.com/lp2/v6/ie7.css">
+    <![endif]-->
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', "UA-78515-6"]);
+  _gaq.push(['_setCampaignCookieTimeout', 259200000]);
+  _gaq.push(['_setDomainName', ".genbeta.com"]);
+  _gaq.push(['_setSiteSpeedSampleRate', 5]);
+  _gaq.push(['t2._setAccount', "UA-78515-62"]);
+  _gaq.push(['t2._setCampaignCookieTimeout', 259200000]);
+  _gaq.push(['t2._setDomainName', ".genbeta.com"]);
+  (function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') +       '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  })();
+</script>
+
+ <link rel="canonical" href="http://www.genbeta.com/windows/windows-media-center-las-cifras-de-un-fiasco-que-se-aleja-de-windows-8" />
+ <link rel="image_src" href="http://img.genbeta.com/resize/75/thumbnails/b/63872.jpg" />
+ <meta property="og:title" content="Windows Media Center, las cifras de un fiasco que se aleja de Windows 8">
+ <meta property="og:description" content="Una de las novedades de Windows 7 era la inclusión de un nuevo media center (un software para gestionar y visualizar contenido multimedia)...">
+ <meta property="og:image" content="http://img.genbeta.com/original/63872.jpg">
+    <script>
+    _gaq.push(['t2._setPageGroup', '1', 'post']);
+    _gaq.push(['t2._setPageGroup', '2', "miguel julián"]);
+    _gaq.push(['t2._setPageGroup', '3', "windows"]);
+    _gaq.push(['t2._setPageGroup', '4', "normal"]);
+    _gaq.push(['_setPageGroup', '1', 'post']);
+    _gaq.push(['_setPageGroup', '2', "miguel julián"]);
+    _gaq.push(['_setPageGroup', '3', "windows"]);
+    _gaq.push(['_setPageGroup', '4', "normal"]);
+       </script>
+   </head>
+       <body id="body" class="article-single">
+
+    <script type='text/javascript'>
+    var MAX_source = "";
+    var GPTcats = ["windows"];
+    var GPTtags = ["multimedia", "media-center", "estadisticas-uso"];
+      </script>
+      <script type='text/javascript'>
+googletag.pubads().setTargeting("origin", "googlesearch").setTargeting("screen", screen.width.toString()).setTargeting("cat", GPTcats).setTargeting("tag", GPTtags);
+if (navigator.userAgent.match(/iPad/i) != null) {
+  googletag.pubads().setTargeting("ua", "ipad");
+} 
+ 
+googletag.defineSlot('/4712/GEB/interior_top', [1000, 40], 'div-gpt-top').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_lateral', [[160, 600], [200,600], [300,600], [300,250]], 'div-gpt-lat').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_central', [[300, 250], [400,400], [1000,250]], 'div-gpt-cen').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_central2', [[300, 250],[400,400],[690, 250]], 'div-gpt-cen2').addService(googletag.pubads());
+googletag.defineSlot('/1018282/GEB-BOT2-interior',[728, 90], 'div-gpt-bot').addService(googletag.pubads());
+googletag.defineSlot('/1018282/GEB-INP', [500, 80], 'div-gpt-inp').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interstitial', [1000, 525], 'div-gpt-int').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().enableSyncRendering();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+</script>
+
+       <script type="text/javascript">
+      WSL2 = {};
+      WSL2.config = {};
+      WSL2.config.fbapikey = "360028941603";
+      WSL2.config.cookieDomain = "";
+      WSL2.config.imagePath = 'http://img.genbeta.com/lp2/v6';
+      WSL2.config.siteName = "Genbeta";
+      window.___gcfg = {lang: 'es'};
+    </script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="http://code.jquery.com/jquery-migrate-1.1.0.js"></script>
+            <script src="http://img.weblogssl.com/LPbackend/prod/v2/js/frontend-758.js"></script>
+          <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _c1 = new WSL2.Cookie;
+      loginStatus = (_c1.hasSession()) ? "yes:" + _c1.loginType() : "no";
+      _gaq.push(['t2._setCustomVar', 4, '.genbeta.com', 'loginstatus:' + loginStatus, 2]);
+      _gaq.push(['_trackPageview']);
+      _gaq.push(['t2._trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); 
+    ga.type = 'text/javascript';
+    ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+  })();
+      var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "11306788" });
+         (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[1]; 
+          s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb": "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+    </script>
+
+    <div id="fb-root"></div>
+  <!-- fb needs this -->
+
+  <script src="//platform.twitter.com/widgets.js" id="tweetjs"></script>
+  <script src="//apis.google.com/js/plusone.js" id="gplus1js"></script>
+  <script src="//connect.facebook.net/es_ES/all.js#xfbml=1" id="fbjssdk"></script>
+  <div class="customize-me">
+  <div class="content-fixed">
+    <div class="container">
+                <!-- .header -->
+            <div class="header header-page">
+        <h1 class="site-logo"><a href="http://www.genbeta.com" title="Ir a la portada">Software y web. Genbeta<span></span></a></h1>
+        <form method="get" action="/busqueda" id="search" class="search" style="top:62px; width:310px; padding: 0;">
+    <p>
+        <input type="hidden" name="cx" value="partner-pub-9977500652563564:0292109475">
+        <input type="text" id="gsearch" name="q" accesskey="4" title="Buscar" placeholder="Busca en Genbeta con Google">
+        <input type="hidden" name="ie" value="UTF-8">
+        <input type="hidden" name="oe" value="UTF-8">
+        <input type="hidden" name="cof" value="FORID:10">
+        <button class="button">Buscar <span class="arrow">&raquo;</span></button>
+    </p>
+</form>
+<script type="text/javascript" src="http://www.google.es/coop/cse/brand?form=cse-search-box&amp;lang=es"></script>
+            <div class="nav nav-main">
+    <ul class="nav-primary">
+        <li class="home-link"><a href="/" title="Volver a portada">Portada</a></li>
+        <li class="respuestas-link"><a href="/respuestas">Respuestas</a></li>
+        <li class="temas-submenu">
+            <ul class="nav-secondary">
+                                   <li><a href="/categoria/actualidad" title="Ir a la categoría Actualidad">Actualidad</a></li>
+                                   <li><a href="/categoria/linux" title="Ir a la categoría Linux">Linux</a></li>
+                                   <li><a href="/categoria/movil" title="Ir a la categoría Móvil">Móvil</a></li>
+                                   <li><a href="/categoria/windows" title="Ir a la categoría Windows">Windows</a></li>
+                                   <li><a href="/categoria/herramientas" title="Ir a la categoría Herramientas">Herramientas</a></li>
+                                <li><a href="/archivos" title="Ver todas las categorías">Más &raquo;</a></li>
+            </ul>
+        </li>
+                  
+            </ul>
+</div>
+
+        <div class="nav nav-tags">
+        <h3>No te pierdas <span class="arrow">&raquo;</span></h3>
+        <ul>
+                        <li><a href="/tag/tasa-google" title="Todo sobre Tasa Google">Tasa Google</a></li>
+                        <li><a href="/tag/ley-lassalle" title="Todo sobre Ley Lassalle">Ley Lassalle</a></li>
+                        <li><a href="/tag/balance-de-windows-8" title="Todo sobre Balance de Windows 8">Balance de Windows 8</a></li>
+                        <li><a href="/tag/cazadores-de-fakes" title="Todo sobre Cazadores de Fakes">Cazadores de Fakes</a></li>
+                        <li><a href="/tag/satya-nadella" title="Todo sobre Satya Nadella">Satya Nadella</a></li>
+                    </ul>
+</div>
+<!-- .nav-tags -->
+
+                    <div class="ad ad-desplegable">
+  <a class="ad-contact" id="div-gpt-top-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+  <div class="ad-box">
+    <div id='div-gpt-top' style='width: 1000px;'>
+    <script type="text/javascript">
+        googletag.cmd.push(function() {
+        googletag.display("div-gpt-top");
+        });
+    </script>
+    </div>
+  </div>
+</div>
+<!-- .ad-box - desplegable -->
+
+  <div class="nav">
+   <ul class="article-nav-controls">
+                              <li><a class="article-control article-previous" href="/activismo-online/tras-reunirse-en-venecia-las-telecos-abren-el-telon-en-santander"><span>Tras reunirse en Venecia, las &#039;telecos&#039; abren el telón en Santander (ACTUALIZADO)</span></a></li>
+                                             <li><a class="article-control article-next" href="/activismo-online/wikileaks-y-un-video-colgado-en-la-red-revelan-nuevos-abusos-sexuales-de-cascos-azules"><span>WikiLeaks y un vídeo colgado en la red revelan nuevos abusos sexuales de cascos azules</span></a></li>
+                  </ul>
+  </div>
+              </div>
+                   <div class="article article-pre-content">
+  <h1 class="article-header">Windows Media Center, las cifras de un fiasco que se aleja de Windows 8</h1>
+  <div class="article-date">05 de septiembre de 2011 | 13:59 CET <span id="is_editor"></span></div>
+  <div class="article-author-details">
+  <div class="figure">
+    <a rel='author' href="/autor/miguel-julian">
+      <img src="http://www.gravatar.com/avatar/14216b3a89c997bfc641f9d3abf7bc0b?s=80&amp;d=mm&amp;r=g" alt="miguel-julian">
+    </a>
+  </div>
+  <h2><a rel='author' href="/autor/miguel-julian">Miguel Julián</a></h2>
+      </div>
+<!-- .article-author-details -->
+</div>
+           </div>
+    <!-- .container -->
+  </div>
+  <!-- .content-fixed -->
+
+  <div class="content-dinamic">
+    <div class="container">
+          <script type="text/javascript">
+        $(function()
+        {
+          AML.postVoteView = new AML.Post.View.PostVoteView({postId:"63872", el:".social-sharing" });
+          AML.isEditorView = new AML.Post.View.IsEditorView({postId:"63872", model: WSL2.User });
+        });
+      </script>
+
+    <div class="aside">
+            <div id="ad-lateral" class="ad ad-primer-escaparate">
+  <a class="ad-contact" id="div-gpt-lat-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-lat' class="ad-box" style='width: 300px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-lat");
+    });
+    </script>
+    </div>
+</div>
+<!-- .ad-box - escaparate vertical -->
+
+           <!-- .ad-box - escaparate vertical -->
+            
+                  
+<div class="aside-box aside-subscribe">
+  <h3 class="aside-header">Síguenos</h3>
+  
+          
+  <form id="feedForm" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" >
+    <label for="subscribe-email">Newsletter:</label>  
+      <input type="text" name="email" type="text" id="feedburnermail" placeholder="Correo electrónico"/>
+      <input type="hidden" name="uri" value="genbeta"/>
+      <input type="hidden" name="loc" value="es_ES">
+      <button class="button" type="submit">Suscríbete <span class="arrow">&raquo;</span></button>
+  </form>
+  <ul class="subs-channels">
+    <li class="channel-rss" id="rss"> <a href="/index.xml" rel="nofollow" title="Suscríbete por RSS a las novedades en Genbeta"><span></span>RSS</a></li>
+    <li class="channel-twitter"><a href="http://twitter.com/genbeta" title="Sigue las novedades de Genbeta en Twitter"><span></span>Twitter</a></li>
+    <li class="channel-fb"><a href="http://www.facebook.com/pages/Genbeta/54999640934" title="Conéctate a la página de Genbeta en Facebook"><span></span>Facebook</a></li>
+    <li class="channel-gplus"><a href="https://plus.google.com/109731528328750280665/posts" title="Sigue a Genbeta en Google Plus"><span></span>Google Plus</a></li>
+    <li class="channel-feedly"><a style="margin-right: 0;" title="Suscríbete a Genbeta con Feedly" href='http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fwww.genbeta.com%2Findex.xml'  target='blank'><img id='feedlyFollow' src='http://img.weblogssl.com/g/xataka4/common/m-icon-feedly.png' alt='follow us in feedly' width='32' height='32'></a></li>
+  </ul>
+  <ul class="devices-channels">
+    <li><a title="Versión para móviles" href="http://m.genbeta.com" class="button button-secondary"><img src="http://img.weblogssl.com/g/xataka4/common/mobile.png">Versión móvil</a></li>
+        <li>
+        <a id="tabletViceVersaLink" href="http://t.genbeta.com" class="button button-secondary" title="Versión tablet"><img src="http://img.weblogssl.com/g/xataka4/common/tablet.png"> Versión tablet</a>
+    </li>
+      </ul>
+
+    <script>
+  $(function() {
+      $("#feedForm").submit(function(e) {
+          e.preventDefault();
+          email = $("#feedburnermail").val();
+          emailPattern = /^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$/i
+          if (emailPattern.test(email)) {
+              window.open('http://mailer.weblogssl.com/subscribe_check/' + email +'/genbeta/Genbeta','','width=500,height=500');
+          } else {
+              alert("El correo electrónico introducido no es correcto");
+          }
+      });
+  });
+  </script>
+  
+</div>
+            <!-- .article-promo -->
+    </div>
+
+    <!-- .aside -->
+
+                    
+    <div class="section section-article-single">
+            <div class="article">
+        <div class="article-summary">
+          <p><img id="image63873" src="http://img.genbeta.com/2011/09/windows-media-center-malas-estadisticas-uso.jpg" class="centro" alt="Malas estadísticas de uso para el Windows Media Center de Windows 7" /></p>
+
+                              <div class="article-metadata">
+            <div class="article-comments" id="postCommentCount">
+              <a href="#comments" title="Ir a comentarios">
+                Comentarios 61
+              </a>
+            </div>
+            <div class="article-links">
+              <div class="social-sharing">
+                <div class="social-sharing-widgets">
+                                    <div class="wsl-favorite">
+                    <button class="button button-small">Me gusta</button>
+                    <span class="wsl-count">2</span>
+                  </div>
+                                    <!-- twitter -->
+                  <a class="twitter-share-button" href="http://twitter.com/share" data-count="horizontal" data-url="http://www.genbeta.com/p/63872" data-counturl="http://www.genbeta.com/windows/windows-media-center-las-cifras-de-un-fiasco-que-se-aleja-de-windows-8" data-text="Windows Media Center, las cifras de un fiasco que se aleja de Windows 8" data-via="genbeta" data-lang="es">Tweet</a>
+                  <!-- g+ -->
+                  <div class="g-plusone" data-size="medium" data-href="http://www.genbeta.com/windows/windows-media-center-las-cifras-de-un-fiasco-que-se-aleja-de-windows-8" data-callback="gplusClickHandler" ></div>
+                  <!-- facebook like -->
+                  <div href="http://www.genbeta.com/windows/windows-media-center-las-cifras-de-un-fiasco-que-se-aleja-de-windows-8" class="fb-like" data-send="false" data-layout="button_count" data-show-faces="false"></div>
+                </div>
+              </div>
+              <!-- .social-sharing -->
+            </div>
+            <!-- .article-links -->
+          </div>
+          <!-- .article-metadata -->
+
+
+          	<p></p>
+
+	<p>Una de las novedades de Windows 7 era la inclusión de un nuevo media center (un software para gestionar y visualizar contenido multimedia) visualmente muy atractivo. Pero desde Microsoft han anunciado unas paupérrimas estadísticas de uso del mismo en julio de este año. Sólo un <strong>6 por ciento de los usuarios han abierto Windows Media Center</strong>, y de ese porcentaje, únicamente uno de cuatro lo ha usado durante más de 10 minutos.</p>
+
+	<p>Otros porcentajes de uso como el de Internet Explorer (88%) o el del Reproductor Multimedia de Windows (66%) dejan claro que el media center no ha tenido una buena aceptación por parte de los usuarios de Windows 7. Y el problema posiblemente es el desconocimiento por parte de los usuarios unido a <strong>una apariencia de <em>algo complejo</em></strong>.</p>
+
+	<p>No es de extrañar que con estas cifras (aunque aseguren lo contrario), <strong>Windows Media Center no se vaya a incluir en Windows 8</strong>, al menos en las primeras distribuciones para testers. Eso sí, permanecerá como una asignatura pendiente más del nuevo sistema operativo.</p>
+
+	<p>Vía | <a href="http://news.softpedia.com/news/Windows-Media-Center-Launched-by-6-of-Windows-7-Users-Globally-in-July-220161.shtml">Softpedia</a><br />
+En Genbeta | <a href="http://www.genbeta.com/multimedia/windows-media-center-el-mejor-media-center-del-2008">Windows Media Center, el mejor media center del 2008</a></p>                  </div>
+
+                        
+        <div class="ad links-ad-inpost">
+    <div id='div-gpt-inp' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-inp");
+    });
+    </script>
+    </div>
+</div>
+
+
+        
+        <div class="article-taxonomy">
+                      <div class="nav article-tags article-categories">
+  <h2>Categorías</h2>
+    <ul>
+                      
+      <li><a href="/categoria/windows">Windows</a></li>
+        </ul>
+</div>
+            <div class="nav article-tags">
+  <h2>Tags</h2>
+  <ul>
+                                             
+      <li><a href="/tag/multimedia">Multimedia</a></li>
+                                             
+      <li><a href="/tag/media-center">media center</a></li>
+                                             
+      <li><a href="/tag/estadisticas-uso">estadísticas uso</a></li>
+          
+  </ul>
+</div>
+                  </div>
+        <!-- .article-metadata -->
+      </div>
+      <!-- .article -->
+    </div>
+    <!-- .section-articles -->
+            <div id="ad-center" class="ad ad-escaparate-medio">
+  <a class="ad-contact" id="div-gpt-cen-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-cen' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+
+        
+        
+    <div class="section section-related">
+               <div id="outBrainVerticalWidget" class="post-related-posts ">
+  <h3>Artículos recomendados</h3>
+  <div class="post-related-content">
+   
+    <div class="OUTBRAIN" data-src="http://www.genbeta.com/windows/windows-media-center-las-cifras-de-un-fiasco-que-se-aleja-de-windows-8" data-widget-id="AR_2" data-ob-template="genbeta" >
+    </div>
+    <script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js">
+    </script>
+  </div>
+  <!-- .post-related-content -->
+  <p class="post-related-more">
+    <a href="/categoria/windows" title="Ver más artículos relacionados">
+    Ver más artículos <span class="arrow">»</span>    
+    </a>
+    </p>
+</div>     
+      <div class="post-related-products">
+   <h3>Productos</h3>
+   <div id="post-related-products" class="post-related-content">
+                <script type="text/javascript">
+        $(function()
+        {
+          WSL2.config.imageUrl = "http://img.genbeta.com"
+          WSL2.config.Products = {}
+          WSL2.config.Products.iwishihave = {}
+          WSL2.config.Products.iwishihave.buttonOne = "ME GUSTA"
+          WSL2.config.Products.iwishihave.buttonTwo = "LO ODIO"
+
+          var product = new AML.Products.Model.Product({"id":"23091","nicename":"windows-media-center","name":"windows media center","photo_post_id":"58928","users_votes_sum":"11","users_votes_count":"2","ihave_count":"0","iwish_count":"1","category_nicename":"imagen-y-sonido","cat_id":"448","category_type":"1","adspot_price":"0"}, {"pageUrlPrefix":"productos"});
+          AML.productView = new AML.Products.View.ProductView({model:product, userModel: WSL2.User});
+        });
+      </script>
+        </div>
+  <p class="post-related-more">
+    <a href="/productos/imagen-y-sonido/windows-media-center" title="Ver más productos relacionados">
+      Ver más productos <span class="arrow">»</span>
+    </a>
+  </p>
+ </div>
+<!-- .post-related-products -->
+     <div class="post-related-qa">
+    <h3>Respuestas</h3>
+        <div class="post-related-content">
+            <ul>
+                            <li>
+                    <div class="answer-number hot-topic">
+                        <strong>13</strong>
+                    </div>
+                    <a href="/respuestas/que-reproductor-de-ficheros-multimedia-para-windows-me-recomendais">¿Qué reproductor de ficheros multimedia para Windows me recomendáis?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2014-01-09T22:53:00Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>2</strong>
+                    </div>
+                    <a href="/respuestas/que-servicio-de-ficheros-multimediafotos-y-video-en-la-nube-recomendariais">¿Qué servicio de ficheros multimedia(fotos y video) en la nube recomendaríais?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2012-12-15T01:05:04Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>3</strong>
+                    </div>
+                    <a href="/respuestas/que-es-un-disco-multimedia">Que es un disco multimedia?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2012-04-19T13:06:57Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number hot-topic">
+                        <strong>65</strong>
+                    </div>
+                    <a href="/respuestas/cual-creeis-que-es-el-mejor-reproductor-multimedia-en-la-actualidad-y-por-que">¿Cuál creéis que es el mejor reproductor multimedia en la actualidad y por qué?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2012-02-27T17:28:13Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>2</strong>
+                    </div>
+                    <a href="/respuestas/ayuda-urgente-adaptador-multimedia">Ayuda urgente: adaptador multimedia</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2011-11-01T18:15:22Z"></abbr>
+                    </span>            
+                </li>
+                        </ul>
+        </div>
+        <!-- .post-related-content -->
+        <p class="post-related-more">
+            <a href="/respuestas" title="Ver más respuestas relacionados">
+                Ver más respuestas
+                <span class="arrow">»</span>
+            </a>
+        </p>
+</div>
+
+<script type="text/javascript">
+   $(function(){
+      $("abbr.timeago").timeago();
+   });
+</script>
+     </div>
+
+
+  <!-- Comments Section -->
+        <a id="to-comments"></a>
+  <div id="comments" class="section section-comments">
+            <div class="standalone-message">
+            <div class="message aviso"><h3>Los comentarios se han cerrado</h3></div>
+        </div>
+        <!-- #comment-write -->
+            <div id="ad-center2" class="ad ad-segundo-escaparate">
+  <a class="ad-contact" id="div-gpt-cen2-contact" style='display:none'
+  href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-cen2' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen2");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+    <div id="comments-header" class="header-section">
+      <div class="comment-order">
+    	<h3>Ordenar por:</h3>
+      </div>
+      <!-- #comment-order -->
+          	<h2>
+              50 comentarios
+            </h2>
+    </div>
+    <div id="top-section-settings"></div>
+    <ul class="comment-list"></ul>
+        <div class="nav"></div>
+    <div id="bottom-section-settings"></div>
+  </div>
+    <script type="text/javascript">
+      $(function()
+      {
+        var commentList = new AML.Comments.Model.CommentList({},{postId:63872});
+        commentList.resetParsed({"comments":[{"id":"361767","post_id":"63872","date":1315242161,"content_filtered":"<p>Pues es una pena, porque aqu\u00ed mismo en Genbeta uno de sus mejores redactores, Salva Castro, reportaba que era <a href=\"\/multimedia\/windows-media-center-el-mejor-media-center-del-2008\" rel=\"nofollow\">el mejor media center... \u00a1en 2008!<\/a>, por ah\u00ed tambi\u00e9n he le\u00eddo un comentario positivo de Yir\u00e1 hacia el Media Center de Vista cuando se hablaba de XBMC (tambi\u00e9n en 2008). <\/p>\n\n<p>Y luego poco se ha escrito, lo que en mi opini\u00f3n revela que se le ha dado poca importancia y espacio en este sitio para ayudar a los usuarios a conocer y usar las caracter\u00edsticas de Windows. Al menos en los \u00faltimos tiempos. Quiz\u00e1s, y eso es solo una hip\u00f3tesis, porque la mayor\u00eda sino todos los redactores de Genbeta, salvo Yir\u00e1, usan Mac OSX y eso le imposibilita profundizar en Windows.<\/p>\n\n<p>Y no digo que aqu\u00ed no se le de importancia a Windows, faltar\u00eda m\u00e1s, pero es que quiz\u00e1s falta un sitio dedicado exclusivamente a Windows, como existe para Apple ahora mismo y con redactores que lo usen y no que reciclen art\u00edculos de Windows de otros sitios porque ellos ya no lo usan personalmente. <\/p>\n\n<p>Si bien la mayor\u00eda conocemos Windows muy bien siempre hay una enorme cantidad de usuarios nuevos que se incorporan d\u00eda a d\u00eda y que lamentablemente no saben usar Windows y luego tienen problemas. Eso es algo que he comprabado una y otra vez al formar parte de <a href=\"\" rel=\"nofollow\">Forospyware<\/a> donde la mayor\u00eda de los problemas, incluidos los de seguridad, son responsabilidad del usuario, quien generalmente est\u00e1 poco informado. Hay ah\u00ed <strong>una necesidad b\u00e1sica<\/strong> que hasta ahora pocos blogs logran satisfacer, aparentemente m\u00e1s interesados en convertirnos en programadores o poco menos que eso.<\/p>\n\n<p>Salvo mejor parecer.<\/p>","content":"<p>Pues es una pena, porque aqu\u00ed mismo en Genbeta uno de sus mejores redactores, Salva Castro, reportaba que era <a href=\"\/multimedia\/windows-media-center-el-mejor-media-center-del-2008\" rel=\"nofollow\">el mejor media center... \u00a1en 2008!<\/a>, por ah\u00ed tambi\u00e9n he le\u00eddo un comentario positivo de Yir\u00e1 hacia el Media Center de Vista cuando se hablaba de XBMC (tambi\u00e9n en 2008). <\/p>\n\n<p>Y luego poco se ha escrito, lo que en mi opini\u00f3n revela que se le ha dado poca importancia y espacio en este sitio para ayudar a los usuarios a conocer y usar las caracter\u00edsticas de Windows. Al menos en los \u00faltimos tiempos. Quiz\u00e1s, y eso es solo una hip\u00f3tesis, porque la mayor\u00eda sino todos los redactores de Genbeta, salvo Yir\u00e1, usan Mac OSX y eso le imposibilita profundizar en Windows.<\/p>\n\n<p>Y no digo que aqu\u00ed no se le de importancia a Windows, faltar\u00eda m\u00e1s, pero es que quiz\u00e1s falta un sitio dedicado exclusivamente a Windows, como existe para Apple ahora mismo y con redactores que lo usen y no que reciclen art\u00edculos de Windows de otros sitios porque ellos ya no lo usan personalmente. <\/p>\n\n<p>Si bien la mayor\u00eda conocemos Windows muy bien siempre hay una enorme cantidad de usuarios nuevos que se incorporan d\u00eda a d\u00eda y que lamentablemente no saben usar Windows y luego tienen problemas. Eso es algo que he comprabado una y otra vez al formar parte de <a href=\"\" rel=\"nofollow\">Forospyware<\/a> donde la mayor\u00eda de los problemas, incluidos los de seguridad, son responsabilidad del usuario, quien generalmente est\u00e1 poco informado. Hay ah\u00ed <strong>una necesidad b\u00e1sica<\/strong> que hasta ahora pocos blogs logran satisfacer, aparentemente m\u00e1s interesados en convertirnos en programadores o poco menos que eso.<\/p>\n\n<p>Salvo mejor parecer.<\/p>","karma":"200.00","parent":"0","comment_edited_date":1315242318,"vote_count":"17","comment_level":1,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Camelot ","user_id":"11047","author":"Camelot ","webpage":null,"user_name":null,"karma_level":"36.00","iseditor":"0","global_id":"94915","facebook_uid":null,"index":26,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/94915_1.png"},{"id":"361828","post_id":"63872","date":1315261419,"content_filtered":"<p>Bravo, bonito punto. Podr\u00eda llamarse \"Zona Windows\"<\/p>","content":"Bravo, bonito punto. Podr\u00eda llamarse \"Zona Windows\"","karma":"8.00","parent":"361767","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"ale210","user_id":"29706","author":"","webpage":"","user_name":"ale210","karma_level":"42.00","iseditor":"0","global_id":"125058","facebook_uid":null,"index":42,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/125058_1.png"},{"id":"361840","post_id":"63872","date":1315266569,"content_filtered":"<p>Gracias por el apoyo pero siendo francos es poco probable que lo hagan, los usuarios de Linux llevan a\u00f1os pidiendo un espacio para ellos sin resultados, solo Apple tiene ese \"privilegio\".<\/p>","content":"<p>Gracias por el apoyo pero siendo francos es poco probable que lo hagan, los usuarios de Linux llevan a\u00f1os pidiendo un espacio para ellos sin resultados, solo Apple tiene ese \"privilegio\".<\/p>","karma":"80.00","parent":"361828","comment_edited_date":"","vote_count":"6","comment_level":2,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"Camelot ","user_id":"11047","author":"Camelot ","webpage":null,"user_name":null,"karma_level":"36.00","iseditor":"0","global_id":"94915","facebook_uid":null,"index":50,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/94915_1.png"},{"id":"361909","post_id":"63872","date":1315327971,"content_filtered":"<p>Ojal\u00e1 te oigan... Tienes toda la raz\u00f3n.\nUn saludo.<\/p>","content":"Ojal\u00e1 te oigan... Tienes toda la raz\u00f3n.\nUn saludo.","karma":"5.00","parent":"361767","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"jdg12","user_id":"93996","author":"","webpage":null,"user_name":"jdg12","karma_level":"17.00","iseditor":"0","global_id":"296924","facebook_uid":null,"index":60,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/948e0b3caa357111c3d700d5861e3ffc"},{"id":"361747","post_id":"63872","date":1315236464,"content_filtered":"<p>Normal que no se use, tampoco se usar\u00e1n MediaPortal, XBMC o algun otro que seguramente habr\u00e1...\nSon programas dedicados a una tarea bastante evidente: \"hacer del ordenador un reproductor multimedia\".\nSi solo quieres ver un video haces doble click. Lo mismo con una im\u00e1gen. Y las canciones las oyes haciendo otras cosas as\u00ed que no vas a poner en marcha un programa a pantalla completa.<\/p>\n\n<p>En los PCs que no est\u00e1n debajo de una tele rara vez se utiliza (si no es, por ejemplo, para casos como los dichos de sintonizar el televisor)<\/p>","content":"<p>Normal que no se use, tampoco se usar\u00e1n MediaPortal, XBMC o algun otro que seguramente habr\u00e1...\nSon programas dedicados a una tarea bastante evidente: \"hacer del ordenador un reproductor multimedia\".\nSi solo quieres ver un video haces doble click. Lo mismo con una im\u00e1gen. Y las canciones las oyes haciendo otras cosas as\u00ed que no vas a poner en marcha un programa a pantalla completa.<\/p>\n\n<p>En los PCs que no est\u00e1n debajo de una tele rara vez se utiliza (si no es, por ejemplo, para casos como los dichos de sintonizar el televisor)<\/p>","karma":"123.00","parent":"0","comment_edited_date":"","vote_count":"9","comment_level":2,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"48712","user_id":"48712","author":"","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"235956","facebook_uid":"1239170475","index":11,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1239170475\/picture"},{"id":"361801","post_id":"63872","date":1315250954,"content_filtered":"<p>+1. Yo tengo el XBMC y lo uso de ves en cuando. Prob\u00e9 tambi\u00e9n MediaPortal, Boxee, Moovida y un largo etc\u00e9tera; el \u00fanico que me reconoc\u00eda la sinto era el MediaPortal, es una Compro M1F (TAT) que para eso no funcionaba, cuando le daba para escanear canales me dec\u00eda error de complementos. Osea que, desastroso.<\/p>","content":"<p>+1. Yo tengo el XBMC y lo uso de ves en cuando. Prob\u00e9 tambi\u00e9n MediaPortal, Boxee, Moovida y un largo etc\u00e9tera; el \u00fanico que me reconoc\u00eda la sinto era el MediaPortal, es una Compro M1F (TAT) que para eso no funcionaba, cuando le daba para escanear canales me dec\u00eda error de complementos. Osea que, desastroso.<\/p>","karma":"5.00","parent":"361747","comment_edited_date":1315250974,"vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"nasher_87-arg-","user_id":"88705","author":"","webpage":null,"user_name":"nasher_87-arg-","karma_level":"33.00","iseditor":"0","global_id":"408871","facebook_uid":null,"index":34,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/7d16552ab89fa1e44f5dcec37dbb7aab"},{"id":"361750","post_id":"63872","date":1315237484,"content_filtered":"<p>M\u00e1s de uno lo habr\u00e1 abierto por primera vez tras leer esta noticia.<\/p>\n\n<p>Ahora los de Microsoft tendr\u00e1n en Septiembre un repunte en el uso del Media Center...<\/p>","content":"<p>M\u00e1s de uno lo habr\u00e1 abierto por primera vez tras leer esta noticia.<\/p>\n\n<p>Ahora los de Microsoft tendr\u00e1n en Septiembre un repunte en el uso del Media Center...<\/p>","karma":"120.00","parent":"0","comment_edited_date":"","vote_count":"10","comment_level":2,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"alvsvq","user_id":"92950","author":"","webpage":null,"user_name":"alvsvq","karma_level":"38.00","iseditor":"0","global_id":"435230","facebook_uid":null,"index":14,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/9eb29f2d1793df9bcfabf4e288d52ed5"},{"id":"361737","post_id":"63872","date":1315234047,"content_filtered":"<p>Yo lo he usado bastante para ver el TDT con la tarjeta sintonizadora y para grabar. Las funciones que ofrece son muy buenas, graba los subt\u00edtulos del TXT.<\/p>\n\n<p>Me parece bien que lo incluyan, si la gente no usara el \"Paint\" o \"bloc de notas\" no ser\u00eda motivo para eliminarlos.<\/p>","content":"<p>Yo lo he usado bastante para ver el TDT con la tarjeta sintonizadora y para grabar. Las funciones que ofrece son muy buenas, graba los subt\u00edtulos del TXT.<\/p>\n\n<p>Me parece bien que lo incluyan, si la gente no usara el \"Paint\" o \"bloc de notas\" no ser\u00eda motivo para eliminarlos.<\/p>","karma":"88.00","parent":"0","comment_edited_date":"","vote_count":"6","comment_level":2,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"ale210","user_id":"29706","author":"","webpage":"","user_name":"ale210","karma_level":"42.00","iseditor":"0","global_id":"125058","facebook_uid":null,"index":5,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/125058_1.png"},{"id":"361753","post_id":"63872","date":1315238436,"content_filtered":"<p>La culpa de que no se use la tiene la propia MS, y no solo porque no lo haya dado a conocer, si no por lo capado que esta fuera de EEUU. Me explico, en EEUU el Windows Media Center tiene TV por internet, en el resto del mundo no. En EEUU el Windows Media Center que descarga datos como a\u00f1o, sinopsis, genero, etc sobre las pel\u00edculas que tengas en el equipo, en el resto del mundo no. en EEUU el Windows Media Center soporta TV por cable (en caso de que tengas un sintonizador compatible, claro esta), en el resto del mundo no.<\/p>","content":"<p>La culpa de que no se use la tiene la propia MS, y no solo porque no lo haya dado a conocer, si no por lo capado que esta fuera de EEUU. Me explico, en EEUU el Windows Media Center tiene TV por internet, en el resto del mundo no. En EEUU el Windows Media Center que descarga datos como a\u00f1o, sinopsis, genero, etc sobre las pel\u00edculas que tengas en el equipo, en el resto del mundo no. en EEUU el Windows Media Center soporta TV por cable (en caso de que tengas un sintonizador compatible, claro esta), en el resto del mundo no.<\/p>","karma":"68.00","parent":"0","comment_edited_date":"","vote_count":"6","comment_level":2,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"pesanur","user_id":"62689","author":"","webpage":null,"user_name":"pesanur","karma_level":"44.00","iseditor":"0","global_id":"204131","facebook_uid":null,"index":16,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/204131_2.png"},{"id":"361805","post_id":"63872","date":1315255071,"content_filtered":"<p>Pues yo soy de M\u00e9xico y tengo televisi\u00f3n por cable y el Media Center aparte de que me reconoce mi sintonizador (que es algo viejo), me descargo toda la gu\u00eda de canales, sinopsis, etc, sin problemas. Fuera de la televisi\u00f3n por Internet hace todo lo dem\u00e1s.<\/p>","content":"<p>Pues yo soy de M\u00e9xico y tengo televisi\u00f3n por cable y el Media Center aparte de que me reconoce mi sintonizador (que es algo viejo), me descargo toda la gu\u00eda de canales, sinopsis, etc, sin problemas. Fuera de la televisi\u00f3n por Internet hace todo lo dem\u00e1s.<\/p>","karma":"15.00","parent":"361753","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"76733","user_id":"76733","author":"","webpage":null,"user_name":"keiki","karma_level":"22.00","iseditor":"0","global_id":"359844","facebook_uid":"547752075","index":37,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/547752075\/picture"},{"id":"361817","post_id":"63872","date":1315258272,"content_filtered":"<p>Sera en Mexico, ya que con las se\u00f1al de cable europea no es compatible.<\/p>","content":"Sera en Mexico, ya que con las se\u00f1al de cable europea no es compatible.","karma":"8.00","parent":"361805","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"pesanur","user_id":"62689","author":"","webpage":null,"user_name":"pesanur","karma_level":"44.00","iseditor":"0","global_id":"204131","facebook_uid":null,"index":40,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/204131_2.png"},{"id":"361847","post_id":"63872","date":1315270223,"content_filtered":"<p>Bueno ah\u00ed no puedo decir nada, yo solo respond\u00eda a la afirmaci\u00f3n de que el soporte\u00a0 solo era en Estados Unidos lo cual no es as\u00ed, lo m\u00e1s probable es que ahora solo la zona del Norte de Am\u00e9rica cuenta con soporte para televisi\u00f3n por cable.<\/p>\n\n<p>Una verdadera lastima porque realmente es bastante \u00fatil para los que nos gusta gestionar todo nuestros aparatos con nuestro ordenador.<br \/><\/p>","content":"<p>Bueno ah\u00ed no puedo decir nada, yo solo respond\u00eda a la afirmaci\u00f3n de que el soporte\u00a0 solo era en Estados Unidos lo cual no es as\u00ed, lo m\u00e1s probable es que ahora solo la zona del Norte de Am\u00e9rica cuenta con soporte para televisi\u00f3n por cable.<\/p>\n\n<p>Una verdadera lastima porque realmente es bastante \u00fatil para los que nos gusta gestionar todo nuestros aparatos con nuestro ordenador.<br><\/p>","karma":"5.00","parent":"361817","comment_edited_date":1315270311,"vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"1","comment_author":"76733","user_id":"76733","author":"","webpage":null,"user_name":"keiki","karma_level":"22.00","iseditor":"0","global_id":"359844","facebook_uid":"547752075","index":52,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/547752075\/picture"},{"id":"361744","post_id":"63872","date":1315235469,"content_filtered":"<p>Es muy buen software pero con un control remoto y una pantalla grande....\nde resto el Windows Media y el Zune cumplen.<\/p>","content":"<p>Es muy buen software pero con un control remoto y una pantalla grande....\nde resto el Windows Media y el Zune cumplen.<\/p>","karma":"65.00","parent":"0","comment_edited_date":"","vote_count":"4","comment_level":2,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"david","user_id":"364","author":"david","webpage":null,"user_name":"darmfreak","karma_level":"42.00","iseditor":"0","global_id":"6110","facebook_uid":null,"index":10,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/6110_1.png"},{"id":"361739","post_id":"63872","date":1315234426,"content_filtered":"<p>Yo, y creo que muchos otros, lo uso con la Xbox 360 y funciona bastante bien.<\/p>","content":"<p>Yo, y creo que muchos otros, lo uso con la Xbox 360 y funciona bastante bien.<\/p>","karma":"50.00","parent":"0","comment_edited_date":"","vote_count":"3","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"fonsinhoo","user_id":"27770","author":"","webpage":"http:\/\/styinformed.wordpress.com","user_name":"fonsinhoo","karma_level":"40.00","iseditor":"0","global_id":"89142","facebook_uid":null,"index":6,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/16f1292c5b84b56458bef5d70f6de861"},{"id":"361740","post_id":"63872","date":1315234634,"content_filtered":"<p>La verdad que traiga un media center y no un cliente de correo o un lector pdf es una decisi\u00f3n discutible<\/p>","content":"<p>La verdad que traiga un media center y no un cliente de correo o un lector pdf es una decisi\u00f3n discutible<\/p>","karma":"40.00","parent":"0","comment_edited_date":"","vote_count":"3","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"0","comment_author":"Diego Germ\u00e1n Gonzalez","user_id":"18808","author":"Diego Germ\u00e1n Gonzalez","webpage":null,"user_name":"dggonzalez","karma_level":"32.00","iseditor":"0","global_id":"133442","facebook_uid":null,"index":7,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/963785ed6ba925a47584c60e210417be"},{"id":"361834","post_id":"63872","date":1315263488,"content_filtered":"<p>El cliente de correo no lo trae por defecto pero lo incluye en su suite Windows Live. El lector PDF vendr\u00e1 a partir de Windows 8.<\/p>","content":"<p>El cliente de correo no lo trae por defecto pero lo incluye en su suite Windows Live. El lector PDF vendr\u00e1 a partir de Windows 8.<\/p>","karma":"18.00","parent":"361740","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Manu Mateos","user_id":"80522","author":"Manu Mateos","webpage":"http:\/\/www.genbeta.com\/autor\/mmateos","user_name":"mmateos","karma_level":"85.00","iseditor":"1","global_id":"378081","facebook_uid":null,"index":45,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/378081_3.png"},{"id":"361759","post_id":"63872","date":1315239565,"content_filtered":"<p>Yo creo que en vez de descontinuarlo, lo que deber\u00edan hacer es ponerlo como opcional. Lejos quedan aquellos tiempos en los que t\u00fa elegias qu\u00e9 instalar en Windows 98. No s\u00e9 porqu\u00e9 tengo que \"tragar\" con una instalaci\u00f3n gigante para cosas que jam\u00e1s voy a utilizar. Y en este caso se puede deinstalar a posteriori, pero algunas cosas es que ni eso. Eliminar el acceso directo y a fastidiarse con el hueco ocupado en disco duro.<\/p>\n\n<p>\u00bfTanto cuesta poner una \"instalaci\u00f3n completa\" y otra \"instalaci\u00f3n avanzada\" como toda la vida?<\/p>","content":"<p>Yo creo que en vez de descontinuarlo, lo que deber\u00edan hacer es ponerlo como opcional. Lejos quedan aquellos tiempos en los que t\u00fa elegias qu\u00e9 instalar en Windows 98. No s\u00e9 porqu\u00e9 tengo que \"tragar\" con una instalaci\u00f3n gigante para cosas que jam\u00e1s voy a utilizar. Y en este caso se puede deinstalar a posteriori, pero algunas cosas es que ni eso. Eliminar el acceso directo y a fastidiarse con el hueco ocupado en disco duro.<\/p>\n\n<p>\u00bfTanto cuesta poner una \"instalaci\u00f3n completa\" y otra \"instalaci\u00f3n avanzada\" como toda la vida?<\/p>","karma":"38.00","parent":"0","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"0","comment_author":"zormon","user_id":"23398","author":"","webpage":null,"user_name":"zormon","karma_level":"22.00","iseditor":"0","global_id":"152333","facebook_uid":null,"index":21,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/063b4299f57d5edb76fb5c3d0c7b5e71"},{"id":"361748","post_id":"63872","date":1315236880,"content_filtered":"<p>Pues yo lo uso muchisimo. Lo sincronizo con mi XBOX (que tambi\u00e9n lo trae) y es perfecto para ver todo el contenido multimedia tengo en el PC (lease series) en la televisi\u00f3n a trav\u00e9s del WIFI.<\/p>","content":"<p>Pues yo lo uso muchisimo. Lo sincronizo con mi XBOX (que tambi\u00e9n lo trae) y es perfecto para ver todo el contenido multimedia tengo en el PC (lease series) en la televisi\u00f3n a trav\u00e9s del WIFI.<\/p>","karma":"25.00","parent":"0","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"93970","user_id":"93970","author":"","webpage":null,"user_name":"cordoba.daniel","karma_level":"17.00","iseditor":"0","global_id":"444011","facebook_uid":"1118287333","index":12,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1118287333\/picture"},{"id":"361821","post_id":"63872","date":1315259659,"content_filtered":"<p>En el blog oficial de Building Windows 8 han publicado: \"I want to reassure customers that Media Center will definitely be part of Windows 8. No doubt about it.\"\nConcretamente la entrada es la siguiente: <a href=\"http:\/\/blogs.msdn.com\/b\/b8\/archive\/2011\/09\/02\/reflecting-on-our-first-conversations-part-2.aspx\" rel=\"nofollow\">http:\/\/blogs.msdn.com\/b\/b8\/archive\/2011\/09\/02\/reflecting-on-our-first-conversations-part-2.aspx<\/a>\nLo pod\u00e9is leer vosotros mismos. <\/p>\n\n<p>Lo que tambi\u00e9n han publicado que no estar\u00e1 disponible en las betas: \"Media Center will not be part of the first pre-release builds.\"<\/p>\n\n<p>As\u00ed que por suerte Windows 8 o como termine llam\u00e1ndose incluir\u00e1 Media Center en su versi\u00f3n final. Estar\u00eda bien que actualiz\u00e1rais la entrada puesto que la fuente es original 100%.<\/p>","content":"<p>En el blog oficial de Building Windows 8 han publicado: \"I want to reassure customers that Media Center will definitely be part of Windows 8. No doubt about it.\"\nConcretamente la entrada es la siguiente: <a href=\"http:\/\/blogs.msdn.com\/b\/b8\/archive\/2011\/09\/02\/reflecting-on-our-first-conversations-part-2.aspx\" rel=\"nofollow\">http:\/\/blogs.msdn.com\/b\/b8\/archive\/2011\/09\/02\/reflecting-on-our-first-conversations-part-2.aspx<\/a>\nLo pod\u00e9is leer vosotros mismos. <\/p>\n\n<p>Lo que tambi\u00e9n han publicado que no estar\u00e1 disponible en las betas: \"Media Center will not be part of the first pre-release builds.\"<\/p>\n\n<p>As\u00ed que por suerte Windows 8 o como termine llam\u00e1ndose incluir\u00e1 Media Center en su versi\u00f3n final. Estar\u00eda bien que actualiz\u00e1rais la entrada puesto que la fuente es original 100%.<\/p>","karma":"25.00","parent":"0","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"warklow","user_id":"80524","author":"","webpage":null,"user_name":"warklow","karma_level":"20.00","iseditor":"0","global_id":"100071","facebook_uid":null,"index":41,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/100071_1.png"},{"id":"361781","post_id":"63872","date":1315244953,"content_filtered":"<p>Pues yo lo uso bastante,aunque se agradecer\u00eda que se pueda iniciar directamente WMC sin iniciar el sistema, y se har\u00eda bastante interesante, seria una HTPC<\/p>","content":"<p>Pues yo lo uso bastante,aunque se agradecer\u00eda que se pueda iniciar directamente WMC sin iniciar el sistema, y se har\u00eda bastante interesante, seria una HTPC<\/p>","karma":"20.00","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"chandlerbing","user_id":"87887","author":"","webpage":null,"user_name":"chandlerbing","karma_level":"42.00","iseditor":"0","global_id":"409542","facebook_uid":null,"index":30,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/409542_1.png"},{"id":"361731","post_id":"63872","date":1315232124,"content_filtered":"<p>Est\u00e1 confirmado por Microsoft que Windows Media Center estar\u00e1 en Windows 8. Creo que lo le\u00ed por Winrumors.<\/p>\n\n<p>La verdad es que me importa bien poco, no lo uso =\/<\/p>\n\n<p>Saludos.<\/p>","content":"<p>Est\u00e1 confirmado por Microsoft que Windows Media Center estar\u00e1 en Windows 8. Creo que lo le\u00ed por Winrumors.<\/p>\n\n<p>La verdad es que me importa bien poco, no lo uso =\/<\/p>\n\n<p>Saludos.<\/p>","karma":"12.50","parent":"0","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Knoll Argonar","user_id":"89895","author":"Knoll Argonar","webpage":null,"user_name":"knoll-argonar","karma_level":"25.00","iseditor":"0","global_id":"208905","facebook_uid":"100000274671894","index":2,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/208905_1.png"},{"id":"361799","post_id":"63872","date":1315250329,"content_filtered":"<p>Lo vivo usando en mi pc para ver pel\u00edculas, si lo quitaran me pondr\u00eda muy triste snif snif... (?) jaja XD<\/p>","content":"Lo vivo usando en mi pc para ver pel\u00edculas, si lo quitaran me pondr\u00eda muy triste snif snif... (?) jaja XD","karma":"10.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"faczever","user_id":"17394","author":"faczever","webpage":null,"user_name":"faczever","karma_level":"27.00","iseditor":"0","global_id":"73721","facebook_uid":null,"index":33,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/73721_3.png"},{"id":"361803","post_id":"63872","date":1315252000,"content_filtered":"<p>Es buen programa pero creo que es una de las cosas menos demandadas entre los usuarios, si ves las peliculas y las series en el pc no te cuesta nada darle a la pelicula o si vas a ver mas de un video arrastrar lo que quieras a la lista de reproducci\u00f3n.<\/p>","content":"Es buen programa pero creo que es una de las cosas menos demandadas entre los usuarios, si ves las peliculas y las series en el pc no te cuesta nada darle a la pelicula o si vas a ver mas de un video arrastrar lo que quieras a la lista de reproducci\u00f3n.","karma":"10.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"s22","user_id":"3254","author":"s22","webpage":null,"user_name":"orbegozo","karma_level":"22.00","iseditor":"0","global_id":"21513","facebook_uid":null,"index":35,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/61c60668c854e708157b7dd4fa3e7d75"},{"id":"361735","post_id":"63872","date":1315233207,"content_filtered":"<p>La verdad es que es un co\u00f1azo de usar, yo lo uso con la sintonizadora de television de El Gato de Mac porque me la detecta, pero porque no me queda otro remedio, si supiese de un software alternativo para usar esta sintonizadora en Windows 7 no usaria el Media center.<br \/><\/p>","content":"<p>La verdad es que es un co\u00f1azo de usar, yo lo uso con la sintonizadora de television de El Gato de Mac porque me la detecta, pero porque no me queda otro remedio, si supiese de un software alternativo para usar esta sintonizadora en Windows 7 no usaria el Media center.<br><\/p>","karma":"8.00","parent":"0","comment_edited_date":1315233239,"vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Malgusto.com ","user_id":"6083","author":"Malgusto.com ","webpage":"http:\/\/www.malgusto.com","user_name":"alfbueno","karma_level":"32.00","iseditor":"0","global_id":"201","facebook_uid":"1112564194","index":3,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1112564194\/picture"},{"id":"361758","post_id":"63872","date":1315239147,"content_filtered":"<p>Con ma\u00f1a es posible hacer que VLC lo haga. Pero reitero, con ma\u00f1a.<\/p>","content":"<p>Con ma\u00f1a es posible hacer que VLC lo haga. Pero reitero, con ma\u00f1a.<\/p>","karma":"33.00","parent":"361735","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Manu Mateos","user_id":"80522","author":"Manu Mateos","webpage":"http:\/\/www.genbeta.com\/autor\/mmateos","user_name":"mmateos","karma_level":"85.00","iseditor":"1","global_id":"378081","facebook_uid":null,"index":20,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/378081_3.png"},{"id":"361869","post_id":"63872","date":1315300279,"content_filtered":"<p>Si Windows 7 te la detecta prueba mediaportal. Est\u00e1 a a\u00f1os luz de MC.<\/p>","content":"Si Windows 7 te la detecta prueba mediaportal. Est\u00e1 a a\u00f1os luz de MC.","karma":"5.00","parent":"361735","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"porzino","user_id":"3085","author":"porzino","webpage":null,"user_name":null,"karma_level":"48.00","iseditor":"0","global_id":"129","facebook_uid":null,"index":56,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/42bbfdc7295503f6a0201db416a19bc8"},{"id":"361795","post_id":"63872","date":1315246885,"content_filtered":"<p>La verdad que no entiendo muy bien la confirmaci\u00f3n de Microsoft de incluir el Media Center en Windows 8, porque tiene una interfaz bastante similar a la que van a implementar con Metro en el SO.<\/p>\n\n<p>Pod\u00edan hacerlo desaparecer e incluir sus funciones directamente en la interfaz de Metro de Windows 8.<\/p>","content":"<p>La verdad que no entiendo muy bien la confirmaci\u00f3n de Microsoft de incluir el Media Center en Windows 8, porque tiene una interfaz bastante similar a la que van a implementar con Metro en el SO.<\/p>\n\n<p>Pod\u00edan hacerlo desaparecer e incluir sus funciones directamente en la interfaz de Metro de Windows 8.<\/p>","karma":"8.00","parent":"0","comment_edited_date":1315246939,"vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"FeelTheMusic","user_id":"104358","author":"MelomanGeek","webpage":"http:\/\/revisionsonica.wordpress.com","user_name":"mgeek","karma_level":"29.00","iseditor":"0","global_id":"521647","facebook_uid":null,"index":32,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/521647_1.png"},{"id":"361843","post_id":"63872","date":1315269258,"content_filtered":"<p>alguna vez lo use con la xbox, es lindo que se yo<\/p>","content":"alguna vez lo use con la xbox, es lindo que se yo","karma":"8.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"peilel","user_id":"16803","author":"","webpage":null,"user_name":"peilel","karma_level":"22.00","iseditor":"0","global_id":"72442","facebook_uid":null,"index":51,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/b4eefdf63e7927777bce5bf8f1431a65"},{"id":"361856","post_id":"63872","date":1315281300,"content_filtered":"<p>Y como saben eso? A ver si los van a demandar tambi\u00e9n por espiar a cada usuario en Windows. xD<\/p>","content":"Y como saben eso? A ver si los van a demandar tambi\u00e9n por espiar a cada usuario en Windows. xD","karma":"8.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"MarSanMar ","user_id":"9615","author":"MarSanMar","webpage":"http:\/\/www.blogssl.com","user_name":"marsanmar","karma_level":"27.00","iseditor":"0","global_id":"86470","facebook_uid":null,"index":53,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/86470_2.png"},{"id":"361736","post_id":"63872","date":1315233422,"content_filtered":"<p>Yo tambi\u00e9n lo usaba para ver la tele con la pc y grabarme algunos episodios.. m\u00e1s all\u00e1 de eso no tiene utilidad real.<\/p>","content":"<p>Yo tambi\u00e9n lo usaba para ver la tele con la pc y grabarme algunos episodios.. m\u00e1s all\u00e1 de eso no tiene utilidad real.<\/p>","karma":"7.50","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":" ","user_id":"2332","author":" ","webpage":null,"user_name":"3698","karma_level":"56.00","iseditor":"0","global_id":"19363","facebook_uid":null,"index":4,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/ce5e21230ada4c6bf50bf4065c6e6b7f"},{"id":"361730","post_id":"63872","date":1315232062,"content_filtered":"<p>No era nada \"user friendly\" ni intuitivo<\/p>\n\n<p>NOTA ACLARATORIA:Yo entiendo que un programa es intuitivo cuando lo coges por primera vez y eres capaz de realizar las acciones mas habituales para las que esta dise\u00f1ado a la primera y sin fallos. Y todo funciona con naturalidad<\/p>","content":"No era nada \"user friendly\" ni intuitivo\n\nNOTA ACLARATORIA:Yo entiendo que un programa es intuitivo cuando lo coges por primera vez y eres capaz de realizar las acciones mas habituales para las que esta dise\u00f1ado a la primera y sin fallos. Y todo funciona con naturalidad","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"58343","user_id":"58343","author":"","webpage":null,"user_name":"igor.ortega.98","karma_level":"22.00","iseditor":"0","global_id":"252933","facebook_uid":"100001119542077","index":1,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100001119542077\/picture"},{"id":"361743","post_id":"63872","date":1315235341,"content_filtered":"<p>Con todos los respetos el Media Center no es que fuera AUTOCAD...<\/p>","content":"<p>Con todos los respetos el Media Center no es que fuera AUTOCAD...<\/p>","karma":"35.00","parent":"361730","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Nuevos Musicos","user_id":"88026","author":"Nuevos Musicos","webpage":null,"user_name":"nuevosmusicos","karma_level":"20.00","iseditor":"0","global_id":"397752","facebook_uid":"100002392922762","index":9,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/397752_1.png"},{"id":"361742","post_id":"63872","date":1315234984,"content_filtered":"<p>Esta confirmado que si va a estar en windows 8, y por otra parte yo lo uso a diario para ver tv<\/p>","content":"Esta confirmado que si va a estar en windows 8, y por otra parte yo lo uso a diario para ver tv","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"0","comment_author":"lalogica3","user_id":"80226","author":"","webpage":null,"user_name":"lalogica3","karma_level":"17.00","iseditor":"0","global_id":"376465","facebook_uid":null,"index":8,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/15012404b1511fb7b24ad9e1daf0169b"},{"id":"361756","post_id":"63872","date":1315238934,"content_filtered":"<p>A mi lo que realmente me parece llamativo es que Microsoft sepa el uso tan detallado  de sus aplicaciones. Y m\u00e1s que a nadie le parezca intrusivo.<\/p>","content":"A mi lo que realmente me parece llamativo es que Microsoft sepa el uso tan detallado  de sus aplicaciones. Y m\u00e1s que a nadie le parezca intrusivo.","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"mangelbar","user_id":"93972","author":"","webpage":"http:\/\/blog.obraencurso.es","user_name":"mangelbar","karma_level":"17.00","iseditor":"0","global_id":"229957","facebook_uid":null,"index":18,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/b6fc8ac61a81efbe6d59730e5e53615d"},{"id":"361763","post_id":"63872","date":1315240332,"content_filtered":"<p>A m\u00ed tambi\u00e9n me ha llamado la atenci\u00f3n. Pero si te digo la verdad, no me ha sorprendido...<\/p>","content":"<p>A m\u00ed tambi\u00e9n me ha llamado la atenci\u00f3n. Pero si te digo la verdad, no me ha sorprendido...<\/p>","karma":"15.00","parent":"361756","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"visca_valencia","user_id":"63179","author":"","webpage":null,"user_name":"visca_valencia","karma_level":"22.00","iseditor":"0","global_id":"175238","facebook_uid":null,"index":24,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/3c1e139738bc9e507d24bfa86651862f"},{"id":"361765","post_id":"63872","date":1315241454,"content_filtered":"<p>Seguramente en la EULA al hacer click en acetpo los debes autorizar a recoger estad\u00edsticas sobre el software que usas. En las distribuciones Linux te lo dan como opcional y tienes que  decir que si (se asume que no)<\/p>","content":"<p>Seguramente en la EULA al hacer click en acetpo los debes autorizar a recoger estad\u00edsticas sobre el software que usas. En las distribuciones Linux te lo dan como opcional y tienes que  decir que si (se asume que no)<\/p>","karma":"20.00","parent":"361763","comment_edited_date":1315241489,"vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"0","comment_author":"Diego Germ\u00e1n Gonzalez","user_id":"18808","author":"Diego Germ\u00e1n Gonzalez","webpage":null,"user_name":"dggonzalez","karma_level":"32.00","iseditor":"0","global_id":"133442","facebook_uid":null,"index":25,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/963785ed6ba925a47584c60e210417be"},{"id":"361836","post_id":"63872","date":1315264500,"content_filtered":"<p>Jo...me has quitado el comentario que iba a hacer, entre solo para comentar eso, me maravilla las personas que califican a los \"antimicrosoft\" de paranoicos, pues como mismo saben las estad\u00edsticas de quien usa o no el media center, podr\u00edan tenerlas de todos los programas...(ojo los que se la pasen viendo peliculas dudosas en el ordenador jajajaja)<\/p>","content":"<p>Jo...me has quitado el comentario que iba a hacer, entre solo para comentar eso, me maravilla las personas que califican a los \"antimicrosoft\" de paranoicos, pues como mismo saben las estad\u00edsticas de quien usa o no el media center, podr\u00edan tenerlas de todos los programas...(ojo los que se la pasen viendo peliculas dudosas en el ordenador jajajaja)<\/p>","karma":"-10.00","parent":"361756","comment_edited_date":"","vote_count":"1","comment_level":4,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"tuxifer","user_id":"26396","author":"","webpage":null,"user_name":"tuxifer","karma_level":"27.00","iseditor":"0","global_id":"161062","facebook_uid":null,"index":47,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/161062_1.png"},{"id":"361760","post_id":"63872","date":1315239644,"content_filtered":"<p>Pues sinceramente, me parece un software de microsoft m\u00e1s que notable, sobretodo para ver la TDT, que es para lo que lo utilizo yo diariamente.<\/p>","content":"Pues sinceramente, me parece un software de microsoft m\u00e1s que notable, sobretodo para ver la TDT, que es para lo que lo utilizo yo diariamente.","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"juneon","user_id":"5148","author":"juneon","webpage":null,"user_name":"juneon","karma_level":"25.00","iseditor":"0","global_id":"9504","facebook_uid":null,"index":22,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/9504_1.png"},{"id":"361768","post_id":"63872","date":1315242168,"content_filtered":"<p>Siempre lo uso<\/p>","content":"Siempre lo uso","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"87267","user_id":"87267","author":"","webpage":null,"user_name":"wallen.diaz","karma_level":"17.00","iseditor":"0","global_id":"363859","facebook_uid":"751352753","index":27,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/751352753\/picture"},{"id":"361771","post_id":"63872","date":1315242485,"content_filtered":"<p>Es especialete util para alguien que tenga armado un HTPC lo cual resulta bastante comodo, actualmetne hay varias aplicaciones para controalr el ouse con un smartphone por lo cual con el  control en el smartphone para ver lo que quieras y la capacidad del equipo que mas se puede pedir....,  ahh si el joystick para jugar y se va de lujo.<\/p>","content":"Es especialete util para alguien que tenga armado un HTPC lo cual resulta bastante comodo, actualmetne hay varias aplicaciones para controalr el ouse con un smartphone por lo cual con el  control en el smartphone para ver lo que quieras y la capacidad del equipo que mas se puede pedir....,  ahh si el joystick para jugar y se va de lujo.","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"ciriux","user_id":"89087","author":"","webpage":null,"user_name":"ciriux","karma_level":"17.00","iseditor":"0","global_id":"417101","facebook_uid":null,"index":28,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/0d558b4809b930a37a4b37ca2f319194"},{"id":"361772","post_id":"63872","date":1315242670,"content_filtered":"<p>Buena  la verdad  es que han mejorado poco  cosa en el Media  Center  .Como lo quiten seria el primero en quejarme  .<\/p>","content":"Buena  la verdad  es que han mejorado poco  cosa en el Media  Center  .Como lo quiten seria el primero en quejarme  .","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"DanyUnit","user_id":"50112","author":"DanyUnit","webpage":null,"user_name":"danyunit","karma_level":"25.00","iseditor":"0","global_id":"240573","facebook_uid":null,"index":29,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/240573_1.png"},{"id":"361837","post_id":"63872","date":1315264614,"content_filtered":"<p>Pues eso, \u00e1nimos, tu hazlo, que Microsoft siempre ha escuchado a su comunidad... :D<\/p>","content":"<p>Pues eso, \u00e1nimos, tu hazlo, que Microsoft siempre ha escuchado a su comunidad... :D<\/p>","karma":"-12.50","parent":"361772","comment_edited_date":"","vote_count":"2","comment_level":4,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"tuxifer","user_id":"26396","author":"","webpage":null,"user_name":"tuxifer","karma_level":"27.00","iseditor":"0","global_id":"161062","facebook_uid":null,"index":48,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/161062_1.png"},{"id":"361874","post_id":"63872","date":1315308960,"content_filtered":"<p>Estas hablando del MS de hace a\u00f1os... ponte al d\u00eda, MS escucha muchisimo a la comunidad, y a los developers ni te cuento.<\/p>","content":"<p>Estas hablando del MS de hace a\u00f1os... ponte al d\u00eda, MS escucha muchisimo a la comunidad, y a los developers ni te cuento.<\/p>","karma":"15.00","parent":"361837","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"93970","user_id":"93970","author":"","webpage":null,"user_name":"cordoba.daniel","karma_level":"17.00","iseditor":"0","global_id":"444011","facebook_uid":"1118287333","index":57,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1118287333\/picture"},{"id":"361783","post_id":"63872","date":1315245242,"content_filtered":"<p>\u00a1Ojala me fuera tan \u00fatil como el Bloc de notas!<\/p>","content":"\u00a1Ojala me fuera tan \u00fatil como el Bloc de notas!","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"91526","user_id":"91526","author":"","webpage":null,"user_name":"inaki.alonso3","karma_level":"17.00","iseditor":"0","global_id":"353882","facebook_uid":"1091030566","index":31,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1091030566\/picture"},{"id":"361804","post_id":"63872","date":1315252656,"content_filtered":"<p>Yo lo uso desde hace unos 7 anios  porque vino con Windows XP Media Center y para mi es un programa indispensable ya que tengo una computadora principal con  2tb de disco duro donde grabo todas las series y guardo las peliculas mias y de mis hijos y tengo otras 3 laptops conectadas en red en las habitaciones para poder disfrutar de las peliculas grabadas<\/p>","content":"Yo lo uso desde hace unos 7 anios  porque vino con Windows XP Media Center y para mi es un programa indispensable ya que tengo una computadora principal con  2tb de disco duro donde grabo todas las series y guardo las peliculas mias y de mis hijos y tengo otras 3 laptops conectadas en red en las habitaciones para poder disfrutar de las peliculas grabadas","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"ono","user_id":"92379","author":"","webpage":null,"user_name":"ono","karma_level":"22.00","iseditor":"0","global_id":"302032","facebook_uid":null,"index":36,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/302032_1.png"},{"id":"361806","post_id":"63872","date":1315255518,"content_filtered":"<p>Yo lo uso mucho, pero como dicen en anteriores comentarios, es porque tengo el ordenador conectado a la tele y con mando a distancia.\nMe encanta y la \u00fanica pega que encuentro es que no abre algunos tipos de video como mkv, pero para los que puede reproducir est\u00e1 muy bien.<\/p>","content":"Yo lo uso mucho, pero como dicen en anteriores comentarios, es porque tengo el ordenador conectado a la tele y con mando a distancia.\nMe encanta y la \u00fanica pega que encuentro es que no abre algunos tipos de video como mkv, pero para los que puede reproducir est\u00e1 muy bien.","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Hollister","user_id":"13270","author":"Hollister","webpage":null,"user_name":"lecquio","karma_level":"38.00","iseditor":"0","global_id":"15161","facebook_uid":null,"index":38,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/9e75722477614e86e8b75bdf2f1f161b"},{"id":"361835","post_id":"63872","date":1315264071,"content_filtered":"<p>No puedes porque tienes que usar windows media player y no has puesto los codecs.<\/p>","content":"<p>No puedes porque tienes que usar windows media player y no has puesto los codecs.<\/p>","karma":"20.00","parent":"361806","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"s22","user_id":"3254","author":"s22","webpage":null,"user_name":"orbegozo","karma_level":"22.00","iseditor":"0","global_id":"21513","facebook_uid":null,"index":46,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/61c60668c854e708157b7dd4fa3e7d75"},{"id":"361810","post_id":"63872","date":1315257089,"content_filtered":"<p>Para m\u00ed, es un indispensable, tengo armado un HTPC en torno a \u00e9l desde d\u00f3nde administro TV por cable, m\u00fasica, videos, pel\u00edculas, etc. y hago streaming desde Media Centers Extenders en otras dos habitaciones de mi casa para poder grabar TV o ver los canales que el HTPC sintoniza.<\/p>\n\n<p>Si mucha gente no lo conoce, es porque no viene en todas la versiones de Windows, creo que solo en la Ultimate y posteriores o en las dedicadas como la XP Media Center Edition.<\/p>\n\n<p>Tampoco Microsoft se ocup\u00f3 lo suficiente de hacerlo ver como un plus a la hora de adquirir una versi\u00f3n u otra o inclusive a la hora de desarrollar extensiones para \u00e9l, la mayor\u00eda est\u00e1 hecha por terceros, y se pueden lograr cosas muy \u00fatiles para alguien con una configuraci\u00f3n como la m\u00eda.<\/p>\n\n<p>Para el que dec\u00eda que no pod\u00eda ver los videos en formato .MKV, unos buenos codecs te solucionan el problema, para eso, visita shark007.net<\/p>","content":"Para m\u00ed, es un indispensable, tengo armado un HTPC en torno a \u00e9l desde d\u00f3nde administro TV por cable, m\u00fasica, videos, pel\u00edculas, etc. y hago streaming desde Media Centers Extenders en otras dos habitaciones de mi casa para poder grabar TV o ver los canales que el HTPC sintoniza.\n\nSi mucha gente no lo conoce, es porque no viene en todas la versiones de Windows, creo que solo en la Ultimate y posteriores o en las dedicadas como la XP Media Center Edition.\n\nTampoco Microsoft se ocup\u00f3 lo suficiente de hacerlo ver como un plus a la hora de adquirir una versi\u00f3n u otra o inclusive a la hora de desarrollar extensiones para \u00e9l, la mayor\u00eda est\u00e1 hecha por terceros, y se pueden lograr cosas muy \u00fatiles para alguien con una configuraci\u00f3n como la m\u00eda.\n\nPara el que dec\u00eda que no pod\u00eda ver los videos en formato .MKV, unos buenos codecs te solucionan el problema, para eso, visita shark007.net","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"86484","user_id":"86484","author":"","webpage":null,"user_name":"fernandojconti","karma_level":"20.00","iseditor":"0","global_id":"386822","facebook_uid":"100000230999242","index":39,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100000230999242\/picture"},{"id":"361881","post_id":"63872","date":1315312008,"content_filtered":"<p>Windows Media Center viene en Windows 7 Home Premium y posteriores (yo uso Professional y puedo asegurarte que est\u00e1 presente), y en Windows Vista Home Premium y Ultimate.<\/p>","content":"Windows Media Center viene en Windows 7 Home Premium y posteriores (yo uso Professional y puedo asegurarte que est\u00e1 presente), y en Windows Vista Home Premium y Ultimate.","karma":"8.00","parent":"361810","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Manu Mateos","user_id":"80522","author":"Manu Mateos","webpage":"http:\/\/www.genbeta.com\/autor\/mmateos","user_name":"mmateos","karma_level":"85.00","iseditor":"1","global_id":"378081","facebook_uid":null,"index":59,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/378081_3.png"},{"id":"361830","post_id":"63872","date":1315262104,"content_filtered":"<p>\u00bfQue pasara con los que somos usuarios de Xbox 360? yo lo uso como extender y como comentan por ah\u00ed, es bastante bueno...<\/p>","content":"\u00bfQue pasara con los que somos usuarios de Xbox 360? yo lo uso como extender y como comentan por ah\u00ed, es bastante bueno...","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"81297","user_id":"81297","author":"","webpage":null,"user_name":"masterdark","karma_level":"17.00","iseditor":"0","global_id":"321645","facebook_uid":"100000394674857","index":43,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100000394674857\/picture"}],"meta":{"more_records":"true","start":0,"total":50,"order":"valued","totalCount":61},"commentStatus":"closed"});
+
+	window.App = new AML.Comments.Application(63872, commentList);
+	Backbone.history.start();
+      });
+    </script>
+
+  <!-- Comments and Other Stuff -->
+
+  <div id="ad-bottom" class="ad ad-boton">
+  <a class="ad-contact" id="div-gpt-bot-contact" style="display:none" href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-bot' class="ad-box" style='width: 728px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-bot");
+    });
+    </script>
+    </div>
+</div>
+
+  <!-- .ad - boton -->
+  <div class="sidebar-seo-links">
+    <h4>Más en Genbeta</h4>
+    <ul>
+              <li>
+          <a  href="/windows/windows-xp-mors-certa-hora-incerta" class="thumb80">
+            <img title="Windows XP: Mors certa, hora incerta" src="http://img.genbeta.com/tb/80_80/110674.jpg" alt="Windows XP: Mors certa, hora incerta">
+          </a>
+          <a  href="/windows/windows-xp-mors-certa-hora-incerta">
+            Windows XP: Mors certa, hora incerta
+          </a>
+        </li>
+              <li>
+          <a  href="/windows/windows-8-alcanza-los-200-millones-de-licencias-vendidas" class="thumb80">
+            <img title="Windows 8 alcanza los 200 millones de licencias vendidas" src="http://img.genbeta.com/tb/80_80/110927.jpg" alt="Windows 8 alcanza los 200 millones de licencias vendidas">
+          </a>
+          <a  href="/windows/windows-8-alcanza-los-200-millones-de-licencias-vendidas">
+            Windows 8 alcanza los 200 millones de licencias vendidas
+          </a>
+        </li>
+              <li>
+          <a  href="/windows/microsoft-a-los-usuarios-avanzados-ayudadnos-a-hacer-desaparecer-windows-xp" class="thumb80">
+            <img title="Microsoft a los usuarios avanzados: ayudadnos a hacer desaparecer Windows XP" src="http://img.genbeta.com/tb/80_80/110816.jpg" alt="Microsoft a los usuarios avanzados: ayudadnos a hacer desaparecer Windows XP">
+          </a>
+          <a  href="/windows/microsoft-a-los-usuarios-avanzados-ayudadnos-a-hacer-desaparecer-windows-xp">
+            Microsoft a los usuarios avanzados: ayudadnos a hacer desaparecer Windows XP
+          </a>
+        </li>
+              <li>
+          <a  href="/windows/satya-nadella-nuevo-ceo-de-microsoft" class="thumb80">
+            <img title="Satya Nadella, nuevo CEO de Microsoft " src="http://img.genbeta.com/tb/80_80/110695.jpg" alt="Satya Nadella, nuevo CEO de Microsoft ">
+          </a>
+          <a  href="/windows/satya-nadella-nuevo-ceo-de-microsoft">
+            Satya Nadella, nuevo CEO de Microsoft 
+          </a>
+        </li>
+              <li>
+          <a  href="/windows/filtrado-windows-8-1-update-1-y-trae-pocas-sorpresas" class="thumb80">
+            <img title="Filtrado Windows 8.1 Update 1, y trae pocas sorpresas" src="http://img.genbeta.com/tb/80_80/110641.jpg" alt="Filtrado Windows 8.1 Update 1, y trae pocas sorpresas">
+          </a>
+          <a  href="/windows/filtrado-windows-8-1-update-1-y-trae-pocas-sorpresas">
+            Filtrado Windows 8.1 Update 1, y trae pocas sorpresas
+          </a>
+        </li>
+          </ul>
+</div>
+<!-- related-posts SEO links-->
+       
+    </div>
+  <!-- .container -->
+  </div>
+  <!-- .content-dinamic -->
+
+  <div class= "nav nav-blog">
+  <div class= "container">
+    <h2><strong>&#43;</strong> en Genbeta</h2>
+    <ul>
+      <li class= "blog-section section-lomejor"><a href="/lomejor">Lo mejor</a></li>
+      <li class= "blog-section section-temas"><a href="/archivos">Temas</a></li>
+            <li class= "blog-section section-productos"><a href="/productos">Productos</a></li>
+                  <li class= "blog-section section-respuestas"><a href="/respuestas">Respuestas</a></li>
+            
+            <li class="blog-section section-club"><a href="/club">Club</a></li>
+            <li class= "blog-section section-comunidad"><a href="/comunidad">Comunidad</a></li>
+      <li class="blog-section section-staff"><a href="/quienes-somos">Staff</a></li>
+    </ul>
+  </div>
+</div>
+  
+<div class="footer">
+        <div class="footer-media">
+                <div class="links-category">
+            <h2>Tecnología</h2>
+            <ul>
+                              <li class="tec-xataka"><a href="http://www.xataka.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka<span></span></a></li>
+                              <li class="tec-xatakamovil"><a href="http://www.xatakamovil.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Móvil<span></span></a></li>
+                              <li class="tec-xatakafoto"><a href="http://www.xatakafoto.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Foto<span></span></a></li>
+                              <li class="tec-xatakandroid"><a href="http://www.xatakandroid.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Android<span></span></a></li>
+                              <li class="tec-xatakaon"><a href="http://www.xatakaon.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka On<span></span></a></li>
+                              <li class="tec-xatakahome"><a href="http://www.xatakahome.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Smart Home<span></span></a></li>
+                              <li class="tec-xatakawindows"><a href="http://xatakawindows.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Windows<span></span></a></li>
+                              <li class="tec-xatakaciencia"><a href="http://www.xatakaciencia.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Ciencia<span></span></a></li>
+                              <li class="tec-applesfera"><a href="http://www.applesfera.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Applesfera<span></span></a></li>
+                              <li class="tec-vidaextra"><a href="http://www.vidaextra.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vida Extra<span></span></a></li>
+                              <li class="tec-genbeta"><a href="http://www.genbeta.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Genbeta<span></span></a></li>
+                              <li class="tec-genbetadev"><a href="http://www.genbetadev.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Genbeta Dev<span></span></a></li>
+                          </ul>
+        </div>
+            </div>
+    
+    <div class="footer-links">
+                        <div class="links-category">
+            <h2>Estilos de vida</h2>
+            <ul>
+                              <li><a href="http://www.trendencias.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias</a></li>
+                              <li><a href="http://www.trendenciasbelleza.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Belleza</a></li>
+                              <li><a href="http://www.trendenciashombre.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Hombre</a></li>
+                              <li><a href="http://www.trendenciasshopping.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Shopping</a></li>
+                              <li><a href="http://www.trendenciaslifestyle.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Lifestyle</a></li>
+                              <li><a href="http://www.directoalpaladar.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Directo al Paladar</a></li>
+                              <li><a href="http://www.bebesymas.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bebés y Más</a></li>
+                              <li><a href="http://www.pequesymas.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Peques y Más</a></li>
+                              <li><a href="http://www.vitonica.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vitónica</a></li>
+                              <li><a href="http://www.decoesfera.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Decoesfera</a></li>
+                              <li><a href="http://www.embelezzia.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Embelezzia</a></li>
+                              <li><a href="http://www.ambienteg.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ambiente G</a></li>
+                              <li><a href="http://www.poprosa.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Poprosa</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Motor</h2>
+            <ul>
+                              <li><a href="http://www.motorpasion.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión</a></li>
+                              <li><a href="http://www.motorpasionf1.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión F1</a></li>
+                              <li><a href="http://www.motorpasionmoto.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Moto</a></li>
+                              <li><a href="http://www.motorpasionfuturo.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Futuro</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Ocio</h2>
+            <ul>
+                              <li><a href="http://www.blogdecine.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog de Cine</a></li>
+                              <li><a href="http://www.vayatele.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">¡Vaya Tele!</a></li>
+                              <li><a href="http://www.hipersonica.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Hipersónica</a></li>
+                              <li><a href="http://www.diariodelviajero.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Diario del Viajero</a></li>
+                              <li><a href="http://www.papelenblanco.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Papel en Blanco</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Economía</h2>
+            <ul>
+                              <li><a href="http://www.elblogsalmon.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">El Blog Salmón</a></li>
+                              <li><a href="http://www.pymesyautonomos.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Pymes y Autónomos</a></li>
+                              <li><a href="http://www.tecnologiapyme.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Tecnología Pyme</a></li>
+                              <li><a href="http://www.ahorrodiario.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ahorro Diario</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Latinoamérica</h2>
+            <ul>
+                              <li><a href="http://www.xataka.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Brasil</a></li>
+                              <li><a href="http://www.trendencias.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Brasil</a></li>
+                              <li><a href="http://www.motorpasion.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Brasil</a></li>
+                              <li><a href="http://www.xataka.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka México</a></li>
+                              <li><a href="http://www.motorpasion.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión México</a></li>
+                              <li><a href="http://www.directoalpaladar.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Directo Al Paladar México</a></li>
+                              <li><a href="http://www.xatakandroid.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Android México</a></li>
+                              <li><a href="http://www.vidaextra.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vida Extra México</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Participamos en</h2>
+            <ul>
+                              <li><a href="http://www.ebayers.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">eBayers</a></li>
+                              <li><a href="http://www.circulaseguro.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Circula Seguro</a></li>
+                              <li><a href="http://www.circulaseguro.pt/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Circula Seguro PT</a></li>
+                              <li><a href="http://www.actibva.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Actibva</a></li>
+                              <li><a href="http://www.anexom.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Anexo M</a></li>
+                              <li><a href="http://blog.cocacola.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Happing Magazine</a></li>
+                              <li><a href="http://blog.sage.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog Sage</a></li>
+                              <li><a href="http://www.optimismodigital.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Optimismo Digital</a></li>
+                              <li><a href="http://www.1001experiencias.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">1001 Experiencias</a></li>
+                              <li><a href="http://www.ennaranja.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">En Naranja</a></li>
+                              <li><a href="http://www.essieblog.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Essie Blog</a></li>
+                              <li><a href="http://blogginzenith.zenithmedia.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bloggin Zenith</a></li>
+                              <li><a href="http://www.urbanfire.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Urbanfire</a></li>
+                              <li><a href="http://www.tecnologiadetuatu.elcorteingles.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Tecnología de tú a tú</a></li>
+                              <li><a href="http://www.ciudadano00.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ciudadano 0,0</a></li>
+                              <li><a href="http://blogfanta.cocacola.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog Fanta</a></li>
+                              <li><a href="http://mimundo.philips.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Mi Mundo Philips</a></li>
+                              <li><a href="http://www.bbvacontuempresa.es?utm_source=genbeta&utm_medium=network&utm_campaign=footer">BBVA con tu empresa</a></li>
+                              <li><a href="http://www.perutravelblog.net/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Perú Travel Blog</a></li>
+                              <li><a href="http://bscene.bershka.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bershka Bscene</a></li>
+                              <li><a href="http://www.institutodelafelicidad.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Instituto de la Felicidad</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                    </div>
+</div>
+
+<div class="closure">
+    <div class="container">
+        <div class="weblogssl"><a href="http://www.weblogssl.com">Weblogs SL<span></span></a></div>
+        <ul class="nav">
+            <li><a href="/quienes-somos">¿Quienes somos?</a></li>
+            <li><a href="http://www.weblogssl.com/contenidos">Condiciones de uso</a></li>
+            <li><a href="http://www.weblogssl.com/cookies">Política de cookies</a></li>
+            <li><a href="http://www.weblogssl.com/aviso">Aviso legal</a></li>
+            <li><a title="Publicidad en Genbeta" href="http://www.socialmediasl.com/genbeta.php">Publicidad</a></li>
+            <li><a href="/ayuda-2012">Ayuda</a></li>
+            <li><a href="/contacto">Contacto</a></li>
+        </ul>
+    </div>
+</div>
+
+<div id="cookies-overlay"></div>
+
+  <script type="text/javascript">
+    $(function() {
+      new AML.Auth.View.CookiesOverlayView;
+    });
+  </script>
+
+</div>
+<div id="favicons-list">
+
+    <div class="userbar">
+        <a class="head-shortcut" href="#body" title="Volver arriba">&uarr;</a>
+        <div class="userbox" id="wsl_userbox">
+        </div>
+
+        <div class="favicons" style="width: auto; ">
+
+            <div id="scroll-menu">
+
+                <div class="disabledHotSpotLeft">«</div>
+                <div class="disabledHotSpotRight">»</div>
+                <div class="scrollingHotSpotLeft">«</div>
+                <div class="scrollingHotSpotRight">»</div>
+
+                <div class="scrollWrapper">
+                    <div class="scrollableArea">
+
+                        <ul class="favicroll">
+                            <li id="wsl"><a target="_top" href="http://www.weblogssl.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><em><strong>Blog corporativo</strong></em></a></li>
+
+                            <li><a target="_top" href="http://www.xataka.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b1"><strong>XTK</strong></span> <em><strong>Xataka - Gadgets y electrónica de consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vidaextra.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b2"><strong>VX</strong></span> <em><strong>VidaExtra - Videojuegos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.blogdecine.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b3"><strong>BDC</strong></span> <em><strong>Blog de cine - Cine  y críticas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.elblogsalmon.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b5"><strong>EBS</strong></span> <em><strong>El Blog Salmón - Economía y finanzas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.genbeta.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b6"><strong>GBT</strong></span> <em><strong>Genbeta - Software</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasion.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b7"><strong>MP</strong></span> <em><strong>MotorPasión - Coches y motor</strong></em></a></li>
+                            <li><a target="_top" href="http://www.directoalpaladar.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b8"><strong>DAP</strong></span> <em><strong>Directo al paladar - Gastronomía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.bebesymas.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b9"><strong>BYM</strong></span> <em><strong>Bebés y más - Todo sobre bebés</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vayatele.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b11"><strong>VYT</strong></span> <em><strong>¡Vaya Tele! - Series y televisión</strong></em></a></li>
+                            <li><a target="_top" href="http://www.diariodelviajero.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b12"><strong>DDV</strong></span> <em><strong>Diario del viajero - Viajes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakaciencia.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b13"><strong>XCI</strong></span> <em><strong>Xataka Ciencia - Ciencia</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendencias.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b14"><strong>TRE</strong></span> <em><strong>Trendencias - Moda y tendencias</strong></em></a></li>
+                            <li><a target="_top" href="http://www.hipersonica.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b15"><strong>HIP</strong></span> <em><strong>HiperSónica - Música</strong></em></a></li>
+                            <li><a target="_top" href="http://www.applesfera.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b16"><strong>APP</strong></span> <em><strong>Applesfera - Apple</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasshopping.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b17"><strong>COM</strong></span> <em><strong>Trendencias Shopping - Compras y consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakamovil.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b18"><strong>XTM</strong></span> <em><strong>Xataka Móvil - Móviles</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ambienteg.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b19"><strong>AMG</strong></span> <em><strong>Ambiente G - Gays y lesbianas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionmoto.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b20"><strong>MMO</strong></span> <em><strong>Motorpasión Moto - Motos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.papelenblanco.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b21"><strong>PEB</strong></span> <em><strong>Papel en blanco - Literatura</strong></em></a></li>
+                            <li><a target="_top" href="http://www.decoesfera.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b22"><strong>DEC</strong></span> <em><strong>Decoesfera - Decoración e interiorismo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionf1.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b23"><strong>MF1</strong></span> <em><strong>Motorpasión F1 - Carreras</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vitonica.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b24"><strong>VIT</strong></span> <em><strong>Vitónica - Vida sana</strong></em></a></li>
+                            <li><a target="_top" href="http://www.embelezzia.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b25"><strong>EMB</strong></span> <em><strong>Embelezzia - Lujo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.poprosa.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b26"><strong>POP</strong></span> <em><strong>Poprosa - Famosos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakafoto.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b27"><strong>XTF</strong></span> <em><strong>Xataka Foto - Fotografía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.pymesyautonomos.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b28"><strong>PYA</strong></span> <em><strong>Pymes y autónomos - Pymes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasbelleza.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b30"><strong>TRB</strong></span> <em><strong>Trendencias Belleza - Belleza y cosmética</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.tecnologiapyme.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b34"><strong>TPY</strong></span> <em><strong>Tecnología Pyme - Tecnología para empresas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ahorrodiario.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b35"><strong>AHD</strong></span> <em><strong>Ahorro Diario - Ahorro</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciashombre.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b36"><strong>TRH</strong></span> <em><strong>Trendencias Hombre - Moda y estilo masculino</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.pequesymas.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b37"><strong>PEQ</strong></span> <em><strong>Peques y más - Niños e infancia</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakaon.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b39"><strong>XTO</strong></span> <em><strong>Xataka On - Todo sobre conectividad, ADSL</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakandroid.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b40"><strong>XTA</strong></span> <em><strong>Xataka Android - Android, aplicaciones y dispositivos</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.genbetadev.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b41"><strong>GBD</strong></span> <em><strong>Genbeta Dev - Desarrollo de software</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.motorpasionfuturo.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b42"><strong>MPF</strong></span> <em><strong>Motorpasión Futuro - Innovación y Motor</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakahome.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b44"><strong>XSH</strong></span> <em><strong>Xataka Smart Home - Inteligencia doméstica digital</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakawindows.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b45"><strong>XTW</strong></span> <em><strong>Xataka Windows - Universo Microsoft</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciaslifestyle.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b46"><strong>TLS</strong></span> <em><strong>Trendencias Lifestyle</strong></em></a></li>
+                        </ul>
+
+                    </div>
+                </div>
+                <!-- .scrollWrapper-->
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<div id="wsl_dialog"></div>
+<script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', function() {
+  try {
+    if (window.external.msIsSiteMode()) {
+      window.external.msSiteModeClearJumpList();
+      window.external.msSiteModeCreateJumplist('Mensajes Recientes');
+            window.external.msSiteModeAddJumpListItem('Office\x20para\x20iPad,\x20m\u00E1s\x20pronto\x20que\x20tarde\x3A\x20para\x20la\x20primera\x20mitad\x20de\x202014', 'http://www.genbeta.com/ofimatica/office-para-ipad-mas-pronto-que-tarde-para-la-primera-mitad-de-2014', '');
+            window.external.msSiteModeAddJumpListItem('Bittorrent\x20Live,\x20el\x20streaming\x20P2P,\x20llegar\u00E1\x20pronto\x20a\x20los\x20m\u00F3viles\x20', 'http://www.genbeta.com/multimedia/bittorrent-live-el-streaming-p2p-llegara-pronto-a-los-moviles', '');
+            window.external.msSiteModeAddJumpListItem('La\x20hipocres\u00EDa\x20de\x20algunos\x20medios\x20tradicionales.\x20La\x20imagen\x20de\x20la\x20semana\x20', 'http://www.genbeta.com/actualidad/la-hipocresia-de-algunos-medios-tradicionales-la-imagen-de-la-semana', '');
+            window.external.msSiteModeAddJumpListItem('\x22Tasa\x20Google\x22\x3A\x20si\x20tienes\x20un\x20blog\x20tambi\u00E9n\x20te\x20afecta,\x20solo\x20que\x20otros\x20la\x20cobrar\u00E1n\x20por\x20ti\x20', 'http://www.genbeta.com/actualidad/tasa-google-si-tienes-un-blog-tambien-te-afecta-solo-que-otros-la-cobraran-por-ti', '');
+            window.external.msSiteModeAddJumpListItem('Kickstarter,\x20tras\x20sufrir\x20un\x20ataque,\x20recomienda\x20cambiar\x20contrase\u00F1as\x20', 'http://www.genbeta.com/web/kickstarter-tras-sufrir-un-ataque-recomienda-cambiar-contrasenas', '');
+            window.external.msSiteModeShowJumpList();
+    }
+  } catch (exp) {
+    // do nothing
+  }
+  });
+</script>
+
+
+<script type='text/javascript'>
+    (function() {
+      new ViceVersaLink("http://t.genbeta.com");
+    })();
+</script>
+
+<script type='text/javascript'>
+  window.onerror = function(message, file, line) {
+    var sFormattedMessage = '[' + file + ' (' + line + ')] ' + message;
+    _gaq.push(['_trackEvent', 'Errors', 'Browser', sFormattedMessage, null, true]);
+  }
+    
+</script>
+
+</body>
+</html>

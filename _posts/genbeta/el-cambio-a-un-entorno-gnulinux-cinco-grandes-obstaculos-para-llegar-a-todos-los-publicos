@@ -1,0 +1,916 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+                                                                                                                                                                                                                                                                                <title>El cambio a un entorno GNU/Linux: cinco grandes obstáculos para llegar a todos los públicos</title>
+                  <meta name="description" content="Mi primera experiencia con un sistema GNU/Linux se remonta ya bastantes años atrás. Alguien me había comentado que existían alternativas a..." />
+            <meta name="news_keywords" content="drivers, terminal, Switcher, Mercados de aplicaciones"/>
+       
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />    
+    <meta name='robots' content='noodp' />
+    <meta property="fb:admins" content="100000716994885"/>
+    <meta name="application-name" content="Genbeta"/>
+    <meta name="msapplication-tooltip" content="Software y web. Genbeta"/>
+    <meta name="msapplication-starturl" content="http://www.genbeta.com"/>
+    <meta name="msapplication-task" content="name=Lo mejor;action-uri=http://www.genbeta.com/lomejor;icon-uri=http://img.genbeta.com/lp2/v6/images/pin-bg-lomejor-icon.ico" />
+        <meta name="msapplication-task" content="name=Respuestas;action-uri=http://www.genbeta.com/respuestas;icon-uri=http://img.genbeta.com/lp2/v6/images/pin-bg-respuestas-icon.ico" />
+                <!--[if !IE]><!--> <link rel="shortcut icon" href="http://img.genbeta.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if lt IE 9]><!--> <link rel="shortcut icon" href="http://img.genbeta.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if gte IE 9]>
+            <link rel="shortcut icon" type="image/x-icon" href="http://img.genbeta.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+            <link rel=icon type="image/ico" href="http://img.genbeta.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+        <![endif]-->
+    
+    <link rel="apple-touch-icon" href="http://img.genbeta.com/lp2/mobile/images/apple-touch-icon.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-57-precomposed.png">
+
+        <link rel="stylesheet" type="text/css" href="http://img.genbeta.com/lp2/v6/main.css?v=24272">
+        <link rel="publisher" href="http://plus.google.com/106643481235450321345" />
+    <link rel="alternate" type="application/rss+xml" title="" href="/index.xml" />
+    <!--[if lt IE 7]>
+      <link rel="stylesheet" type="text/css" href="http://img.genbeta.com/lp2/v6/ie7.css">
+    <![endif]-->
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', "UA-78515-6"]);
+  _gaq.push(['_setCampaignCookieTimeout', 259200000]);
+  _gaq.push(['_setDomainName', ".genbeta.com"]);
+  _gaq.push(['_setSiteSpeedSampleRate', 5]);
+  _gaq.push(['t2._setAccount', "UA-78515-62"]);
+  _gaq.push(['t2._setCampaignCookieTimeout', 259200000]);
+  _gaq.push(['t2._setDomainName', ".genbeta.com"]);
+  (function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') +       '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  })();
+</script>
+
+ <link rel="canonical" href="http://www.genbeta.com/sistemas-operativos/el-cambio-a-un-entorno-gnulinux-cinco-grandes-obstaculos-para-llegar-a-todos-los-publicos" />
+ <link rel="image_src" href="http://img.genbeta.com/resize/75/thumbnails/b/65998.jpg" />
+ <meta property="og:title" content="El cambio a un entorno GNU/Linux: cinco grandes obstáculos para llegar a todos los públicos">
+ <meta property="og:description" content="Mi primera experiencia con un sistema GNU/Linux se remonta ya bastantes años atrás. Alguien me había comentado que existían alternativas a...">
+ <meta property="og:image" content="http://img.genbeta.com/original/65998.jpg">
+    <script>
+    _gaq.push(['t2._setPageGroup', '1', 'post']);
+    _gaq.push(['t2._setPageGroup', '2', "miguel julián"]);
+    _gaq.push(['t2._setPageGroup', '3', "sistemas-operativos"]);
+    _gaq.push(['t2._setPageGroup', '4', "normal"]);
+    _gaq.push(['_setPageGroup', '1', 'post']);
+    _gaq.push(['_setPageGroup', '2', "miguel julián"]);
+    _gaq.push(['_setPageGroup', '3', "sistemas-operativos"]);
+    _gaq.push(['_setPageGroup', '4', "normal"]);
+       </script>
+   </head>
+       <body id="body" class="article-single">
+
+    <script type='text/javascript'>
+    var MAX_source = "";
+    var GPTcats = ["linux", "sistemas-operativos"];
+    var GPTtags = ["drivers", "terminal", "switcher", "mercados-de-aplicaciones"];
+      </script>
+      <script type='text/javascript'>
+googletag.pubads().setTargeting("origin", "googlesearch").setTargeting("screen", screen.width.toString()).setTargeting("cat", GPTcats).setTargeting("tag", GPTtags);
+if (navigator.userAgent.match(/iPad/i) != null) {
+  googletag.pubads().setTargeting("ua", "ipad");
+} 
+ 
+googletag.defineSlot('/4712/GEB/interior_top', [1000, 40], 'div-gpt-top').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_lateral', [[160, 600], [200,600], [300,600], [300,250]], 'div-gpt-lat').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_central', [[300, 250], [400,400], [1000,250]], 'div-gpt-cen').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_central2', [[300, 250],[400,400],[690, 250]], 'div-gpt-cen2').addService(googletag.pubads());
+googletag.defineSlot('/1018282/GEB-BOT2-interior',[728, 90], 'div-gpt-bot').addService(googletag.pubads());
+googletag.defineSlot('/1018282/GEB-INP', [500, 80], 'div-gpt-inp').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interstitial', [1000, 525], 'div-gpt-int').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().enableSyncRendering();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+</script>
+
+       <script type="text/javascript">
+      WSL2 = {};
+      WSL2.config = {};
+      WSL2.config.fbapikey = "360028941603";
+      WSL2.config.cookieDomain = "";
+      WSL2.config.imagePath = 'http://img.genbeta.com/lp2/v6';
+      WSL2.config.siteName = "Genbeta";
+      window.___gcfg = {lang: 'es'};
+    </script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="http://code.jquery.com/jquery-migrate-1.1.0.js"></script>
+            <script src="http://img.weblogssl.com/LPbackend/prod/v2/js/frontend-758.js"></script>
+          <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _c1 = new WSL2.Cookie;
+      loginStatus = (_c1.hasSession()) ? "yes:" + _c1.loginType() : "no";
+      _gaq.push(['t2._setCustomVar', 4, '.genbeta.com', 'loginstatus:' + loginStatus, 2]);
+      _gaq.push(['_trackPageview']);
+      _gaq.push(['t2._trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); 
+    ga.type = 'text/javascript';
+    ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+  })();
+      var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "11306788" });
+         (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[1]; 
+          s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb": "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+    </script>
+
+    <div id="fb-root"></div>
+  <!-- fb needs this -->
+
+  <script src="//platform.twitter.com/widgets.js" id="tweetjs"></script>
+  <script src="//apis.google.com/js/plusone.js" id="gplus1js"></script>
+  <script src="//connect.facebook.net/es_ES/all.js#xfbml=1" id="fbjssdk"></script>
+  <div class="customize-me">
+  <div class="content-fixed">
+    <div class="container">
+                <!-- .header -->
+            <div class="header header-page">
+        <h1 class="site-logo"><a href="http://www.genbeta.com" title="Ir a la portada">Software y web. Genbeta<span></span></a></h1>
+        <form method="get" action="/busqueda" id="search" class="search" style="top:62px; width:310px; padding: 0;">
+    <p>
+        <input type="hidden" name="cx" value="partner-pub-9977500652563564:0292109475">
+        <input type="text" id="gsearch" name="q" accesskey="4" title="Buscar" placeholder="Busca en Genbeta con Google">
+        <input type="hidden" name="ie" value="UTF-8">
+        <input type="hidden" name="oe" value="UTF-8">
+        <input type="hidden" name="cof" value="FORID:10">
+        <button class="button">Buscar <span class="arrow">&raquo;</span></button>
+    </p>
+</form>
+<script type="text/javascript" src="http://www.google.es/coop/cse/brand?form=cse-search-box&amp;lang=es"></script>
+            <div class="nav nav-main">
+    <ul class="nav-primary">
+        <li class="home-link"><a href="/" title="Volver a portada">Portada</a></li>
+        <li class="respuestas-link"><a href="/respuestas">Respuestas</a></li>
+        <li class="temas-submenu">
+            <ul class="nav-secondary">
+                                   <li><a href="/categoria/actualidad" title="Ir a la categoría Actualidad">Actualidad</a></li>
+                                   <li><a href="/categoria/linux" title="Ir a la categoría Linux">Linux</a></li>
+                                   <li><a href="/categoria/movil" title="Ir a la categoría Móvil">Móvil</a></li>
+                                   <li><a href="/categoria/windows" title="Ir a la categoría Windows">Windows</a></li>
+                                   <li><a href="/categoria/herramientas" title="Ir a la categoría Herramientas">Herramientas</a></li>
+                                <li><a href="/archivos" title="Ver todas las categorías">Más &raquo;</a></li>
+            </ul>
+        </li>
+                  
+            </ul>
+</div>
+
+        <div class="nav nav-tags">
+        <h3>No te pierdas <span class="arrow">&raquo;</span></h3>
+        <ul>
+                        <li><a href="/tag/tasa-google" title="Todo sobre Tasa Google">Tasa Google</a></li>
+                        <li><a href="/tag/ley-lassalle" title="Todo sobre Ley Lassalle">Ley Lassalle</a></li>
+                        <li><a href="/tag/balance-de-windows-8" title="Todo sobre Balance de Windows 8">Balance de Windows 8</a></li>
+                        <li><a href="/tag/cazadores-de-fakes" title="Todo sobre Cazadores de Fakes">Cazadores de Fakes</a></li>
+                        <li><a href="/tag/satya-nadella" title="Todo sobre Satya Nadella">Satya Nadella</a></li>
+                    </ul>
+</div>
+<!-- .nav-tags -->
+
+                    <div class="ad ad-desplegable">
+  <a class="ad-contact" id="div-gpt-top-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+  <div class="ad-box">
+    <div id='div-gpt-top' style='width: 1000px;'>
+    <script type="text/javascript">
+        googletag.cmd.push(function() {
+        googletag.display("div-gpt-top");
+        });
+    </script>
+    </div>
+  </div>
+</div>
+<!-- .ad-box - desplegable -->
+
+  <div class="nav">
+   <ul class="article-nav-controls">
+                              <li><a class="article-control article-previous" href="/activismo-online/hay-piratas-en-el-capitolio"><span>¿Hay piratas en el Capitolio?</span></a></li>
+                                             <li><a class="article-control article-next" href="/seguridad/immunet-protect-30-con-clam-av-integrado-como-motor-de-deteccion-de-virus"><span>Immunet Protect 3.0, con Clam AV integrado como motor de detección de virus</span></a></li>
+                  </ul>
+  </div>
+              </div>
+                   <div class="article article-pre-content">
+  <h1 class="article-header">El cambio a un entorno GNU/Linux: cinco grandes obstáculos para llegar a todos los públicos</h1>
+  <div class="article-date">27 de diciembre de 2011 | 23:45 CET <span id="is_editor"></span></div>
+  <div class="article-author-details">
+  <div class="figure">
+    <a rel='author' href="/autor/miguel-julian">
+      <img src="http://www.gravatar.com/avatar/14216b3a89c997bfc641f9d3abf7bc0b?s=80&amp;d=mm&amp;r=g" alt="miguel-julian">
+    </a>
+  </div>
+  <h2><a rel='author' href="/autor/miguel-julian">Miguel Julián</a></h2>
+      </div>
+<!-- .article-author-details -->
+</div>
+           </div>
+    <!-- .container -->
+  </div>
+  <!-- .content-fixed -->
+
+  <div class="content-dinamic">
+    <div class="container">
+          <script type="text/javascript">
+        $(function()
+        {
+          AML.postVoteView = new AML.Post.View.PostVoteView({postId:"65998", el:".social-sharing" });
+          AML.isEditorView = new AML.Post.View.IsEditorView({postId:"65998", model: WSL2.User });
+        });
+      </script>
+
+    <div class="aside">
+            <div id="ad-lateral" class="ad ad-primer-escaparate">
+  <a class="ad-contact" id="div-gpt-lat-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-lat' class="ad-box" style='width: 300px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-lat");
+    });
+    </script>
+    </div>
+</div>
+<!-- .ad-box - escaparate vertical -->
+
+           <!-- .ad-box - escaparate vertical -->
+            
+                  
+<div class="aside-box aside-subscribe">
+  <h3 class="aside-header">Síguenos</h3>
+  
+          
+  <form id="feedForm" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" >
+    <label for="subscribe-email">Newsletter:</label>  
+      <input type="text" name="email" type="text" id="feedburnermail" placeholder="Correo electrónico"/>
+      <input type="hidden" name="uri" value="genbeta"/>
+      <input type="hidden" name="loc" value="es_ES">
+      <button class="button" type="submit">Suscríbete <span class="arrow">&raquo;</span></button>
+  </form>
+  <ul class="subs-channels">
+    <li class="channel-rss" id="rss"> <a href="/index.xml" rel="nofollow" title="Suscríbete por RSS a las novedades en Genbeta"><span></span>RSS</a></li>
+    <li class="channel-twitter"><a href="http://twitter.com/genbeta" title="Sigue las novedades de Genbeta en Twitter"><span></span>Twitter</a></li>
+    <li class="channel-fb"><a href="http://www.facebook.com/pages/Genbeta/54999640934" title="Conéctate a la página de Genbeta en Facebook"><span></span>Facebook</a></li>
+    <li class="channel-gplus"><a href="https://plus.google.com/109731528328750280665/posts" title="Sigue a Genbeta en Google Plus"><span></span>Google Plus</a></li>
+    <li class="channel-feedly"><a style="margin-right: 0;" title="Suscríbete a Genbeta con Feedly" href='http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fwww.genbeta.com%2Findex.xml'  target='blank'><img id='feedlyFollow' src='http://img.weblogssl.com/g/xataka4/common/m-icon-feedly.png' alt='follow us in feedly' width='32' height='32'></a></li>
+  </ul>
+  <ul class="devices-channels">
+    <li><a title="Versión para móviles" href="http://m.genbeta.com" class="button button-secondary"><img src="http://img.weblogssl.com/g/xataka4/common/mobile.png">Versión móvil</a></li>
+        <li>
+        <a id="tabletViceVersaLink" href="http://t.genbeta.com" class="button button-secondary" title="Versión tablet"><img src="http://img.weblogssl.com/g/xataka4/common/tablet.png"> Versión tablet</a>
+    </li>
+      </ul>
+
+    <script>
+  $(function() {
+      $("#feedForm").submit(function(e) {
+          e.preventDefault();
+          email = $("#feedburnermail").val();
+          emailPattern = /^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$/i
+          if (emailPattern.test(email)) {
+              window.open('http://mailer.weblogssl.com/subscribe_check/' + email +'/genbeta/Genbeta','','width=500,height=500');
+          } else {
+              alert("El correo electrónico introducido no es correcto");
+          }
+      });
+  });
+  </script>
+  
+</div>
+            <!-- .article-promo -->
+    </div>
+
+    <!-- .aside -->
+
+                    
+    <div class="section section-article-single">
+            <div class="article">
+        <div class="article-summary">
+          <p><img id="image66003" src="http://img.genbeta.com/2011/12/ubuntu-grub-pantalla-seleccion.jpg" class="centro" alt="Captura de pantalla de Grub para arrancar Ubuntu" /></p>
+
+                              <div class="article-metadata">
+            <div class="article-comments" id="postCommentCount">
+              <a href="#comments" title="Ir a comentarios">
+                Comentarios 187
+              </a>
+            </div>
+            <div class="article-links">
+              <div class="social-sharing">
+                <div class="social-sharing-widgets">
+                                    <div class="wsl-favorite">
+                    <button class="button button-small">Me gusta</button>
+                    <span class="wsl-count">11</span>
+                  </div>
+                                    <!-- twitter -->
+                  <a class="twitter-share-button" href="http://twitter.com/share" data-count="horizontal" data-url="http://www.genbeta.com/p/65998" data-counturl="http://www.genbeta.com/sistemas-operativos/el-cambio-a-un-entorno-gnulinux-cinco-grandes-obstaculos-para-llegar-a-todos-los-publicos" data-text="El cambio a un entorno GNU/Linux: cinco grandes obstáculos para llegar a todos los públicos" data-via="genbeta" data-lang="es">Tweet</a>
+                  <!-- g+ -->
+                  <div class="g-plusone" data-size="medium" data-href="http://www.genbeta.com/sistemas-operativos/el-cambio-a-un-entorno-gnulinux-cinco-grandes-obstaculos-para-llegar-a-todos-los-publicos" data-callback="gplusClickHandler" ></div>
+                  <!-- facebook like -->
+                  <div href="http://www.genbeta.com/sistemas-operativos/el-cambio-a-un-entorno-gnulinux-cinco-grandes-obstaculos-para-llegar-a-todos-los-publicos" class="fb-like" data-send="false" data-layout="button_count" data-show-faces="false"></div>
+                </div>
+              </div>
+              <!-- .social-sharing -->
+            </div>
+            <!-- .article-links -->
+          </div>
+          <!-- .article-metadata -->
+
+
+          	<p></p>
+
+	<p>Mi primera experiencia con un sistema GNU/Linux se remonta ya bastantes años atrás. Alguien me había comentado que existían alternativas a Windows (que por aquel entonces venía a nosotros con Windows ME) y <strong>una noche en vela significó tener instalado</strong> en mi ordenador, y funcionando, un flamante y nuevo <strong>Mandrake</strong>. Además de una agradable sensación de triunfo, mi <em>yo del pasado</em> pensó que <em>a esto de Linux</em> le falta un poquito para que sea fácil de utilizar.</p>
+
+	<p>Desde entonces ya sea en trabajos, estudios o en casa ya <strong>han sido muchas distribuciones las que he probado</strong> (y alguna de ellas simplemente para ver cómo era, la curiosidad mató al gato, suelen decir). Recuerdo con agrado Mandrake 10 y los primeros pasitos de Ubuntu, las peleas para activar los efectos de Compiz, los temas Emerald y la parada cardiaca cuando no arrancaban las X. Pero si algo sigo manteniendo es esa sensación que tenía hace más de 10 años: <strong><em>a esto de Linux le falta un poquito</em></strong>.</p>
+
+	<p>Por eso, después de darle unas cuantas vueltas he pensado que había cinco pilares que siguen fallando para que las distribuciones GNU/Linux puedan llegar al <em>público en general</em>. Todas ellas se pueden rebatir, pero creo que <strong>mirándolas con unas gafas de objetividad son grandes problemas que realmente están ahí</strong>, sobre la mesa.<br />
+<!--more--><br />
+<h2>1 &#8211; Miedo al cambio</h2><br />
+<img id="image66004" src="http://img.genbeta.com/2011/12/evolucion-ser-humano.jpg" class="centro" alt="Evolución del ser humano hacia el uso del ordenador" /></p>
+
+	<p>No es un problema de ninguna distribución GNU/Linux, sino que es un problema de esas personas a las que debería llegar y convencer. Pero es un problema importante que no se puede obviar. Si a nadie nos gusta que nos cambien de sitio la Súper Barra, Unity, el Dock o las barras de herramientas, desde luego plantearnos <strong>un cambio de sistema operativo ya cuenta con nuestra negativa como primera respuesta</strong>. En este tema, existe una presunción de culpabilidad, una oposición al cambio inherente al ser humano.</p>
+
+	<p>Pero es que este miedo al cambio está muy arraigado en nuestra sociedad, y mucho más en el ámbito de la informática. De hecho una de las frases favoritas de un administrador de sistemas es: <strong><em>si algo funciona, no lo toques</em></strong>. Lo triste es que muchas veces lleva toda la razón, pero eso es otro cantar. Aquí venía a hablar de sistemas operativos.</p>
+
+	<p>Hay personas que hemos trabajado con muchos sistemas operativos (de hecho no tantas personas como pensamos conocen el concepto de sistema operativo) y tenemos una cierta flexibilidad mental para adaptarnos a un cambio de entorno; pero la realidad es que somos minoría, la gran mayoría llevan trabajando <em>desde siempre</em> con un entorno y no quieren cambiar. Y si esto es así, las estadísticas son claras: la mayoría de las personas usan Windows y no quieren cambiar.</p>
+
+	<p>Pero muchas personas han vencido este miedo al cambio, a lo diferente, a lo desconocido en el tema de sistemas operativos. Ya todos conocemos la palabra <em>switcher</em> para definir a aquella persona que viaja de un sistema operativo a Mac OS (hoy en día ya OS X). Pero el cambio a <strong>GNU/Linux no está tan bien visto, en la cultura popular parece ser algo exclusivo</strong> <em>para hackers</em>, <em>informáticos</em> y/o <em>gente rara</em>. Es una pena, pero es una realidad.</p>
+
+	<p><h2>2 &#8211; La instalación: ¿cómo la evitamos?</h2><br />
+<img id="image65999" src="http://img.genbeta.com/2011/12/instalacion-fedora.jpg" class="centro" alt="Instalación de Fedora" /></p>
+
+	<p>¿Cuál es el porcentaje de personas que utilizan un ordenador pero no sabrían, o no querrían, o se bloquearían ante la instalación de cualquier sistema operativo? Es cierto, después de aquella noche tratando de instalar Mandrake <strong>las cosas han cambiado mucho, y para mejor</strong>. Si no quieres ya nadie te habla de particiones de intercambio, sistemas de ficheros o puntos de montaje.</p>
+
+	<p>Pero ya hay que aprender a arrancar desde un CD/DVD/USB; por lo visto algo al alcance de unos pocos privilegiados. La instalación de un sistema operativo es algo que la propia definición de sistema operativo dice que <strong>debería ser evitada para el usuario final</strong> de un ordenador o computadora. Esto es así, y aunque suene un poco totalitario, creo que nadie debería opinar lo contrario.</p>
+
+	<p>Apple desde un principio lo vio claro, sus ordenadores iban con sus sistemas operativos, olvídate de tener que aprender a instalar, nuestro sistema operativo te lo vendemos con el ordenador. Todo son facilidades. Windows también lo tiene fácil, el resto de ordenadores vienen instalados con la versión del momento&#8230; ¿todos? No, pero <strong>date una vuelta por tu gran superficie favorita y echa cuentas</strong>. Quitando la zona Apple, algun Android y puede que haya alguno con Ubuntu instalado por defecto, todos llevan el sistema operativo de Microsoft.</p>
+
+	<p>Honestamente este es el mayor problema que veo para que el uso de un sistema operativo GNU/Linux se empiece a utilizar de forma generalizada. Como comentaba en el punto anterior <strong>una persona, por ciencia infusa, no va a cambiar de sistema operativo</strong>. O se lo vendes <span class="caps">MUY</span> bien, o le obligas a hacerlo. Pero en este caso, esa persona lleva la voz cantante y su <em>zona de confort</em> va a la tienda y pide un ordenador con Windows (pero que no sea el Vista, que ese no funciona bien).</p>
+
+	<p><h2>3 &#8211; El concepto de switcher, pero aplicado a GNU/Linux</h2><br />
+<img id="image66000" src="http://img.genbeta.com/2011/12/centro-software-ubuntu.jpg" class="centro" alt="Centro de Software de Ubuntu: una bendición para nuevos usuarios" /></p>
+
+	<p>Este punto no puedo empezarlo sino con un punto fuerte de sistemas operativos como Ubuntu. Realmente se trata de <strong>un sistema operativo <em>ready to use</em></strong>. Es decir, una vez que el sistema operativo se ha instalado puedes empezar a utilizarlo sin necesidad de instalar nuevos programas. El perfil de usuario actual de GNU/Linux seguro que instala unos cuantos programas (Shutter, <span class="caps">VLC</span>, Chromium, ...), pero un usuario medio no necesita instalar nada para utilizar su ordenador a su cien por cien.</p>
+
+	<p>Es cierto, una suite ofimática, un programa para reproducción de vídeo, otro para escuchar música, un navegador y un programa para ver las fotos que hemos sacado en la última escapada. Ciertamente esas son las necesidades normales, y eso es lo que viene con una distribución de hoy en día. Pero entonces, ¿cuál es el problema? Una frase va a resumir todo: <em>muy bonito, pero ahora ¿cómo entro a Google?</em>. Y después de que un pobre e inocente gatito haya sido sacrificado, seguramente tendrá que olvidarse de la <em>&#8220;e&#8221; azul</em> y encontrarse con Mozilla Firefox.</p>
+
+	<p>Pero <strong>la curva de aprendizaje no sólo se restringe a aprenderse el nuevo nombre de las aplicaciones</strong>, sino que también tendrá que aprender a utilizarlas, porque todo es parecido, pero no igual. Después de pelearse con la nueva interfaz Ribbon de Office, volver a LibreOffice, lo cual casi es una bendición, pero las cosas no están en el mismo sitio. Y no sólo eso, cuando trabajas en casa y llevas el documento a la oficina te encuentras con la desagradable sorpresa de que el archivo no lo puedes abrir.</p>
+
+	<p>Dejando de lado el periodo de adaptación a grandes programas como Firefox, Banshee o el propio LibreOffice, tarde o temprano el usuario querrá instalar algo nuevo. Afortunadamente inicativas como el Centro de Software de Ubuntu es una bendición (ya lo comentábamos cuando hablábamos sobre los mercados de aplicaciones). Buscar e instalar, dicho y hecho. Pero no todo podía ser tan bonito. El uso de Wine no es una opción, y hay <strong>muchas aplicaciones y sobre todo juegos que no podremos instalar</strong> en nuestro nuevo sistema operativo: <em>¿por qué mi hijo no puede instalar el nuevo Call of Duty</em></p>
+
+	<p><h2>4 &#8211; En una palabra: Drivers</h2><br />
+<img id="image66001" src="http://img.genbeta.com/2011/12/drivers-graficas-linux.jpg" class="centro" alt="La ausencia de drivers y compatibilidades con otros productos es un problemas de GNU/Linux" /></p>
+
+	<p>En estos diez años de historia en los que he estado probando diferentes distribuciones la mejora ha sido considerable. Y, de nuevo, no es culpa de los desarrolladores de los entornos GNU/Linux, sino de las compañías fabricantes del hardware que sólo lanzan sus drivers para Windows y Mac. La llegada de los <strong>drivers para tarjetas gráficas <span class="caps">ATI</span> y nVidia ha sido un gran paso adelante</strong>, y la mejora y buen funcionamiento de los mismos un gran salto.</p>
+
+	<p>Pero cómprate un buen ratón con un par botones auxiliares sin los que ya no puedes vivir (como es mi caso) y prepárate para volverte loco intentado que funcionen como tu quieres. ¿Tan difícil es que cuando le de a este botoncito sea como si le hubiera dado a la tecla <em>retroceso</em>? Como ya he comentado, no debería volver mi ira hacia el sistema operativo, sino hacia la compañía que ha fabricado mi ratón, sino hacia todas esas empresas que llenan las entanterías de las tiendas de las tiendas y zonas de grandes superficies de informática. Es una realidad, <strong>hay mucho periférico que no funciona al cien por cien en entornos GNU/Linux</strong>, y como tal, es un problema.</p>
+
+	<p>Problemas con las <strong>impresoras</strong>, <strong>ratones y teclados</strong> que cuesten algo más de 10 euros cada uno, <strong>tabletas digitalizadoras</strong>, software de copias de seguridad que vienen incluidos con muchos discos duros externos, y <strong>un largo etcétera</strong> que se puede añadir a la lista. Para que las empresas desarrollen sus drivers para Linux necesitan que vayan destinados a un gran público, y para ello entornos Linux necesitan muchos usuarios (muchísimos, ya que cada periférico lo utiliza un porcentaje pequeño de usuarios), pero sin drivers el cambio es un problema.</p>
+
+	<p><h2>5 &#8211; Siempre acaba habiendo problemas: la consola</h2><br />
+<img id="image66002" src="http://img.genbeta.com/2011/12/terminal-linux.jpg" class="centro" alt="Terminal de Linux" /></p>
+
+	<p>Dejadme primero dar mi opinión, que luego entraré con la realidad. Mi opinión, desde siempre, ha sido que <strong>la consola debería ser erradicada</strong>, quemada, incinerada, aplastada y después desintegrada, y si aún quedara algún resto, lanzarlo al espacio exterior para que pase la eternidad viajando y que cuando otra civilización lo encuentre, se caigan al suelo de la risa. A mi me encanta la consola, la uso constantemente, incluso en Windows y OS X. Me parece un buen recurso y muchas veces más rápido y eficaz que utilizar las ventanitas.</p>
+
+	<p>Pero también me parece un vestigio de los años ochenta. Tal vez haya personas que añoren trabajar desde una terminal, o incluso con tarjetas perforadas, pero la realidad es diferente. <strong>Abrir la terminal debería ser un gesto reservado a unas pocas</strong> personas que tal vez busquen una función más específica del sistema operativo. Tal vez sólo deba estar reservado a administradores de sistemas, y espero que en un futuro no muy lejano ni a ellos. Para el resto de las personas que usan un ordenador, el peor icono que pueden ver es el de la consola o terminal.</p>
+
+	<p>Mi experiencia personal con cualquier distribución es que, <strong>tarde o temprano, acaba apareciendo un problema</strong>. Drivers, Flash, Java o una partición que no quiere arrancar automáticamente (y esto me pasó con la última de Ubuntu). El algoritmo para solucionar un problema informático normalmente suele ser muy fácil: buscarlo en Google. Pues bien, si nos ponemos un sombrero de objetividad para leer las respuestas que se plantean en los diversos foros, siempre hay varias soluciones, muchas veces bastante diferentes, pero en la mayoría de los casos con órdenes de consola que, a veces, no funcionan porque la respuesta es de hace 5 años.</p>
+
+	<p>Si hay algún problema con otros sistemas operativos la baraja de respuestas es sencilla: reinicia, pasa un antivirus, reinstala la aplicación o prueba a crear otro usuario. Pues bien, en ninguno de ellos el usuario tiene que abrir la dichosa terminal. ¡Pero si en la terminal no puedes utilizar <em>control + c</em> o <em>control + v</em>! Ahora que me las había aprendido, me tengo que aprender otras (aunque sea con la tecla mayúsculas). Un sistema operativo intenta abstraer la complejidad de utilizar un hardware complejo, <strong>utilizar la terminal es un paso atrás</strong>.</p>
+
+	<p><h2>Cinco problemas, diferentes causas</h2><br />
+Como habrás podido comprender si has leído hasta aquí, todos estos problemas orbitan en torno a la idea de hacer que un sistema operativo GNU/Linux se convierta en el más utilizado del mercado. Personalmente opino que restringiendo la libertad del usuario y favoreciendo las relaciones con las empresas fabricantes de hardware ninguna persona debería tener demasiados problemas para cambiar. <strong>No hay ninguna necesidad que una distribución de hoy en día no cubra</strong>.</p>
+
+	<p>Si estamos ante un buen sistema operativo, con sus pegas, pero al fin y al cabo un buen sistema operativo, seguramente una de las cosas que necesite sean <strong>buenas campañas de marketing</strong>, de forma que cuando alguien oiga hablar de Ubuntu (por ejemplo) sepa lo que es, y vea que también es un producto atractivo.</p>
+
+	<p>¿Por qué no ver <strong>anuncios de distribuciones GNU/Linux en la televisión, prensa o radio</strong>? Otros sistemas operativos hace mucho que aparecen y han creado una buena imagen de marca, si el <em>gran público</em> no conoce otras alternativas, si no conoce las ventajas, seguro que no va a dar su brazo a torcer para iniciar el cambio.</p>
+
+	<p>En Genbeta | <a href="http://www.genbeta.com/paso-a-paso/la-terminal-de-linux-no-muerde-i-uso-basico-de-la-terminal">La terminal de Linux no muerde (I): uso básico de la terminal</a> | <a href="http://www.genbeta.com/linux/ubuntu-1204-lts-precise-pangolin-primera-toma-de-contacto-y-calendario-de-lanzamiento">Ubuntu 12.04 <span class="caps">LTS</span> Precise Pangolin. Primera toma de contacto y calendario de lanzamiento</a><br />
+Imagen | <a href="http://www.flickr.com/photos/55524309@N05/5519745603/">Evolución</a></p>                  </div>
+
+                        
+        <div class="ad links-ad-inpost">
+    <div id='div-gpt-inp' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-inp");
+    });
+    </script>
+    </div>
+</div>
+
+
+        
+        <div class="article-taxonomy">
+                      <div class="nav article-tags article-categories">
+  <h2>Categorías</h2>
+    <ul>
+                      
+      <li><a href="/categoria/linux">Linux</a></li>
+                      
+      <li><a href="/categoria/sistemas-operativos">Sistemas Operativos</a></li>
+        </ul>
+</div>
+            <div class="nav article-tags">
+  <h2>Tags</h2>
+  <ul>
+                                             
+      <li><a href="/tag/drivers">drivers</a></li>
+                                             
+      <li><a href="/tag/terminal">terminal</a></li>
+                                             
+      <li><a href="/tag/switcher">Switcher</a></li>
+                                             
+      <li><a href="/tag/mercados-de-aplicaciones">Mercados de aplicaciones</a></li>
+          
+  </ul>
+</div>
+                  </div>
+        <!-- .article-metadata -->
+      </div>
+      <!-- .article -->
+    </div>
+    <!-- .section-articles -->
+            <div id="ad-center" class="ad ad-escaparate-medio">
+  <a class="ad-contact" id="div-gpt-cen-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-cen' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+
+        
+        
+    <div class="section section-related">
+               <div id="outBrainVerticalWidget" class="post-related-posts related-double">
+  <h3>Artículos recomendados</h3>
+  <div class="post-related-content">
+   
+    <div class="OUTBRAIN" data-src="http://www.genbeta.com/sistemas-operativos/el-cambio-a-un-entorno-gnulinux-cinco-grandes-obstaculos-para-llegar-a-todos-los-publicos" data-widget-id="AR_2" data-ob-template="genbeta" >
+    </div>
+    <script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js">
+    </script>
+  </div>
+  <!-- .post-related-content -->
+  <p class="post-related-more">
+    <a href="/categoria/sistemas-operativos" title="Ver más artículos relacionados">
+    Ver más artículos <span class="arrow">»</span>    
+    </a>
+    </p>
+</div>     
+     <!-- .post-related-products -->
+     <div class="post-related-qa">
+    <h3>Respuestas</h3>
+        <div class="post-related-content">
+            <ul>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>1</strong>
+                    </div>
+                    <a href="/respuestas/donde-puedo-conseguir-los-archivos-de-recuperacion-de-la-vaio-vpcl215fl">¿Dónde puedo conseguir los archivos de recuperación de la VAIO VPCL215FL?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2012-11-18T18:36:21Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>3</strong>
+                    </div>
+                    <a href="/respuestas/soy-un-usuario-basico-de-internet-fotos-musica-etc-me-interesa-el-cambio">Soy un usuario básico de internet, fotos, música, etc. ¿Me interesa el cambio?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2011-03-11T20:54:49Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number empty-topic">
+                        <strong>0</strong>
+                    </div>
+                    <a href="/respuestas/siempre-he-pensado-en-el-cambio-sin-embargo-me-atemoriza-que-no-tenga-programas">Siempre he pensado en el cambio, sin embargo me atemoriza que no tenga programas</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2011-02-20T19:21:39Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>1</strong>
+                    </div>
+                    <a href="/respuestas/que-tan-facil-es-encontrar-drivers-para-linux">¿Es tan fácil encontrar drivers para Linux?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2011-02-05T18:42:19Z"></abbr>
+                    </span>            
+                </li>
+                        </ul>
+        </div>
+        <!-- .post-related-content -->
+        <p class="post-related-more">
+            <a href="/respuestas" title="Ver más respuestas relacionados">
+                Ver más respuestas
+                <span class="arrow">»</span>
+            </a>
+        </p>
+</div>
+
+<script type="text/javascript">
+   $(function(){
+      $("abbr.timeago").timeago();
+   });
+</script>
+     </div>
+
+
+  <!-- Comments Section -->
+        <a id="to-comments"></a>
+  <div id="comments" class="section section-comments">
+            <div class="standalone-message">
+            <div class="message aviso"><h3>Los comentarios se han cerrado</h3></div>
+        </div>
+        <!-- #comment-write -->
+            <div id="ad-center2" class="ad ad-segundo-escaparate">
+  <a class="ad-contact" id="div-gpt-cen2-contact" style='display:none'
+  href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-cen2' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen2");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+    <div id="comments-header" class="header-section">
+      <div class="comment-order">
+    	<h3>Ordenar por:</h3>
+      </div>
+      <!-- #comment-order -->
+          	<h2>
+              49 comentarios
+            </h2>
+    </div>
+    <div id="top-section-settings"></div>
+    <ul class="comment-list"></ul>
+        <div class="nav"></div>
+    <div id="bottom-section-settings"></div>
+  </div>
+    <script type="text/javascript">
+      $(function()
+      {
+        var commentList = new AML.Comments.Model.CommentList({},{postId:65998});
+        commentList.resetParsed({"comments":[{"id":"376577","post_id":"65998","date":1325033452,"content_filtered":"<p>Me van a llover palos por este comentario (y soy usuario de Ubuntu y Fedora) pero...<\/p>\n\n<p>Existe una raz\u00f3n m\u00e1s, y es el aspecto visual del software GNU en general. El software GNU es maravilloso, y tremendamente funcional. Pero tremendamente feo tambi\u00e9n. Esto es comprensible. Los programas son desarrollados por programadores, no por dise\u00f1adores. Pero creo que la FSF deber\u00eda incidir algo m\u00e1s en este aspecto. Hablando de cosas m\u00e1s concretas, alguien deber\u00eda decirle a los de Canonical que el morado para el Plymouth y el gestor de arranque es simplemente <b>horrible<\/b>. Tambi\u00e9n lo son sus temas GTK, intentando emular a MacOS X pero con el resaltado en naranja. Unity, con esos iconos que intentan imitar a los iconos Faenza, meti\u00e9ndolos en una caja, tambi\u00e9n son bastante feos. M\u00e1s cuando se trata de aplicaciones de iconos \"lisos\" como Vuze, y te queda un cuadrado completamente azul (\u00bfde verdad nadie se dio cuenta de esto?). Otro ejemplo son las aplicaciones tipo aMule o Tuxguitar, que traen unos iconos en Ultra-baja resoluci\u00f3n que hacen del modernismo de Gnome-Shell una especie de Steampunk versi\u00f3n PC. Yo ahora tengo un escritorio bastante \"bonito\", pero me he tenido que pasar horas buscando en Deviantart temas de GTK, de Gnome-shell, temas de iconos (sobre todo mimetype, porque Faenza me convenci\u00f3 al momento), escritorios, etc.<\/p>\n\n<p>Pero esto tambi\u00e9n sucede con KDE. Un d\u00eda decid\u00ed probarlo, despu\u00e9s de ver escritorios realmente preciosos y me llev\u00e9 uno de los chascos m\u00e1s grandes. \u00a1KDE por defecto es a\u00fan m\u00e1s feo que Gnome Shell y Unity!<\/p>\n\n<p>En resumen. GNU\/Linux es feo. Feo con ganas. Si quieres que deje de ser feo deber\u00e1s curr\u00e1rtelo demasiado. Editar archivos de texto, buscar demasiados temas de iconos, de entornos de escritorio, comerte la cabeza con la instalaci\u00f3n de Burg, de cambiar plymouths, etc. Y eso es algo que muy pocos usuarios \"casuales\" quieren. Si Canonical, Red Hat, etc emplearan algo m\u00e1s en mejorar este aspecto, estoy seguro de que tendr\u00eda mucha m\u00e1s aceptaci\u00f3n.<\/p>","content":"<p>Me van a llover palos por este comentario (y soy usuario de Ubuntu y Fedora) pero...<\/p>\n\n<p>Existe una raz\u00f3n m\u00e1s, y es el aspecto visual del software GNU en general. El software GNU es maravilloso, y tremendamente funcional. Pero tremendamente feo tambi\u00e9n. Esto es comprensible. Los programas son desarrollados por programadores, no por dise\u00f1adores. Pero creo que la FSF deber\u00eda incidir algo m\u00e1s en este aspecto. Hablando de cosas m\u00e1s concretas, alguien deber\u00eda decirle a los de Canonical que el morado para el Plymouth y el gestor de arranque es simplemente <b>horrible<\/b>. Tambi\u00e9n lo son sus temas GTK, intentando emular a MacOS X pero con el resaltado en naranja. Unity, con esos iconos que intentan imitar a los iconos Faenza, meti\u00e9ndolos en una caja, tambi\u00e9n son bastante feos. M\u00e1s cuando se trata de aplicaciones de iconos \"lisos\" como Vuze, y te queda un cuadrado completamente azul (\u00bfde verdad nadie se dio cuenta de esto?). Otro ejemplo son las aplicaciones tipo aMule o Tuxguitar, que traen unos iconos en Ultra-baja resoluci\u00f3n que hacen del modernismo de Gnome-Shell una especie de Steampunk versi\u00f3n PC. Yo ahora tengo un escritorio bastante \"bonito\", pero me he tenido que pasar horas buscando en Deviantart temas de GTK, de Gnome-shell, temas de iconos (sobre todo mimetype, porque Faenza me convenci\u00f3 al momento), escritorios, etc.<\/p>\n\n<p>Pero esto tambi\u00e9n sucede con KDE. Un d\u00eda decid\u00ed probarlo, despu\u00e9s de ver escritorios realmente preciosos y me llev\u00e9 uno de los chascos m\u00e1s grandes. \u00a1KDE por defecto es a\u00fan m\u00e1s feo que Gnome Shell y Unity!<\/p>\n\n<p>En resumen. GNU\/Linux es feo. Feo con ganas. Si quieres que deje de ser feo deber\u00e1s curr\u00e1rtelo demasiado. Editar archivos de texto, buscar demasiados temas de iconos, de entornos de escritorio, comerte la cabeza con la instalaci\u00f3n de Burg, de cambiar plymouths, etc. Y eso es algo que muy pocos usuarios \"casuales\" quieren. Si Canonical, Red Hat, etc emplearan algo m\u00e1s en mejorar este aspecto, estoy seguro de que tendr\u00eda mucha m\u00e1s aceptaci\u00f3n.<\/p>","karma":"610.00","parent":"0","comment_edited_date":1325033643,"vote_count":"70","comment_level":1,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"yippiekayyay","user_id":"81975","author":"","webpage":null,"user_name":"yippiekayyay","karma_level":"17.00","iseditor":"0","global_id":"377037","facebook_uid":null,"index":14,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/397a1f7802763e2b0dd1007558fc3d93"},{"id":"376603","post_id":"65998","date":1325036673,"content_filtered":"<p>Pues no te dare palos, sino un positivo. A veces a mi me cuesta creer que no haya ni un dise\u00f1ador serio en el grand\u00edsimo ecosistema GNU\/Linux. Cuando no se hace una copia burda de Windows, se hace de Mac. El resultado es el que es. Diran algunos que hay posibilidad de personalizar el escritorio, pero cuando buscamos el material disponible para personalizar, la cosa es desoladora.\u00a0<\/p>\n\n<p>A parte de esto, lo poco que he probado el novedoso gnome 3, la posibilidad de personalizaci\u00f3n es casi nula, no podiendo casi ni cambiar los feos i anticuados ico\u00f1os (que no son ni escalables). Con KDE se puede hacer mil cosas, pero hay que tener mucha habilidad para moverte en el retorcido escritorio ese, ademas de lidiar con las personalizaciones para los programas que usan Qt o los que usan GTK (para que no se vea diferente el dolphin y firefox por ejemplo).<\/p>\n\n<p>Yo he hecho mil cosas para tener un escritorio decente, pero he perdido una de tiempo y he instalado una de mierdas que no veas.<\/p>","content":"<p>Pues no te dare palos, sino un positivo. A veces a mi me cuesta creer que no haya ni un dise\u00f1ador serio en el grand\u00edsimo ecosistema GNU\/Linux. Cuando no se hace una copia burda de Windows, se hace de Mac. El resultado es el que es. Diran algunos que hay posibilidad de personalizar el escritorio, pero cuando buscamos el material disponible para personalizar, la cosa es desoladora.\u00a0<\/p>\n\n<p>A parte de esto, lo poco que he probado el novedoso gnome 3, la posibilidad de personalizaci\u00f3n es casi nula, no podiendo casi ni cambiar los feos i anticuados ico\u00f1os (que no son ni escalables). Con KDE se puede hacer mil cosas, pero hay que tener mucha habilidad para moverte en el retorcido escritorio ese, ademas de lidiar con las personalizaciones para los programas que usan Qt o los que usan GTK (para que no se vea diferente el dolphin y firefox por ejemplo).<\/p>\n\n<p>Yo he hecho mil cosas para tener un escritorio decente, pero he perdido una de tiempo y he instalado una de mierdas que no veas.<\/p>","karma":"103.00","parent":"376577","comment_edited_date":1325036968,"vote_count":"9","comment_level":2,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"lordofthecoffee","user_id":"12991","author":"","webpage":null,"user_name":"lordofthecoffee","karma_level":"47.00","iseditor":"0","global_id":"88651","facebook_uid":null,"index":39,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/88651_2.png"},{"id":"376659","post_id":"65998","date":1325061801,"content_filtered":"<p>Es un problema cultural, lo dijo hace a\u00f1os el m\u00e1ximo ejecutivo para Asia de RedHat, al t\u00edpico programador de Linux le interesa m\u00e1s solucionar un problema de programaci\u00f3n que algo de inter\u00e9s para el usuario final<\/p>","content":"<p>Es un problema cultural, lo dijo hace a\u00f1os el m\u00e1ximo ejecutivo para Asia de RedHat, al t\u00edpico programador de Linux le interesa m\u00e1s solucionar un problema de programaci\u00f3n que algo de inter\u00e9s para el usuario final<\/p>","karma":"50.00","parent":"376603","comment_edited_date":"","vote_count":"3","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"0","comment_author":"Diego Germ\u00e1n Gonzalez","user_id":"18808","author":"Diego Germ\u00e1n Gonzalez","webpage":null,"user_name":"dggonzalez","karma_level":"32.00","iseditor":"0","global_id":"133442","facebook_uid":null,"index":87,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/963785ed6ba925a47584c60e210417be"},{"id":"376742","post_id":"65998","date":1325092003,"content_filtered":"<p>El problema es que los dise\u00f1adores huyen como la de la peste de Linux, s\u00f3lo usan Mac si pueden permit\u00edrselo y si no Windows, si usaran Linux seguro que se le ocurrir\u00edan cosas para mejorar el dise\u00f1o.<\/p>","content":"<p>El problema es que los dise\u00f1adores huyen como la de la peste de Linux, s\u00f3lo usan Mac si pueden permit\u00edrselo y si no Windows, si usaran Linux seguro que se le ocurrir\u00edan cosas para mejorar el dise\u00f1o.<\/p>","karma":"15.00","parent":"376603","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"93330","user_id":"93330","author":"","webpage":null,"user_name":"juanglezdoval","karma_level":"17.00","iseditor":"0","global_id":"337071","facebook_uid":"1082345861","index":148,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1082345861\/picture"},{"id":"376582","post_id":"65998","date":1325034593,"content_filtered":"<p>el detalle es que est\u00e1n limitados por el espacio de la iso, y por tratar de hacer compatible miles de tarjetas gr\u00e1ficas, si metes muchos iconos \"bonitos\" te puede causar que algunos usuarios tengan problemas al verlos, Microsoft no piensa en ello, solo te dicen adquiere una tarjeta gr\u00e1fica y ya, y con respecto a la \"fealdad de linux\" opino que es mejor tener una hoja de papel blanca que puedes personalizar o cambiar a tu antojo, que seguir patrones que te pueden dar problemas, esa es la ventaja de linux, no te dan la mesa ya hecha, sino la madera y lo necesario para que hagas no solo una mesa sino tambi\u00e9n una silla o lo que simplemente lo que se te ocurra.<\/p>","content":"<p>el detalle es que est\u00e1n limitados por el espacio de la iso, y por tratar de hacer compatible miles de tarjetas gr\u00e1ficas, si metes muchos iconos \"bonitos\" te puede causar que algunos usuarios tengan problemas al verlos, Microsoft no piensa en ello, solo te dicen adquiere una tarjeta gr\u00e1fica y ya, y con respecto a la \"fealdad de linux\" opino que es mejor tener una hoja de papel blanca que puedes personalizar o cambiar a tu antojo, que seguir patrones que te pueden dar problemas, esa es la ventaja de linux, no te dan la mesa ya hecha, sino la madera y lo necesario para que hagas no solo una mesa sino tambi\u00e9n una silla o lo que simplemente lo que se te ocurra.<\/p>","karma":"55.00","parent":"376577","comment_edited_date":1325034635,"vote_count":"17","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"100509","user_id":"100509","author":"","webpage":null,"user_name":null,"karma_level":"17.00","iseditor":"0","global_id":"499721","facebook_uid":"1522705840","index":19,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1522705840\/picture"},{"id":"376590","post_id":"65998","date":1325035342,"content_filtered":"<p>Prefiero comprar la mesa y la silla ya hecha. Perfecta para llegar y usar, sin tenerme que preocupar de si est\u00e1 bien montada o de donde va esta tabla que me sobra.<\/p>","content":"<p>Prefiero comprar la mesa y la silla ya hecha. Perfecta para llegar y usar, sin tenerme que preocupar de si est\u00e1 bien montada o de donde va esta tabla que me sobra.<\/p>","karma":"335.00","parent":"376582","comment_edited_date":"","vote_count":"45","comment_level":1,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"borrajita","user_id":"11821","author":"borrajita","webpage":null,"user_name":"borraja","karma_level":"25.00","iseditor":"0","global_id":"48518","facebook_uid":null,"index":27,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/48518_1.png"},{"id":"376602","post_id":"65998","date":1325036624,"content_filtered":"<p>Claro es mas facil, pero y si no te gusta la mesa? o necesitas algo totalmente diferente y no lo hay? te conformas y listo? lo digo en el sentido de que lo importante es aprender y compartir los resultados<\/p>","content":"<p>Claro es mas facil, pero y si no te gusta la mesa? o necesitas algo totalmente diferente y no lo hay? te conformas y listo? lo digo en el sentido de que lo importante es aprender y compartir los resultados<\/p>","karma":"35.00","parent":"376590","comment_edited_date":"","vote_count":"15","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"1","comment_author":"100509","user_id":"100509","author":"","webpage":null,"user_name":null,"karma_level":"17.00","iseditor":"0","global_id":"499721","facebook_uid":"1522705840","index":38,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1522705840\/picture"},{"id":"376611","post_id":"65998","date":1325037104,"content_filtered":"<p>\u00bfAprender a hacerme una mesa? Si fuera carpintero lo entender\u00eda.<\/p>\n\n<p>Si no me gusta, directamente no lo compro, ser\u00eda tonto. Compro o me instalo (si es gratis), lo que realmente necesito o se que me va a cubrir una necesidad.<\/p>\n\n<p>Yo creo que no est\u00e1n los tiempos como para andar reinventando la rueda. Si ya hay miles de sillas en el mercado, veo un poco absurdo (aunque lo respeto) ponerte a construir una. Mejor dedicar ese tiempo a cosas m\u00e1s \u00fatiles.<\/p>","content":"<p>\u00bfAprender a hacerme una mesa? Si fuera carpintero lo entender\u00eda.<\/p>\n\n<p>Si no me gusta, directamente no lo compro, ser\u00eda tonto. Compro o me instalo (si es gratis), lo que realmente necesito o se que me va a cubrir una necesidad.<\/p>\n\n<p>Yo creo que no est\u00e1n los tiempos como para andar reinventando la rueda. Si ya hay miles de sillas en el mercado, veo un poco absurdo (aunque lo respeto) ponerte a construir una. Mejor dedicar ese tiempo a cosas m\u00e1s \u00fatiles.<\/p>","karma":"212.50","parent":"376602","comment_edited_date":"","vote_count":"35","comment_level":1,"comment_deleted_date":"","tree_level":"4","comment_approved":"1","comment_author":"borrajita","user_id":"11821","author":"borrajita","webpage":null,"user_name":"borraja","karma_level":"25.00","iseditor":"0","global_id":"48518","facebook_uid":null,"index":47,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/48518_1.png"},{"id":"376618","post_id":"65998","date":1325038023,"content_filtered":"<p>Me encantan los negativos sin justificaci\u00f3n. Demostrando el gran nivel de madurez del personal :)))<\/p>","content":"<p>Me encantan los negativos sin justificaci\u00f3n. Demostrando el gran nivel de madurez del personal :)))<\/p>","karma":"15.00","parent":"376611","comment_edited_date":"","vote_count":"8","comment_level":3,"comment_deleted_date":"","tree_level":"5","comment_approved":"1","comment_author":"borrajita","user_id":"11821","author":"borrajita","webpage":null,"user_name":"borraja","karma_level":"25.00","iseditor":"0","global_id":"48518","facebook_uid":null,"index":53,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/48518_1.png"},{"id":"376619","post_id":"65998","date":1325038103,"content_filtered":"<p>Negativos? no se utilizarlos aun soy nuevo por aca :)<\/p>","content":"<p>Negativos? no se utilizarlos aun soy nuevo por aca :)<\/p>","karma":"12.50","parent":"376618","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"6","comment_approved":"1","comment_author":"100509","user_id":"100509","author":"","webpage":null,"user_name":null,"karma_level":"17.00","iseditor":"0","global_id":"499721","facebook_uid":"1522705840","index":54,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1522705840\/picture"},{"id":"376621","post_id":"65998","date":1325038223,"content_filtered":"<p>No lo digo por ti Esteban :)<\/p>\n\n<p>No tengo ning\u00fan problema contigo, aunque parece que hay gente que no es capaz de dialogar con una persona que tenga puntos de vista diferentes y ya te l\u00edan a negativos por pensar diferente a ellos y, lo peor de todo, sin dar una sola explicaci\u00f3n.<\/p>","content":"<p>No lo digo por ti Esteban :)<\/p>\n\n<p>No tengo ning\u00fan problema contigo, aunque parece que hay gente que no es capaz de dialogar con una persona que tenga puntos de vista diferentes y ya te l\u00edan a negativos por pensar diferente a ellos y, lo peor de todo, sin dar una sola explicaci\u00f3n.<\/p>","karma":"40.00","parent":"376619","comment_edited_date":1325038430,"vote_count":"7","comment_level":3,"comment_deleted_date":"","tree_level":"7","comment_approved":"1","comment_author":"borrajita","user_id":"11821","author":"borrajita","webpage":null,"user_name":"borraja","karma_level":"25.00","iseditor":"0","global_id":"48518","facebook_uid":null,"index":55,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/48518_1.png"},{"id":"376626","post_id":"65998","date":1325038998,"content_filtered":"<p>Suele pasar, no le des mucha atencion<\/p>","content":"<p>Suele pasar, no le des mucha atencion<\/p>","karma":"15.00","parent":"376621","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"8","comment_approved":"1","comment_author":"100509","user_id":"100509","author":"","webpage":null,"user_name":null,"karma_level":"17.00","iseditor":"0","global_id":"499721","facebook_uid":"1522705840","index":60,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1522705840\/picture"},{"id":"376674","post_id":"65998","date":1325072646,"content_filtered":"<p>Yo acabo de darte un negativo en el mensaje 53:\"Me encantan los negativos sin justificaci\u00f3n. Demostrando el gran nivel de madurez del personal :)))\"\nMe parece que la falta de madurez es ir reclamando al personal porque te pongan negativos.\nAclararte que en los posts m\u00e1s arriba estoy totalmente de acuerdo con lo que escribes.<\/p>","content":"<p>Yo acabo de darte un negativo en el mensaje 53:\"Me encantan los negativos sin justificaci\u00f3n. Demostrando el gran nivel de madurez del personal :)))\"\nMe parece que la falta de madurez es ir reclamando al personal porque te pongan negativos.\nAclararte que en los posts m\u00e1s arriba estoy totalmente de acuerdo con lo que escribes.<\/p>","karma":"10.50","parent":"376621","comment_edited_date":"","vote_count":"4","comment_level":3,"comment_deleted_date":"","tree_level":"8","comment_approved":"1","comment_author":"Fran","user_id":"2611","author":"Fran","webpage":null,"user_name":"lucifer","karma_level":"25.00","iseditor":"0","global_id":"382042","facebook_uid":null,"index":99,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/382042_4.png"},{"id":"376616","post_id":"65998","date":1325037906,"content_filtered":"<p>No hablaba en el sentido de las silla jejeje pero no importa, la idea es aprender tiene algo de malo? algun dia se necesita de algo que no esta a nuestro alcance. y realmente los avances mayores se producen cuando alguien propone reinventar las cosas.<\/p>","content":"<p>No hablaba en el sentido de las silla jejeje pero no importa, la idea es aprender tiene algo de malo? algun dia se necesita de algo que no esta a nuestro alcance. y realmente los avances mayores se producen cuando alguien propone reinventar las cosas.<\/p>","karma":"10.00","parent":"376611","comment_edited_date":"","vote_count":"8","comment_level":3,"comment_deleted_date":"","tree_level":"5","comment_approved":"1","comment_author":"100509","user_id":"100509","author":"","webpage":null,"user_name":null,"karma_level":"17.00","iseditor":"0","global_id":"499721","facebook_uid":"1522705840","index":51,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1522705840\/picture"},{"id":"376683","post_id":"65998","date":1325077704,"content_filtered":"<p>Si apareces un problema o debe hacer mantenimiento, deber\u00eda esperar que un tercero o una compa\u00f1\u00eda, desarrolle una soluci\u00f3n. No digo que fabriques la mesa y la silla, por lo menos sepas armar y el funcionamiento. Entonces eres capas de solventar y si comparte esa soluci\u00f3n contribuyes. Esa actitud conformista aunque la respeto, creo que es muy mala.<\/p>","content":"<p>Si apareces un problema o debe hacer mantenimiento, deber\u00eda esperar que un tercero o una compa\u00f1\u00eda, desarrolle una soluci\u00f3n. No digo que fabriques la mesa y la silla, por lo menos sepas armar y el funcionamiento. Entonces eres capas de solventar y si comparte esa soluci\u00f3n contribuyes. Esa actitud conformista aunque la respeto, creo que es muy mala.<\/p>","karma":"15.50","parent":"376590","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"1","comment_author":"55500","user_id":"55500","author":"","webpage":null,"user_name":"electron222","karma_level":"22.00","iseditor":"0","global_id":"259256","facebook_uid":"100000818820464","index":105,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100000818820464\/picture"},{"id":"376644","post_id":"65998","date":1325044216,"content_filtered":"<p>Y para que son entonces las distribuciones? deberian sacar una distribuci\u00f3n como Ubuntu style o algo asi y listo enves de esas estupidas como netbook remix o como se llame esa si es q todabia existe<\/p>","content":"<p>Y para que son entonces las distribuciones? deberian sacar una distribuci\u00f3n como Ubuntu style o algo asi y listo enves de esas estupidas como netbook remix o como se llame esa si es q todabia existe<\/p>","karma":"-12.00","parent":"376590","comment_edited_date":"","vote_count":"4","comment_level":4,"comment_deleted_date":"","tree_level":"3","comment_approved":"1","comment_author":"65949","user_id":"65949","author":"","webpage":null,"user_name":"jmss10","karma_level":"22.00","iseditor":"0","global_id":"311622","facebook_uid":"764005829","index":75,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/764005829\/picture"},{"id":"376656","post_id":"65998","date":1325058755,"content_filtered":"<p>Nop, ya no<\/p>","content":"Nop, ya no","karma":"8.00","parent":"376644","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"4","comment_approved":"1","comment_author":"kl0x","user_id":"4915","author":"kl0x","webpage":null,"user_name":"kl0x","karma_level":"27.00","iseditor":"0","global_id":"9780","facebook_uid":null,"index":84,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/9780_1.png"},{"id":"376599","post_id":"65998","date":1325036035,"content_filtered":"<p>Esa ventaja est\u00e1 bien para los aficionados a la carpinter\u00eda, no para el p\u00fablico en general. Es aplicable a todo. Ir a un desguace y montar un coche por piezas debe ser una gozada para los aficionados a la mec\u00e1nica, pero un calvario para el usuario com\u00fan. Y es lo que precisamente hace de Linux algo \"geek\". Un geek es un aficionado a la inform\u00e1tica. Del mismo modo, el que se construye sus propios muebles es un aficionado a la carpinter\u00eda o a la ebanister\u00eda, el que se monta sus propios motores de combusti\u00f3n es un aficionado a la mec\u00e1nica, etc. Incluso yo, que me encanta esa capacidad de Linux para la modificaci\u00f3n, a veces me siento frustrado ante algo tan simple como instalar un gestor de arranque gr\u00e1fico (maldito Burg!!). A veces envidio a los Maqueros en ese sentido. Me alivia saber que soy de media 1.000\u20ac m\u00e1s rico que ellos, pero a\u00fan as\u00ed tengo esa espinita en demasiadas ocasiones.<\/p>","content":"<p>Esa ventaja est\u00e1 bien para los aficionados a la carpinter\u00eda, no para el p\u00fablico en general. Es aplicable a todo. Ir a un desguace y montar un coche por piezas debe ser una gozada para los aficionados a la mec\u00e1nica, pero un calvario para el usuario com\u00fan. Y es lo que precisamente hace de Linux algo \"geek\". Un geek es un aficionado a la inform\u00e1tica. Del mismo modo, el que se construye sus propios muebles es un aficionado a la carpinter\u00eda o a la ebanister\u00eda, el que se monta sus propios motores de combusti\u00f3n es un aficionado a la mec\u00e1nica, etc. Incluso yo, que me encanta esa capacidad de Linux para la modificaci\u00f3n, a veces me siento frustrado ante algo tan simple como instalar un gestor de arranque gr\u00e1fico (maldito Burg!!). A veces envidio a los Maqueros en ese sentido. Me alivia saber que soy de media 1.000\u20ac m\u00e1s rico que ellos, pero a\u00fan as\u00ed tengo esa espinita en demasiadas ocasiones.<\/p>","karma":"140.00","parent":"376582","comment_edited_date":"","vote_count":"20","comment_level":1,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"yippiekayyay","user_id":"81975","author":"","webpage":null,"user_name":"yippiekayyay","karma_level":"17.00","iseditor":"0","global_id":"377037","facebook_uid":null,"index":35,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/397a1f7802763e2b0dd1007558fc3d93"},{"id":"376606","post_id":"65998","date":1325036833,"content_filtered":"<p>La idea es que, sino te gusta algo no hay que quedarse callado, o tratas de mejorarlo o te lo haces tu mismo, y bueno sino pudiste instalar el gestor de arranque aun asi a los golpes ,entonces aprendiste algo que te servira para despues.<\/p>","content":"<p>La idea es que, sino te gusta algo no hay que quedarse callado, o tratas de mejorarlo o te lo haces tu mismo, y bueno sino pudiste instalar el gestor de arranque aun asi a los golpes ,entonces aprendiste algo que te servira para despues.<\/p>","karma":"30.00","parent":"376599","comment_edited_date":"","vote_count":"5","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"1","comment_author":"100509","user_id":"100509","author":"","webpage":null,"user_name":null,"karma_level":"17.00","iseditor":"0","global_id":"499721","facebook_uid":"1522705840","index":42,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1522705840\/picture"},{"id":"376695","post_id":"65998","date":1325080488,"content_filtered":"<p>O a lo mejor no le sirve para despu\u00e9s porque se limita a abandonar Linux y volver a Windows o Mac OS.<\/p>","content":"<p>O a lo mejor no le sirve para despu\u00e9s porque se limita a abandonar Linux y volver a Windows o Mac OS.<\/p>","karma":"23.00","parent":"376606","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"4","comment_approved":"1","comment_author":"cobarde_anonimo","user_id":"63008","author":"","webpage":null,"user_name":"cobarde_anonimo","karma_level":"32.00","iseditor":"0","global_id":"294622","facebook_uid":null,"index":115,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/294622_1.png"},{"id":"376639","post_id":"65998","date":1325043071,"content_filtered":"<p>Bien dicho... pero el problema es que esos cambios que nos parecen tan sencillos... son tremendamente complicados para el usuario promedio... el publico promedio no es \"carpitero\" a pesar de que LINUX te da las herramientas... las personas prefieren algo r\u00e1pido y sencillo, algo en lo que de lejos windows lleva delantera<\/p>","content":"<p>Bien dicho... pero el problema es que esos cambios que nos parecen tan sencillos... son tremendamente complicados para el usuario promedio... el publico promedio no es \"carpitero\" a pesar de que LINUX te da las herramientas... las personas prefieren algo r\u00e1pido y sencillo, algo en lo que de lejos windows lleva delantera<\/p>","karma":"45.00","parent":"376582","comment_edited_date":"","vote_count":"4","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"48422","user_id":"48422","author":"","webpage":null,"user_name":null,"karma_level":"31.00","iseditor":"0","global_id":"222508","facebook_uid":"100000201722741","index":72,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100000201722741\/picture"},{"id":"376592","post_id":"65998","date":1325035648,"content_filtered":"<p>No me puedo resistir a contestarte.<\/p>\n\n<p>Si realmente has dejado tu escritorio tan bonito y crees que mejora tanto el aspecto visual, te invito a que entres en el concepto de comunidad y publiques tus mejoras en forma de trabajo. Todo lo que usas con Ubuntu\/Fedora, esta hecho por la comunidad, por gente como tu y yo, que en alg\u00fan momento, han decidido aportar algo a la propia comunidad en lugar de quejarse.   Creo que tu opini\u00f3n es respetable pero tambi\u00e9n quiero decirte que llover al gusto de todos es imposible. Lo \u00fanico que te pido es que intentes publicar tus mejoras, o por lo menos, enviar screenshots a los grupos de desarrollo que trabajan los temas visuales.<\/p>","content":"<p>No me puedo resistir a contestarte.<\/p>\n\n<p>Si realmente has dejado tu escritorio tan bonito y crees que mejora tanto el aspecto visual, te invito a que entres en el concepto de comunidad y publiques tus mejoras en forma de trabajo. Todo lo que usas con Ubuntu\/Fedora, esta hecho por la comunidad, por gente como tu y yo, que en alg\u00fan momento, han decidido aportar algo a la propia comunidad en lugar de quejarse.   Creo que tu opini\u00f3n es respetable pero tambi\u00e9n quiero decirte que llover al gusto de todos es imposible. Lo \u00fanico que te pido es que intentes publicar tus mejoras, o por lo menos, enviar screenshots a los grupos de desarrollo que trabajan los temas visuales.<\/p>","karma":"37.50","parent":"376577","comment_edited_date":"","vote_count":"7","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"josepsanzcamp","user_id":"2375","author":"josepsanzcamp","webpage":null,"user_name":"josepsanzcamp","karma_level":"25.00","iseditor":"0","global_id":"39604","facebook_uid":null,"index":28,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/daa6d421fff27b039df90fa1eb0f7c3a"},{"id":"376608","post_id":"65998","date":1325036904,"content_filtered":"<p>No sab\u00eda de esa posibilidad. Pero te dir\u00e9. Mi escritorio ha quedado bonito gracias a terceros, no gracias a m\u00ed. Por desgracia no s\u00e9 demasiado sobre dise\u00f1o. Mi escritorio no es especialmente espectacular, y estoy convencido de que por Deviantart existen miles de escritorios mucho m\u00e1s bonitos.<\/p>\n\n<p>No es quejarme por quejarme. Ni siquiera me quejo. Utilizo un SO gratuito, la relaci\u00f3n calidad\/precio tiende, literalmente, a infinito. S\u00f3lo expongo una de las razones por las que creo que GNU\/Linux no llega a cuajar entre el p\u00fablico general. De todas formas, ahora mismo estoy aprendiendo a programar (Java, pero me gustar\u00eda seguir con C++ y Python al terminar) y s\u00ed me gustar\u00eda colaborar de alg\u00fan modo con el proyecto GNU en un futuro.<\/p>","content":"<p>No sab\u00eda de esa posibilidad. Pero te dir\u00e9. Mi escritorio ha quedado bonito gracias a terceros, no gracias a m\u00ed. Por desgracia no s\u00e9 demasiado sobre dise\u00f1o. Mi escritorio no es especialmente espectacular, y estoy convencido de que por Deviantart existen miles de escritorios mucho m\u00e1s bonitos.<\/p>\n\n<p>No es quejarme por quejarme. Ni siquiera me quejo. Utilizo un SO gratuito, la relaci\u00f3n calidad\/precio tiende, literalmente, a infinito. S\u00f3lo expongo una de las razones por las que creo que GNU\/Linux no llega a cuajar entre el p\u00fablico general. De todas formas, ahora mismo estoy aprendiendo a programar (Java, pero me gustar\u00eda seguir con C++ y Python al terminar) y s\u00ed me gustar\u00eda colaborar de alg\u00fan modo con el proyecto GNU en un futuro.<\/p>","karma":"90.00","parent":"376592","comment_edited_date":"","vote_count":"9","comment_level":2,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"yippiekayyay","user_id":"81975","author":"","webpage":null,"user_name":"yippiekayyay","karma_level":"17.00","iseditor":"0","global_id":"377037","facebook_uid":null,"index":44,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/397a1f7802763e2b0dd1007558fc3d93"},{"id":"376685","post_id":"65998","date":1325078178,"content_filtered":"<p>ERA feo con ganas. \u00bf Habeis probado gnome shell o Kde4 ?\nMirad esto, y tiene a\u00f1os :\n<a href=\"http:\/\/www.linuxhaxor.net\/10-most-beautiful-looking-linux-desktop\/\" rel=\"nofollow\">http:\/\/www.linuxhaxor.net\/10-most-beautiful-looking-linux-desktop\/<\/a><\/p>","content":"<p>ERA feo con ganas. \u00bf Habeis probado gnome shell o Kde4 ?\nMirad esto, y tiene a\u00f1os :\n<a href=\"http:\/\/www.linuxhaxor.net\/10-most-beautiful-looking-linux-desktop\/\" rel=\"nofollow\">http:\/\/www.linuxhaxor.net\/10-most-beautiful-looking-linux-desktop\/<\/a><\/p>","karma":"18.00","parent":"376577","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"cantamanyanes","user_id":"7821","author":"","webpage":null,"user_name":"cantamanyanes","karma_level":"22.00","iseditor":"0","global_id":"75929","facebook_uid":null,"index":106,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/51c68e3eabb6fe1c1e3e496e9e4b2f1d"},{"id":"376895","post_id":"65998","date":1325181547,"content_filtered":"<p>Mira, para gustos los colores. A ti no te gusta el tema que trae Ubuntu por defecto, pero en cambio a m\u00ed si que me gusta, es sencillo y funcional, ideal para trabajar. La cuesti\u00f3n es, \u00bfes m\u00e1s importante para ti la est\u00e9tica que la eficiencia? Si la respuesta es afirmativa, te doy la raz\u00f3n, Linux no es el sistema operativo adecuado para ti. Pero por otro lado, si la respuesta es negativa, entonces pensar\u00e1s como yo, que prefieres pasar de lo hermos\u00edsima que es la interfaz gr\u00e1fica de Windows 7 si con ello te logras librar del premio de las actualizaciones autom\u00e1ticas al apagar el equipo, o bien, de los 3 minutos de computaci\u00f3n que se requieren para eliminar ciertos archivos. Yo, sinceramente, por tal de no aguantar eso, como por tal de no aguantar el tener que seguir el caminico marcado por Apple en su precios\u00edsimo OSX, pas\u00e1ndote horas comi\u00e9ndote el tarro para hacer algo que ellos no te permiten\/preveen, cr\u00e9eme, me quedar\u00eda en el mundo de Linux aunque tuviera por escritorio una imagen fija de la Duquesa de Alba.<\/p>\n\n<p>Supongo que esa es la diferencia entre los usuarios. Los que van por la facilidad y lo conocido, se quedan en Windows, los que van por la est\u00e9tica, van directos a por Apple, y los que van a por que los dejen trabajar en paz y hacer lo que les d\u00e9 la gana con su sistema operativo, se quedan con Linux. \u00bfQu\u00e9 usuario eres t\u00fa?<\/p>","content":"<p>Mira, para gustos los colores. A ti no te gusta el tema que trae Ubuntu por defecto, pero en cambio a m\u00ed si que me gusta, es sencillo y funcional, ideal para trabajar. La cuesti\u00f3n es, \u00bfes m\u00e1s importante para ti la est\u00e9tica que la eficiencia? Si la respuesta es afirmativa, te doy la raz\u00f3n, Linux no es el sistema operativo adecuado para ti. Pero por otro lado, si la respuesta es negativa, entonces pensar\u00e1s como yo, que prefieres pasar de lo hermos\u00edsima que es la interfaz gr\u00e1fica de Windows 7 si con ello te logras librar del premio de las actualizaciones autom\u00e1ticas al apagar el equipo, o bien, de los 3 minutos de computaci\u00f3n que se requieren para eliminar ciertos archivos. Yo, sinceramente, por tal de no aguantar eso, como por tal de no aguantar el tener que seguir el caminico marcado por Apple en su precios\u00edsimo OSX, pas\u00e1ndote horas comi\u00e9ndote el tarro para hacer algo que ellos no te permiten\/preveen, cr\u00e9eme, me quedar\u00eda en el mundo de Linux aunque tuviera por escritorio una imagen fija de la Duquesa de Alba.<\/p>\n\n<p>Supongo que esa es la diferencia entre los usuarios. Los que van por la facilidad y lo conocido, se quedan en Windows, los que van por la est\u00e9tica, van directos a por Apple, y los que van a por que los dejen trabajar en paz y hacer lo que les d\u00e9 la gana con su sistema operativo, se quedan con Linux. \u00bfQu\u00e9 usuario eres t\u00fa?<\/p>","karma":"18.00","parent":"376577","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"alextext","user_id":"60277","author":"","webpage":null,"user_name":"alextext","karma_level":"25.00","iseditor":"0","global_id":"260145","facebook_uid":null,"index":172,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/260145_1.png"},{"id":"376919","post_id":"65998","date":1325189101,"content_filtered":"<p>Es que Linux no es un SO. Es un kernel. El SO es Ubuntu, Arch Linux, Fedora, Android, MeeGo o cualquier distribuci\u00f3n de Linux. El art\u00edculo va de por qu\u00e9 GNU\/Linux no llega al gran p\u00fablico, y yo he aportado una raz\u00f3n extra. Esto es as\u00ed, guste o no guste. Que Ubuntu ser\u00e1 muy personalizable, y Arch Linux o Gentoo a\u00fan m\u00e1s. Pero esto es algo que no le interesa al 99% de la poblaci\u00f3n. Y en este sentido (y por eso dije que me iban a llover palos, me alegro de haberme equivocado) los usuarios de Linux en general tienen muy poca capacidad de autocr\u00edtica. A m\u00ed no me interesan los coches, y si a m\u00ed me gusta el Civic y t\u00fa me dices que me compre un Leon (por ejemplo) que tienen un mont\u00f3n de accesorios para tunearlo y el motor es f\u00e1cil de trucar y al Civic no voy a poder hacerle nada, me comprar\u00e9 un Civic. Porque no me interesa trastear con el motor, ni que sea f\u00e1cil cambiar el tubo de escape, ni nada parecido. Quiero un coche bonito que me mueva de un lado a otro y que tenga de serie las m\u00e1ximas caracter\u00edsticas \u00fatiles posibles. Est\u00e1is corroborando mi comentario. GNU\/Linux es un SO para geeks, como el Le\u00f3n de mi ejemplo ser\u00eda un coche para aficionados al tuning. No es un SO para el p\u00fablico en general, porque la mayor\u00eda de los usuarios de Linux no quieren entender qu\u00e9 es lo que quiere el p\u00fablico en general.<\/p>\n\n<p>No se puede ser tan talib\u00e1n de los SOs. Si de verdad se pretende que GNU\/Linux cale entre el p\u00fablico, se le debe ofrecer exactamente lo que quiere, y no intentar convencer al p\u00fablico de que lo que no quieren es mejor.<\/p>","content":"<p>Es que Linux no es un SO. Es un kernel. El SO es Ubuntu, Arch Linux, Fedora, Android, MeeGo o cualquier distribuci\u00f3n de Linux. El art\u00edculo va de por qu\u00e9 GNU\/Linux no llega al gran p\u00fablico, y yo he aportado una raz\u00f3n extra. Esto es as\u00ed, guste o no guste. Que Ubuntu ser\u00e1 muy personalizable, y Arch Linux o Gentoo a\u00fan m\u00e1s. Pero esto es algo que no le interesa al 99% de la poblaci\u00f3n. Y en este sentido (y por eso dije que me iban a llover palos, me alegro de haberme equivocado) los usuarios de Linux en general tienen muy poca capacidad de autocr\u00edtica. A m\u00ed no me interesan los coches, y si a m\u00ed me gusta el Civic y t\u00fa me dices que me compre un Leon (por ejemplo) que tienen un mont\u00f3n de accesorios para tunearlo y el motor es f\u00e1cil de trucar y al Civic no voy a poder hacerle nada, me comprar\u00e9 un Civic. Porque no me interesa trastear con el motor, ni que sea f\u00e1cil cambiar el tubo de escape, ni nada parecido. Quiero un coche bonito que me mueva de un lado a otro y que tenga de serie las m\u00e1ximas caracter\u00edsticas \u00fatiles posibles. Est\u00e1is corroborando mi comentario. GNU\/Linux es un SO para geeks, como el Le\u00f3n de mi ejemplo ser\u00eda un coche para aficionados al tuning. No es un SO para el p\u00fablico en general, porque la mayor\u00eda de los usuarios de Linux no quieren entender qu\u00e9 es lo que quiere el p\u00fablico en general.<\/p>\n\n<p>No se puede ser tan talib\u00e1n de los SOs. Si de verdad se pretende que GNU\/Linux cale entre el p\u00fablico, se le debe ofrecer exactamente lo que quiere, y no intentar convencer al p\u00fablico de que lo que no quieren es mejor.<\/p>","karma":"25.00","parent":"376895","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"yippiekayyay","user_id":"81975","author":"","webpage":null,"user_name":"yippiekayyay","karma_level":"17.00","iseditor":"0","global_id":"377037","facebook_uid":null,"index":175,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/397a1f7802763e2b0dd1007558fc3d93"},{"id":"376958","post_id":"65998","date":1325205053,"content_filtered":"<p>Tal vez Fedora, Opensuse y algunos otros sean para geeks, pero Ubuntu (por lo que tengo entendido) est\u00e1 intentando crear un SO para gente com\u00fan, y creo que lo lograr\u00eda si las empresas le  hicieran programas y drivers, que me parece que es casi lo \u00fanico que le falta, pues en el sistema operativo de Canonical ya la gran mayor\u00eda de las cosas se pueden hacer a trav\u00e9s de la interfaz gr\u00e1fica y no es imprescindible la consola.<\/p>","content":"Tal vez Fedora, Opensuse y algunos otros sean para geeks, pero Ubuntu (por lo que tengo entendido) est\u00e1 intentando crear un SO para gente com\u00fan, y creo que lo lograr\u00eda si las empresas le  hicieran programas y drivers, que me parece que es casi lo \u00fanico que le falta, pues en el sistema operativo de Canonical ya la gran mayor\u00eda de las cosas se pueden hacer a trav\u00e9s de la interfaz gr\u00e1fica y no es imprescindible la consola.","karma":"5.00","parent":"376919","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"1","comment_author":"jomnix","user_id":"96375","author":"","webpage":null,"user_name":"jomnix","karma_level":"17.00","iseditor":"0","global_id":"460531","facebook_uid":null,"index":181,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/17ed09a2aac349c4ab4899bddd65b0b4"},{"id":"376730","post_id":"65998","date":1325088042,"content_filtered":"<p>Alguien deber\u00eda decirte que los colores son cuesti\u00f3n de gustos. A mi precisamente me encanta que Canonical haya elegido el morado. Y Unity tambi\u00e9n me parece bonito (aunque se puede mejorar).<\/p>\n\n<p>Algunos se piensan que los que les gusta a ellos son la \u00fanica realidad, ilusos...<\/p>","content":"<p>Alguien deber\u00eda decirte que los colores son cuesti\u00f3n de gustos. A mi precisamente me encanta que Canonical haya elegido el morado. Y Unity tambi\u00e9n me parece bonito (aunque se puede mejorar).<\/p>\n\n<p>Algunos se piensan que los que les gusta a ellos son la \u00fanica realidad, ilusos...<\/p>","karma":"15.00","parent":"376577","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"dracarysart","user_id":"100561","author":"","webpage":null,"user_name":"dracarysart","karma_level":"20.00","iseditor":"0","global_id":"499957","facebook_uid":null,"index":141,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/499957_1.png"},{"id":"376920","post_id":"65998","date":1325189363,"content_filtered":"<p>No, no creo que lo que a m\u00ed me guste sea la \u00fanica realidad. Pero hablando con la gente me he dado cuenta de que, en general, hay ciertos detalles en Ubuntu que resultan desagradables. Una de ellas, y la m\u00e1s habitual, es el plymouth morado.<\/p>\n\n<p>Los colores son cuesti\u00f3n de gustos, pero hay colores que gustan a m\u00e1s gente que otros. Por eso Apple tiene tanto \u00e9xito, porque se fija en esos detalles hasta el m\u00e1ximo.<\/p>","content":"No, no creo que lo que a m\u00ed me guste sea la \u00fanica realidad. Pero hablando con la gente me he dado cuenta de que, en general, hay ciertos detalles en Ubuntu que resultan desagradables. Una de ellas, y la m\u00e1s habitual, es el plymouth morado.\n\nLos colores son cuesti\u00f3n de gustos, pero hay colores que gustan a m\u00e1s gente que otros. Por eso Apple tiene tanto \u00e9xito, porque se fija en esos detalles hasta el m\u00e1ximo.","karma":"5.00","parent":"376730","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"yippiekayyay","user_id":"81975","author":"","webpage":null,"user_name":"yippiekayyay","karma_level":"17.00","iseditor":"0","global_id":"377037","facebook_uid":null,"index":176,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/397a1f7802763e2b0dd1007558fc3d93"},{"id":"376648","post_id":"65998","date":1325048438,"content_filtered":"<p>Estoy totalmente de acuerdo contigo, pero m\u00e1s Ubuntu por ser la distribuci\u00f3n m\u00e1s conocida y financiada por Canonical deber\u00eda de ser... menos feo.<\/p>\n\n<p>En estos momentos mis esperanzas est\u00e1n puestas en \nElementary OS Luna, creo que este concepto gr\u00e1fico es fenomenal, es muy similar al de Mac OS pero no deja de ser fantastico y muy bien logrado, ojala y aprendan algo Daniel For\u00e9 y Andrea Cimitan (encargados del aspecto visual de Ubuntu).<\/p>","content":"Estoy totalmente de acuerdo contigo, pero m\u00e1s Ubuntu por ser la distribuci\u00f3n m\u00e1s conocida y financiada por Canonical deber\u00eda de ser... menos feo.\n\nEn estos momentos mis esperanzas est\u00e1n puestas en \nElementary OS Luna, creo que este concepto gr\u00e1fico es fenomenal, es muy similar al de Mac OS pero no deja de ser fantastico y muy bien logrado, ojala y aprendan algo Daniel For\u00e9 y Andrea Cimitan (encargados del aspecto visual de Ubuntu).","karma":"5.00","parent":"376577","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"99441","user_id":"99441","author":"","webpage":null,"user_name":null,"karma_level":"17.00","iseditor":"0","global_id":"485208","facebook_uid":"100001033150010","index":78,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100001033150010\/picture"},{"id":"376664","post_id":"65998","date":1325067037,"content_filtered":"<p>Veamos como de complicado es personalizar Ubuntu, de forma, por ejemplo que tenga el mismo aspecto que un mac con OSX:<\/p>\n\n<p>1.- Descargar macbuntu de su sitio web: macbuntu.sf.net\n2.- descomprmir fichero\n3.- Doble clic sobre install.sh y seguir instrucciones en pantalla <\/p>\n\n<p>Proceso finalizado. <\/p>\n\n<p>Vamos, dif\u00edcil que te cagas.<\/p>","content":"Veamos como de complicado es personalizar Ubuntu, de forma, por ejemplo que tenga el mismo aspecto que un mac con OSX:\n\n1.- Descargar macbuntu de su sitio web: macbuntu.sf.net\n2.- descomprmir fichero\n3.- Doble clic sobre install.sh y seguir instrucciones en pantalla \n\nProceso finalizado. \n\nVamos, dif\u00edcil que te cagas.","karma":"5.00","parent":"376577","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"albandy","user_id":"1169","author":"albandy","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"38868","facebook_uid":null,"index":92,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/20e4f4cba429559bad42c04f76d84bd7"},{"id":"376671","post_id":"65998","date":1325071080,"content_filtered":"<p>He intentado instalarlo y parece no ser compatible con Ubuntu 11.10. Al final he tenido que hacer .\/install force para que finalmente s\u00f3lo me cambiase el aspecto del terminal y el plymouth.<\/p>\n\n<p>Pero de todos modos, aunque hubiese funcionado. Tendr\u00eda algo que ya me ofrece la competencia de forma nativa. \u00bfQu\u00e9 sentido tiene intentar imitar otro SO sin ni siquiera mejorarlo? Tendr\u00eda un Ubuntu que imita a Mac, pero no es un Mac. Es una copia.<\/p>","content":"<p>He intentado instalarlo y parece no ser compatible con Ubuntu 11.10. Al final he tenido que hacer .\/install force para que finalmente s\u00f3lo me cambiase el aspecto del terminal y el plymouth.<\/p>\n\n<p>Pero de todos modos, aunque hubiese funcionado. Tendr\u00eda algo que ya me ofrece la competencia de forma nativa. \u00bfQu\u00e9 sentido tiene intentar imitar otro SO sin ni siquiera mejorarlo? Tendr\u00eda un Ubuntu que imita a Mac, pero no es un Mac. Es una copia.<\/p>","karma":"35.00","parent":"376664","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"yippiekayyay","user_id":"81975","author":"","webpage":null,"user_name":"yippiekayyay","karma_level":"17.00","iseditor":"0","global_id":"377037","facebook_uid":null,"index":97,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/397a1f7802763e2b0dd1007558fc3d93"},{"id":"376677","post_id":"65998","date":1325074541,"content_filtered":"<p>El que he puesto es para 10.04 y 10.10, no he pensado en las versiones superiores porque yo no me muevo de las LTS (en entornos de producci\u00f3n solo hay que usar versiones LTS, es algo de caj\u00f3n).<\/p>\n\n<p>Evidentemente que es una copia del escritorio de OSX, pero es el primer ejemplo que se me ha pasado por la cabeza.<\/p>\n\n<p>Tambi\u00e9n tienes versiones que imitan a windows xp o a windows 7.<\/p>\n\n<p>Solo son formas de hacer m\u00e1s agradable la migraci\u00f3n de usuarios que provienen de estos sistemas operativos.<\/p>\n\n<p>Tienes much\u00edsimas alternativas y la mayor\u00eda tan f\u00e1ciles de instalar como esta o incluso m\u00e1s (mira gnome-look y ver\u00e1s que lo \u00fanico que tienes que hacer es a\u00f1adir el tema desde el gestor de temas en la mayor\u00eda de los casos).<\/p>\n\n<p>Tambi\u00e9n puedes instalar gnome2 en 11.10 por ejemplo a trav\u00e9s del fork mate (en ning\u00fan sistema operativo propietario puedes hacer esto) simplemente a\u00f1adiendo su ppa (que se puede hacer de forma gr\u00e1fica o en terminal) e instalando el paquete.<\/p>","content":"El que he puesto es para 10.04 y 10.10, no he pensado en las versiones superiores porque yo no me muevo de las LTS (en entornos de producci\u00f3n solo hay que usar versiones LTS, es algo de caj\u00f3n).\n\nEvidentemente que es una copia del escritorio de OSX, pero es el primer ejemplo que se me ha pasado por la cabeza.\n\nTambi\u00e9n tienes versiones que imitan a windows xp o a windows 7.\n\nSolo son formas de hacer m\u00e1s agradable la migraci\u00f3n de usuarios que provienen de estos sistemas operativos.\n\nTienes much\u00edsimas alternativas y la mayor\u00eda tan f\u00e1ciles de instalar como esta o incluso m\u00e1s (mira gnome-look y ver\u00e1s que lo \u00fanico que tienes que hacer es a\u00f1adir el tema desde el gestor de temas en la mayor\u00eda de los casos).\n\nTambi\u00e9n puedes instalar gnome2 en 11.10 por ejemplo a trav\u00e9s del fork mate (en ning\u00fan sistema operativo propietario puedes hacer esto) simplemente a\u00f1adiendo su ppa (que se puede hacer de forma gr\u00e1fica o en terminal) e instalando el paquete.","karma":"5.00","parent":"376671","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"1","comment_author":"albandy","user_id":"1169","author":"albandy","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"38868","facebook_uid":null,"index":102,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/20e4f4cba429559bad42c04f76d84bd7"},{"id":"376921","post_id":"65998","date":1325189425,"content_filtered":"<p>Y para que querr\u00edas imitar a mac os x en un entorno de produccion?? :|<\/p>","content":"<p>Y para que querr\u00edas imitar a mac os x en un entorno de produccion?? :|<\/p>","karma":"15.00","parent":"376677","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"4","comment_approved":"1","comment_author":"thesuperjez","user_id":"100044","author":"","webpage":null,"user_name":"thesuperjez","karma_level":"17.00","iseditor":"0","global_id":"496619","facebook_uid":null,"index":177,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/14478709dbdff25e62402f2a26a0112e"},{"id":"376763","post_id":"65998","date":1325103774,"content_filtered":"<p>bueno sacando mac Os x, los iconos de windows ke vienen por defecto tampoco son para tirar cohetes!<\/p>\n\n<p>Pero a\u00fan as\u00ed concuerdo un poco con vos, pero creo ke y hasta te aseguro ke s\u00ed nuestras t\u00fa escritorio habr\u00e1 mucha gente que no le parecer\u00e1 lindo, \nY as\u00ed como otras muchas, y esto lo digo con conocimiento de causa, los \u00faltimos Ubuntus a muchas de mis amigas mujeres les ha gustado los colores y el concepto de Unity, \nPor eso digo todo es subjestivo, \nEl otro punto es \nQ  creo ke GnU LINUX va dirigido a un p\u00fablico distinto, \nah\u00ed ten\u00e9s el ejemplo de IoS y android, \nA android muchos lo critican por diversos temas, ya sea x el tema de las actualizaciones, xq hay ke andar trasteando con roms etc, \nPero en lugar de criticar eso xq no te paras a repensar s\u00ed Android es para ti o no.. \nEs simple, \nEl que se compra un android es porque le gusta eso justamente de poder meter mano hasta las tripas del tel\u00e9fono, probar una rom, desinstalar, instalar otra, explorar los archivos directamente en las carpetas y tripas del sistema, cambiar e instalar otros teclados  etc etc, creo ke no haynadie en su sano juicio q tenga conocimientos y q se haya quedado con su tel\u00e9fono android con la rom original del fabricante y operador, \nAhora hay mucha gente q esas cosas simplemente no le interesan, y para esa gente est\u00e1 IOS con el Iphone, q simplemente lo encienden y ya lo usan, no les importa ni interesa saber q nombre tienen las est\u00e9nciones de los programas, nada ., claro aunque tenga muchas limitaciones, las funciones que tienen andan y son bonitas y punto, <\/p>\n\n<p>Por eso digo son sistemas totalmente opuestos y para p\u00fablicos totalmente diferentes y con necesidades diferentes, .. <\/p>\n\n<p>Es como el carpintero aficionado, ke ama la carpinter\u00eda como afici\u00f3n aunque no sea su profecion ,  ke pocas cosas y muebles de madera se compra ya  hechos, sino q m\u00e1s veces prefiere comprarse la madera para terminarlas el a su gusto y estilo, . \nEntiendes x donde va esto de GNU linux?<\/p>","content":"bueno sacando mac Os x, los iconos de windows ke vienen por defecto tampoco son para tirar cohetes!\n\nPero a\u00fan as\u00ed concuerdo un poco con vos, pero creo ke y hasta te aseguro ke s\u00ed nuestras t\u00fa escritorio habr\u00e1 mucha gente que no le parecer\u00e1 lindo, \nY as\u00ed como otras muchas, y esto lo digo con conocimiento de causa, los \u00faltimos Ubuntus a muchas de mis amigas mujeres les ha gustado los colores y el concepto de Unity, \nPor eso digo todo es subjestivo, \nEl otro punto es \nQ  creo ke GnU LINUX va dirigido a un p\u00fablico distinto, \nah\u00ed ten\u00e9s el ejemplo de IoS y android, \nA android muchos lo critican por diversos temas, ya sea x el tema de las actualizaciones, xq hay ke andar trasteando con roms etc, \nPero en lugar de criticar eso xq no te paras a repensar s\u00ed Android es para ti o no.. \nEs simple, \nEl que se compra un android es porque le gusta eso justamente de poder meter mano hasta las tripas del tel\u00e9fono, probar una rom, desinstalar, instalar otra, explorar los archivos directamente en las carpetas y tripas del sistema, cambiar e instalar otros teclados  etc etc, creo ke no haynadie en su sano juicio q tenga conocimientos y q se haya quedado con su tel\u00e9fono android con la rom original del fabricante y operador, \nAhora hay mucha gente q esas cosas simplemente no le interesan, y para esa gente est\u00e1 IOS con el Iphone, q simplemente lo encienden y ya lo usan, no les importa ni interesa saber q nombre tienen las est\u00e9nciones de los programas, nada ., claro aunque tenga muchas limitaciones, las funciones que tienen andan y son bonitas y punto, \n\nPor eso digo son sistemas totalmente opuestos y para p\u00fablicos totalmente diferentes y con necesidades diferentes, .. \n\nEs como el carpintero aficionado, ke ama la carpinter\u00eda como afici\u00f3n aunque no sea su profecion ,  ke pocas cosas y muebles de madera se compra ya  hechos, sino q m\u00e1s veces prefiere comprarse la madera para terminarlas el a su gusto y estilo, . \nEntiendes x donde va esto de GNU linux?","karma":"5.00","parent":"376577","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"0","comment_author":"boomnatural","user_id":"97973","author":"","webpage":null,"user_name":"boomnatural","karma_level":"20.00","iseditor":"0","global_id":"411746","facebook_uid":"100000259121207","index":156,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/411746_1.png"},{"id":"376667","post_id":"65998","date":1325068924,"content_filtered":"<p>Windows 7 te parecer\u00e1 horrible entonces, porque es mucho mas tosco. Yo no uso el tema por defecto de ubuntu, pero uso uno de los que trae incluidos, y me parece mucho mas agradable que cualquiera de los Windows.<\/p>\n\n<p>Lo mismo es que te complicas demasiado la vida y que exageras...<br \/><\/p>","content":"<p>Windows 7 te parecer\u00e1 horrible entonces, porque es mucho mas tosco. Yo no uso el tema por defecto de ubuntu, pero uso uno de los que trae incluidos, y me parece mucho mas agradable que cualquiera de los Windows.<\/p>\n\n<p>Lo mismo es que te complicas demasiado la vida y que exageras...<br \/><\/p>","karma":"0.50","parent":"376577","comment_edited_date":1325069005,"vote_count":"3","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"64017","user_id":"64017","author":"","webpage":null,"user_name":"disecain","karma_level":"22.00","iseditor":"0","global_id":"278383","facebook_uid":"720484666","index":93,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/720484666\/picture"},{"id":"376571","post_id":"65998","date":1325032553,"content_filtered":"<p>\"\u00bfPor qu\u00e9 no ver anuncios de distribuciones GNU\/Linux en la televisi\u00f3n, prensa o radio?\"<\/p>\n\n<p>Facil la publicidad cuesta mucho dinero y las ditribuciones Linux sulen ser gratis asiq a ver de dnd sacan el dinero.<\/p>","content":"<p>\"\u00bfPor qu\u00e9 no ver anuncios de distribuciones GNU\/Linux en la televisi\u00f3n, prensa o radio?\"<\/p>\n\n<p>Facil la publicidad cuesta mucho dinero y las ditribuciones Linux sulen ser gratis asiq a ver de dnd sacan el dinero.<\/p>","karma":"200.00","parent":"0","comment_edited_date":"","vote_count":"22","comment_level":1,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"snakeper","user_id":"100511","author":"","webpage":null,"user_name":"snakeper","karma_level":"17.00","iseditor":"0","global_id":"433516","facebook_uid":null,"index":10,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/c348024a609279fc9e647d178ef5cd5a"},{"id":"376625","post_id":"65998","date":1325038787,"content_filtered":"<p>Ahora la mejor publicidad es por internet!<\/p>","content":"<p>Ahora la mejor publicidad es por internet!<\/p>","karma":"25.00","parent":"376571","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"doyulioneg","user_id":"42658","author":"","webpage":null,"user_name":"doyulioneg","karma_level":"25.00","iseditor":"0","global_id":"143720","facebook_uid":null,"index":59,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/143720_1.png"},{"id":"376573","post_id":"65998","date":1325032712,"content_filtered":"<p>Buen art\u00edculo, pero el comentario sobre la terminal es ridiculamente absurdo. Hasta podr\u00eda considerar el hecho de que la terminal no sea necesaria para usuarios finales, pero sugieres que ni siquiera para administradores de sistemas. Por favor, hazte ver.<\/p>","content":"<p>Buen art\u00edculo, pero el comentario sobre la terminal es ridiculamente absurdo. Hasta podr\u00eda considerar el hecho de que la terminal no sea necesaria para usuarios finales, pero sugieres que ni siquiera para administradores de sistemas. Por favor, hazte ver.<\/p>","karma":"185.00","parent":"0","comment_edited_date":"","vote_count":"21","comment_level":1,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"51969","user_id":"51969","author":"","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"246273","facebook_uid":"1491010375","index":12,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1491010375\/picture"},{"id":"376601","post_id":"65998","date":1325036563,"content_filtered":"<p>completamente de acuerdo!<\/p>\n\n<p>la terminal es bastante productiva cuando la aprendes a usar, se puede trabajar realmente r\u00e1pido, mucho m\u00e1s que usando entornos gr\u00e1ficos (pero mucho!)<\/p>","content":"<p>completamente de acuerdo!<\/p>\n\n<p>la terminal es bastante productiva cuando la aprendes a usar, se puede trabajar realmente r\u00e1pido, mucho m\u00e1s que usando entornos gr\u00e1ficos (pero mucho!)<\/p>","karma":"113.00","parent":"376573","comment_edited_date":"","vote_count":"10","comment_level":2,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"alguienporlared","user_id":"45074","author":"","webpage":null,"user_name":"alguienporlared","karma_level":"22.00","iseditor":"0","global_id":"185497","facebook_uid":null,"index":37,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/c40c5ad638872a442368fa17bf8604b2"},{"id":"376635","post_id":"65998","date":1325042055,"content_filtered":"<p>S\u00ed, diselo a mi madre xD<\/p>","content":"<p>S\u00ed, diselo a mi madre xD<\/p>","karma":"28.00","parent":"376601","comment_edited_date":"","vote_count":"9","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"Fernando Fdez. Arcos","user_id":"63901","author":"Fernando F.","webpage":null,"user_name":"ffdezarcos","karma_level":"46.00","iseditor":"0","global_id":"208955","facebook_uid":"100000515717003","index":68,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/208955_7.png"},{"id":"376660","post_id":"65998","date":1325061918,"content_filtered":"<p>Ya sali\u00f3 uno con la madre.\nQue yo sepa LInux no le pidi\u00f3 a tu madre que lo usara<\/p>","content":"<p>Ya sali\u00f3 uno con la madre.\nQue yo sepa LInux no le pidi\u00f3 a tu madre que lo usara<\/p>","karma":"35.00","parent":"376635","comment_edited_date":"","vote_count":"9","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"0","comment_author":"Diego Germ\u00e1n Gonzalez","user_id":"18808","author":"Diego Germ\u00e1n Gonzalez","webpage":null,"user_name":"dggonzalez","karma_level":"32.00","iseditor":"0","global_id":"133442","facebook_uid":null,"index":88,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/963785ed6ba925a47584c60e210417be"},{"id":"376672","post_id":"65998","date":1325071606,"content_filtered":"<p>Y ese es el problema, su madre usara windows y le no tendra problemas, si se cambia a linux es cuando empiezan los problemas y con un CLI sin ayuda de los foros e internet no se pueden arreglar esos problemas ... Linux deberia ser facil de usar mas grafico menos comandos, instalar paquetes a veces es una pesadilla<\/p>","content":"<p>Y ese es el problema, su madre usara windows y le no tendra problemas, si se cambia a linux es cuando empiezan los problemas y con un CLI sin ayuda de los foros e internet no se pueden arreglar esos problemas ... Linux deberia ser facil de usar mas grafico menos comandos, instalar paquetes a veces es una pesadilla<\/p>","karma":"30.00","parent":"376660","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"4","comment_approved":"1","comment_author":"58747","user_id":"58747","author":"","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"272262","facebook_uid":"1270509479","index":98,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1270509479\/picture"},{"id":"376737","post_id":"65998","date":1325089983,"content_filtered":"<p>1) Linux no tiene vocaci\u00f3n de masivo si su madre se cambia a Linux sin estar dispuesta a asumir los riesgos es su problema 2) No se puede comparar Windows instalado de f\u00e1brica en una m\u00e1quina con Linux instalado por un usuario. O comparamos dos instalaciones OEM o dos instalaciones de usuarios. En el segundo caso vas a tener que configurar cosas.\n3) Lo de los tutoriales con la terminal  es una cuesti\u00f3n de comodidad. Es m\u00e1s f\u00e1cil pegar los comandos que explicar como hacerlo graficamente. Mi proveedor de internet cuando hay un problema te hace usar la l\u00ednea de comandos de Windows<\/p>","content":"<p>1) Linux no tiene vocaci\u00f3n de masivo si su madre se cambia a Linux sin estar dispuesta a asumir los riesgos es su problema 2) No se puede comparar Windows instalado de f\u00e1brica en una m\u00e1quina con Linux instalado por un usuario. O comparamos dos instalaciones OEM o dos instalaciones de usuarios. En el segundo caso vas a tener que configurar cosas.\n3) Lo de los tutoriales con la terminal  es una cuesti\u00f3n de comodidad. Es m\u00e1s f\u00e1cil pegar los comandos que explicar como hacerlo graficamente. Mi proveedor de internet cuando hay un problema te hace usar la l\u00ednea de comandos de Windows<\/p>","karma":"5.00","parent":"376672","comment_edited_date":1325090027,"vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"5","comment_approved":"0","comment_author":"Diego Germ\u00e1n Gonzalez","user_id":"18808","author":"Diego Germ\u00e1n Gonzalez","webpage":null,"user_name":"dggonzalez","karma_level":"32.00","iseditor":"0","global_id":"133442","facebook_uid":null,"index":145,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/963785ed6ba925a47584c60e210417be"},{"id":"376768","post_id":"65998","date":1325106414,"content_filtered":"<p>Yo uso Linux pero no por eso creo que pertenezco a una \u00e9lite por hacerlo. Hay distribuciones que s\u00ed tiene una vocaci\u00f3n de masivas (Ubuntu, Mint, etc.) y que cualquier madre podr\u00eda usar sin mayores problemas. No entiendo cual es el af\u00e1n constante de cierta parte de usuarios de Linux de creerse mas que el resto, por mi mientras m\u00e1s gente lo conozca y use, mejor para todos (m\u00e1s desarrollo, m\u00e1s recursos, m\u00e1s correcci\u00f3n de problemas y un largo etc\u00e9tera)<\/p>","content":"Yo uso Linux pero no por eso creo que pertenezco a una \u00e9lite por hacerlo. Hay distribuciones que s\u00ed tiene una vocaci\u00f3n de masivas (Ubuntu, Mint, etc.) y que cualquier madre podr\u00eda usar sin mayores problemas. No entiendo cual es el af\u00e1n constante de cierta parte de usuarios de Linux de creerse mas que el resto, por mi mientras m\u00e1s gente lo conozca y use, mejor para todos (m\u00e1s desarrollo, m\u00e1s recursos, m\u00e1s correcci\u00f3n de problemas y un largo etc\u00e9tera)","karma":"8.00","parent":"376737","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"6","comment_approved":"1","comment_author":"abelnico","user_id":"53911","author":"","webpage":null,"user_name":"abelnico","karma_level":"26.00","iseditor":"0","global_id":"213249","facebook_uid":null,"index":159,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/213249_2.png"},{"id":"376922","post_id":"65998","date":1325189554,"content_filtered":"<p>Saludamela no? o mejor yo se lo digo en la noche<\/p>","content":"<p>Saludamela no? o mejor yo se lo digo en la noche<\/p>","karma":"2.50","parent":"376635","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"1","comment_author":"thesuperjez","user_id":"100044","author":"","webpage":null,"user_name":"thesuperjez","karma_level":"17.00","iseditor":"0","global_id":"496619","facebook_uid":null,"index":178,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/14478709dbdff25e62402f2a26a0112e"},{"id":"376712","post_id":"65998","date":1325083104,"content_filtered":"<p>Por desgracia el autor del art\u00edculo parece que no se ha fijado en el brutal consumo de recursos que hace un entorno gr\u00e1fico, de hecho en GNU\/Linux el entorno gr\u00e1fico supone nada m\u00e1s y nada menos entre el 66% y el 80% de la RAM consumida con el sistema reci\u00e9n arrancado, vamos, que el entorno gr\u00e1fico consume m\u00e1s que el propio sistema en si.<\/p>\n\n<p>A mi me gusta usar la consola aunque reconozco que es muy geek, pero es una herramienta muy potente que facilita (si, aunque no lo parezca) mucho ciertas tareas aparte que tiene una flexibilidad y una potencia inalcanzables en una interfaz gr\u00e1fica.<\/p>\n\n<p>Sobre si GNU\/Linux es feo, para mi no lo es absoluto en estos tiempos, creo que tanto Gnome Shell como KDE 4 se muestran como entornos bastantes agradables a la vista y cada uno con su estilo bien definido. El problema creo aqu\u00ed es que ahora todo lo que no se parezca a Mac es feo, la moda ahora es la manzanita y nadie cuida el dise\u00f1o mejor que ellos, eso no lo niego. Pero por favor, \u00bfes m\u00e1s bonito Windows Vista o Windows XP que Gnome-Shell o KDE 4?, para mi, NO, ahora que sean m\u00e1s f\u00e1ciles de usar para el p\u00fablico general es otra cosa.<\/p>\n\n<p>Para mi a algunas distribuciones (la m\u00eda, Fedora, no es una de ellas) lo que les falta es una buena campa\u00f1a de marketing y venir preinstalado en dispositivos de calidad y no en computadoras de gama baja que no las quiere nadie. Creo que Ubuntu puede ser usado por cualquiera hoy en d\u00eda, pero como ya he dicho mil veces por aqu\u00ed aun tendremos gente que dir\u00e1 que descargar de Taringa y buscar cracks en p\u00e1ginas oscuras es m\u00e1s f\u00e1cil que usar el Centro de Software de Ubuntu o que Ubuntu es m\u00e1s dif\u00edcil de instalar que XP cuando el Linux no tiene ni la mitad de pasos y resulta mucho m\u00e1s desatendida.<\/p>","content":"<p>Por desgracia el autor del art\u00edculo parece que no se ha fijado en el brutal consumo de recursos que hace un entorno gr\u00e1fico, de hecho en GNU\/Linux el entorno gr\u00e1fico supone nada m\u00e1s y nada menos entre el 66% y el 80% de la RAM consumida con el sistema reci\u00e9n arrancado, vamos, que el entorno gr\u00e1fico consume m\u00e1s que el propio sistema en si.<\/p>\n\n<p>A mi me gusta usar la consola aunque reconozco que es muy geek, pero es una herramienta muy potente que facilita (si, aunque no lo parezca) mucho ciertas tareas aparte que tiene una flexibilidad y una potencia inalcanzables en una interfaz gr\u00e1fica.<\/p>\n\n<p>Sobre si GNU\/Linux es feo, para mi no lo es absoluto en estos tiempos, creo que tanto Gnome Shell como KDE 4 se muestran como entornos bastantes agradables a la vista y cada uno con su estilo bien definido. El problema creo aqu\u00ed es que ahora todo lo que no se parezca a Mac es feo, la moda ahora es la manzanita y nadie cuida el dise\u00f1o mejor que ellos, eso no lo niego. Pero por favor, \u00bfes m\u00e1s bonito Windows Vista o Windows XP que Gnome-Shell o KDE 4?, para mi, NO, ahora que sean m\u00e1s f\u00e1ciles de usar para el p\u00fablico general es otra cosa.<\/p>\n\n<p>Para mi a algunas distribuciones (la m\u00eda, Fedora, no es una de ellas) lo que les falta es una buena campa\u00f1a de marketing y venir preinstalado en dispositivos de calidad y no en computadoras de gama baja que no las quiere nadie. Creo que Ubuntu puede ser usado por cualquiera hoy en d\u00eda, pero como ya he dicho mil veces por aqu\u00ed aun tendremos gente que dir\u00e1 que descargar de Taringa y buscar cracks en p\u00e1ginas oscuras es m\u00e1s f\u00e1cil que usar el Centro de Software de Ubuntu o que Ubuntu es m\u00e1s dif\u00edcil de instalar que XP cuando el Linux no tiene ni la mitad de pasos y resulta mucho m\u00e1s desatendida.<\/p>","karma":"18.00","parent":"376573","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"irongraywolf","user_id":"32317","author":"","webpage":null,"user_name":"irongraywolf","karma_level":"25.00","iseditor":"0","global_id":"179429","facebook_uid":null,"index":128,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/179429_3.png"},{"id":"376743","post_id":"65998","date":1325092553,"content_filtered":"<p>Es m\u00e1s, f\u00edjate que en el \u00faltimo sp de windows XP te meten el powershell, que es un int\u00e9rprete de comandos unix.<\/p>\n\n<p>As\u00ed que si tan poco hace falta la consola, \u00bfpara que co\u00f1o la meten en Windows?<\/p>","content":"Es m\u00e1s, f\u00edjate que en el \u00faltimo sp de windows XP te meten el powershell, que es un int\u00e9rprete de comandos unix.\n\nAs\u00ed que si tan poco hace falta la consola, \u00bfpara que co\u00f1o la meten en Windows?","karma":"5.00","parent":"376573","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"albandy","user_id":"1169","author":"albandy","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"38868","facebook_uid":null,"index":149,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/20e4f4cba429559bad42c04f76d84bd7"},{"id":"376910","post_id":"65998","date":1325185669,"content_filtered":"<p>coincido contigo, el comentario de la consola no tiene sentido, alguno. mas bien es una opini\u00f3n personal del redactor, es mucho mas f\u00e1cil solucionar un problemas desde la consola poniendo 3 o 4 comandos que tener que abrir un mont\u00f3n de programas, desinstalar, reinstalar cosas, etc. <\/p>\n\n<p>ahorra tiempo y es f\u00e1cil!! no entiendo el miedo que le tiene la gente a la consola...<\/p>","content":"coincido contigo, el comentario de la consola no tiene sentido, alguno. mas bien es una opini\u00f3n personal del redactor, es mucho mas f\u00e1cil solucionar un problemas desde la consola poniendo 3 o 4 comandos que tener que abrir un mont\u00f3n de programas, desinstalar, reinstalar cosas, etc. \n\nahorra tiempo y es f\u00e1cil!! no entiendo el miedo que le tiene la gente a la consola...","karma":"5.00","parent":"376573","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"87726","user_id":"87726","author":"GuilloooAR","webpage":null,"user_name":"guilloar","karma_level":"46.00","iseditor":"0","global_id":"410219","facebook_uid":"607415292","index":173,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/607415292\/picture"}],"meta":{"more_records":"false","start":0,"total":49,"order":"valued","totalCount":184},"commentStatus":"closed"});
+
+	window.App = new AML.Comments.Application(65998, commentList);
+	Backbone.history.start();
+      });
+    </script>
+
+  <!-- Comments and Other Stuff -->
+
+  <div id="ad-bottom" class="ad ad-boton">
+  <a class="ad-contact" id="div-gpt-bot-contact" style="display:none" href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-bot' class="ad-box" style='width: 728px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-bot");
+    });
+    </script>
+    </div>
+</div>
+
+  <!-- .ad - boton -->
+  <div class="sidebar-seo-links">
+    <h4>Más en Genbeta</h4>
+    <ul>
+              <li>
+          <a  href="/imagen-digital/nvidia-empieza-a-contribuir-al-desarrollo-de-nouveau" class="thumb80">
+            <img title="NVIDIA empieza a contribuir al desarrollo de Nouveau" src="http://img.genbeta.com/tb/80_80/110656.jpg" alt="NVIDIA empieza a contribuir al desarrollo de Nouveau">
+          </a>
+          <a  href="/imagen-digital/nvidia-empieza-a-contribuir-al-desarrollo-de-nouveau">
+            NVIDIA empieza a contribuir al desarrollo de Nouveau
+          </a>
+        </li>
+              <li>
+          <a  href="/linux/canonical-acata-la-decision-de-debian-y-ubuntu-abrazara-systemd" class="thumb80">
+            <img title="Canonical acata la decisión de Debian y Ubuntu abrazará SystemD" src="http://img.genbeta.com/tb/80_80/110953.jpg" alt="Canonical acata la decisión de Debian y Ubuntu abrazará SystemD">
+          </a>
+          <a  href="/linux/canonical-acata-la-decision-de-debian-y-ubuntu-abrazara-systemd">
+            Canonical acata la decisión de Debian y Ubuntu abrazará SystemD
+          </a>
+        </li>
+              <li>
+          <a  href="/sistemas-operativos/necesitas-tus-apps-de-windows-en-chrome-os-google-y-vmware-quieren-que-las-virtualices" class="thumb80">
+            <img title="¿Necesitas tus apps de Windows en Chrome OS? Google y VMWare quieren que las virtualices" src="http://img.genbeta.com/tb/80_80/110923.jpg" alt="¿Necesitas tus apps de Windows en Chrome OS? Google y VMWare quieren que las virtualices">
+          </a>
+          <a  href="/sistemas-operativos/necesitas-tus-apps-de-windows-en-chrome-os-google-y-vmware-quieren-que-las-virtualices">
+            ¿Necesitas tus apps de Windows en Chrome OS? Google y VMWare quieren que las virtualices
+          </a>
+        </li>
+              <li>
+          <a  href="/linux/mir-ejecutara-de-forma-nativa-los-mejores-juegos-para-linux" class="thumb80">
+            <img title="Mir ejecutará de forma nativa los mejores juegos para Linux" src="http://img.genbeta.com/tb/80_80/110741.jpg" alt="Mir ejecutará de forma nativa los mejores juegos para Linux">
+          </a>
+          <a  href="/linux/mir-ejecutara-de-forma-nativa-los-mejores-juegos-para-linux">
+            Mir ejecutará de forma nativa los mejores juegos para Linux
+          </a>
+        </li>
+              <li>
+          <a  href="/linux/nautilus-puede-ser-reemplazo-en-ubuntu-por-un-gestor-de-archivos-propio" class="thumb80">
+            <img title="Nautilus puede ser sustituido en Ubuntu por un gestor de archivos propio" src="http://img.genbeta.com/tb/80_80/110624.jpg" alt="Nautilus puede ser sustituido en Ubuntu por un gestor de archivos propio">
+          </a>
+          <a  href="/linux/nautilus-puede-ser-reemplazo-en-ubuntu-por-un-gestor-de-archivos-propio">
+            Nautilus puede ser sustituido en Ubuntu por un gestor de archivos propio
+          </a>
+        </li>
+          </ul>
+</div>
+<!-- related-posts SEO links-->
+       
+    </div>
+  <!-- .container -->
+  </div>
+  <!-- .content-dinamic -->
+
+  <div class= "nav nav-blog">
+  <div class= "container">
+    <h2><strong>&#43;</strong> en Genbeta</h2>
+    <ul>
+      <li class= "blog-section section-lomejor"><a href="/lomejor">Lo mejor</a></li>
+      <li class= "blog-section section-temas"><a href="/archivos">Temas</a></li>
+            <li class= "blog-section section-productos"><a href="/productos">Productos</a></li>
+                  <li class= "blog-section section-respuestas"><a href="/respuestas">Respuestas</a></li>
+            
+            <li class="blog-section section-club"><a href="/club">Club</a></li>
+            <li class= "blog-section section-comunidad"><a href="/comunidad">Comunidad</a></li>
+      <li class="blog-section section-staff"><a href="/quienes-somos">Staff</a></li>
+    </ul>
+  </div>
+</div>
+  
+<div class="footer">
+        <div class="footer-media">
+                <div class="links-category">
+            <h2>Tecnología</h2>
+            <ul>
+                              <li class="tec-xataka"><a href="http://www.xataka.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka<span></span></a></li>
+                              <li class="tec-xatakamovil"><a href="http://www.xatakamovil.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Móvil<span></span></a></li>
+                              <li class="tec-xatakafoto"><a href="http://www.xatakafoto.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Foto<span></span></a></li>
+                              <li class="tec-xatakandroid"><a href="http://www.xatakandroid.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Android<span></span></a></li>
+                              <li class="tec-xatakaon"><a href="http://www.xatakaon.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka On<span></span></a></li>
+                              <li class="tec-xatakahome"><a href="http://www.xatakahome.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Smart Home<span></span></a></li>
+                              <li class="tec-xatakawindows"><a href="http://xatakawindows.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Windows<span></span></a></li>
+                              <li class="tec-xatakaciencia"><a href="http://www.xatakaciencia.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Ciencia<span></span></a></li>
+                              <li class="tec-applesfera"><a href="http://www.applesfera.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Applesfera<span></span></a></li>
+                              <li class="tec-vidaextra"><a href="http://www.vidaextra.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vida Extra<span></span></a></li>
+                              <li class="tec-genbeta"><a href="http://www.genbeta.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Genbeta<span></span></a></li>
+                              <li class="tec-genbetadev"><a href="http://www.genbetadev.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Genbeta Dev<span></span></a></li>
+                          </ul>
+        </div>
+            </div>
+    
+    <div class="footer-links">
+                        <div class="links-category">
+            <h2>Estilos de vida</h2>
+            <ul>
+                              <li><a href="http://www.trendencias.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias</a></li>
+                              <li><a href="http://www.trendenciasbelleza.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Belleza</a></li>
+                              <li><a href="http://www.trendenciashombre.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Hombre</a></li>
+                              <li><a href="http://www.trendenciasshopping.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Shopping</a></li>
+                              <li><a href="http://www.trendenciaslifestyle.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Lifestyle</a></li>
+                              <li><a href="http://www.directoalpaladar.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Directo al Paladar</a></li>
+                              <li><a href="http://www.bebesymas.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bebés y Más</a></li>
+                              <li><a href="http://www.pequesymas.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Peques y Más</a></li>
+                              <li><a href="http://www.vitonica.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vitónica</a></li>
+                              <li><a href="http://www.decoesfera.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Decoesfera</a></li>
+                              <li><a href="http://www.embelezzia.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Embelezzia</a></li>
+                              <li><a href="http://www.ambienteg.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ambiente G</a></li>
+                              <li><a href="http://www.poprosa.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Poprosa</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Motor</h2>
+            <ul>
+                              <li><a href="http://www.motorpasion.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión</a></li>
+                              <li><a href="http://www.motorpasionf1.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión F1</a></li>
+                              <li><a href="http://www.motorpasionmoto.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Moto</a></li>
+                              <li><a href="http://www.motorpasionfuturo.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Futuro</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Ocio</h2>
+            <ul>
+                              <li><a href="http://www.blogdecine.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog de Cine</a></li>
+                              <li><a href="http://www.vayatele.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">¡Vaya Tele!</a></li>
+                              <li><a href="http://www.hipersonica.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Hipersónica</a></li>
+                              <li><a href="http://www.diariodelviajero.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Diario del Viajero</a></li>
+                              <li><a href="http://www.papelenblanco.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Papel en Blanco</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Economía</h2>
+            <ul>
+                              <li><a href="http://www.elblogsalmon.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">El Blog Salmón</a></li>
+                              <li><a href="http://www.pymesyautonomos.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Pymes y Autónomos</a></li>
+                              <li><a href="http://www.tecnologiapyme.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Tecnología Pyme</a></li>
+                              <li><a href="http://www.ahorrodiario.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ahorro Diario</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Latinoamérica</h2>
+            <ul>
+                              <li><a href="http://www.xataka.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Brasil</a></li>
+                              <li><a href="http://www.trendencias.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Brasil</a></li>
+                              <li><a href="http://www.motorpasion.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Brasil</a></li>
+                              <li><a href="http://www.xataka.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka México</a></li>
+                              <li><a href="http://www.motorpasion.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión México</a></li>
+                              <li><a href="http://www.directoalpaladar.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Directo Al Paladar México</a></li>
+                              <li><a href="http://www.xatakandroid.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Android México</a></li>
+                              <li><a href="http://www.vidaextra.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vida Extra México</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Participamos en</h2>
+            <ul>
+                              <li><a href="http://www.ebayers.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">eBayers</a></li>
+                              <li><a href="http://www.circulaseguro.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Circula Seguro</a></li>
+                              <li><a href="http://www.circulaseguro.pt/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Circula Seguro PT</a></li>
+                              <li><a href="http://www.actibva.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Actibva</a></li>
+                              <li><a href="http://www.anexom.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Anexo M</a></li>
+                              <li><a href="http://blog.cocacola.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Happing Magazine</a></li>
+                              <li><a href="http://blog.sage.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog Sage</a></li>
+                              <li><a href="http://www.optimismodigital.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Optimismo Digital</a></li>
+                              <li><a href="http://www.1001experiencias.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">1001 Experiencias</a></li>
+                              <li><a href="http://www.ennaranja.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">En Naranja</a></li>
+                              <li><a href="http://www.essieblog.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Essie Blog</a></li>
+                              <li><a href="http://blogginzenith.zenithmedia.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bloggin Zenith</a></li>
+                              <li><a href="http://www.urbanfire.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Urbanfire</a></li>
+                              <li><a href="http://www.tecnologiadetuatu.elcorteingles.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Tecnología de tú a tú</a></li>
+                              <li><a href="http://www.ciudadano00.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ciudadano 0,0</a></li>
+                              <li><a href="http://blogfanta.cocacola.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog Fanta</a></li>
+                              <li><a href="http://mimundo.philips.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Mi Mundo Philips</a></li>
+                              <li><a href="http://www.bbvacontuempresa.es?utm_source=genbeta&utm_medium=network&utm_campaign=footer">BBVA con tu empresa</a></li>
+                              <li><a href="http://www.perutravelblog.net/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Perú Travel Blog</a></li>
+                              <li><a href="http://bscene.bershka.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bershka Bscene</a></li>
+                              <li><a href="http://www.institutodelafelicidad.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Instituto de la Felicidad</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                    </div>
+</div>
+
+<div class="closure">
+    <div class="container">
+        <div class="weblogssl"><a href="http://www.weblogssl.com">Weblogs SL<span></span></a></div>
+        <ul class="nav">
+            <li><a href="/quienes-somos">¿Quienes somos?</a></li>
+            <li><a href="http://www.weblogssl.com/contenidos">Condiciones de uso</a></li>
+            <li><a href="http://www.weblogssl.com/cookies">Política de cookies</a></li>
+            <li><a href="http://www.weblogssl.com/aviso">Aviso legal</a></li>
+            <li><a title="Publicidad en Genbeta" href="http://www.socialmediasl.com/genbeta.php">Publicidad</a></li>
+            <li><a href="/ayuda-2012">Ayuda</a></li>
+            <li><a href="/contacto">Contacto</a></li>
+        </ul>
+    </div>
+</div>
+
+<div id="cookies-overlay"></div>
+
+  <script type="text/javascript">
+    $(function() {
+      new AML.Auth.View.CookiesOverlayView;
+    });
+  </script>
+
+</div>
+<div id="favicons-list">
+
+    <div class="userbar">
+        <a class="head-shortcut" href="#body" title="Volver arriba">&uarr;</a>
+        <div class="userbox" id="wsl_userbox">
+        </div>
+
+        <div class="favicons" style="width: auto; ">
+
+            <div id="scroll-menu">
+
+                <div class="disabledHotSpotLeft">«</div>
+                <div class="disabledHotSpotRight">»</div>
+                <div class="scrollingHotSpotLeft">«</div>
+                <div class="scrollingHotSpotRight">»</div>
+
+                <div class="scrollWrapper">
+                    <div class="scrollableArea">
+
+                        <ul class="favicroll">
+                            <li id="wsl"><a target="_top" href="http://www.weblogssl.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><em><strong>Blog corporativo</strong></em></a></li>
+
+                            <li><a target="_top" href="http://www.xataka.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b1"><strong>XTK</strong></span> <em><strong>Xataka - Gadgets y electrónica de consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vidaextra.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b2"><strong>VX</strong></span> <em><strong>VidaExtra - Videojuegos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.blogdecine.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b3"><strong>BDC</strong></span> <em><strong>Blog de cine - Cine  y críticas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.elblogsalmon.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b5"><strong>EBS</strong></span> <em><strong>El Blog Salmón - Economía y finanzas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.genbeta.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b6"><strong>GBT</strong></span> <em><strong>Genbeta - Software</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasion.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b7"><strong>MP</strong></span> <em><strong>MotorPasión - Coches y motor</strong></em></a></li>
+                            <li><a target="_top" href="http://www.directoalpaladar.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b8"><strong>DAP</strong></span> <em><strong>Directo al paladar - Gastronomía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.bebesymas.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b9"><strong>BYM</strong></span> <em><strong>Bebés y más - Todo sobre bebés</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vayatele.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b11"><strong>VYT</strong></span> <em><strong>¡Vaya Tele! - Series y televisión</strong></em></a></li>
+                            <li><a target="_top" href="http://www.diariodelviajero.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b12"><strong>DDV</strong></span> <em><strong>Diario del viajero - Viajes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakaciencia.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b13"><strong>XCI</strong></span> <em><strong>Xataka Ciencia - Ciencia</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendencias.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b14"><strong>TRE</strong></span> <em><strong>Trendencias - Moda y tendencias</strong></em></a></li>
+                            <li><a target="_top" href="http://www.hipersonica.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b15"><strong>HIP</strong></span> <em><strong>HiperSónica - Música</strong></em></a></li>
+                            <li><a target="_top" href="http://www.applesfera.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b16"><strong>APP</strong></span> <em><strong>Applesfera - Apple</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasshopping.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b17"><strong>COM</strong></span> <em><strong>Trendencias Shopping - Compras y consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakamovil.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b18"><strong>XTM</strong></span> <em><strong>Xataka Móvil - Móviles</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ambienteg.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b19"><strong>AMG</strong></span> <em><strong>Ambiente G - Gays y lesbianas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionmoto.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b20"><strong>MMO</strong></span> <em><strong>Motorpasión Moto - Motos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.papelenblanco.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b21"><strong>PEB</strong></span> <em><strong>Papel en blanco - Literatura</strong></em></a></li>
+                            <li><a target="_top" href="http://www.decoesfera.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b22"><strong>DEC</strong></span> <em><strong>Decoesfera - Decoración e interiorismo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionf1.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b23"><strong>MF1</strong></span> <em><strong>Motorpasión F1 - Carreras</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vitonica.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b24"><strong>VIT</strong></span> <em><strong>Vitónica - Vida sana</strong></em></a></li>
+                            <li><a target="_top" href="http://www.embelezzia.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b25"><strong>EMB</strong></span> <em><strong>Embelezzia - Lujo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.poprosa.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b26"><strong>POP</strong></span> <em><strong>Poprosa - Famosos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakafoto.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b27"><strong>XTF</strong></span> <em><strong>Xataka Foto - Fotografía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.pymesyautonomos.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b28"><strong>PYA</strong></span> <em><strong>Pymes y autónomos - Pymes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasbelleza.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b30"><strong>TRB</strong></span> <em><strong>Trendencias Belleza - Belleza y cosmética</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.tecnologiapyme.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b34"><strong>TPY</strong></span> <em><strong>Tecnología Pyme - Tecnología para empresas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ahorrodiario.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b35"><strong>AHD</strong></span> <em><strong>Ahorro Diario - Ahorro</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciashombre.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b36"><strong>TRH</strong></span> <em><strong>Trendencias Hombre - Moda y estilo masculino</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.pequesymas.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b37"><strong>PEQ</strong></span> <em><strong>Peques y más - Niños e infancia</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakaon.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b39"><strong>XTO</strong></span> <em><strong>Xataka On - Todo sobre conectividad, ADSL</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakandroid.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b40"><strong>XTA</strong></span> <em><strong>Xataka Android - Android, aplicaciones y dispositivos</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.genbetadev.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b41"><strong>GBD</strong></span> <em><strong>Genbeta Dev - Desarrollo de software</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.motorpasionfuturo.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b42"><strong>MPF</strong></span> <em><strong>Motorpasión Futuro - Innovación y Motor</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakahome.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b44"><strong>XSH</strong></span> <em><strong>Xataka Smart Home - Inteligencia doméstica digital</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakawindows.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b45"><strong>XTW</strong></span> <em><strong>Xataka Windows - Universo Microsoft</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciaslifestyle.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b46"><strong>TLS</strong></span> <em><strong>Trendencias Lifestyle</strong></em></a></li>
+                        </ul>
+
+                    </div>
+                </div>
+                <!-- .scrollWrapper-->
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<div id="wsl_dialog"></div>
+<script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', function() {
+  try {
+    if (window.external.msIsSiteMode()) {
+      window.external.msSiteModeClearJumpList();
+      window.external.msSiteModeCreateJumplist('Mensajes Recientes');
+            window.external.msSiteModeAddJumpListItem('Office\x20para\x20iPad,\x20m\u00E1s\x20pronto\x20que\x20tarde\x3A\x20para\x20la\x20primera\x20mitad\x20de\x202014', 'http://www.genbeta.com/ofimatica/office-para-ipad-mas-pronto-que-tarde-para-la-primera-mitad-de-2014', '');
+            window.external.msSiteModeAddJumpListItem('Bittorrent\x20Live,\x20el\x20streaming\x20P2P,\x20llegar\u00E1\x20pronto\x20a\x20los\x20m\u00F3viles\x20', 'http://www.genbeta.com/multimedia/bittorrent-live-el-streaming-p2p-llegara-pronto-a-los-moviles', '');
+            window.external.msSiteModeAddJumpListItem('La\x20hipocres\u00EDa\x20de\x20algunos\x20medios\x20tradicionales.\x20La\x20imagen\x20de\x20la\x20semana\x20', 'http://www.genbeta.com/actualidad/la-hipocresia-de-algunos-medios-tradicionales-la-imagen-de-la-semana', '');
+            window.external.msSiteModeAddJumpListItem('\x22Tasa\x20Google\x22\x3A\x20si\x20tienes\x20un\x20blog\x20tambi\u00E9n\x20te\x20afecta,\x20solo\x20que\x20otros\x20la\x20cobrar\u00E1n\x20por\x20ti\x20', 'http://www.genbeta.com/actualidad/tasa-google-si-tienes-un-blog-tambien-te-afecta-solo-que-otros-la-cobraran-por-ti', '');
+            window.external.msSiteModeAddJumpListItem('Kickstarter,\x20tras\x20sufrir\x20un\x20ataque,\x20recomienda\x20cambiar\x20contrase\u00F1as\x20', 'http://www.genbeta.com/web/kickstarter-tras-sufrir-un-ataque-recomienda-cambiar-contrasenas', '');
+            window.external.msSiteModeShowJumpList();
+    }
+  } catch (exp) {
+    // do nothing
+  }
+  });
+</script>
+
+
+<script type='text/javascript'>
+    (function() {
+      new ViceVersaLink("http://t.genbeta.com");
+    })();
+</script>
+
+<script type='text/javascript'>
+  window.onerror = function(message, file, line) {
+    var sFormattedMessage = '[' + file + ' (' + line + ')] ' + message;
+    _gaq.push(['_trackEvent', 'Errors', 'Browser', sFormattedMessage, null, true]);
+  }
+    
+</script>
+
+</body>
+</html>

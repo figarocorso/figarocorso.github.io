@@ -1,0 +1,818 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+                                                                                                                                                                                                                                                                                <title>Firefox quiere "auto-actualizar" a los usuarios de la 3.6 </title>
+                  <meta name="description" content="En enero de 2010 la gente de Mozilla lanzó la versión 3.6 de Firefox, una versión que a día de hoy todavía les trae de cabeza. Y es que a..." />
+            <meta name="news_keywords" content="Firefox 3.6, actualización automática"/>
+       
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />    
+    <meta name='robots' content='noodp' />
+    <meta property="fb:admins" content="100000716994885"/>
+    <meta name="application-name" content="Genbeta"/>
+    <meta name="msapplication-tooltip" content="Software y web. Genbeta"/>
+    <meta name="msapplication-starturl" content="http://www.genbeta.com"/>
+    <meta name="msapplication-task" content="name=Lo mejor;action-uri=http://www.genbeta.com/lomejor;icon-uri=http://img.genbeta.com/lp2/v6/images/pin-bg-lomejor-icon.ico" />
+        <meta name="msapplication-task" content="name=Respuestas;action-uri=http://www.genbeta.com/respuestas;icon-uri=http://img.genbeta.com/lp2/v6/images/pin-bg-respuestas-icon.ico" />
+                <!--[if !IE]><!--> <link rel="shortcut icon" href="http://img.genbeta.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if lt IE 9]><!--> <link rel="shortcut icon" href="http://img.genbeta.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if gte IE 9]>
+            <link rel="shortcut icon" type="image/x-icon" href="http://img.genbeta.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+            <link rel=icon type="image/ico" href="http://img.genbeta.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+        <![endif]-->
+    
+    <link rel="apple-touch-icon" href="http://img.genbeta.com/lp2/mobile/images/apple-touch-icon.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-57-precomposed.png">
+
+        <link rel="stylesheet" type="text/css" href="http://img.genbeta.com/lp2/v6/main.css?v=24272">
+        <link rel="publisher" href="http://plus.google.com/106643481235450321345" />
+    <link rel="alternate" type="application/rss+xml" title="" href="/index.xml" />
+    <!--[if lt IE 7]>
+      <link rel="stylesheet" type="text/css" href="http://img.genbeta.com/lp2/v6/ie7.css">
+    <![endif]-->
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', "UA-78515-6"]);
+  _gaq.push(['_setCampaignCookieTimeout', 259200000]);
+  _gaq.push(['_setDomainName', ".genbeta.com"]);
+  _gaq.push(['_setSiteSpeedSampleRate', 5]);
+  _gaq.push(['t2._setAccount', "UA-78515-62"]);
+  _gaq.push(['t2._setCampaignCookieTimeout', 259200000]);
+  _gaq.push(['t2._setDomainName', ".genbeta.com"]);
+  (function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') +       '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  })();
+</script>
+
+ <link rel="canonical" href="http://www.genbeta.com/navegadores/firefox-quiere-auto-actualizar-a-los-usuarios-de-la-3-6" />
+ <link rel="image_src" href="http://img.genbeta.com/resize/75/thumbnails/b/68800.jpg" />
+ <meta property="og:title" content="Firefox quiere &quot;auto-actualizar&quot; a los usuarios de la 3.6 ">
+ <meta property="og:description" content="En enero de 2010 la gente de Mozilla lanzó la versión 3.6 de Firefox, una versión que a día de hoy todavía les trae de cabeza. Y es que a...">
+ <meta property="og:image" content="http://img.genbeta.com/original/68800.jpg">
+    <script>
+    _gaq.push(['t2._setPageGroup', '1', 'post']);
+    _gaq.push(['t2._setPageGroup', '2', "miguel julián"]);
+    _gaq.push(['t2._setPageGroup', '3', "navegadores"]);
+    _gaq.push(['t2._setPageGroup', '4', "normal"]);
+    _gaq.push(['_setPageGroup', '1', 'post']);
+    _gaq.push(['_setPageGroup', '2', "miguel julián"]);
+    _gaq.push(['_setPageGroup', '3', "navegadores"]);
+    _gaq.push(['_setPageGroup', '4', "normal"]);
+       </script>
+   </head>
+       <body id="body" class="article-single">
+
+    <script type='text/javascript'>
+    var MAX_source = "";
+    var GPTcats = ["navegadores"];
+    var GPTtags = ["firefox-3-6", "actualizacion-automatica"];
+      </script>
+      <script type='text/javascript'>
+googletag.pubads().setTargeting("origin", "direct").setTargeting("screen", screen.width.toString()).setTargeting("cat", GPTcats).setTargeting("tag", GPTtags);
+if (navigator.userAgent.match(/iPad/i) != null) {
+  googletag.pubads().setTargeting("ua", "ipad");
+} 
+ 
+googletag.defineSlot('/4712/GEB/interior_top', [1000, 40], 'div-gpt-top').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_lateral', [[160, 600], [200,600], [300,600], [300,250]], 'div-gpt-lat').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_central', [[300, 250], [400,400], [1000,250]], 'div-gpt-cen').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_central2', [[300, 250],[400,400],[690, 250]], 'div-gpt-cen2').addService(googletag.pubads());
+googletag.defineSlot('/1018282/GEB-BOT2-interior',[728, 90], 'div-gpt-bot').addService(googletag.pubads());
+googletag.defineSlot('/1018282/GEB-INP', [500, 80], 'div-gpt-inp').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interstitial', [1000, 525], 'div-gpt-int').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().enableSyncRendering();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+</script>
+
+       <script type="text/javascript">
+      WSL2 = {};
+      WSL2.config = {};
+      WSL2.config.fbapikey = "360028941603";
+      WSL2.config.cookieDomain = "";
+      WSL2.config.imagePath = 'http://img.genbeta.com/lp2/v6';
+      WSL2.config.siteName = "Genbeta";
+      window.___gcfg = {lang: 'es'};
+    </script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="http://code.jquery.com/jquery-migrate-1.1.0.js"></script>
+            <script src="http://img.weblogssl.com/LPbackend/prod/v2/js/frontend-758.js"></script>
+          <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _c1 = new WSL2.Cookie;
+      loginStatus = (_c1.hasSession()) ? "yes:" + _c1.loginType() : "no";
+      _gaq.push(['t2._setCustomVar', 4, '.genbeta.com', 'loginstatus:' + loginStatus, 2]);
+      _gaq.push(['_trackPageview']);
+      _gaq.push(['t2._trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); 
+    ga.type = 'text/javascript';
+    ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+  })();
+      var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "11306788" });
+         (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[1]; 
+          s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb": "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+    </script>
+
+    <div id="fb-root"></div>
+  <!-- fb needs this -->
+
+  <script src="//platform.twitter.com/widgets.js" id="tweetjs"></script>
+  <script src="//apis.google.com/js/plusone.js" id="gplus1js"></script>
+  <script src="//connect.facebook.net/es_ES/all.js#xfbml=1" id="fbjssdk"></script>
+  <div class="customize-me">
+  <div class="content-fixed">
+    <div class="container">
+                <!-- .header -->
+            <div class="header header-page">
+        <h1 class="site-logo"><a href="http://www.genbeta.com" title="Ir a la portada">Software y web. Genbeta<span></span></a></h1>
+        <form method="get" action="/busqueda" id="search" class="search" style="top:62px; width:310px; padding: 0;">
+    <p>
+        <input type="hidden" name="cx" value="partner-pub-9977500652563564:0292109475">
+        <input type="text" id="gsearch" name="q" accesskey="4" title="Buscar" placeholder="Busca en Genbeta con Google">
+        <input type="hidden" name="ie" value="UTF-8">
+        <input type="hidden" name="oe" value="UTF-8">
+        <input type="hidden" name="cof" value="FORID:10">
+        <button class="button">Buscar <span class="arrow">&raquo;</span></button>
+    </p>
+</form>
+<script type="text/javascript" src="http://www.google.es/coop/cse/brand?form=cse-search-box&amp;lang=es"></script>
+            <div class="nav nav-main">
+    <ul class="nav-primary">
+        <li class="home-link"><a href="/" title="Volver a portada">Portada</a></li>
+        <li class="respuestas-link"><a href="/respuestas">Respuestas</a></li>
+        <li class="temas-submenu">
+            <ul class="nav-secondary">
+                                   <li><a href="/categoria/actualidad" title="Ir a la categoría Actualidad">Actualidad</a></li>
+                                   <li><a href="/categoria/linux" title="Ir a la categoría Linux">Linux</a></li>
+                                   <li><a href="/categoria/movil" title="Ir a la categoría Móvil">Móvil</a></li>
+                                   <li><a href="/categoria/windows" title="Ir a la categoría Windows">Windows</a></li>
+                                   <li><a href="/categoria/herramientas" title="Ir a la categoría Herramientas">Herramientas</a></li>
+                                <li><a href="/archivos" title="Ver todas las categorías">Más &raquo;</a></li>
+            </ul>
+        </li>
+                  
+            </ul>
+</div>
+
+        <div class="nav nav-tags">
+        <h3>No te pierdas <span class="arrow">&raquo;</span></h3>
+        <ul>
+                        <li><a href="/tag/tasa-google" title="Todo sobre Tasa Google">Tasa Google</a></li>
+                        <li><a href="/tag/ley-lassalle" title="Todo sobre Ley Lassalle">Ley Lassalle</a></li>
+                        <li><a href="/tag/balance-de-windows-8" title="Todo sobre Balance de Windows 8">Balance de Windows 8</a></li>
+                        <li><a href="/tag/cazadores-de-fakes" title="Todo sobre Cazadores de Fakes">Cazadores de Fakes</a></li>
+                        <li><a href="/tag/satya-nadella" title="Todo sobre Satya Nadella">Satya Nadella</a></li>
+                    </ul>
+</div>
+<!-- .nav-tags -->
+
+                    <div class="ad ad-desplegable">
+  <a class="ad-contact" id="div-gpt-top-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+  <div class="ad-box">
+    <div id='div-gpt-top' style='width: 1000px;'>
+    <script type="text/javascript">
+        googletag.cmd.push(function() {
+        googletag.display("div-gpt-top");
+        });
+    </script>
+    </div>
+  </div>
+</div>
+<!-- .ad-box - desplegable -->
+
+  <div class="nav">
+   <ul class="article-nav-controls">
+                              <li><a class="article-control article-previous" href="/activismo-online/argentina-investiga-a-google"><span>Argentina investiga a Google</span></a></li>
+                                             <li><a class="article-control article-next" href="/navegadores/la-aceleracion-por-hardware-a-prueba-con-cube-el-juego-de-google"><span>La aceleración por hardware a prueba con Cube, el juego de Google </span></a></li>
+                  </ul>
+  </div>
+              </div>
+                   <div class="article article-pre-content">
+  <h1 class="article-header">Firefox quiere "auto-actualizar" a los usuarios de la 3.6 </h1>
+  <div class="article-date">29 de abril de 2012 | 12:20 CET <span id="is_editor"></span></div>
+  <div class="article-author-details">
+  <div class="figure">
+    <a rel='author' href="/autor/miguel-julian">
+      <img src="http://www.gravatar.com/avatar/14216b3a89c997bfc641f9d3abf7bc0b?s=80&amp;d=mm&amp;r=g" alt="miguel-julian">
+    </a>
+  </div>
+  <h2><a rel='author' href="/autor/miguel-julian">Miguel Julián</a></h2>
+      </div>
+<!-- .article-author-details -->
+</div>
+           </div>
+    <!-- .container -->
+  </div>
+  <!-- .content-fixed -->
+
+  <div class="content-dinamic">
+    <div class="container">
+          <script type="text/javascript">
+        $(function()
+        {
+          AML.postVoteView = new AML.Post.View.PostVoteView({postId:"68800", el:".social-sharing" });
+          AML.isEditorView = new AML.Post.View.IsEditorView({postId:"68800", model: WSL2.User });
+        });
+      </script>
+
+    <div class="aside">
+            <div id="ad-lateral" class="ad ad-primer-escaparate">
+  <a class="ad-contact" id="div-gpt-lat-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-lat' class="ad-box" style='width: 300px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-lat");
+    });
+    </script>
+    </div>
+</div>
+<!-- .ad-box - escaparate vertical -->
+
+           <!-- .ad-box - escaparate vertical -->
+            
+                  
+<div class="aside-box aside-subscribe">
+  <h3 class="aside-header">Síguenos</h3>
+  
+          
+  <form id="feedForm" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" >
+    <label for="subscribe-email">Newsletter:</label>  
+      <input type="text" name="email" type="text" id="feedburnermail" placeholder="Correo electrónico"/>
+      <input type="hidden" name="uri" value="genbeta"/>
+      <input type="hidden" name="loc" value="es_ES">
+      <button class="button" type="submit">Suscríbete <span class="arrow">&raquo;</span></button>
+  </form>
+  <ul class="subs-channels">
+    <li class="channel-rss" id="rss"> <a href="/index.xml" rel="nofollow" title="Suscríbete por RSS a las novedades en Genbeta"><span></span>RSS</a></li>
+    <li class="channel-twitter"><a href="http://twitter.com/genbeta" title="Sigue las novedades de Genbeta en Twitter"><span></span>Twitter</a></li>
+    <li class="channel-fb"><a href="http://www.facebook.com/pages/Genbeta/54999640934" title="Conéctate a la página de Genbeta en Facebook"><span></span>Facebook</a></li>
+    <li class="channel-gplus"><a href="https://plus.google.com/109731528328750280665/posts" title="Sigue a Genbeta en Google Plus"><span></span>Google Plus</a></li>
+    <li class="channel-feedly"><a style="margin-right: 0;" title="Suscríbete a Genbeta con Feedly" href='http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fwww.genbeta.com%2Findex.xml'  target='blank'><img id='feedlyFollow' src='http://img.weblogssl.com/g/xataka4/common/m-icon-feedly.png' alt='follow us in feedly' width='32' height='32'></a></li>
+  </ul>
+  <ul class="devices-channels">
+    <li><a title="Versión para móviles" href="http://m.genbeta.com" class="button button-secondary"><img src="http://img.weblogssl.com/g/xataka4/common/mobile.png">Versión móvil</a></li>
+        <li>
+        <a id="tabletViceVersaLink" href="http://t.genbeta.com" class="button button-secondary" title="Versión tablet"><img src="http://img.weblogssl.com/g/xataka4/common/tablet.png"> Versión tablet</a>
+    </li>
+      </ul>
+
+    <script>
+  $(function() {
+      $("#feedForm").submit(function(e) {
+          e.preventDefault();
+          email = $("#feedburnermail").val();
+          emailPattern = /^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$/i
+          if (emailPattern.test(email)) {
+              window.open('http://mailer.weblogssl.com/subscribe_check/' + email +'/genbeta/Genbeta','','width=500,height=500');
+          } else {
+              alert("El correo electrónico introducido no es correcto");
+          }
+      });
+  });
+  </script>
+  
+</div>
+            <!-- .article-promo -->
+    </div>
+
+    <!-- .aside -->
+
+                    
+    <div class="section section-article-single">
+            <div class="article">
+        <div class="article-summary">
+          <p><img alt="Ya no habrá soporte para Firefox 3.6" src="http://img.genbeta.com/2012/04/actualizacion-firefox-3-6.jpg" class="centro" /></p>
+
+                              <div class="article-metadata">
+            <div class="article-comments" id="postCommentCount">
+              <a href="#comments" title="Ir a comentarios">
+                Comentarios 27
+              </a>
+            </div>
+            <div class="article-links">
+              <div class="social-sharing">
+                <div class="social-sharing-widgets">
+                                    <div class="wsl-favorite">
+                    <button class="button button-small">Me gusta</button>
+                    <span class="wsl-count">3</span>
+                  </div>
+                                    <!-- twitter -->
+                  <a class="twitter-share-button" href="http://twitter.com/share" data-count="horizontal" data-url="http://www.genbeta.com/p/68800" data-counturl="http://www.genbeta.com/navegadores/firefox-quiere-auto-actualizar-a-los-usuarios-de-la-3-6" data-text="Firefox quiere &quot;auto-actualizar&quot; a los usuarios de la 3.6 " data-via="genbeta" data-lang="es">Tweet</a>
+                  <!-- g+ -->
+                  <div class="g-plusone" data-size="medium" data-href="http://www.genbeta.com/navegadores/firefox-quiere-auto-actualizar-a-los-usuarios-de-la-3-6" data-callback="gplusClickHandler" ></div>
+                  <!-- facebook like -->
+                  <div href="http://www.genbeta.com/navegadores/firefox-quiere-auto-actualizar-a-los-usuarios-de-la-3-6" class="fb-like" data-send="false" data-layout="button_count" data-show-faces="false"></div>
+                </div>
+              </div>
+              <!-- .social-sharing -->
+            </div>
+            <!-- .article-links -->
+          </div>
+          <!-- .article-metadata -->
+
+
+          	<p></p>
+
+	<p>En enero de 2010 la gente de <strong>Mozilla lanzó la versión 3.6 de Firefox</strong>, una versión que a día de hoy todavía les trae de cabeza. Y es que a día de hoy, y haciendo caso omiso a las advertencias de seguridad, todavía hay muchos usuarios de Firefox que están utilizando esa versión.</p>
+
+	<p>Hace ya mas de dos años seguramente supuso el lanzamiento del mejor navegador del momento, pero la imposibilidad de actualizarse de forma automática ha supuesto un gran problema. Pero parece que ya le han puesto freno, ya que<strong> en mayo se podrán actualizar a la versión 12 de forma automática</strong>.</p>
+
+	<p>La actualización se realizará <strong>de forma automática si no se indica lo contrario</strong> en la ventana de opciones tal y como comentaba Alex Keybl, responsable de las releases:</p>
+
+<blockquote>Los clientes serán actualizados automáticamente excepto si habían deshabilitado las actualizaciones. Sin embargo, recomendamos a nuestros usuarios que actualicen la versión 3.6 ya que no recibirán actualizaciones críticas de seguridad.</blockquote>
+
+	<p>Vía | <a href="http://www.neowin.net/news/firefox-36-to-get-auto-upgrade-to-firefox-12-in-may">NeoWin</a></p>                  </div>
+
+                        
+        <div class="ad links-ad-inpost">
+    <div id='div-gpt-inp' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-inp");
+    });
+    </script>
+    </div>
+</div>
+
+
+        
+        <div class="article-taxonomy">
+                      <div class="nav article-tags article-categories">
+  <h2>Categorías</h2>
+    <ul>
+                      
+      <li><a href="/categoria/navegadores">Navegadores</a></li>
+        </ul>
+</div>
+            <div class="nav article-tags">
+  <h2>Tags</h2>
+  <ul>
+                                             
+      <li><a href="/tag/firefox-3-6">Firefox 3.6</a></li>
+                                             
+      <li><a href="/tag/actualizacion-automatica">actualización automática</a></li>
+          
+  </ul>
+</div>
+                  </div>
+        <!-- .article-metadata -->
+      </div>
+      <!-- .article -->
+    </div>
+    <!-- .section-articles -->
+            <div id="ad-center" class="ad ad-escaparate-medio">
+  <a class="ad-contact" id="div-gpt-cen-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-cen' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+
+        
+        
+    <div class="section section-related">
+               <div id="outBrainVerticalWidget" class="post-related-posts related-double">
+  <h3>Artículos recomendados</h3>
+  <div class="post-related-content">
+   
+    <div class="OUTBRAIN" data-src="http://www.genbeta.com/navegadores/firefox-quiere-auto-actualizar-a-los-usuarios-de-la-3-6" data-widget-id="AR_2" data-ob-template="genbeta" >
+    </div>
+    <script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js">
+    </script>
+  </div>
+  <!-- .post-related-content -->
+  <p class="post-related-more">
+    <a href="/categoria/navegadores" title="Ver más artículos relacionados">
+    Ver más artículos <span class="arrow">»</span>    
+    </a>
+    </p>
+</div>     
+      <div class="post-related-products">
+   <h3>Productos</h3>
+   <div id="post-related-products" class="post-related-content">
+                <script type="text/javascript">
+        $(function()
+        {
+          WSL2.config.imageUrl = "http://img.genbeta.com"
+          WSL2.config.Products = {}
+          WSL2.config.Products.iwishihave = {}
+          WSL2.config.Products.iwishihave.buttonOne = "ME GUSTA"
+          WSL2.config.Products.iwishihave.buttonTwo = "LO ODIO"
+
+          var product = new AML.Products.Model.Product({"id":"25226","nicename":"firefox","name":"Firefox","photo_post_id":"72904","users_votes_sum":"490","users_votes_count":"52","ihave_count":"64","iwish_count":"6","category_nicename":"navegadores","cat_id":"415","category_type":"1","adspot_price":"0"}, {"pageUrlPrefix":"productos"});
+          AML.productView = new AML.Products.View.ProductView({model:product, userModel: WSL2.User});
+        });
+      </script>
+        </div>
+  <p class="post-related-more">
+    <a href="/productos/navegadores/firefox" title="Ver más productos relacionados">
+      Ver más productos <span class="arrow">»</span>
+    </a>
+  </p>
+ </div>
+<!-- .post-related-products -->
+          </div>
+
+
+  <!-- Comments Section -->
+        <a id="to-comments"></a>
+  <div id="comments" class="section section-comments">
+            <div class="standalone-message">
+            <div class="message aviso"><h3>Los comentarios se han cerrado</h3></div>
+        </div>
+        <!-- #comment-write -->
+            <div id="ad-center2" class="ad ad-segundo-escaparate">
+  <a class="ad-contact" id="div-gpt-cen2-contact" style='display:none'
+  href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-cen2' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen2");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+    <div id="comments-header" class="header-section">
+      <div class="comment-order">
+    	<h3>Ordenar por:</h3>
+      </div>
+      <!-- #comment-order -->
+          	<h2>
+              27 comentarios
+            </h2>
+    </div>
+    <div id="top-section-settings"></div>
+    <ul class="comment-list"></ul>
+        <div class="nav"></div>
+    <div id="bottom-section-settings"></div>
+  </div>
+    <script type="text/javascript">
+      $(function()
+      {
+        var commentList = new AML.Comments.Model.CommentList({},{postId:68800});
+        commentList.resetParsed({"comments":[{"id":"393438","post_id":"68800","date":1335708755,"content_filtered":"<p>\u00bf\u00bfY que tal volver a una pol\u00edtica de versiones coherente??<\/p>","content":"<p>\u00bf\u00bfY que tal volver a una pol\u00edtica de versiones coherente??<\/p>","karma":"87.50","parent":"0","comment_edited_date":"","vote_count":"11","comment_level":2,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"42836","user_id":"42836","author":"","webpage":null,"user_name":null,"karma_level":"29.00","iseditor":"0","global_id":"210312","facebook_uid":"555123991","index":8,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/555123991\/picture"},{"id":"393428","post_id":"68800","date":1335704630,"content_filtered":"<p>Estos de la corporaci\u00f3n Mozilla no se dan por enterados de que los que siguen usando la versi\u00f3n 3.6.x es porque o no pueden actualizar a una versi\u00f3n superior (es la \u00faltima que se puede hacer funcionar en Windows 98 y Me, aunque oficialmente ya no es compatible, y es la \u00faltima que en Windows 2000 funciona decentemente) o porque no quieren por el motivo que sea.<\/p>\n\n<p>Antes de serguir quiero aclarar un tema, que despu\u00e9s siempre viene alg\u00fan gracioso con lo de la Funcaci\u00f3n, la fundaci\u00f3n pertenece a la corporaci\u00f3n, es una forma de recibir subvenciones a mansalva y evadir impuestos legalmente, pero la cabeza absoluta es la Corporaci\u00f3n.<\/p>\n\n<p>Aunque yo comprendo a los de Mozilla, no se cifras exactas, pero aun un porcentaje altisimo de usuarios se ha quedado en la versi\u00f3n 3.6 (aunque muchos otros se han ido quedando en versiones m\u00e1s nuevas)... pero lo peor es que la versi\u00f3n 3.6 se ha convertido en un simbolo para todos los contrarios a la actual pol\u00edtica de Mozilla. Hasta el punto de que hay usuarios que se est\u00e1n volviendo a esa versi\u00f3n.<\/p>\n\n<p>Y lo peor para ellos mismos, es que los de Mozilla no se enteran que este tipo de medidas lo \u00fanico que hace es estimular a m\u00e1s gente para que se vaya a otras alternativas (Chrome actualmente casi todo su crecimiento ya se basa en usuarios portados desde Firefox).<\/p>\n\n<p>Salu2<\/p>","content":"<p>Estos de la corporaci\u00f3n Mozilla no se dan por enterados de que los que siguen usando la versi\u00f3n 3.6.x es porque o no pueden actualizar a una versi\u00f3n superior (es la \u00faltima que se puede hacer funcionar en Windows 98 y Me, aunque oficialmente ya no es compatible, y es la \u00faltima que en Windows 2000 funciona decentemente) o porque no quieren por el motivo que sea.<\/p>\n\n<p>Antes de serguir quiero aclarar un tema, que despu\u00e9s siempre viene alg\u00fan gracioso con lo de la Funcaci\u00f3n, la fundaci\u00f3n pertenece a la corporaci\u00f3n, es una forma de recibir subvenciones a mansalva y evadir impuestos legalmente, pero la cabeza absoluta es la Corporaci\u00f3n.<\/p>\n\n<p>Aunque yo comprendo a los de Mozilla, no se cifras exactas, pero aun un porcentaje altisimo de usuarios se ha quedado en la versi\u00f3n 3.6 (aunque muchos otros se han ido quedando en versiones m\u00e1s nuevas)... pero lo peor es que la versi\u00f3n 3.6 se ha convertido en un simbolo para todos los contrarios a la actual pol\u00edtica de Mozilla. Hasta el punto de que hay usuarios que se est\u00e1n volviendo a esa versi\u00f3n.<\/p>\n\n<p>Y lo peor para ellos mismos, es que los de Mozilla no se enteran que este tipo de medidas lo \u00fanico que hace es estimular a m\u00e1s gente para que se vaya a otras alternativas (Chrome actualmente casi todo su crecimiento ya se basa en usuarios portados desde Firefox).<\/p>\n\n<p>Salu2<\/p>","karma":"52.50","parent":"0","comment_edited_date":"","vote_count":"10","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"iberhack","user_id":"108885","author":"","webpage":null,"user_name":"iberhack","karma_level":"22.00","iseditor":"0","global_id":"550414","facebook_uid":null,"index":4,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/550414_1.png"},{"id":"393552","post_id":"68800","date":1335776299,"content_filtered":"<p>Tal vez la Wikipedia te aclare tanta <a href=\"http:\/\/en.wikipedia.org\/wiki\/Mozilla_corporation\" rel=\"nofollow\">incorrecci\u00f3n<\/a> como has escrito.<\/p>\n\n<p>Si esas versiones de Windows no est\u00e1n mantenidas por Microsoft \u00bfTiene sentido criticar como lo haces a Mozilla?<\/p>\n\n<p>Sobre los que se est\u00e1n pasando a la versi\u00f3n 3.x, tu <a href=\"http:\/\/gs.statcounter.com\" rel=\"nofollow\">estimaci\u00f3n es tan objetiva<\/a> (2,9%) como los que se est\u00e1n pasando de Windows 7 al ME o al 98. <\/p>\n\n<p>Si claro y el Fisco de EE.UU. se ha caido de un guindo seg\u00fan t\u00fa \u00a1Lo qu\u00e9 hay que leer!<\/p>","content":"<p>Tal vez la Wikipedia te aclare tanta <a href=\"http:\/\/en.wikipedia.org\/wiki\/Mozilla_corporation\" rel=\"nofollow\">incorrecci\u00f3n<\/a> como has escrito.<\/p>\n\n<p>Si esas versiones de Windows no est\u00e1n mantenidas por Microsoft \u00bfTiene sentido criticar como lo haces a Mozilla?<\/p>\n\n<p>Sobre los que se est\u00e1n pasando a la versi\u00f3n 3.x, tu <a href=\"http:\/\/gs.statcounter.com\" rel=\"nofollow\">estimaci\u00f3n es tan objetiva<\/a> (2,9%) como los que se est\u00e1n pasando de Windows 7 al ME o al 98. <\/p>\n\n<p>Si claro y el Fisco de EE.UU. se ha caido de un guindo seg\u00fan t\u00fa \u00a1Lo qu\u00e9 hay que leer!<\/p>","karma":"30.00","parent":"393428","comment_edited_date":"","vote_count":"5","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"51238","user_id":"51238","author":"","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"243996","facebook_uid":"526199859","index":20,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/526199859\/picture"},{"id":"394560","post_id":"68800","date":1336674478,"content_filtered":"<p>Yo estuve mucho tiempo con esa versi\u00f3n, por un complemento que me era necesario, y no hab\u00eda otra alternativa.<\/p>","content":"Yo estuve mucho tiempo con esa versi\u00f3n, por un complemento que me era necesario, y no hab\u00eda otra alternativa.","karma":"5.00","parent":"393428","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Paco","user_id":"98812","author":"Paco","webpage":"http:\/\/publicidad.enmalaga.eu\/p\/marketing.html","user_name":"cruza","karma_level":"20.00","iseditor":"0","global_id":"480548","facebook_uid":null,"index":27,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/480548_1.png"},{"id":"393436","post_id":"68800","date":1335708593,"content_filtered":"<p>En mi universidad las salas de ordenadores tienen esta version y estan bloqueados los pcs para instalar programas, navegadores alternativos (ojal\u00e1 pusieran chrome T.T) o actualizarlo...lo podr\u00e1n actualizar automaticamente? xD<\/p>","content":"<p>En mi universidad las salas de ordenadores tienen esta version y estan bloqueados los pcs para instalar programas, navegadores alternativos (ojal\u00e1 pusieran chrome T.T) o actualizarlo...lo podr\u00e1n actualizar automaticamente? xD<\/p>","karma":"45.00","parent":"0","comment_edited_date":"","vote_count":"3","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"charlie17","user_id":"107645","author":"charlie17","webpage":"www.twitter.com\/charlie17_","user_name":"icharlie17","karma_level":"28.00","iseditor":"0","global_id":"211287","facebook_uid":"1380441621","index":7,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/211287_1.png"},{"id":"393441","post_id":"68800","date":1335710275,"content_filtered":"<p>Para instalar Chrome no hace falta permisos de administrador en la m\u00e1quina. Al menos, hasta hace dos meses era as\u00ed. Eso s\u00ed, s\u00f3lo te lo instalas en tu usuario. Otra opci\u00f3n, es usar alg\u00fan navegador que no requiera instalaci\u00f3n (\"mobile apps\" creo que se llaman), que si hay versiones de Photoshop CS5 de este tipo, no creo que no haya alguna versi\u00f3n m\u00e1s moderna de Firefox.<\/p>","content":"Para instalar Chrome no hace falta permisos de administrador en la m\u00e1quina. Al menos, hasta hace dos meses era as\u00ed. Eso s\u00ed, s\u00f3lo te lo instalas en tu usuario. Otra opci\u00f3n, es usar alg\u00fan navegador que no requiera instalaci\u00f3n (\"mobile apps\" creo que se llaman), que si hay versiones de Photoshop CS5 de este tipo, no creo que no haya alguna versi\u00f3n m\u00e1s moderna de Firefox.","karma":"5.00","parent":"393436","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Javier B.G.","user_id":"103021","author":"Javier B.G.","webpage":null,"user_name":"zaumior","karma_level":"17.00","iseditor":"0","global_id":"398138","facebook_uid":"100000018945566","index":11,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100000018945566\/picture"},{"id":"393423","post_id":"68800","date":1335702887,"content_filtered":"<p>\u00bfy c\u00f3mo planean hacerlo si se supone que no lo han hecho a\u00fan porque Firefox 3.6 no dispone de ese sistema?<\/p>\n\n<p>Sinceramente, con tantos avisos y adventencias por todas partes me parece una chorrada actualizar por la fuerza a los usuarios. Si por la ignorancia (dif\u00edcil teniendo en cuenta la cantidad de informaci\u00f3n y avisos ofrecidos) o la vagueza o dejadez prefieren seguir con la 3.6, cuando se les metan mil virus, las p\u00e1ginas no les vayan o se les pete todo el navegador por no darle a un bot\u00f3n, all\u00e1 ellos.<\/p>\n\n<p>No deber\u00eda ser Mozilla el pap\u00e1 de los usuarios.<\/p>","content":"<p>\u00bfy c\u00f3mo planean hacerlo si se supone que no lo han hecho a\u00fan porque Firefox 3.6 no dispone de ese sistema?<\/p>\n\n<p>Sinceramente, con tantos avisos y adventencias por todas partes me parece una chorrada actualizar por la fuerza a los usuarios. Si por la ignorancia (dif\u00edcil teniendo en cuenta la cantidad de informaci\u00f3n y avisos ofrecidos) o la vagueza o dejadez prefieren seguir con la 3.6, cuando se les metan mil virus, las p\u00e1ginas no les vayan o se les pete todo el navegador por no darle a un bot\u00f3n, all\u00e1 ellos.<\/p>\n\n<p>No deber\u00eda ser Mozilla el pap\u00e1 de los usuarios.<\/p>","karma":"20.50","parent":"0","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"0","comment_author":"zormon","user_id":"23398","author":"","webpage":null,"user_name":"zormon","karma_level":"22.00","iseditor":"0","global_id":"152333","facebook_uid":null,"index":1,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/063b4299f57d5edb76fb5c3d0c7b5e71"},{"id":"393424","post_id":"68800","date":1335703678,"content_filtered":"<p>El problema es que da mala imagen de marca cuando ocurren todas esas cosas que comentas. La gente suele acordarse mejor de las cosas malas y cuando el navegador funciona correctamente no le dan mucha importancia.<\/p>","content":"<p>El problema es que da mala imagen de marca cuando ocurren todas esas cosas que comentas. La gente suele acordarse mejor de las cosas malas y cuando el navegador funciona correctamente no le dan mucha importancia.<\/p>","karma":"50.00","parent":"393423","comment_edited_date":"","vote_count":"3","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"37011","user_id":"37011","author":"","webpage":null,"user_name":"lagescobar","karma_level":"22.00","iseditor":"0","global_id":"192286","facebook_uid":"1577692007","index":2,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1577692007\/picture"},{"id":"393569","post_id":"68800","date":1335792319,"content_filtered":"<p>\" No da mala imagen de marca \" los fallos del navegador y parte de su recopilaci\u00f3n aparecen aqu\u00ed en Ingl\u00e9s \" \n a more or less complete\" y en \" see also \" son una pasada\u00a0<\/p>\n\n<p><a href=\"http:\/\/kb.mozillazine.org\/Standard_diagnostic_-_Firefox\" rel=\"nofollow\">http:\/\/kb.mozillazine.org\/Standard_diagnostic_-_Firefox<\/a><\/p>","content":"<p>\" No da mala imagen de marca \" los fallos del navegador y parte de su recopilaci\u00f3n aparecen aqu\u00ed en Ingl\u00e9s \" \n a more or less complete\" y en \" see also \" son una pasada\u00a0<\/p>\n\n<p><a href=\"http:\/\/kb.mozillazine.org\/Standard_diagnostic_-_Firefox\" rel=\"nofollow\">http:\/\/kb.mozillazine.org\/Standard_diagnostic_-_Firefox<\/a><\/p>","karma":"23.00","parent":"393424","comment_edited_date":1335792428,"vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"0","comment_author":"pablos2005","user_id":"66530","author":"","webpage":null,"user_name":"pablos2005","karma_level":"36.00","iseditor":"0","global_id":"315050","facebook_uid":null,"index":23,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/315050_1.png"},{"id":"393439","post_id":"68800","date":1335709337,"content_filtered":"<p>Es muy molesto en equipos que est\u00e1n congelados...<\/p>","content":"Es muy molesto en equipos que est\u00e1n congelados...","karma":"5.00","parent":"393423","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"asturtorque","user_id":"101796","author":"","webpage":null,"user_name":"asturtorque","karma_level":"54.00","iseditor":"0","global_id":"233562","facebook_uid":null,"index":9,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/233562_1.png"},{"id":"393535","post_id":"68800","date":1335757324,"content_filtered":"<p>Los que se han quedado en la versi\u00f3n 3.6 es porque a partir de la 4 Firefox se ha hecho m\u00e1s lento e inestable, vamos por la 12 y aparte del problema de la extensiones que toca los cojones est\u00e1 ese famoso (no responde) y la RAM que llega a devorar.<\/p>\n\n<p>En Linux mejora un poco la cosa, pero igual me instal\u00e9 Chrome, te ahorras muchos problemas.<\/p>","content":"<p>Los que se han quedado en la versi\u00f3n 3.6 es porque a partir de la 4 Firefox se ha hecho m\u00e1s lento e inestable, vamos por la 12 y aparte del problema de la extensiones que toca los cojones est\u00e1 ese famoso (no responde) y la RAM que llega a devorar.<\/p>\n\n<p>En Linux mejora un poco la cosa, pero igual me instal\u00e9 Chrome, te ahorras muchos problemas.<\/p>","karma":"20.00","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"73868","user_id":"73868","author":"","webpage":null,"user_name":"enigmaxg21","karma_level":"49.00","iseditor":"0","global_id":"347455","facebook_uid":"1682222101","index":19,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1682222101\/picture"},{"id":"393466","post_id":"68800","date":1335730065,"content_filtered":"<p>habr\u00eda que ver qu\u00e9 funciona y qu\u00e9 deja de funcionar con la actualizaci\u00f3n, si no han revisado algo tan simple como eso (como ya ha pasado) se viene un aluvi\u00f3n de gente quej\u00e1ndose \u00f3 un aluvi\u00f3n de gente que al ver que no le fncionan ciertas cosas se cambia de navegador de la rabia de igual forma tendr\u00eda que empezar de nuevo en alguna forma<\/p>","content":"habr\u00eda que ver qu\u00e9 funciona y qu\u00e9 deja de funcionar con la actualizaci\u00f3n, si no han revisado algo tan simple como eso (como ya ha pasado) se viene un aluvi\u00f3n de gente quej\u00e1ndose \u00f3 un aluvi\u00f3n de gente que al ver que no le fncionan ciertas cosas se cambia de navegador de la rabia de igual forma tendr\u00eda que empezar de nuevo en alguna forma","karma":"8.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Nahuel Siviero","user_id":"37695","author":"Nahuel Siviero","webpage":"","user_name":null,"karma_level":"27.00","iseditor":"0","global_id":"193537","facebook_uid":"1581834688","index":16,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/193537_2.png"},{"id":"393432","post_id":"68800","date":1335707636,"content_filtered":"<p>La mayor\u00eda de los usuarios que no se actualizan es porque no tienen permiso para actualizarse (la gente del departamento de informatica lo instalaron en su momento y no han vuelto a entrar en el ordenador). Es poco probable que consigan actualizarlo, y si lo consiguen posiblemente sea a costa de romper la seguridad de las empresas por lo que muchas empresas podrian tomar acciones legales.<\/p>","content":"La mayor\u00eda de los usuarios que no se actualizan es porque no tienen permiso para actualizarse (la gente del departamento de informatica lo instalaron en su momento y no han vuelto a entrar en el ordenador). Es poco probable que consigan actualizarlo, y si lo consiguen posiblemente sea a costa de romper la seguridad de las empresas por lo que muchas empresas podrian tomar acciones legales.","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"otro mas","user_id":"2544","author":"otro mas","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"13276","facebook_uid":null,"index":5,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/ee8eca192ef066d994a41ecf4aedc691"},{"id":"393565","post_id":"68800","date":1335790349,"content_filtered":"<p>Mozilla dispone de versiones extendidas mantenidas,  tanto para <a href=\"http:\/\/www.mozilla.org\/en-US\/firefox\/organizations\/all.html\" rel=\"nofollow\">Firefox<\/a>, como para <a href=\"http:\/\/www.mozilla.org\/en-US\/thunderbird\/organizations\/all-esr.html\" rel=\"nofollow\">Thunderbird<\/a> orientadas a los casos que indicas.<\/p>","content":"Mozilla dispone de versiones extendidas mantenidas,  tanto para <a href=http:\/\/www.mozilla.org\/en-US\/firefox\/organizations\/all.html>Firefox<\/a>, como para <a href=http:\/\/www.mozilla.org\/en-US\/thunderbird\/organizations\/all-esr.html>Thunderbird<\/a> orientadas a los casos que indicas.","karma":"5.00","parent":"393432","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"51238","user_id":"51238","author":"","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"243996","facebook_uid":"526199859","index":21,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/526199859\/picture"},{"id":"393442","post_id":"68800","date":1335710641,"content_filtered":"<p>Creo que lo puse hace tiempo: uso Firefox 3.6 porque es la \u00fanica que soporta las aplicaciones Web que tenemos en mi departamento. La alternativa es usar Internet Explorer, pero en Mac no funciona.<\/p>","content":"Creo que lo puse hace tiempo: uso Firefox 3.6 porque es la \u00fanica que soporta las aplicaciones Web que tenemos en mi departamento. La alternativa es usar Internet Explorer, pero en Mac no funciona.","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Javier B.G.","user_id":"103021","author":"Javier B.G.","webpage":null,"user_name":"zaumior","karma_level":"17.00","iseditor":"0","global_id":"398138","facebook_uid":"100000018945566","index":12,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100000018945566\/picture"},{"id":"393444","post_id":"68800","date":1335712670,"content_filtered":"<p>Pues muchos equipos que aun usan FF 3.6  es por limitaciones de software o hardware... ya sea equipos con deepfreeze o servidores... Si no recuerdo bien RedHat 6 y Centos usan Firefox 3 como base y no tienen versiones posteriores para actualizar...<\/p>","content":"Pues muchos equipos que aun usan FF 3.6  es por limitaciones de software o hardware... ya sea equipos con deepfreeze o servidores... Si no recuerdo bien RedHat 6 y Centos usan Firefox 3 como base y no tienen versiones posteriores para actualizar...","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"108835","user_id":"112337","author":"Mario M","webpage":null,"user_name":"mario_m","karma_level":"29.00","iseditor":"0","global_id":"576472","facebook_uid":"100002772967871","index":13,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/576472_1.png"},{"id":"393567","post_id":"68800","date":1335790587,"content_filtered":"<p>Existen repositorios como los de <a href=\"http:\/\/blog.famillecollet.com\/\" rel=\"nofollow\">Remi<\/a> para Red Hat 6 y Centos. Desconozco las limitaciones que das de ese hardware, para no soportar versiones posteriores a Firefox 3.6, incluso instalando el binario.<\/p>","content":"Existen repositorios como los de <a href=http:\/\/blog.famillecollet.com\/>Remi<\/a> para Red Hat 6 y Centos. Desconozco las limitaciones que das de ese hardware, para no soportar versiones posteriores a Firefox 3.6, incluso instalando el binario.","karma":"5.00","parent":"393444","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"51238","user_id":"51238","author":"","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"243996","facebook_uid":"526199859","index":22,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/526199859\/picture"},{"id":"393453","post_id":"68800","date":1335717023,"content_filtered":"<p>\u00bfSer\u00e1n ellos los mismos que mantuvieron vivo a IE6 por tantos a\u00f1os? Comparto lo que dice otro usuario arriba, quiz\u00e1 no es que no lo cambian por flojera, sino que porque no hay otra versi\u00f3n compatible para su SO o porque no tienen los permisos para hacerlo.<\/p>\n\n<p>PD: Los computadores de la biblioteca de mi facultad a\u00fan tienen Firefox 4.0 beta 6 xD<\/p>","content":"<p>\u00bfSer\u00e1n ellos los mismos que mantuvieron vivo a IE6 por tantos a\u00f1os? Comparto lo que dice otro usuario arriba, quiz\u00e1 no es que no lo cambian por flojera, sino que porque no hay otra versi\u00f3n compatible para su SO o porque no tienen los permisos para hacerlo.<\/p>\n\n<p>PD: Los computadores de la biblioteca de mi facultad a\u00fan tienen Firefox 4.0 beta 6 xD<\/p>","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"AdrianFRG","user_id":"53598","author":"AdrianFRG","webpage":"http:\/\/www.twitter.com\/adrianfrg","user_name":"adrianfrg","karma_level":"39.00","iseditor":"0","global_id":"252461","facebook_uid":"1229832316","index":14,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/252461_2.png"},{"id":"393454","post_id":"68800","date":1335717923,"content_filtered":"<p>Tened en cuenta una cosa. Existen paginas corporativas (e incluso aplicaciones web internas) que a partir de ciertas versiones pueden fallar o incluso dejar de funcionar por completo y que son las herramientas de trabajo imprescindibles. No se puede actualizar asi como asi.<\/p>","content":"Tened en cuenta una cosa. Existen paginas corporativas (e incluso aplicaciones web internas) que a partir de ciertas versiones pueden fallar o incluso dejar de funcionar por completo y que son las herramientas de trabajo imprescindibles. No se puede actualizar asi como asi.","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"acerswap","user_id":"75819","author":"acerswap","webpage":null,"user_name":null,"karma_level":"50.00","iseditor":"0","global_id":"356365","facebook_uid":null,"index":15,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/4b499c118f10594fa4ccb8bd4aa6d9c8"},{"id":"393515","post_id":"68800","date":1335745720,"content_filtered":"<p>El problema son las extensiones que dejan de funcionar. <\/p>\n\n<p>Yo que trabajo con el navegador no puedo vivir sin el  Status-bar calculator, ni con una extensi\u00f3n que me autocompleta las palabras comunes, algo que a mi se me da con mucha frecuencia. Ten\u00eda terror de que no funcionaran en el 4.0. Y as\u00ed fue. El status-bar calculator no funcionaba, igualmente, investigando en google vi que se pueden editar para que sean compatibles, pero obvio que no es algo que puede hacer cualquiera.<\/p>\n\n<p>y as\u00ed estoy, cada vez que las instalo, las estoy editando.<\/p>","content":"El problema son las extensiones que dejan de funcionar. \n\nYo que trabajo con el navegador no puedo vivir sin el  Status-bar calculator, ni con una extensi\u00f3n que me autocompleta las palabras comunes, algo que a mi se me da con mucha frecuencia. Ten\u00eda terror de que no funcionaran en el 4.0. Y as\u00ed fue. El status-bar calculator no funcionaba, igualmente, investigando en google vi que se pueden editar para que sean compatibles, pero obvio que no es algo que puede hacer cualquiera.\n\ny as\u00ed estoy, cada vez que las instalo, las estoy editando.","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"109258","user_id":"109258","author":"","webpage":null,"user_name":"juany.merida","karma_level":"12.00","iseditor":"0","global_id":"405682","facebook_uid":"100002026787726","index":17,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100002026787726\/picture"},{"id":"393530","post_id":"68800","date":1335751022,"content_filtered":"<p>Ninguna extensi\u00f3n es imprescindible. Ayudan, por supuesto, pero no se puede depender de ellas. No es culpa de Mozilla si un desarrollador no actualiza mas determinado complemento.\nSe usa lo que hay, y lo que no hay, pues no hay.\nDeber\u00edas aprender a \"vivir\" sin aquellas extensiones que no son compatibles. Busca alternativas, alguna habr\u00e1.\nEn mi caso, por suerte no tengo problemas. Todas las que uso funcionan. Y si de repente alguna deja de funcionar pues buscar\u00e9 otra cosa.<\/p>","content":"<p>Ninguna extensi\u00f3n es imprescindible. Ayudan, por supuesto, pero no se puede depender de ellas. No es culpa de Mozilla si un desarrollador no actualiza mas determinado complemento.\nSe usa lo que hay, y lo que no hay, pues no hay.\nDeber\u00edas aprender a \"vivir\" sin aquellas extensiones que no son compatibles. Busca alternativas, alguna habr\u00e1.\nEn mi caso, por suerte no tengo problemas. Todas las que uso funcionan. Y si de repente alguna deja de funcionar pues buscar\u00e9 otra cosa.<\/p>","karma":"-15.00","parent":"393515","comment_edited_date":"","vote_count":"3","comment_level":4,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"themighty","user_id":"108281","author":"","webpage":null,"user_name":"themighty","karma_level":"12.00","iseditor":"0","global_id":"546262","facebook_uid":null,"index":18,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/4fcb05c429a3cd54a92ff6493b94ce3f"},{"id":"393599","post_id":"68800","date":1335811930,"content_filtered":"<p><i>\"No es culpa de Mozilla si un desarrollador no actualiza mas determinado complemento.\"<\/i><\/p>\n\n<p>- Tampoco es culpa del desarrollador estar currando altruistamente de gratis s\u00f3lo por hacerle el favor a una Corporaci\u00f3n que se hace multimillonaria \"de la nada\" y que un d\u00eda se canse que para \u00e9l s\u00f3lo las podridas.<\/p>\n\n<p>- Tampoco es culpa del desarrollador que cada pu\u00f1ado de semanas le rompan la compatibilidad por un simple capricho de esa Corporaci\u00f3n y se canse de que le tomen el pelo de esa manera.<\/p>\n\n<p>En fin, es bastante bonito c\u00f3mo Mozilla siempre se ba\u00f1a de los m\u00e9ritos de los creadores de las extensiones, pero las culpas s\u00ed se las pasan completas a ellos. El embudo del desagradecimiento.<\/p>\n\n<p>- Y antes que se me olvide, una tercera. Yo conoc\u00ed un sujeto que hac\u00eda extensiones para Firefox, dej\u00f3 de actualizarlas porque dej\u00f3 de usar al mism\u00edsimo Firefox; no fue su culpa de que \u00e9se navegador fuese de mal en peor \na\u00f1o tras a\u00f1o versi\u00f3n tras versi\u00f3n\ny de que la Compa\u00f1\u00eda que lo hace nunca lo arreglara, sino que se tapara los ojos a las s\u00faplicas y en su lugar les echara la culpa a otros.<\/p>\n\n<p><i>\"Deber\u00edas aprender a \"vivir\" sin aquellas extensiones que no son compatibles.\"<\/i><\/p>\n\n<p>- Yo tambi\u00e9n aprovecho para decirle que tambi\u00e9n hay que aprender a vivir sin navegadores que fabrican incompatibilidades por s\u00ed mismos. Mejor use otro y se acostumbra, que nada es irremplazable.<\/p>","content":"<p><i>\"No es culpa de Mozilla si un desarrollador no actualiza mas determinado complemento.\"<\/i><\/p>\n\n<p>- Tampoco es culpa del desarrollador estar currando altruistamente de gratis s\u00f3lo por hacerle el favor a una Corporaci\u00f3n que se hace multimillonaria \"de la nada\" y que un d\u00eda se canse que para \u00e9l s\u00f3lo las podridas.<\/p>\n\n<p>- Tampoco es culpa del desarrollador que cada pu\u00f1ado de semanas le rompan la compatibilidad por un simple capricho de esa Corporaci\u00f3n y se canse de que le tomen el pelo de esa manera.<\/p>\n\n<p>En fin, es bastante bonito c\u00f3mo Mozilla siempre se ba\u00f1a de los m\u00e9ritos de los creadores de las extensiones, pero las culpas s\u00ed se las pasan completas a ellos. El embudo del desagradecimiento.<\/p>\n\n<p>- Y antes que se me olvide, una tercera. Yo conoc\u00ed un sujeto que hac\u00eda extensiones para Firefox, dej\u00f3 de actualizarlas porque dej\u00f3 de usar al mism\u00edsimo Firefox; no fue su culpa de que \u00e9se navegador fuese de mal en peor \na\u00f1o tras a\u00f1o versi\u00f3n tras versi\u00f3n\ny de que la Compa\u00f1\u00eda que lo hace nunca lo arreglara, sino que se tapara los ojos a las s\u00faplicas y en su lugar les echara la culpa a otros.<\/p>\n\n<p><i>\"Deber\u00edas aprender a \"vivir\" sin aquellas extensiones que no son compatibles.\"<\/i><\/p>\n\n<p>- Yo tambi\u00e9n aprovecho para decirle que tambi\u00e9n hay que aprender a vivir sin navegadores que fabrican incompatibilidades por s\u00ed mismos. Mejor use otro y se acostumbra, que nada es irremplazable.<\/p>","karma":"33.00","parent":"393530","comment_edited_date":1335812062,"vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"apolon","user_id":"65031","author":"apolon","webpage":"http:\/\/votame.negativo.fanboy.deprimido","user_name":"apolon","karma_level":"40.00","iseditor":"0","global_id":"305242","facebook_uid":null,"index":24,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/305242_2.png"},{"id":"393647","post_id":"68800","date":1335832762,"content_filtered":"<p>Si firefox de repente dejara de tener extensiones dir\u00eda adi\u00f3s a m\u00e1s o menos un 10% de usuarios.<\/p>","content":"<p>Si firefox de repente dejara de tener extensiones dir\u00eda adi\u00f3s a m\u00e1s o menos un 10% de usuarios.<\/p>","karma":"20.00","parent":"393530","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"42836","user_id":"42836","author":"","webpage":null,"user_name":null,"karma_level":"29.00","iseditor":"0","global_id":"210312","facebook_uid":"555123991","index":26,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/555123991\/picture"},{"id":"393425","post_id":"68800","date":1335703900,"content_filtered":"<p>Aja... ya veo, y los usuarios de Macs con PowerPC, que les piensan hacer, \u00bfregalares un Mac nuevo con Intel?<\/p>\n\n<p>Es que mando huevos cuando despu\u00e9s de tirarse ni se sabe, van y sacan el FireFox 4 sin soporte para PPC... es como haberlo sacado solo compatible para Windows Vista.<\/p>\n\n<p>Ya me dir\u00e1s tu si un t\u00edo con un PowerMac con 4 u 8 gigas de RAM y uno o dos G5 Dual Core no podr\u00eda correr \"decentemente\" FireFox 4...<\/p>","content":"<p>Aja... ya veo, y los usuarios de Macs con PowerPC, que les piensan hacer, \u00bfregalares un Mac nuevo con Intel?<\/p>\n\n<p>Es que mando huevos cuando despu\u00e9s de tirarse ni se sabe, van y sacan el FireFox 4 sin soporte para PPC... es como haberlo sacado solo compatible para Windows Vista.<\/p>\n\n<p>Ya me dir\u00e1s tu si un t\u00edo con un PowerMac con 4 u 8 gigas de RAM y uno o dos G5 Dual Core no podr\u00eda correr \"decentemente\" FireFox 4...<\/p>","karma":"0.00","parent":"0","comment_edited_date":"","vote_count":"4","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"radl","user_id":"30437","author":"","webpage":null,"user_name":"radl","karma_level":"24.00","iseditor":"0","global_id":"174118","facebook_uid":null,"index":3,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/d14400cd3eb17e609b81f670bcd3d284"},{"id":"393440","post_id":"68800","date":1335709453,"content_filtered":"<p>Hombre son procesadores de 2005, no esperes el rendimiento de un Sandy.<\/p>\n\n<p>No obstante, hasta un netburst lo podr\u00eda mover decentemente<\/p>\n\n<p>Pero siempre hay muchos navegadores donde elejir<\/p>","content":"Hombre son procesadores de 2005, no esperes el rendimiento de un Sandy.\n\nNo obstante, hasta un netburst lo podr\u00eda mover decentemente\n\nPero siempre hay muchos navegadores donde elejir","karma":"5.00","parent":"393425","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"asturtorque","user_id":"101796","author":"","webpage":null,"user_name":"asturtorque","karma_level":"54.00","iseditor":"0","global_id":"233562","facebook_uid":null,"index":10,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/233562_1.png"},{"id":"393601","post_id":"68800","date":1335812416,"content_filtered":"<p>Si tienes soporte por parte de Apple no te quedar\u00e1 otra cosa que tirar de Safari.<\/p>\n\n<p>Si no tienes soporte de nada yo que tu migrar\u00eda eso a un Debian Testing.<\/p>","content":"Si tienes soporte por parte de Apple no te quedar\u00e1 otra cosa que tirar de Safari.\n\nSi no tienes soporte de nada yo que tu migrar\u00eda eso a un Debian Testing.","karma":"5.00","parent":"393425","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"107074","user_id":"107074","author":"","webpage":"http:\/\/trollsyopensource.blogspot.com.es","user_name":"coldkde","karma_level":"52.00","iseditor":"0","global_id":"538786","facebook_uid":"100003277218016","index":25,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100003277218016\/picture"},{"id":"393434","post_id":"68800","date":1335707935,"content_filtered":"<p>Y de cuantos usuarios en el Mundo hablamos ? <\/p>\n\n<p>Dejen de darle tanto pedal al tema <\/p>\n\n<p><a href=\"http:\/\/www.genbeta.com\/navegadores\/ya-es-oficial-el-soporte-para-firefox-3-6-terminara-el-24-de-abril\" rel=\"nofollow\">http:\/\/www.genbeta.com\/navegadores\/ya-es-oficial-el-soporte-para-firefox-3-6-terminara-el-24-de-abril<\/a><\/p>\n\n<p><a href=\"http:\/\/www.genbeta.com\/navegadores\/firefox-36-es-el-xp-de-mozilla-pero-poco-puede-hacer-para-remediarlo\" rel=\"nofollow\">http:\/\/www.genbeta.com\/navegadores\/firefox-36-es-el-xp-de-mozilla-pero-poco-puede-hacer-para-remediarlo<\/a><\/p>\n\n<p>O es patrocinado por la ESAL ? <\/p>\n\n<p>Dentro del campo inform\u00e1tico amerita tanta tela ?<\/p>","content":"<p>Y de cuantos usuarios en el Mundo hablamos ? <\/p>\n\n<p>Dejen de darle tanto pedal al tema <\/p>\n\n<p><a href=\"http:\/\/www.genbeta.com\/navegadores\/ya-es-oficial-el-soporte-para-firefox-3-6-terminara-el-24-de-abril\" rel=\"nofollow\">http:\/\/www.genbeta.com\/navegadores\/ya-es-oficial-el-soporte-para-firefox-3-6-terminara-el-24-de-abril<\/a><\/p>\n\n<p><a href=\"http:\/\/www.genbeta.com\/navegadores\/firefox-36-es-el-xp-de-mozilla-pero-poco-puede-hacer-para-remediarlo\" rel=\"nofollow\">http:\/\/www.genbeta.com\/navegadores\/firefox-36-es-el-xp-de-mozilla-pero-poco-puede-hacer-para-remediarlo<\/a><\/p>\n\n<p>O es patrocinado por la ESAL ? <\/p>\n\n<p>Dentro del campo inform\u00e1tico amerita tanta tela ?<\/p>","karma":"-27.00","parent":"0","comment_edited_date":1335707977,"vote_count":"2","comment_level":4,"comment_deleted_date":"","tree_level":"0","comment_approved":"0","comment_author":"pablos2005","user_id":"66530","author":"","webpage":null,"user_name":"pablos2005","karma_level":"36.00","iseditor":"0","global_id":"315050","facebook_uid":null,"index":6,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/315050_1.png"}],"meta":{"more_records":"false","start":0,"total":27,"order":"valued","totalCount":27},"commentStatus":"closed"});
+
+	window.App = new AML.Comments.Application(68800, commentList);
+	Backbone.history.start();
+      });
+    </script>
+
+  <!-- Comments and Other Stuff -->
+
+  <div id="ad-bottom" class="ad ad-boton">
+  <a class="ad-contact" id="div-gpt-bot-contact" style="display:none" href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-bot' class="ad-box" style='width: 728px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-bot");
+    });
+    </script>
+    </div>
+</div>
+
+  <!-- .ad - boton -->
+  <div class="sidebar-seo-links">
+    <h4>Más en Genbeta</h4>
+    <ul>
+              <li>
+          <a  href="/navegadores/mozilla-mostrara-anuncios-en-su-pagina-de-nueva-pestana" class="thumb80">
+            <img title="Mozilla mostrará anuncios en su página de nueva pestaña " src="http://img.genbeta.com/tb/80_80/110874.jpg" alt="Mozilla mostrará anuncios en su página de nueva pestaña ">
+          </a>
+          <a  href="/navegadores/mozilla-mostrara-anuncios-en-su-pagina-de-nueva-pestana">
+            Mozilla mostrará anuncios en su página de nueva pestaña 
+          </a>
+        </li>
+              <li>
+          <a  href="/navegadores/chrome-33-para-windows-solo-permitira-instalar-extensiones-desde-chrome-web-store" class="thumb80">
+            <img title="Chrome 33 para Windows sólo permitirá instalar extensiones desde Chrome Web Store" src="http://img.genbeta.com/tb/80_80/110920.jpg" alt="Chrome 33 para Windows sólo permitirá instalar extensiones desde Chrome Web Store">
+          </a>
+          <a  href="/navegadores/chrome-33-para-windows-solo-permitira-instalar-extensiones-desde-chrome-web-store">
+            Chrome 33 para Windows sólo permitirá instalar extensiones desde Chrome Web Store
+          </a>
+        </li>
+              <li>
+          <a  href="/navegadores/mozilla-lanza-firefox-accounts-para-poder-usar-sync-y-otros-servicios-facilmente" class="thumb80">
+            <img title="Mozilla lanza Firefox Accounts para poder usar Sync y otros servicios cómodamente" src="http://img.genbeta.com/tb/80_80/110791.jpg" alt="Mozilla lanza Firefox Accounts para poder usar Sync y otros servicios cómodamente">
+          </a>
+          <a  href="/navegadores/mozilla-lanza-firefox-accounts-para-poder-usar-sync-y-otros-servicios-facilmente">
+            Mozilla lanza Firefox Accounts para poder usar Sync y otros servicios cómodamente
+          </a>
+        </li>
+              <li>
+          <a  href="/navegadores/firefox-27-mas-seguro-y-mas-social" class="thumb80">
+            <img title="Firefox 27, más social y con conexiones más seguras" src="http://img.genbeta.com/tb/80_80/110679.jpg" alt="Firefox 27, más social y con conexiones más seguras">
+          </a>
+          <a  href="/navegadores/firefox-27-mas-seguro-y-mas-social">
+            Firefox 27, más social y con conexiones más seguras
+          </a>
+        </li>
+              <li>
+          <a  href="/navegadores/mozilla-esta-probando-una-nueva-version-de-firefox-sync" class="thumb80">
+            <img title="Mozilla está probando una nueva versión de Firefox Sync" src="http://img.genbeta.com/tb/80_80/110660.jpg" alt="Mozilla está probando una nueva versión de Firefox Sync">
+          </a>
+          <a  href="/navegadores/mozilla-esta-probando-una-nueva-version-de-firefox-sync">
+            Mozilla está probando una nueva versión de Firefox Sync
+          </a>
+        </li>
+          </ul>
+</div>
+<!-- related-posts SEO links-->
+       
+    </div>
+  <!-- .container -->
+  </div>
+  <!-- .content-dinamic -->
+
+  <div class= "nav nav-blog">
+  <div class= "container">
+    <h2><strong>&#43;</strong> en Genbeta</h2>
+    <ul>
+      <li class= "blog-section section-lomejor"><a href="/lomejor">Lo mejor</a></li>
+      <li class= "blog-section section-temas"><a href="/archivos">Temas</a></li>
+            <li class= "blog-section section-productos"><a href="/productos">Productos</a></li>
+                  <li class= "blog-section section-respuestas"><a href="/respuestas">Respuestas</a></li>
+            
+            <li class="blog-section section-club"><a href="/club">Club</a></li>
+            <li class= "blog-section section-comunidad"><a href="/comunidad">Comunidad</a></li>
+      <li class="blog-section section-staff"><a href="/quienes-somos">Staff</a></li>
+    </ul>
+  </div>
+</div>
+  
+<div class="footer">
+        <div class="footer-media">
+                <div class="links-category">
+            <h2>Tecnología</h2>
+            <ul>
+                              <li class="tec-xataka"><a href="http://www.xataka.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka<span></span></a></li>
+                              <li class="tec-xatakamovil"><a href="http://www.xatakamovil.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Móvil<span></span></a></li>
+                              <li class="tec-xatakafoto"><a href="http://www.xatakafoto.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Foto<span></span></a></li>
+                              <li class="tec-xatakandroid"><a href="http://www.xatakandroid.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Android<span></span></a></li>
+                              <li class="tec-xatakaon"><a href="http://www.xatakaon.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka On<span></span></a></li>
+                              <li class="tec-xatakahome"><a href="http://www.xatakahome.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Smart Home<span></span></a></li>
+                              <li class="tec-xatakawindows"><a href="http://xatakawindows.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Windows<span></span></a></li>
+                              <li class="tec-xatakaciencia"><a href="http://www.xatakaciencia.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Ciencia<span></span></a></li>
+                              <li class="tec-applesfera"><a href="http://www.applesfera.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Applesfera<span></span></a></li>
+                              <li class="tec-vidaextra"><a href="http://www.vidaextra.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vida Extra<span></span></a></li>
+                              <li class="tec-genbeta"><a href="http://www.genbeta.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Genbeta<span></span></a></li>
+                              <li class="tec-genbetadev"><a href="http://www.genbetadev.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Genbeta Dev<span></span></a></li>
+                          </ul>
+        </div>
+            </div>
+    
+    <div class="footer-links">
+                        <div class="links-category">
+            <h2>Estilos de vida</h2>
+            <ul>
+                              <li><a href="http://www.trendencias.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias</a></li>
+                              <li><a href="http://www.trendenciasbelleza.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Belleza</a></li>
+                              <li><a href="http://www.trendenciashombre.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Hombre</a></li>
+                              <li><a href="http://www.trendenciasshopping.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Shopping</a></li>
+                              <li><a href="http://www.trendenciaslifestyle.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Lifestyle</a></li>
+                              <li><a href="http://www.directoalpaladar.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Directo al Paladar</a></li>
+                              <li><a href="http://www.bebesymas.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bebés y Más</a></li>
+                              <li><a href="http://www.pequesymas.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Peques y Más</a></li>
+                              <li><a href="http://www.vitonica.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vitónica</a></li>
+                              <li><a href="http://www.decoesfera.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Decoesfera</a></li>
+                              <li><a href="http://www.embelezzia.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Embelezzia</a></li>
+                              <li><a href="http://www.ambienteg.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ambiente G</a></li>
+                              <li><a href="http://www.poprosa.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Poprosa</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Motor</h2>
+            <ul>
+                              <li><a href="http://www.motorpasion.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión</a></li>
+                              <li><a href="http://www.motorpasionf1.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión F1</a></li>
+                              <li><a href="http://www.motorpasionmoto.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Moto</a></li>
+                              <li><a href="http://www.motorpasionfuturo.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Futuro</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Ocio</h2>
+            <ul>
+                              <li><a href="http://www.blogdecine.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog de Cine</a></li>
+                              <li><a href="http://www.vayatele.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">¡Vaya Tele!</a></li>
+                              <li><a href="http://www.hipersonica.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Hipersónica</a></li>
+                              <li><a href="http://www.diariodelviajero.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Diario del Viajero</a></li>
+                              <li><a href="http://www.papelenblanco.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Papel en Blanco</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Economía</h2>
+            <ul>
+                              <li><a href="http://www.elblogsalmon.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">El Blog Salmón</a></li>
+                              <li><a href="http://www.pymesyautonomos.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Pymes y Autónomos</a></li>
+                              <li><a href="http://www.tecnologiapyme.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Tecnología Pyme</a></li>
+                              <li><a href="http://www.ahorrodiario.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ahorro Diario</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Latinoamérica</h2>
+            <ul>
+                              <li><a href="http://www.xataka.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Brasil</a></li>
+                              <li><a href="http://www.trendencias.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Brasil</a></li>
+                              <li><a href="http://www.motorpasion.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Brasil</a></li>
+                              <li><a href="http://www.xataka.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka México</a></li>
+                              <li><a href="http://www.motorpasion.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión México</a></li>
+                              <li><a href="http://www.directoalpaladar.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Directo Al Paladar México</a></li>
+                              <li><a href="http://www.xatakandroid.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Android México</a></li>
+                              <li><a href="http://www.vidaextra.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vida Extra México</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Participamos en</h2>
+            <ul>
+                              <li><a href="http://www.ebayers.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">eBayers</a></li>
+                              <li><a href="http://www.circulaseguro.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Circula Seguro</a></li>
+                              <li><a href="http://www.circulaseguro.pt/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Circula Seguro PT</a></li>
+                              <li><a href="http://www.actibva.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Actibva</a></li>
+                              <li><a href="http://www.anexom.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Anexo M</a></li>
+                              <li><a href="http://blog.cocacola.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Happing Magazine</a></li>
+                              <li><a href="http://blog.sage.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog Sage</a></li>
+                              <li><a href="http://www.optimismodigital.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Optimismo Digital</a></li>
+                              <li><a href="http://www.1001experiencias.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">1001 Experiencias</a></li>
+                              <li><a href="http://www.ennaranja.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">En Naranja</a></li>
+                              <li><a href="http://www.essieblog.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Essie Blog</a></li>
+                              <li><a href="http://blogginzenith.zenithmedia.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bloggin Zenith</a></li>
+                              <li><a href="http://www.urbanfire.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Urbanfire</a></li>
+                              <li><a href="http://www.tecnologiadetuatu.elcorteingles.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Tecnología de tú a tú</a></li>
+                              <li><a href="http://www.ciudadano00.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ciudadano 0,0</a></li>
+                              <li><a href="http://blogfanta.cocacola.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog Fanta</a></li>
+                              <li><a href="http://mimundo.philips.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Mi Mundo Philips</a></li>
+                              <li><a href="http://www.bbvacontuempresa.es?utm_source=genbeta&utm_medium=network&utm_campaign=footer">BBVA con tu empresa</a></li>
+                              <li><a href="http://www.perutravelblog.net/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Perú Travel Blog</a></li>
+                              <li><a href="http://bscene.bershka.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bershka Bscene</a></li>
+                              <li><a href="http://www.institutodelafelicidad.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Instituto de la Felicidad</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                    </div>
+</div>
+
+<div class="closure">
+    <div class="container">
+        <div class="weblogssl"><a href="http://www.weblogssl.com">Weblogs SL<span></span></a></div>
+        <ul class="nav">
+            <li><a href="/quienes-somos">¿Quienes somos?</a></li>
+            <li><a href="http://www.weblogssl.com/contenidos">Condiciones de uso</a></li>
+            <li><a href="http://www.weblogssl.com/cookies">Política de cookies</a></li>
+            <li><a href="http://www.weblogssl.com/aviso">Aviso legal</a></li>
+            <li><a title="Publicidad en Genbeta" href="http://www.socialmediasl.com/genbeta.php">Publicidad</a></li>
+            <li><a href="/ayuda-2012">Ayuda</a></li>
+            <li><a href="/contacto">Contacto</a></li>
+        </ul>
+    </div>
+</div>
+
+<div id="cookies-overlay"></div>
+
+  <script type="text/javascript">
+    $(function() {
+      new AML.Auth.View.CookiesOverlayView;
+    });
+  </script>
+
+</div>
+<div id="favicons-list">
+
+    <div class="userbar">
+        <a class="head-shortcut" href="#body" title="Volver arriba">&uarr;</a>
+        <div class="userbox" id="wsl_userbox">
+        </div>
+
+        <div class="favicons" style="width: auto; ">
+
+            <div id="scroll-menu">
+
+                <div class="disabledHotSpotLeft">«</div>
+                <div class="disabledHotSpotRight">»</div>
+                <div class="scrollingHotSpotLeft">«</div>
+                <div class="scrollingHotSpotRight">»</div>
+
+                <div class="scrollWrapper">
+                    <div class="scrollableArea">
+
+                        <ul class="favicroll">
+                            <li id="wsl"><a target="_top" href="http://www.weblogssl.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><em><strong>Blog corporativo</strong></em></a></li>
+
+                            <li><a target="_top" href="http://www.xataka.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b1"><strong>XTK</strong></span> <em><strong>Xataka - Gadgets y electrónica de consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vidaextra.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b2"><strong>VX</strong></span> <em><strong>VidaExtra - Videojuegos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.blogdecine.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b3"><strong>BDC</strong></span> <em><strong>Blog de cine - Cine  y críticas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.elblogsalmon.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b5"><strong>EBS</strong></span> <em><strong>El Blog Salmón - Economía y finanzas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.genbeta.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b6"><strong>GBT</strong></span> <em><strong>Genbeta - Software</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasion.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b7"><strong>MP</strong></span> <em><strong>MotorPasión - Coches y motor</strong></em></a></li>
+                            <li><a target="_top" href="http://www.directoalpaladar.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b8"><strong>DAP</strong></span> <em><strong>Directo al paladar - Gastronomía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.bebesymas.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b9"><strong>BYM</strong></span> <em><strong>Bebés y más - Todo sobre bebés</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vayatele.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b11"><strong>VYT</strong></span> <em><strong>¡Vaya Tele! - Series y televisión</strong></em></a></li>
+                            <li><a target="_top" href="http://www.diariodelviajero.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b12"><strong>DDV</strong></span> <em><strong>Diario del viajero - Viajes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakaciencia.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b13"><strong>XCI</strong></span> <em><strong>Xataka Ciencia - Ciencia</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendencias.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b14"><strong>TRE</strong></span> <em><strong>Trendencias - Moda y tendencias</strong></em></a></li>
+                            <li><a target="_top" href="http://www.hipersonica.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b15"><strong>HIP</strong></span> <em><strong>HiperSónica - Música</strong></em></a></li>
+                            <li><a target="_top" href="http://www.applesfera.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b16"><strong>APP</strong></span> <em><strong>Applesfera - Apple</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasshopping.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b17"><strong>COM</strong></span> <em><strong>Trendencias Shopping - Compras y consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakamovil.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b18"><strong>XTM</strong></span> <em><strong>Xataka Móvil - Móviles</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ambienteg.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b19"><strong>AMG</strong></span> <em><strong>Ambiente G - Gays y lesbianas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionmoto.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b20"><strong>MMO</strong></span> <em><strong>Motorpasión Moto - Motos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.papelenblanco.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b21"><strong>PEB</strong></span> <em><strong>Papel en blanco - Literatura</strong></em></a></li>
+                            <li><a target="_top" href="http://www.decoesfera.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b22"><strong>DEC</strong></span> <em><strong>Decoesfera - Decoración e interiorismo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionf1.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b23"><strong>MF1</strong></span> <em><strong>Motorpasión F1 - Carreras</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vitonica.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b24"><strong>VIT</strong></span> <em><strong>Vitónica - Vida sana</strong></em></a></li>
+                            <li><a target="_top" href="http://www.embelezzia.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b25"><strong>EMB</strong></span> <em><strong>Embelezzia - Lujo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.poprosa.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b26"><strong>POP</strong></span> <em><strong>Poprosa - Famosos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakafoto.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b27"><strong>XTF</strong></span> <em><strong>Xataka Foto - Fotografía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.pymesyautonomos.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b28"><strong>PYA</strong></span> <em><strong>Pymes y autónomos - Pymes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasbelleza.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b30"><strong>TRB</strong></span> <em><strong>Trendencias Belleza - Belleza y cosmética</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.tecnologiapyme.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b34"><strong>TPY</strong></span> <em><strong>Tecnología Pyme - Tecnología para empresas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ahorrodiario.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b35"><strong>AHD</strong></span> <em><strong>Ahorro Diario - Ahorro</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciashombre.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b36"><strong>TRH</strong></span> <em><strong>Trendencias Hombre - Moda y estilo masculino</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.pequesymas.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b37"><strong>PEQ</strong></span> <em><strong>Peques y más - Niños e infancia</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakaon.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b39"><strong>XTO</strong></span> <em><strong>Xataka On - Todo sobre conectividad, ADSL</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakandroid.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b40"><strong>XTA</strong></span> <em><strong>Xataka Android - Android, aplicaciones y dispositivos</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.genbetadev.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b41"><strong>GBD</strong></span> <em><strong>Genbeta Dev - Desarrollo de software</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.motorpasionfuturo.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b42"><strong>MPF</strong></span> <em><strong>Motorpasión Futuro - Innovación y Motor</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakahome.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b44"><strong>XSH</strong></span> <em><strong>Xataka Smart Home - Inteligencia doméstica digital</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakawindows.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b45"><strong>XTW</strong></span> <em><strong>Xataka Windows - Universo Microsoft</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciaslifestyle.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b46"><strong>TLS</strong></span> <em><strong>Trendencias Lifestyle</strong></em></a></li>
+                        </ul>
+
+                    </div>
+                </div>
+                <!-- .scrollWrapper-->
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<div id="wsl_dialog"></div>
+<script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', function() {
+  try {
+    if (window.external.msIsSiteMode()) {
+      window.external.msSiteModeClearJumpList();
+      window.external.msSiteModeCreateJumplist('Mensajes Recientes');
+            window.external.msSiteModeAddJumpListItem('Office\x20para\x20iPad,\x20m\u00E1s\x20pronto\x20que\x20tarde\x3A\x20para\x20la\x20primera\x20mitad\x20de\x202014', 'http://www.genbeta.com/ofimatica/office-para-ipad-mas-pronto-que-tarde-para-la-primera-mitad-de-2014', '');
+            window.external.msSiteModeAddJumpListItem('Bittorrent\x20Live,\x20el\x20streaming\x20P2P,\x20llegar\u00E1\x20pronto\x20a\x20los\x20m\u00F3viles\x20', 'http://www.genbeta.com/multimedia/bittorrent-live-el-streaming-p2p-llegara-pronto-a-los-moviles', '');
+            window.external.msSiteModeAddJumpListItem('La\x20hipocres\u00EDa\x20de\x20algunos\x20medios\x20tradicionales.\x20La\x20imagen\x20de\x20la\x20semana\x20', 'http://www.genbeta.com/actualidad/la-hipocresia-de-algunos-medios-tradicionales-la-imagen-de-la-semana', '');
+            window.external.msSiteModeAddJumpListItem('\x22Tasa\x20Google\x22\x3A\x20si\x20tienes\x20un\x20blog\x20tambi\u00E9n\x20te\x20afecta,\x20solo\x20que\x20otros\x20la\x20cobrar\u00E1n\x20por\x20ti\x20', 'http://www.genbeta.com/actualidad/tasa-google-si-tienes-un-blog-tambien-te-afecta-solo-que-otros-la-cobraran-por-ti', '');
+            window.external.msSiteModeAddJumpListItem('Kickstarter,\x20tras\x20sufrir\x20un\x20ataque,\x20recomienda\x20cambiar\x20contrase\u00F1as\x20', 'http://www.genbeta.com/web/kickstarter-tras-sufrir-un-ataque-recomienda-cambiar-contrasenas', '');
+            window.external.msSiteModeShowJumpList();
+    }
+  } catch (exp) {
+    // do nothing
+  }
+  });
+</script>
+
+
+<script type='text/javascript'>
+    (function() {
+      new ViceVersaLink("http://t.genbeta.com");
+    })();
+</script>
+
+<script type='text/javascript'>
+  window.onerror = function(message, file, line) {
+    var sFormattedMessage = '[' + file + ' (' + line + ')] ' + message;
+    _gaq.push(['_trackEvent', 'Errors', 'Browser', sFormattedMessage, null, true]);
+  }
+    
+</script>
+
+</body>
+</html>

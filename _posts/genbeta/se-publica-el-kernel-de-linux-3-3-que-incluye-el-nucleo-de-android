@@ -1,0 +1,885 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+                                                                                                                                                                                                                                                                                <title>Se publica el kernel de Linux 3.3 que incluye el núcleo de Android </title>
+                  <meta name="description" content="Después del lanzamiento a principios de año de la versión 3.2 del kernel de Linux, después de dos meses y medio de trabajo, ayer llegaba el..." />
+            <meta name="news_keywords" content="Android, ext4, kernel Linux, Linus Torvalds, Open vSwitch"/>
+       
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />    
+    <meta name='robots' content='noodp' />
+    <meta property="fb:admins" content="100000716994885"/>
+    <meta name="application-name" content="Genbeta"/>
+    <meta name="msapplication-tooltip" content="Software y web. Genbeta"/>
+    <meta name="msapplication-starturl" content="http://www.genbeta.com"/>
+    <meta name="msapplication-task" content="name=Lo mejor;action-uri=http://www.genbeta.com/lomejor;icon-uri=http://img.genbeta.com/lp2/v6/images/pin-bg-lomejor-icon.ico" />
+        <meta name="msapplication-task" content="name=Respuestas;action-uri=http://www.genbeta.com/respuestas;icon-uri=http://img.genbeta.com/lp2/v6/images/pin-bg-respuestas-icon.ico" />
+                <!--[if !IE]><!--> <link rel="shortcut icon" href="http://img.genbeta.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if lt IE 9]><!--> <link rel="shortcut icon" href="http://img.genbeta.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if gte IE 9]>
+            <link rel="shortcut icon" type="image/x-icon" href="http://img.genbeta.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+            <link rel=icon type="image/ico" href="http://img.genbeta.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+        <![endif]-->
+    
+    <link rel="apple-touch-icon" href="http://img.genbeta.com/lp2/mobile/images/apple-touch-icon.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-57-precomposed.png">
+
+        <link rel="stylesheet" type="text/css" href="http://img.genbeta.com/lp2/v6/main.css?v=24272">
+        <link rel="publisher" href="http://plus.google.com/106643481235450321345" />
+    <link rel="alternate" type="application/rss+xml" title="" href="/index.xml" />
+    <!--[if lt IE 7]>
+      <link rel="stylesheet" type="text/css" href="http://img.genbeta.com/lp2/v6/ie7.css">
+    <![endif]-->
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', "UA-78515-6"]);
+  _gaq.push(['_setCampaignCookieTimeout', 259200000]);
+  _gaq.push(['_setDomainName', ".genbeta.com"]);
+  _gaq.push(['_setSiteSpeedSampleRate', 5]);
+  _gaq.push(['t2._setAccount', "UA-78515-62"]);
+  _gaq.push(['t2._setCampaignCookieTimeout', 259200000]);
+  _gaq.push(['t2._setDomainName', ".genbeta.com"]);
+  (function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') +       '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  })();
+</script>
+
+ <link rel="canonical" href="http://www.genbeta.com/linux/se-publica-el-kernel-de-linux-3-3-que-incluye-el-nucleo-de-android" />
+ <link rel="image_src" href="http://img.genbeta.com/resize/75/thumbnails/b/67998.jpg" />
+ <meta property="og:title" content="Se publica el kernel de Linux 3.3 que incluye el núcleo de Android ">
+ <meta property="og:description" content="Después del lanzamiento a principios de año de la versión 3.2 del kernel de Linux, después de dos meses y medio de trabajo, ayer llegaba el...">
+ <meta property="og:image" content="http://img.genbeta.com/original/67998.jpg">
+    <script>
+    _gaq.push(['t2._setPageGroup', '1', 'post']);
+    _gaq.push(['t2._setPageGroup', '2', "miguel julián"]);
+    _gaq.push(['t2._setPageGroup', '3', "linux"]);
+    _gaq.push(['t2._setPageGroup', '4', "normal"]);
+    _gaq.push(['_setPageGroup', '1', 'post']);
+    _gaq.push(['_setPageGroup', '2', "miguel julián"]);
+    _gaq.push(['_setPageGroup', '3', "linux"]);
+    _gaq.push(['_setPageGroup', '4', "normal"]);
+       </script>
+   </head>
+       <body id="body" class="article-single">
+
+    <script type='text/javascript'>
+    var MAX_source = "";
+    var GPTcats = ["linux"];
+    var GPTtags = ["android", "ext4", "kernel-linux", "linus-torvalds", "open-vswitch"];
+      </script>
+      <script type='text/javascript'>
+googletag.pubads().setTargeting("origin", "direct").setTargeting("screen", screen.width.toString()).setTargeting("cat", GPTcats).setTargeting("tag", GPTtags);
+if (navigator.userAgent.match(/iPad/i) != null) {
+  googletag.pubads().setTargeting("ua", "ipad");
+} 
+ 
+googletag.defineSlot('/4712/GEB/interior_top', [1000, 40], 'div-gpt-top').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_lateral', [[160, 600], [200,600], [300,600], [300,250]], 'div-gpt-lat').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_central', [[300, 250], [400,400], [1000,250]], 'div-gpt-cen').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_central2', [[300, 250],[400,400],[690, 250]], 'div-gpt-cen2').addService(googletag.pubads());
+googletag.defineSlot('/1018282/GEB-BOT2-interior',[728, 90], 'div-gpt-bot').addService(googletag.pubads());
+googletag.defineSlot('/1018282/GEB-INP', [500, 80], 'div-gpt-inp').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interstitial', [1000, 525], 'div-gpt-int').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().enableSyncRendering();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+</script>
+
+       <script type="text/javascript">
+      WSL2 = {};
+      WSL2.config = {};
+      WSL2.config.fbapikey = "360028941603";
+      WSL2.config.cookieDomain = "";
+      WSL2.config.imagePath = 'http://img.genbeta.com/lp2/v6';
+      WSL2.config.siteName = "Genbeta";
+      window.___gcfg = {lang: 'es'};
+    </script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="http://code.jquery.com/jquery-migrate-1.1.0.js"></script>
+            <script src="http://img.weblogssl.com/LPbackend/prod/v2/js/frontend-758.js"></script>
+          <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _c1 = new WSL2.Cookie;
+      loginStatus = (_c1.hasSession()) ? "yes:" + _c1.loginType() : "no";
+      _gaq.push(['t2._setCustomVar', 4, '.genbeta.com', 'loginstatus:' + loginStatus, 2]);
+      _gaq.push(['_trackPageview']);
+      _gaq.push(['t2._trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); 
+    ga.type = 'text/javascript';
+    ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+  })();
+      var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "11306788" });
+         (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[1]; 
+          s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb": "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+    </script>
+
+    <div id="fb-root"></div>
+  <!-- fb needs this -->
+
+  <script src="//platform.twitter.com/widgets.js" id="tweetjs"></script>
+  <script src="//apis.google.com/js/plusone.js" id="gplus1js"></script>
+  <script src="//connect.facebook.net/es_ES/all.js#xfbml=1" id="fbjssdk"></script>
+  <div class="customize-me">
+  <div class="content-fixed">
+    <div class="container">
+                <!-- .header -->
+            <div class="header header-page">
+        <h1 class="site-logo"><a href="http://www.genbeta.com" title="Ir a la portada">Software y web. Genbeta<span></span></a></h1>
+        <form method="get" action="/busqueda" id="search" class="search" style="top:62px; width:310px; padding: 0;">
+    <p>
+        <input type="hidden" name="cx" value="partner-pub-9977500652563564:0292109475">
+        <input type="text" id="gsearch" name="q" accesskey="4" title="Buscar" placeholder="Busca en Genbeta con Google">
+        <input type="hidden" name="ie" value="UTF-8">
+        <input type="hidden" name="oe" value="UTF-8">
+        <input type="hidden" name="cof" value="FORID:10">
+        <button class="button">Buscar <span class="arrow">&raquo;</span></button>
+    </p>
+</form>
+<script type="text/javascript" src="http://www.google.es/coop/cse/brand?form=cse-search-box&amp;lang=es"></script>
+            <div class="nav nav-main">
+    <ul class="nav-primary">
+        <li class="home-link"><a href="/" title="Volver a portada">Portada</a></li>
+        <li class="respuestas-link"><a href="/respuestas">Respuestas</a></li>
+        <li class="temas-submenu">
+            <ul class="nav-secondary">
+                                   <li><a href="/categoria/actualidad" title="Ir a la categoría Actualidad">Actualidad</a></li>
+                                   <li><a href="/categoria/linux" title="Ir a la categoría Linux">Linux</a></li>
+                                   <li><a href="/categoria/movil" title="Ir a la categoría Móvil">Móvil</a></li>
+                                   <li><a href="/categoria/windows" title="Ir a la categoría Windows">Windows</a></li>
+                                   <li><a href="/categoria/herramientas" title="Ir a la categoría Herramientas">Herramientas</a></li>
+                                <li><a href="/archivos" title="Ver todas las categorías">Más &raquo;</a></li>
+            </ul>
+        </li>
+                  
+            </ul>
+</div>
+
+        <div class="nav nav-tags">
+        <h3>No te pierdas <span class="arrow">&raquo;</span></h3>
+        <ul>
+                        <li><a href="/tag/tasa-google" title="Todo sobre Tasa Google">Tasa Google</a></li>
+                        <li><a href="/tag/ley-lassalle" title="Todo sobre Ley Lassalle">Ley Lassalle</a></li>
+                        <li><a href="/tag/balance-de-windows-8" title="Todo sobre Balance de Windows 8">Balance de Windows 8</a></li>
+                        <li><a href="/tag/cazadores-de-fakes" title="Todo sobre Cazadores de Fakes">Cazadores de Fakes</a></li>
+                        <li><a href="/tag/satya-nadella" title="Todo sobre Satya Nadella">Satya Nadella</a></li>
+                    </ul>
+</div>
+<!-- .nav-tags -->
+
+                    <div class="ad ad-desplegable">
+  <a class="ad-contact" id="div-gpt-top-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+  <div class="ad-box">
+    <div id='div-gpt-top' style='width: 1000px;'>
+    <script type="text/javascript">
+        googletag.cmd.push(function() {
+        googletag.display("div-gpt-top");
+        });
+    </script>
+    </div>
+  </div>
+</div>
+<!-- .ad-box - desplegable -->
+
+  <div class="nav">
+   <ul class="article-nav-controls">
+                              <li><a class="article-control article-previous" href="/redes-sociales-y-comunidades/posiciona-tu-marca-con-pinterest"><span>Posiciona tu marca con Pinterest</span></a></li>
+                                             <li><a class="article-control article-next" href="/genbeta/la-pregunta-de-la-semana-que-puede-hacer-kevin-rose-en-google"><span>La pregunta de la semana: ¿Qué puede hacer Kevin Rose en Google?</span></a></li>
+                  </ul>
+  </div>
+              </div>
+                   <div class="article article-pre-content">
+  <h1 class="article-header">Se publica el kernel de Linux 3.3 que incluye el núcleo de Android </h1>
+  <div class="article-date">19 de marzo de 2012 | 17:45 CET <span id="is_editor"></span></div>
+  <div class="article-author-details">
+  <div class="figure">
+    <a rel='author' href="/autor/miguel-julian">
+      <img src="http://www.gravatar.com/avatar/14216b3a89c997bfc641f9d3abf7bc0b?s=80&amp;d=mm&amp;r=g" alt="miguel-julian">
+    </a>
+  </div>
+  <h2><a rel='author' href="/autor/miguel-julian">Miguel Julián</a></h2>
+      </div>
+<!-- .article-author-details -->
+</div>
+           </div>
+    <!-- .container -->
+  </div>
+  <!-- .content-fixed -->
+
+  <div class="content-dinamic">
+    <div class="container">
+          <script type="text/javascript">
+        $(function()
+        {
+          AML.postVoteView = new AML.Post.View.PostVoteView({postId:"67998", el:".social-sharing" });
+          AML.isEditorView = new AML.Post.View.IsEditorView({postId:"67998", model: WSL2.User });
+        });
+      </script>
+
+    <div class="aside">
+            <div id="ad-lateral" class="ad ad-primer-escaparate">
+  <a class="ad-contact" id="div-gpt-lat-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-lat' class="ad-box" style='width: 300px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-lat");
+    });
+    </script>
+    </div>
+</div>
+<!-- .ad-box - escaparate vertical -->
+
+           <!-- .ad-box - escaparate vertical -->
+            
+                  
+<div class="aside-box aside-subscribe">
+  <h3 class="aside-header">Síguenos</h3>
+  
+          
+  <form id="feedForm" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" >
+    <label for="subscribe-email">Newsletter:</label>  
+      <input type="text" name="email" type="text" id="feedburnermail" placeholder="Correo electrónico"/>
+      <input type="hidden" name="uri" value="genbeta"/>
+      <input type="hidden" name="loc" value="es_ES">
+      <button class="button" type="submit">Suscríbete <span class="arrow">&raquo;</span></button>
+  </form>
+  <ul class="subs-channels">
+    <li class="channel-rss" id="rss"> <a href="/index.xml" rel="nofollow" title="Suscríbete por RSS a las novedades en Genbeta"><span></span>RSS</a></li>
+    <li class="channel-twitter"><a href="http://twitter.com/genbeta" title="Sigue las novedades de Genbeta en Twitter"><span></span>Twitter</a></li>
+    <li class="channel-fb"><a href="http://www.facebook.com/pages/Genbeta/54999640934" title="Conéctate a la página de Genbeta en Facebook"><span></span>Facebook</a></li>
+    <li class="channel-gplus"><a href="https://plus.google.com/109731528328750280665/posts" title="Sigue a Genbeta en Google Plus"><span></span>Google Plus</a></li>
+    <li class="channel-feedly"><a style="margin-right: 0;" title="Suscríbete a Genbeta con Feedly" href='http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fwww.genbeta.com%2Findex.xml'  target='blank'><img id='feedlyFollow' src='http://img.weblogssl.com/g/xataka4/common/m-icon-feedly.png' alt='follow us in feedly' width='32' height='32'></a></li>
+  </ul>
+  <ul class="devices-channels">
+    <li><a title="Versión para móviles" href="http://m.genbeta.com" class="button button-secondary"><img src="http://img.weblogssl.com/g/xataka4/common/mobile.png">Versión móvil</a></li>
+        <li>
+        <a id="tabletViceVersaLink" href="http://t.genbeta.com" class="button button-secondary" title="Versión tablet"><img src="http://img.weblogssl.com/g/xataka4/common/tablet.png"> Versión tablet</a>
+    </li>
+      </ul>
+
+    <script>
+  $(function() {
+      $("#feedForm").submit(function(e) {
+          e.preventDefault();
+          email = $("#feedburnermail").val();
+          emailPattern = /^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$/i
+          if (emailPattern.test(email)) {
+              window.open('http://mailer.weblogssl.com/subscribe_check/' + email +'/genbeta/Genbeta','','width=500,height=500');
+          } else {
+              alert("El correo electrónico introducido no es correcto");
+          }
+      });
+  });
+  </script>
+  
+</div>
+            <!-- .article-promo -->
+    </div>
+
+    <!-- .aside -->
+
+                    
+    <div class="section section-article-single">
+            <div class="article">
+        <div class="article-summary">
+          <p><img alt="Lanzamiento de la versión 3.3 del núcleo de Linux" src="http://img.genbeta.com/2012/03/lanzamiento-version-3-3-kernel-linux.jpg" class="centro" /></p>
+
+                              <div class="article-metadata">
+            <div class="article-comments" id="postCommentCount">
+              <a href="#comments" title="Ir a comentarios">
+                Comentarios 34
+              </a>
+            </div>
+            <div class="article-links">
+              <div class="social-sharing">
+                <div class="social-sharing-widgets">
+                                    <div class="wsl-favorite">
+                    <button class="button button-small">Me gusta</button>
+                    <span class="wsl-count">7</span>
+                  </div>
+                                    <!-- twitter -->
+                  <a class="twitter-share-button" href="http://twitter.com/share" data-count="horizontal" data-url="http://www.genbeta.com/p/67998" data-counturl="http://www.genbeta.com/linux/se-publica-el-kernel-de-linux-3-3-que-incluye-el-nucleo-de-android" data-text="Se publica el kernel de Linux 3.3 que incluye el núcleo de Android " data-via="genbeta" data-lang="es">Tweet</a>
+                  <!-- g+ -->
+                  <div class="g-plusone" data-size="medium" data-href="http://www.genbeta.com/linux/se-publica-el-kernel-de-linux-3-3-que-incluye-el-nucleo-de-android" data-callback="gplusClickHandler" ></div>
+                  <!-- facebook like -->
+                  <div href="http://www.genbeta.com/linux/se-publica-el-kernel-de-linux-3-3-que-incluye-el-nucleo-de-android" class="fb-like" data-send="false" data-layout="button_count" data-show-faces="false"></div>
+                </div>
+              </div>
+              <!-- .social-sharing -->
+            </div>
+            <!-- .article-links -->
+          </div>
+          <!-- .article-metadata -->
+
+
+          	<p></p>
+
+	<p>Después del lanzamiento a principios de año de la versión 3.2 del kernel de Linux, después de dos meses y medio de trabajo, ayer llegaba el anuncio oficial del lanzamiento de la <strong>nueva versión 3.3 del núcleo de Linux</strong>. Viene con mejoras en los drivers para la gestión de redes, pero la palabra que llama la atención es Android.</p>
+
+	<p>Parece que se han conseguido salvar años de discrepancias y ha llgado la esperada integración del núcleo de Android dentro del núcleo de Linux, lo que seguro que es una gran noticias para los desarrolladores, aunque todavía no es completa. Por fin podremos encontrar <strong>el código del núcleo de Android por fin se ha unido a los respositorios Linux</strong>, lo que implica que el kernel 3.3 permitirá arrancar un espacio de usuario Android.</p>
+
+	<p>Además de la inclusión del núcleo de Android se ha mejorado la capacidad del sistema de ficheros <strong>Ext4 para permitir tamaños de bloques mayores</strong>, y se incluye un switch virtual (Open vSwitch) que resulta más flexible y adecuado para entornos de virtualización. Sin duda buenas noticias para la comunidad de software libre.</p>                  </div>
+
+                        
+        <div class="ad links-ad-inpost">
+    <div id='div-gpt-inp' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-inp");
+    });
+    </script>
+    </div>
+</div>
+
+
+        
+        <div class="article-taxonomy">
+                      <div class="nav article-tags article-categories">
+  <h2>Categorías</h2>
+    <ul>
+                      
+      <li><a href="/categoria/linux">Linux</a></li>
+        </ul>
+</div>
+            <div class="nav article-tags">
+  <h2>Tags</h2>
+  <ul>
+                                             
+      <li><a href="/tag/android">Android</a></li>
+                                             
+      <li><a href="/tag/ext4">ext4</a></li>
+                                             
+      <li><a href="/tag/kernel-linux">kernel Linux</a></li>
+                                             
+      <li><a href="/tag/linus-torvalds">Linus Torvalds</a></li>
+                                             
+      <li><a href="/tag/open-vswitch">Open vSwitch</a></li>
+          
+  </ul>
+</div>
+                  </div>
+        <!-- .article-metadata -->
+      </div>
+      <!-- .article -->
+    </div>
+    <!-- .section-articles -->
+            <div id="ad-center" class="ad ad-escaparate-medio">
+  <a class="ad-contact" id="div-gpt-cen-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-cen' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+
+        
+        
+    <div class="section section-related">
+               <div id="outBrainVerticalWidget" class="post-related-posts ">
+  <h3>Artículos recomendados</h3>
+  <div class="post-related-content">
+   
+    <div class="OUTBRAIN" data-src="http://www.genbeta.com/linux/se-publica-el-kernel-de-linux-3-3-que-incluye-el-nucleo-de-android" data-widget-id="AR_2" data-ob-template="genbeta" >
+    </div>
+    <script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js">
+    </script>
+  </div>
+  <!-- .post-related-content -->
+  <p class="post-related-more">
+    <a href="/categoria/linux" title="Ver más artículos relacionados">
+    Ver más artículos <span class="arrow">»</span>    
+    </a>
+    </p>
+</div>     
+      <div class="post-related-products">
+   <h3>Productos</h3>
+   <div id="post-related-products" class="post-related-content">
+                <script type="text/javascript">
+        $(function()
+        {
+          WSL2.config.imageUrl = "http://img.genbeta.com"
+          WSL2.config.Products = {}
+          WSL2.config.Products.iwishihave = {}
+          WSL2.config.Products.iwishihave.buttonOne = "ME GUSTA"
+          WSL2.config.Products.iwishihave.buttonTwo = "LO ODIO"
+
+          var product = new AML.Products.Model.Product({"id":"23570","nicename":"android","name":"Android","photo_post_id":"56933","users_votes_sum":"664","users_votes_count":"78","ihave_count":"101","iwish_count":"13","category_nicename":"sistemas-operativos","cat_id":"428","category_type":"1","adspot_price":"0"}, {"pageUrlPrefix":"productos"});
+          AML.productView = new AML.Products.View.ProductView({model:product, userModel: WSL2.User});
+        });
+      </script>
+        </div>
+  <p class="post-related-more">
+    <a href="/productos/sistemas-operativos/android" title="Ver más productos relacionados">
+      Ver más productos <span class="arrow">»</span>
+    </a>
+  </p>
+ </div>
+<!-- .post-related-products -->
+     <div class="post-related-qa">
+    <h3>Respuestas</h3>
+        <div class="post-related-content">
+            <ul>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>7</strong>
+                    </div>
+                    <a href="/respuestas/windows-xp-ese-muerto-vivente-ayuda">Windows XP, ese muerto vivente... Ayuda!</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2014-02-03T14:24:59Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>7</strong>
+                    </div>
+                    <a href="/respuestas/que-os-parecen-las-mejoras-introducidas-en-android-4-4">¿Qué os parecen las mejoras introducidas en Android 4.4?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2013-11-07T01:43:55Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>7</strong>
+                    </div>
+                    <a href="/respuestas/hacer-mi-app-android-la-unica-usable-en-el-dispositivo">Hacer mi app(android) la unica usable en el dispositivo?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2013-10-26T13:32:09Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number hot-topic">
+                        <strong>35</strong>
+                    </div>
+                    <a href="/respuestas/por-que-creeis-que-se-vende-mas-android-pero-se-navega-mas-con-ios">¿Por qué creéis que se vende más Android pero se navega más con iOS?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2013-10-23T23:12:55Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>6</strong>
+                    </div>
+                    <a href="/respuestas/razon-de-tantos-fallos-de-seguridad-en-android-siendo-linux">Razón de tantos fallos de seguridad en android? Siendo linux...</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2013-10-15T15:39:28Z"></abbr>
+                    </span>            
+                </li>
+                        </ul>
+        </div>
+        <!-- .post-related-content -->
+        <p class="post-related-more">
+            <a href="/respuestas" title="Ver más respuestas relacionados">
+                Ver más respuestas
+                <span class="arrow">»</span>
+            </a>
+        </p>
+</div>
+
+<script type="text/javascript">
+   $(function(){
+      $("abbr.timeago").timeago();
+   });
+</script>
+     </div>
+
+
+  <!-- Comments Section -->
+        <a id="to-comments"></a>
+  <div id="comments" class="section section-comments">
+            <div class="standalone-message">
+            <div class="message aviso"><h3>Los comentarios se han cerrado</h3></div>
+        </div>
+        <!-- #comment-write -->
+            <div id="ad-center2" class="ad ad-segundo-escaparate">
+  <a class="ad-contact" id="div-gpt-cen2-contact" style='display:none'
+  href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-cen2' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen2");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+    <div id="comments-header" class="header-section">
+      <div class="comment-order">
+    	<h3>Ordenar por:</h3>
+      </div>
+      <!-- #comment-order -->
+          	<h2>
+              34 comentarios
+            </h2>
+    </div>
+    <div id="top-section-settings"></div>
+    <ul class="comment-list"></ul>
+        <div class="nav"></div>
+    <div id="bottom-section-settings"></div>
+  </div>
+    <script type="text/javascript">
+      $(function()
+      {
+        var commentList = new AML.Comments.Model.CommentList({},{postId:67998});
+        commentList.resetParsed({"comments":[{"id":"388674","post_id":"67998","date":1332193073,"content_filtered":"<p>Puede que Manu haya dicho una burrada pero no es manera de contestarle\n\u00bfLes suena esto?\n\"Una persona con ubuntu es abierta y est\u00e1 disponible para los dem\u00e1s, respalda a los dem\u00e1s, no se siente amenazado cuando otros son capaces y son buenos en algo, porque est\u00e1 seguro de s\u00ed mismo ya que sabe que pertenece a una gran totalidad, que se decrece cuando otras personas son humilladas o menospreciadas, cuando otros son torturados u oprimidos.\"\nEs una frase de Desmond Tutu que hasta hace un tiempo ven\u00eda en la ayuda de UBUNTU<\/p>","content":"<p>Puede que Manu haya dicho una burrada pero no es manera de contestarle\n\u00bfLes suena esto?\n\"Una persona con ubuntu es abierta y est\u00e1 disponible para los dem\u00e1s, respalda a los dem\u00e1s, no se siente amenazado cuando otros son capaces y son buenos en algo, porque est\u00e1 seguro de s\u00ed mismo ya que sabe que pertenece a una gran totalidad, que se decrece cuando otras personas son humilladas o menospreciadas, cuando otros son torturados u oprimidos.\"\nEs una frase de Desmond Tutu que hasta hace un tiempo ven\u00eda en la ayuda de UBUNTU<\/p>","karma":"120.00","parent":"0","comment_edited_date":"","vote_count":"11","comment_level":2,"comment_deleted_date":"","tree_level":"0","comment_approved":"0","comment_author":"Diego Germ\u00e1n Gonzalez","user_id":"18808","author":"Diego Germ\u00e1n Gonzalez","webpage":null,"user_name":"dggonzalez","karma_level":"32.00","iseditor":"0","global_id":"133442","facebook_uid":null,"index":10,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/963785ed6ba925a47584c60e210417be"},{"id":"388715","post_id":"67998","date":1332224767,"content_filtered":"<p>Creo que hay un problema de conceptos. <br \/><\/p>\n\n<p><\/p>\n\n<blockquote>Se publica el kernel de Linux 3.3 que incluye el n\u00facleo de Android<\/blockquote>\n\n<p>Lo correcto es decir que linux 3.3 incluye los parches de Android. \nAdem\u00e1s, cualquiera que lea el art\u00edculo pensar\u00e1 que Google ha hecho un gran desarrollo paralelo al de Linux, cuando en realidad se trata de una peque\u00f1a colecci\u00f3n de parches que, durante a\u00f1os, no tuvieron la calidad ni la dedicaci\u00f3n suficiente como para que los hackers de Linux consideraran incluirlos en el trunk de desarrollo. <\/p>\n\n<p>Para aclarar todo el panorama esto es casi correcto:<\/p>\n\n<p>Linux: Kernel de la Linux Foundation. <br \/><\/p>\n\n<p>Sistema operativo GNU\/Linux:  Linux + GNU <br \/><\/p>\n\n<p>Distro Linux (o Distro GNU\/Linux): GNU\/Linux + Programas de usuario GNU + Programas de usuario que no son GNU. <br \/><\/p>\n\n<p>N\u00facleo Android: (Linux + parches de google y de terceros) <br \/><\/p>\n\n<p>Android: N\u00facleo android + Programas GNU + Display Server similar a Linux FB + M\u00e1quina Java basada en Harmony (Dalvik) + Programas Java.<\/p>\n\n<p><br \/><\/p>","content":"<p>Creo que hay un problema de conceptos. <br \/><\/p>\n\n<p><\/p>\n\n<blockquote>Se publica el kernel de Linux 3.3 que incluye el n\u00facleo de Android<\/blockquote>\n\n<p>Lo correcto es decir que linux 3.3 incluye los parches de Android. \nAdem\u00e1s, cualquiera que lea el art\u00edculo pensar\u00e1 que Google ha hecho un gran desarrollo paralelo al de Linux, cuando en realidad se trata de una peque\u00f1a colecci\u00f3n de parches que, durante a\u00f1os, no tuvieron la calidad ni la dedicaci\u00f3n suficiente como para que los hackers de Linux consideraran incluirlos en el trunk de desarrollo. <\/p>\n\n<p>Para aclarar todo el panorama esto es casi correcto:<\/p>\n\n<p>Linux: Kernel de la Linux Foundation. <br \/><\/p>\n\n<p>Sistema operativo GNU\/Linux:  Linux + GNU <br \/><\/p>\n\n<p>Distro Linux (o Distro GNU\/Linux): GNU\/Linux + Programas de usuario GNU + Programas de usuario que no son GNU. <br \/><\/p>\n\n<p>N\u00facleo Android: (Linux + parches de google y de terceros) <br \/><\/p>\n\n<p>Android: N\u00facleo android + Programas GNU + Display Server similar a Linux FB + M\u00e1quina Java basada en Harmony (Dalvik) + Programas Java.<\/p>\n\n<p><br \/><\/p>","karma":"120.00","parent":"0","comment_edited_date":1332224890,"vote_count":"10","comment_level":2,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"atoi","user_id":"66650","author":"","webpage":null,"user_name":"atoi","karma_level":"66.00","iseditor":"0","global_id":"315999","facebook_uid":null,"index":16,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/712204108df99c7d6db4b2f30e05cb66"},{"id":"388779","post_id":"67998","date":1332252316,"content_filtered":"<p>Interesante +1<\/p>","content":"Interesante +1","karma":"8.00","parent":"388715","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"55500","user_id":"55500","author":"","webpage":null,"user_name":"electron222","karma_level":"22.00","iseditor":"0","global_id":"259256","facebook_uid":"100000818820464","index":22,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100000818820464\/picture"},{"id":"388661","post_id":"67998","date":1332182879,"content_filtered":"<p>la integracion de Android es la mayor razon para que usuarios migren a Linux<\/p>","content":"<p>la integracion de Android es la mayor razon para que usuarios migren a Linux<\/p>","karma":"32.50","parent":"0","comment_edited_date":"","vote_count":"5","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"rumberosoy","user_id":"77114","author":"","webpage":null,"user_name":"rumberosoy","karma_level":"22.00","iseditor":"0","global_id":"257896","facebook_uid":"1127511875","index":2,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1127511875\/picture"},{"id":"388703","post_id":"67998","date":1332208701,"content_filtered":"<p><strong>\u00bf?<\/strong><\/p>","content":"<p><strong>\u00bf?<\/strong><\/p>","karma":"12.50","parent":"388661","comment_edited_date":1332208745,"vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"84240","user_id":"84240","author":"","webpage":null,"user_name":"genbeto","karma_level":"22.00","iseditor":"0","global_id":"265744","facebook_uid":"100000670966837","index":14,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/265744_1.png"},{"id":"388662","post_id":"67998","date":1332182914,"content_filtered":"<p>No se si voy ha decir una burrada, pero para cuando van a quitar que se tenga que hacer una partici\u00f3n \"swap\" para  instalar ubuntu, ya que en un ordenador moderno hay memoria ram desobra y no hace falta hacer uso de esta partici\u00f3n, que es un engorro tener que hacerla porcierto.<\/p>","content":"<p>No se si voy ha decir una burrada, pero para cuando van a quitar que se tenga que hacer una partici\u00f3n \"swap\" para  instalar ubuntu, ya que en un ordenador moderno hay memoria ram desobra y no hace falta hacer uso de esta partici\u00f3n, que es un engorro tener que hacerla porcierto.<\/p>","karma":"20.00","parent":"0","comment_edited_date":"","vote_count":"3","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Manu","user_id":"73780","author":"Manu","webpage":null,"user_name":"manu_curto","karma_level":"25.00","iseditor":"0","global_id":"347389","facebook_uid":null,"index":3,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/347389_1.png"},{"id":"388664","post_id":"67998","date":1332184601,"content_filtered":"<p>El sistema de instalaci\u00f3n te permite instalar Ubuntu sin partici\u00f3n de swap desde hace bastantes versiones. El Instalador \u00fanicamente te recomienda su uso cuando decides no utilizarla, pero es que igualmente puedes crearte un fichero de swap a conveniencia en caso de necesitarlo.<\/p>\n\n<p>Por ejemplo, si necesito temporalmente un fichero de swap puedo hacer lo siguiente:<\/p>\n\n<p><code><\/code><\/p>\n\n<p><code><\/code><\/p>\n\n<p>dd if=\/dev\/zero of=\/tmp\/swap0 bs=4096 count=1310720 <br \/><\/p>\n\n<p>mkswap \/tmp\/swap0 <br \/><\/p>\n\n<p>swapon \/tmp\/swap0<\/p>\n\n<p><code><\/code><\/p>\n\n<p><code><\/code><\/p>\n\n<p>Y todo esto sin reiniciar la m\u00e1quina.<\/p>","content":"<p>El sistema de instalaci\u00f3n te permite instalar Ubuntu sin partici\u00f3n de swap desde hace bastantes versiones. El Instalador \u00fanicamente te recomienda su uso cuando decides no utilizarla, pero es que igualmente puedes crearte un fichero de swap a conveniencia en caso de necesitarlo.<\/p>\n\n<p>Por ejemplo, si necesito temporalmente un fichero de swap puedo hacer lo siguiente:<\/p>\n\n<p><code><\/code><\/p>\n\n<p><code><\/code><\/p>\n\n<p>dd if=\/dev\/zero of=\/tmp\/swap0 bs=4096 count=1310720 <br \/><\/p>\n\n<p>mkswap \/tmp\/swap0 <br \/><\/p>\n\n<p>swapon \/tmp\/swap0<\/p>\n\n<p><code><\/code><\/p>\n\n<p><code><\/code><\/p>\n\n<p>Y todo esto sin reiniciar la m\u00e1quina.<\/p>","karma":"37.50","parent":"388662","comment_edited_date":1332184759,"vote_count":"4","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"albandy","user_id":"1169","author":"albandy","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"38868","facebook_uid":null,"index":5,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/20e4f4cba429559bad42c04f76d84bd7"},{"id":"388665","post_id":"67998","date":1332186219,"content_filtered":"<p>Tremenda burrada dijiste...! <br \/><\/p>\n\n<p>1ro. Es necesaria la swap como tambi\u00e9n es necesaria la memoria virtual de windows. <br \/><\/p>\n\n<p>2do. No es obligatorio crear swap para instalar linux. <br \/><\/p>\n\n<p>3ro. No es obligatorio tener que particionar el disco para tener swap.<\/p>\n\n<p> \n4to. En lugar de particionar podes crear un archivo de intercambio para que funcione como swap, al igual que como trabaja la memoria virtual de windows.<\/p>\n\n<p>Investigar un poco y leer no cuesta nada<\/p>","content":"<p>Tremenda burrada dijiste...! <br \/><\/p>\n\n<p>1ro. Es necesaria la swap como tambi\u00e9n es necesaria la memoria virtual de windows. <br \/><\/p>\n\n<p>2do. No es obligatorio crear swap para instalar linux. <br \/><\/p>\n\n<p>3ro. No es obligatorio tener que particionar el disco para tener swap.<\/p>\n\n<p> \n4to. En lugar de particionar podes crear un archivo de intercambio para que funcione como swap, al igual que como trabaja la memoria virtual de windows.<\/p>\n\n<p>Investigar un poco y leer no cuesta nada<\/p>","karma":"20.00","parent":"388662","comment_edited_date":1332186274,"vote_count":"14","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"87726","user_id":"87726","author":"GuilloooAR","webpage":null,"user_name":"guilloar","karma_level":"46.00","iseditor":"0","global_id":"410219","facebook_uid":"607415292","index":6,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/607415292\/picture"},{"id":"388671","post_id":"67998","date":1332190851,"content_filtered":"<p>Nadie nace ense\u00f1ado. Ya ha avisado que no lo sab\u00eda.<\/p>","content":"<p>Nadie nace ense\u00f1ado. Ya ha avisado que no lo sab\u00eda.<\/p>","karma":"87.50","parent":"388665","comment_edited_date":"","vote_count":"7","comment_level":2,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"45969","user_id":"112442","author":"Juan Aguilera","webpage":"http:\/\/juanaguilera.es","user_name":"juanar","karma_level":"67.00","iseditor":"0","global_id":"577327","facebook_uid":"1220034049","index":8,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1220034049\/picture"},{"id":"388836","post_id":"67998","date":1332281123,"content_filtered":"<p>bueno, si no sabe entonces que no escriba nada. <\/p>\n\n<p>Es mejor estar callado y parecer tonto, que hablar y despejar las dudas definitivamente<\/p>","content":"bueno, si no sabe entonces que no escriba nada. \n\nEs mejor estar callado y parecer tonto, que hablar y despejar las dudas definitivamente","karma":"5.00","parent":"388671","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"1","comment_author":"87726","user_id":"87726","author":"GuilloooAR","webpage":null,"user_name":"guilloar","karma_level":"46.00","iseditor":"0","global_id":"410219","facebook_uid":"607415292","index":25,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/607415292\/picture"},{"id":"388685","post_id":"67998","date":1332200373,"content_filtered":"<p>Yo tengo Windows y Linux sin SWAP y funcionan de maravilla. Eso del SWAP esta bien para entornos del pasado, donde no hab\u00eda RAM. O en tal caso para circunstancias muy especiales donde se necesite mucha RAM, que como usuario no va ser.<\/p>\n\n<p>Ahora todo el mundo tiene 4Gb o m\u00e1s y para andar con el navegador y cuatro cosas, sobra SWAP.<\/p>","content":"<p>Yo tengo Windows y Linux sin SWAP y funcionan de maravilla. Eso del SWAP esta bien para entornos del pasado, donde no hab\u00eda RAM. O en tal caso para circunstancias muy especiales donde se necesite mucha RAM, que como usuario no va ser.<\/p>\n\n<p>Ahora todo el mundo tiene 4Gb o m\u00e1s y para andar con el navegador y cuatro cosas, sobra SWAP.<\/p>","karma":"20.00","parent":"388665","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"lesan","user_id":"6405","author":"lesan","webpage":null,"user_name":"lesan","karma_level":"41.00","iseditor":"0","global_id":"14382","facebook_uid":null,"index":12,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/14382_2.png"},{"id":"388900","post_id":"67998","date":1332340494,"content_filtered":"<p>yo nunca dije que sea obligatorio digo que es DEMASIADO RECOMENDABLE, la particion swap realmente no estorba y creeme que nunca esta de mas tenerla, y bueno con los discos duros actuales \"perder\" 4 GB tampoco es tanto problema :).\nLas aplicaciones cada vez piden mas Ram.<\/p>","content":"yo nunca dije que sea obligatorio digo que es DEMASIADO RECOMENDABLE, la particion swap realmente no estorba y creeme que nunca esta de mas tenerla, y bueno con los discos duros actuales \"perder\" 4 GB tampoco es tanto problema :).\nLas aplicaciones cada vez piden mas Ram.","karma":"8.00","parent":"388685","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"1","comment_author":"55086","user_id":"55086","author":"","webpage":null,"user_name":"h1w0","karma_level":"30.00","iseditor":"0","global_id":"242240","facebook_uid":"700613093","index":29,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/700613093\/picture"},{"id":"390427","post_id":"67998","date":1333588492,"content_filtered":"<p>La respuesta iba al #12, tampoco es cuesti\u00f3n de tom\u00e1rsela tan a pecho. Saludos<\/p>","content":"La respuesta iba al #12, tampoco es cuesti\u00f3n de tom\u00e1rsela tan a pecho. Saludos","karma":"5.00","parent":"388900","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"4","comment_approved":"1","comment_author":"Tio1.jpg","user_id":"86758","author":"Tio1.jpg","webpage":null,"user_name":"markus_corleone","karma_level":"22.00","iseditor":"0","global_id":"178038","facebook_uid":null,"index":32,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/178038_3.png"},{"id":"390428","post_id":"67998","date":1333588599,"content_filtered":"<p>Al menos la SWAP est\u00e1 de sobra si no empleas la hibernaci\u00f3n, es como pensar que no es necesario un extintor ya que nunca sufriremos de un incendio...<\/p>","content":"Al menos la SWAP est\u00e1 de sobra si no empleas la hibernaci\u00f3n, es como pensar que no es necesario un extintor ya que nunca sufriremos de un incendio...","karma":"5.00","parent":"388685","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"1","comment_author":"Tio1.jpg","user_id":"86758","author":"Tio1.jpg","webpage":null,"user_name":"markus_corleone","karma_level":"22.00","iseditor":"0","global_id":"178038","facebook_uid":null,"index":33,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/178038_3.png"},{"id":"388669","post_id":"67998","date":1332190786,"content_filtered":"<p>En ubuntu no lo s\u00e9, pero en otras distros lo puedes desactivar desde hace tiempo.<\/p>","content":"<p>En ubuntu no lo s\u00e9, pero en otras distros lo puedes desactivar desde hace tiempo.<\/p>","karma":"20.00","parent":"388662","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"45969","user_id":"112442","author":"Juan Aguilera","webpage":"http:\/\/juanaguilera.es","user_name":"juanar","karma_level":"67.00","iseditor":"0","global_id":"577327","facebook_uid":"1220034049","index":7,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1220034049\/picture"},{"id":"388780","post_id":"67998","date":1332252560,"content_filtered":"<p>Hola Manu,\nHay distribuciones que al hacer las particiones de forma avanzada , ya no te obliga a hacer una particion para swap, yo ahora mismo utilizo un ubuntu 11.10 para el portatil y a la particion de swap no la cree porque solo tengo 320GB en el y no estoy como para desperdiciarlos ya que como tu muy bien has dicho con la ram que actualmente hay no hace falta pero puede dar la casualidad que en equipos con poca memoria ram vaya bien dejar una particion para swap supongo que dejan la opci\u00f3n alli para los equipos menos potentes.<\/p>","content":"<p>Hola Manu,\nHay distribuciones que al hacer las particiones de forma avanzada , ya no te obliga a hacer una particion para swap, yo ahora mismo utilizo un ubuntu 11.10 para el portatil y a la particion de swap no la cree porque solo tengo 320GB en el y no estoy como para desperdiciarlos ya que como tu muy bien has dicho con la ram que actualmente hay no hace falta pero puede dar la casualidad que en equipos con poca memoria ram vaya bien dejar una particion para swap supongo que dejan la opci\u00f3n alli para los equipos menos potentes.<\/p>","karma":"15.00","parent":"388662","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"hocklo","user_id":"106579","author":"","webpage":null,"user_name":"hocklo","karma_level":"15.00","iseditor":"0","global_id":"536126","facebook_uid":null,"index":23,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/536126_1.png"},{"id":"388663","post_id":"67998","date":1332184116,"content_filtered":"<p>S\u00ed es un poco burrada :P b\u00e1sicamente te digo que la informaci\u00f3n que se guarda en RAM es una parte muy reducida de la que hay en la memoria de intercambio, adem\u00e1s, imagina que quieres editar un v\u00eddeo de 4GB, para trabajar con \u00e9l, y t\u00fa tienes yo que se... 6GB de ram, ocupados 2,5 GB, el programa que vas a utilizar te lo guarda en ram para que todo sea m\u00e1s \u00e1gil, Qu\u00e9 haces con la informaci\u00f3n del resto de programas?, ten en cuenta que la \u00fanica forma de trabajar con algo es llev\u00e1ndolo de disco a ram, entonces, no podemos eliminar esa parte por mucho que crezca la ram.<\/p>","content":"<p>S\u00ed es un poco burrada :P b\u00e1sicamente te digo que la informaci\u00f3n que se guarda en RAM es una parte muy reducida de la que hay en la memoria de intercambio, adem\u00e1s, imagina que quieres editar un v\u00eddeo de 4GB, para trabajar con \u00e9l, y t\u00fa tienes yo que se... 6GB de ram, ocupados 2,5 GB, el programa que vas a utilizar te lo guarda en ram para que todo sea m\u00e1s \u00e1gil, Qu\u00e9 haces con la informaci\u00f3n del resto de programas?, ten en cuenta que la \u00fanica forma de trabajar con algo es llev\u00e1ndolo de disco a ram, entonces, no podemos eliminar esa parte por mucho que crezca la ram.<\/p>","karma":"5.00","parent":"388662","comment_edited_date":"","vote_count":"3","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"javier_vg","user_id":"91199","author":"","webpage":null,"user_name":"javier_vg","karma_level":"20.00","iseditor":"0","global_id":"425140","facebook_uid":null,"index":4,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/425140_2.png"},{"id":"388700","post_id":"67998","date":1332207868,"content_filtered":"<p>Yo hace a\u00f1os que deje de usar Swap, debido a que se pierde un espacio innecesario en el disco duro y ademas tengo ram suficiente por lo que no es necesario<\/p>","content":"Yo hace a\u00f1os que deje de usar Swap, debido a que se pierde un espacio innecesario en el disco duro y ademas tengo ram suficiente por lo que no es necesario","karma":"5.00","parent":"388662","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"62716","user_id":"62716","author":"","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"293039","facebook_uid":"1091058688","index":13,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1091058688\/picture"},{"id":"388714","post_id":"67998","date":1332223798,"content_filtered":"<p>Pues en este articulo aclaran unas cosas <a href=\"http:\/\/goo.gl\/tNCbA\" rel=\"nofollow\">http:\/\/goo.gl\/tNCbA<\/a> , solo les aviso que esta en Ingles, para que no me aporreen si no lo entienden :)<\/p>","content":"Pues en este articulo aclaran unas cosas <a href=\"http:\/\/goo.gl\/tNCbA\">http:\/\/goo.gl\/tNCbA<\/a> , solo les aviso que esta en Ingles, para que no me aporreen si no lo entienden :)","karma":"5.00","parent":"388700","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"n_ivan_n","user_id":"93566","author":"","webpage":null,"user_name":"n_ivan_n","karma_level":"20.00","iseditor":"0","global_id":"431018","facebook_uid":"1241991077","index":15,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1241991077\/picture"},{"id":"388850","post_id":"67998","date":1332307405,"content_filtered":"<p>Al menos yo si considero imprescindible tener la Swap ya que permite hacer operaciones como la hibernaci\u00f3n, en caso de Debian, cuando no la tengo o cuando su tama\u00f1o es menor a la de la memoria RAM instalada no entra en estado de hibernaci\u00f3n y suelta un error.<\/p>","content":"Al menos yo si considero imprescindible tener la Swap ya que permite hacer operaciones como la hibernaci\u00f3n, en caso de Debian, cuando no la tengo o cuando su tama\u00f1o es menor a la de la memoria RAM instalada no entra en estado de hibernaci\u00f3n y suelta un error.","karma":"5.00","parent":"388662","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Tio1.jpg","user_id":"86758","author":"Tio1.jpg","webpage":null,"user_name":"markus_corleone","karma_level":"22.00","iseditor":"0","global_id":"178038","facebook_uid":null,"index":28,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/178038_3.png"},{"id":"390388","post_id":"67998","date":1333551442,"content_filtered":"<p>El Swap tambien viene integrado en Windows.\nAdemas, es totalmente opcional en cualquier distro de GNU\/Linux.<\/p>","content":"El Swap tambien viene integrado en Windows.\nAdemas, es totalmente opcional en cualquier distro de GNU\/Linux.","karma":"5.00","parent":"388662","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"dysoco","user_id":"88673","author":"","webpage":"","user_name":"dysoco","karma_level":"17.00","iseditor":"0","global_id":"407267","facebook_uid":null,"index":31,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/125ce608e59db9ccf979d838a51b8a4c"},{"id":"388673","post_id":"67998","date":1332191317,"content_filtered":"<p>Felicidades no has dicho una sino, f\u00e1cil has dicho 3 burradas, no es obligatorio hacer una partici\u00f3n \"swap\" ni en Ubuntu ni en ning\u00fan otro Linux, pero si es demasiado recomendable, aunque tu creas ir sobrado de RAM, y exactamente donde esta el engorro al hacerla es como hacer cualquier otra partici\u00f3n.<\/p>","content":"<p>Felicidades no has dicho una sino, f\u00e1cil has dicho 3 burradas, no es obligatorio hacer una partici\u00f3n \"swap\" ni en Ubuntu ni en ning\u00fan otro Linux, pero si es demasiado recomendable, aunque tu creas ir sobrado de RAM, y exactamente donde esta el engorro al hacerla es como hacer cualquier otra partici\u00f3n.<\/p>","karma":"-12.00","parent":"388662","comment_edited_date":"","vote_count":"6","comment_level":4,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"55086","user_id":"55086","author":"","webpage":null,"user_name":"h1w0","karma_level":"30.00","iseditor":"0","global_id":"242240","facebook_uid":"700613093","index":9,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/700613093\/picture"},{"id":"388656","post_id":"67998","date":1332181508,"content_filtered":"<p>\u00bfEntonces se podr\u00eda compilar android como cualquier otra distro linux?<\/p>","content":"<p>\u00bfEntonces se podr\u00eda compilar android como cualquier otra distro linux?<\/p>","karma":"15.00","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"eduardoelrico","user_id":"83014","author":"","webpage":null,"user_name":"eduardoelrico","karma_level":"17.00","iseditor":"0","global_id":"385324","facebook_uid":"1410587224","index":1,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1410587224\/picture"},{"id":"388675","post_id":"67998","date":1332194396,"content_filtered":"<p>Desde siempre se ha podido, siempre y cuando tuvieras el kernel de android. La diferencia es que ahora viene integrado en el kernel de linux, lo cual es m\u00e1s l\u00f3gico, y por tanto con tener el kernel de linux 3.3 puedes compilar linux o android (que b\u00e1sicamente est\u00e1 basado en linux)<\/p>","content":"<p>Desde siempre se ha podido, siempre y cuando tuvieras el kernel de android. La diferencia es que ahora viene integrado en el kernel de linux, lo cual es m\u00e1s l\u00f3gico, y por tanto con tener el kernel de linux 3.3 puedes compilar linux o android (que b\u00e1sicamente est\u00e1 basado en linux)<\/p>","karma":"15.00","parent":"388656","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Brayan Habid","user_id":"92819","author":"Brayan Habid","webpage":null,"user_name":"brayanbabid","karma_level":"35.00","iseditor":"0","global_id":"345318","facebook_uid":"100000669581665","index":11,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/345318_1.png"},{"id":"388716","post_id":"67998","date":1332227881,"content_filtered":"<p>\"que b\u00e1sicamente est\u00e1 basado en linux\"<\/p>\n\n<p>\"que est\u00e1 basado en Linux\", ajo<\/p>","content":"\"que b\u00e1sicamente est\u00e1 basado en linux\"\n\n\"que est\u00e1 basado en Linux\", ajo","karma":"5.00","parent":"388675","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"106560","user_id":"106560","author":"","webpage":null,"user_name":null,"karma_level":"12.00","iseditor":"0","global_id":"536026","facebook_uid":"100002164903776","index":17,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100002164903776\/picture"},{"id":"388944","post_id":"67998","date":1332362610,"content_filtered":"<p>Ok. gracias por tu comentario<\/p>","content":"Ok. gracias por tu comentario","karma":"5.00","parent":"388716","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"1","comment_author":"Brayan Habid","user_id":"92819","author":"Brayan Habid","webpage":null,"user_name":"brayanbabid","karma_level":"35.00","iseditor":"0","global_id":"345318","facebook_uid":"100000669581665","index":30,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/345318_1.png"},{"id":"388748","post_id":"67998","date":1332241778,"content_filtered":"<p>El sue\u00f1o de mucha gente de apoco se va haciendo realidad. Algun dia los sistemas operativos abiertos dominaran el mercado hogare\u00f1o, las aplicaciones de Android funcionaran en Linux y muchas aplicacioens de Linux funcionaran en Android, los procesadores ARM se expandiran a las PCs de escritorio junto con Android y en unos a\u00f1os las distros de Linux y Android dominaran el mercado de los celulares, las tabletas y las PCs hogare\u00f1as. \u00a1Todo sera PERFECTO! (si Microsoft y Apple no lo arruinan)<\/p>\n\n<p>Gente hagamos fuerza para que esto se vuelva realidad, no importa cuantos defectos tenga Android o las distros de Linux, \u00a1porque cuando la comunidad de usuarios de sistema opensource crece, el sistema operativo mejora mucho mas rapido!<\/p>","content":"El sue\u00f1o de mucha gente de apoco se va haciendo realidad. Algun dia los sistemas operativos abiertos dominaran el mercado hogare\u00f1o, las aplicaciones de Android funcionaran en Linux y muchas aplicacioens de Linux funcionaran en Android, los procesadores ARM se expandiran a las PCs de escritorio junto con Android y en unos a\u00f1os las distros de Linux y Android dominaran el mercado de los celulares, las tabletas y las PCs hogare\u00f1as. \u00a1Todo sera PERFECTO! (si Microsoft y Apple no lo arruinan)\n\nGente hagamos fuerza para que esto se vuelva realidad, no importa cuantos defectos tenga Android o las distros de Linux, \u00a1porque cuando la comunidad de usuarios de sistema opensource crece, el sistema operativo mejora mucho mas rapido!","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"GsT990","user_id":"106565","author":"GsT990","webpage":null,"user_name":null,"karma_level":"15.00","iseditor":"0","global_id":"536058","facebook_uid":null,"index":20,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/7aa795f94307090c1825861a815f567d"},{"id":"388794","post_id":"67998","date":1332257128,"content_filtered":"<p>Te has hecho un cacao, que todo lo que has puesto es absurdo.<\/p>","content":"<p>Te has hecho un cacao, que todo lo que has puesto es absurdo.<\/p>","karma":"20.00","parent":"388748","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"lesan","user_id":"6405","author":"lesan","webpage":null,"user_name":"lesan","karma_level":"41.00","iseditor":"0","global_id":"14382","facebook_uid":null,"index":24,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/14382_2.png"},{"id":"388838","post_id":"67998","date":1332282639,"content_filtered":"<p>no tan absurdo..<\/p>","content":"no tan absurdo..","karma":"5.00","parent":"388794","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"106615","user_id":"106615","author":"","webpage":null,"user_name":null,"karma_level":"12.00","iseditor":"0","global_id":"367986","facebook_uid":"100001909533423","index":26,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100001909533423\/picture"},{"id":"390730","post_id":"67998","date":1333886977,"content_filtered":"<p>Ese d\u00eda llegar\u00e1, cuando en empresas y oficinas se utilice linux en lugar de otros sistemas operativos.<\/p>","content":"Ese d\u00eda llegar\u00e1, cuando en empresas y oficinas se utilice linux en lugar de otros sistemas operativos.","karma":"5.00","parent":"388748","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Fran","user_id":"98399","author":"Fran","webpage":"http:\/\/bodas.enmalaga.eu\/p\/fotografos.html","user_name":"espa","karma_level":"20.00","iseditor":"0","global_id":"477512","facebook_uid":null,"index":34,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/477512_1.png"},{"id":"388778","post_id":"67998","date":1332251627,"content_filtered":"<p>Me alegro de que por fin Google se haya dignado a publicar correctamente los parches del kernel que usaba en Android. Hasta el momento el kernel de Android era una especie de fork no oficial de Linux.<\/p>","content":"Me alegro de que por fin Google se haya dignado a publicar correctamente los parches del kernel que usaba en Android. Hasta el momento el kernel de Android era una especie de fork no oficial de Linux.","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"oswal","user_id":"49801","author":"","webpage":"http:\/\/dglibre.com","user_name":"oswal","karma_level":"31.00","iseditor":"0","global_id":"216791","facebook_uid":null,"index":21,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/12e6b49be73c2274b48422a149b71f2d"},{"id":"388849","post_id":"67998","date":1332302519,"content_filtered":"<p>Creo que se debe principalmente a dos razones:<\/p>\n\n<p>1) Google entiende ahora el costo de mantener una versi\u00f3n paralela. Esto es, adaptar sus parches a las nuevas versiones de linux. <\/p>\n\n<p>2) El mayor inter\u00e9s en Android debi\u00f3 redundar en alguna mejora en la calidad de ese c\u00f3digo. Al menos debe alcanzar para depositar los parches de Android en la categor\u00eda staging, donde estuvo antes de que lo quitaran del trunk de desarrollo oficial.<\/p>","content":"Creo que se debe principalmente a dos razones:\n\n1) Google entiende ahora el costo de mantener una versi\u00f3n paralela. Esto es, adaptar sus parches a las nuevas versiones de linux. \n\n2) El mayor inter\u00e9s en Android debi\u00f3 redundar en alguna mejora en la calidad de ese c\u00f3digo. Al menos debe alcanzar para depositar los parches de Android en la categor\u00eda staging, donde estuvo antes de que lo quitaran del trunk de desarrollo oficial.","karma":"5.00","parent":"388778","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"atoi","user_id":"66650","author":"","webpage":null,"user_name":"atoi","karma_level":"66.00","iseditor":"0","global_id":"315999","facebook_uid":null,"index":27,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/712204108df99c7d6db4b2f30e05cb66"},{"id":"388722","post_id":"67998","date":1332234340,"content_filtered":"<p>Pues a mi me da un poco de miedo... \u00bfTambi\u00e9n nos van a espiar en el kernel de linux, como hace google, que, cada vez que mueves el rat\u00f3n mira lo que est\u00e1s haciendo para sacar tajada? suena un tanto radical, s\u00ed, pero es que no s\u00e9 si es buena idea, ya que de todos es conocido el tema de google y el c\u00f3mo se aprovecha del usuario. Igual suena muy burro tambi\u00e9n, pero me gustar\u00eda que alguno me aclarase si en eso de android que han integrado en el kernel van cosas de google o sigue siendo tan independiente como siempre. A mi es que, de Android, lo que no me gusta precisamente es que da la sensaci\u00f3n que google s\u00f3lo lo desarroll\u00f3 para saber qu\u00e9 hace la gente (usuario novato de linux, por eso pregunto estas burradas, jeje).<\/p>","content":"<p>Pues a mi me da un poco de miedo... \u00bfTambi\u00e9n nos van a espiar en el kernel de linux, como hace google, que, cada vez que mueves el rat\u00f3n mira lo que est\u00e1s haciendo para sacar tajada? suena un tanto radical, s\u00ed, pero es que no s\u00e9 si es buena idea, ya que de todos es conocido el tema de google y el c\u00f3mo se aprovecha del usuario. Igual suena muy burro tambi\u00e9n, pero me gustar\u00eda que alguno me aclarase si en eso de android que han integrado en el kernel van cosas de google o sigue siendo tan independiente como siempre. A mi es que, de Android, lo que no me gusta precisamente es que da la sensaci\u00f3n que google s\u00f3lo lo desarroll\u00f3 para saber qu\u00e9 hace la gente (usuario novato de linux, por eso pregunto estas burradas, jeje).<\/p>","karma":"-2.50","parent":"0","comment_edited_date":"","vote_count":"3","comment_level":4,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"nebrax","user_id":"66955","author":"","webpage":null,"user_name":"nebrax","karma_level":"25.00","iseditor":"0","global_id":"317344","facebook_uid":null,"index":18,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/317344_2.png"},{"id":"388743","post_id":"67998","date":1332239665,"content_filtered":"<p>Lee el comentario #16 de atoi y deja la conspiparanoia para los profesionales.<\/p>","content":"<p>Lee el comentario #16 de atoi y deja la conspiparanoia para los profesionales.<\/p>","karma":"40.00","parent":"388722","comment_edited_date":"","vote_count":"3","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Land-of-Mordor ","user_id":"2656","author":"Land-of-Mordor ","webpage":null,"user_name":"land-of-mordor","karma_level":"59.00","iseditor":"0","global_id":"39786","facebook_uid":null,"index":19,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/1658585f2776a83bddb39930076ba0eb"}],"meta":{"more_records":"false","start":0,"total":34,"order":"valued","totalCount":34},"commentStatus":"closed"});
+
+	window.App = new AML.Comments.Application(67998, commentList);
+	Backbone.history.start();
+      });
+    </script>
+
+  <!-- Comments and Other Stuff -->
+
+  <div id="ad-bottom" class="ad ad-boton">
+  <a class="ad-contact" id="div-gpt-bot-contact" style="display:none" href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-bot' class="ad-box" style='width: 728px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-bot");
+    });
+    </script>
+    </div>
+</div>
+
+  <!-- .ad - boton -->
+  <div class="sidebar-seo-links">
+    <h4>Más en Genbeta</h4>
+    <ul>
+              <li>
+          <a  href="/linux/canonical-acata-la-decision-de-debian-y-ubuntu-abrazara-systemd" class="thumb80">
+            <img title="Canonical acata la decisión de Debian y Ubuntu abrazará SystemD" src="http://img.genbeta.com/tb/80_80/110953.jpg" alt="Canonical acata la decisión de Debian y Ubuntu abrazará SystemD">
+          </a>
+          <a  href="/linux/canonical-acata-la-decision-de-debian-y-ubuntu-abrazara-systemd">
+            Canonical acata la decisión de Debian y Ubuntu abrazará SystemD
+          </a>
+        </li>
+              <li>
+          <a  href="/linux/mir-ejecutara-de-forma-nativa-los-mejores-juegos-para-linux" class="thumb80">
+            <img title="Mir ejecutará de forma nativa los mejores juegos para Linux" src="http://img.genbeta.com/tb/80_80/110741.jpg" alt="Mir ejecutará de forma nativa los mejores juegos para Linux">
+          </a>
+          <a  href="/linux/mir-ejecutara-de-forma-nativa-los-mejores-juegos-para-linux">
+            Mir ejecutará de forma nativa los mejores juegos para Linux
+          </a>
+        </li>
+              <li>
+          <a  href="/linux/nautilus-puede-ser-reemplazo-en-ubuntu-por-un-gestor-de-archivos-propio" class="thumb80">
+            <img title="Nautilus puede ser sustituido en Ubuntu por un gestor de archivos propio" src="http://img.genbeta.com/tb/80_80/110624.jpg" alt="Nautilus puede ser sustituido en Ubuntu por un gestor de archivos propio">
+          </a>
+          <a  href="/linux/nautilus-puede-ser-reemplazo-en-ubuntu-por-un-gestor-de-archivos-propio">
+            Nautilus puede ser sustituido en Ubuntu por un gestor de archivos propio
+          </a>
+        </li>
+              <li>
+          <a  href="/web/kickstarter-tras-sufrir-un-ataque-recomienda-cambiar-contrasenas" class="thumb80">
+            <img title="Kickstarter, tras sufrir un ataque, recomienda cambiar contraseñas " src="http://img.genbeta.com/tb/80_80/110976.jpg" alt="Kickstarter, tras sufrir un ataque, recomienda cambiar contraseñas ">
+          </a>
+          <a  href="/web/kickstarter-tras-sufrir-un-ataque-recomienda-cambiar-contrasenas">
+            Kickstarter, tras sufrir un ataque, recomienda cambiar contraseñas 
+          </a>
+        </li>
+              <li>
+          <a  href="/actualidad/tasa-google-si-tienes-un-blog-tambien-te-afecta-solo-que-otros-la-cobraran-por-ti" class="thumb80">
+            <img title="&quot;Tasa Google&quot;: si tienes un blog también te afecta, solo que otros la cobrarán por ti " src="http://img.genbeta.com/tb/80_80/110973.jpg" alt="&quot;Tasa Google&quot;: si tienes un blog también te afecta, solo que otros la cobrarán por ti ">
+          </a>
+          <a  href="/actualidad/tasa-google-si-tienes-un-blog-tambien-te-afecta-solo-que-otros-la-cobraran-por-ti">
+            &quot;Tasa Google&quot;: si tienes un blog también te afecta, solo que otros la cobrarán por ti 
+          </a>
+        </li>
+          </ul>
+</div>
+<!-- related-posts SEO links-->
+       
+    </div>
+  <!-- .container -->
+  </div>
+  <!-- .content-dinamic -->
+
+  <div class= "nav nav-blog">
+  <div class= "container">
+    <h2><strong>&#43;</strong> en Genbeta</h2>
+    <ul>
+      <li class= "blog-section section-lomejor"><a href="/lomejor">Lo mejor</a></li>
+      <li class= "blog-section section-temas"><a href="/archivos">Temas</a></li>
+            <li class= "blog-section section-productos"><a href="/productos">Productos</a></li>
+                  <li class= "blog-section section-respuestas"><a href="/respuestas">Respuestas</a></li>
+            
+            <li class="blog-section section-club"><a href="/club">Club</a></li>
+            <li class= "blog-section section-comunidad"><a href="/comunidad">Comunidad</a></li>
+      <li class="blog-section section-staff"><a href="/quienes-somos">Staff</a></li>
+    </ul>
+  </div>
+</div>
+  
+<div class="footer">
+        <div class="footer-media">
+                <div class="links-category">
+            <h2>Tecnología</h2>
+            <ul>
+                              <li class="tec-xataka"><a href="http://www.xataka.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka<span></span></a></li>
+                              <li class="tec-xatakamovil"><a href="http://www.xatakamovil.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Móvil<span></span></a></li>
+                              <li class="tec-xatakafoto"><a href="http://www.xatakafoto.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Foto<span></span></a></li>
+                              <li class="tec-xatakandroid"><a href="http://www.xatakandroid.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Android<span></span></a></li>
+                              <li class="tec-xatakaon"><a href="http://www.xatakaon.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka On<span></span></a></li>
+                              <li class="tec-xatakahome"><a href="http://www.xatakahome.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Smart Home<span></span></a></li>
+                              <li class="tec-xatakawindows"><a href="http://xatakawindows.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Windows<span></span></a></li>
+                              <li class="tec-xatakaciencia"><a href="http://www.xatakaciencia.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Ciencia<span></span></a></li>
+                              <li class="tec-applesfera"><a href="http://www.applesfera.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Applesfera<span></span></a></li>
+                              <li class="tec-vidaextra"><a href="http://www.vidaextra.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vida Extra<span></span></a></li>
+                              <li class="tec-genbeta"><a href="http://www.genbeta.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Genbeta<span></span></a></li>
+                              <li class="tec-genbetadev"><a href="http://www.genbetadev.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Genbeta Dev<span></span></a></li>
+                          </ul>
+        </div>
+            </div>
+    
+    <div class="footer-links">
+                        <div class="links-category">
+            <h2>Estilos de vida</h2>
+            <ul>
+                              <li><a href="http://www.trendencias.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias</a></li>
+                              <li><a href="http://www.trendenciasbelleza.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Belleza</a></li>
+                              <li><a href="http://www.trendenciashombre.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Hombre</a></li>
+                              <li><a href="http://www.trendenciasshopping.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Shopping</a></li>
+                              <li><a href="http://www.trendenciaslifestyle.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Lifestyle</a></li>
+                              <li><a href="http://www.directoalpaladar.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Directo al Paladar</a></li>
+                              <li><a href="http://www.bebesymas.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bebés y Más</a></li>
+                              <li><a href="http://www.pequesymas.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Peques y Más</a></li>
+                              <li><a href="http://www.vitonica.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vitónica</a></li>
+                              <li><a href="http://www.decoesfera.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Decoesfera</a></li>
+                              <li><a href="http://www.embelezzia.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Embelezzia</a></li>
+                              <li><a href="http://www.ambienteg.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ambiente G</a></li>
+                              <li><a href="http://www.poprosa.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Poprosa</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Motor</h2>
+            <ul>
+                              <li><a href="http://www.motorpasion.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión</a></li>
+                              <li><a href="http://www.motorpasionf1.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión F1</a></li>
+                              <li><a href="http://www.motorpasionmoto.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Moto</a></li>
+                              <li><a href="http://www.motorpasionfuturo.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Futuro</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Ocio</h2>
+            <ul>
+                              <li><a href="http://www.blogdecine.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog de Cine</a></li>
+                              <li><a href="http://www.vayatele.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">¡Vaya Tele!</a></li>
+                              <li><a href="http://www.hipersonica.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Hipersónica</a></li>
+                              <li><a href="http://www.diariodelviajero.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Diario del Viajero</a></li>
+                              <li><a href="http://www.papelenblanco.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Papel en Blanco</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Economía</h2>
+            <ul>
+                              <li><a href="http://www.elblogsalmon.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">El Blog Salmón</a></li>
+                              <li><a href="http://www.pymesyautonomos.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Pymes y Autónomos</a></li>
+                              <li><a href="http://www.tecnologiapyme.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Tecnología Pyme</a></li>
+                              <li><a href="http://www.ahorrodiario.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ahorro Diario</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Latinoamérica</h2>
+            <ul>
+                              <li><a href="http://www.xataka.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Brasil</a></li>
+                              <li><a href="http://www.trendencias.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Brasil</a></li>
+                              <li><a href="http://www.motorpasion.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Brasil</a></li>
+                              <li><a href="http://www.xataka.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka México</a></li>
+                              <li><a href="http://www.motorpasion.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión México</a></li>
+                              <li><a href="http://www.directoalpaladar.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Directo Al Paladar México</a></li>
+                              <li><a href="http://www.xatakandroid.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Android México</a></li>
+                              <li><a href="http://www.vidaextra.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vida Extra México</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Participamos en</h2>
+            <ul>
+                              <li><a href="http://www.ebayers.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">eBayers</a></li>
+                              <li><a href="http://www.circulaseguro.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Circula Seguro</a></li>
+                              <li><a href="http://www.circulaseguro.pt/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Circula Seguro PT</a></li>
+                              <li><a href="http://www.actibva.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Actibva</a></li>
+                              <li><a href="http://www.anexom.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Anexo M</a></li>
+                              <li><a href="http://blog.cocacola.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Happing Magazine</a></li>
+                              <li><a href="http://blog.sage.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog Sage</a></li>
+                              <li><a href="http://www.optimismodigital.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Optimismo Digital</a></li>
+                              <li><a href="http://www.1001experiencias.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">1001 Experiencias</a></li>
+                              <li><a href="http://www.ennaranja.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">En Naranja</a></li>
+                              <li><a href="http://www.essieblog.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Essie Blog</a></li>
+                              <li><a href="http://blogginzenith.zenithmedia.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bloggin Zenith</a></li>
+                              <li><a href="http://www.urbanfire.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Urbanfire</a></li>
+                              <li><a href="http://www.tecnologiadetuatu.elcorteingles.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Tecnología de tú a tú</a></li>
+                              <li><a href="http://www.ciudadano00.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ciudadano 0,0</a></li>
+                              <li><a href="http://blogfanta.cocacola.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog Fanta</a></li>
+                              <li><a href="http://mimundo.philips.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Mi Mundo Philips</a></li>
+                              <li><a href="http://www.bbvacontuempresa.es?utm_source=genbeta&utm_medium=network&utm_campaign=footer">BBVA con tu empresa</a></li>
+                              <li><a href="http://www.perutravelblog.net/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Perú Travel Blog</a></li>
+                              <li><a href="http://bscene.bershka.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bershka Bscene</a></li>
+                              <li><a href="http://www.institutodelafelicidad.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Instituto de la Felicidad</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                    </div>
+</div>
+
+<div class="closure">
+    <div class="container">
+        <div class="weblogssl"><a href="http://www.weblogssl.com">Weblogs SL<span></span></a></div>
+        <ul class="nav">
+            <li><a href="/quienes-somos">¿Quienes somos?</a></li>
+            <li><a href="http://www.weblogssl.com/contenidos">Condiciones de uso</a></li>
+            <li><a href="http://www.weblogssl.com/cookies">Política de cookies</a></li>
+            <li><a href="http://www.weblogssl.com/aviso">Aviso legal</a></li>
+            <li><a title="Publicidad en Genbeta" href="http://www.socialmediasl.com/genbeta.php">Publicidad</a></li>
+            <li><a href="/ayuda-2012">Ayuda</a></li>
+            <li><a href="/contacto">Contacto</a></li>
+        </ul>
+    </div>
+</div>
+
+<div id="cookies-overlay"></div>
+
+  <script type="text/javascript">
+    $(function() {
+      new AML.Auth.View.CookiesOverlayView;
+    });
+  </script>
+
+</div>
+<div id="favicons-list">
+
+    <div class="userbar">
+        <a class="head-shortcut" href="#body" title="Volver arriba">&uarr;</a>
+        <div class="userbox" id="wsl_userbox">
+        </div>
+
+        <div class="favicons" style="width: auto; ">
+
+            <div id="scroll-menu">
+
+                <div class="disabledHotSpotLeft">«</div>
+                <div class="disabledHotSpotRight">»</div>
+                <div class="scrollingHotSpotLeft">«</div>
+                <div class="scrollingHotSpotRight">»</div>
+
+                <div class="scrollWrapper">
+                    <div class="scrollableArea">
+
+                        <ul class="favicroll">
+                            <li id="wsl"><a target="_top" href="http://www.weblogssl.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><em><strong>Blog corporativo</strong></em></a></li>
+
+                            <li><a target="_top" href="http://www.xataka.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b1"><strong>XTK</strong></span> <em><strong>Xataka - Gadgets y electrónica de consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vidaextra.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b2"><strong>VX</strong></span> <em><strong>VidaExtra - Videojuegos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.blogdecine.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b3"><strong>BDC</strong></span> <em><strong>Blog de cine - Cine  y críticas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.elblogsalmon.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b5"><strong>EBS</strong></span> <em><strong>El Blog Salmón - Economía y finanzas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.genbeta.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b6"><strong>GBT</strong></span> <em><strong>Genbeta - Software</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasion.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b7"><strong>MP</strong></span> <em><strong>MotorPasión - Coches y motor</strong></em></a></li>
+                            <li><a target="_top" href="http://www.directoalpaladar.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b8"><strong>DAP</strong></span> <em><strong>Directo al paladar - Gastronomía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.bebesymas.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b9"><strong>BYM</strong></span> <em><strong>Bebés y más - Todo sobre bebés</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vayatele.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b11"><strong>VYT</strong></span> <em><strong>¡Vaya Tele! - Series y televisión</strong></em></a></li>
+                            <li><a target="_top" href="http://www.diariodelviajero.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b12"><strong>DDV</strong></span> <em><strong>Diario del viajero - Viajes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakaciencia.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b13"><strong>XCI</strong></span> <em><strong>Xataka Ciencia - Ciencia</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendencias.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b14"><strong>TRE</strong></span> <em><strong>Trendencias - Moda y tendencias</strong></em></a></li>
+                            <li><a target="_top" href="http://www.hipersonica.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b15"><strong>HIP</strong></span> <em><strong>HiperSónica - Música</strong></em></a></li>
+                            <li><a target="_top" href="http://www.applesfera.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b16"><strong>APP</strong></span> <em><strong>Applesfera - Apple</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasshopping.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b17"><strong>COM</strong></span> <em><strong>Trendencias Shopping - Compras y consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakamovil.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b18"><strong>XTM</strong></span> <em><strong>Xataka Móvil - Móviles</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ambienteg.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b19"><strong>AMG</strong></span> <em><strong>Ambiente G - Gays y lesbianas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionmoto.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b20"><strong>MMO</strong></span> <em><strong>Motorpasión Moto - Motos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.papelenblanco.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b21"><strong>PEB</strong></span> <em><strong>Papel en blanco - Literatura</strong></em></a></li>
+                            <li><a target="_top" href="http://www.decoesfera.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b22"><strong>DEC</strong></span> <em><strong>Decoesfera - Decoración e interiorismo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionf1.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b23"><strong>MF1</strong></span> <em><strong>Motorpasión F1 - Carreras</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vitonica.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b24"><strong>VIT</strong></span> <em><strong>Vitónica - Vida sana</strong></em></a></li>
+                            <li><a target="_top" href="http://www.embelezzia.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b25"><strong>EMB</strong></span> <em><strong>Embelezzia - Lujo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.poprosa.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b26"><strong>POP</strong></span> <em><strong>Poprosa - Famosos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakafoto.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b27"><strong>XTF</strong></span> <em><strong>Xataka Foto - Fotografía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.pymesyautonomos.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b28"><strong>PYA</strong></span> <em><strong>Pymes y autónomos - Pymes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasbelleza.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b30"><strong>TRB</strong></span> <em><strong>Trendencias Belleza - Belleza y cosmética</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.tecnologiapyme.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b34"><strong>TPY</strong></span> <em><strong>Tecnología Pyme - Tecnología para empresas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ahorrodiario.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b35"><strong>AHD</strong></span> <em><strong>Ahorro Diario - Ahorro</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciashombre.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b36"><strong>TRH</strong></span> <em><strong>Trendencias Hombre - Moda y estilo masculino</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.pequesymas.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b37"><strong>PEQ</strong></span> <em><strong>Peques y más - Niños e infancia</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakaon.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b39"><strong>XTO</strong></span> <em><strong>Xataka On - Todo sobre conectividad, ADSL</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakandroid.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b40"><strong>XTA</strong></span> <em><strong>Xataka Android - Android, aplicaciones y dispositivos</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.genbetadev.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b41"><strong>GBD</strong></span> <em><strong>Genbeta Dev - Desarrollo de software</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.motorpasionfuturo.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b42"><strong>MPF</strong></span> <em><strong>Motorpasión Futuro - Innovación y Motor</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakahome.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b44"><strong>XSH</strong></span> <em><strong>Xataka Smart Home - Inteligencia doméstica digital</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakawindows.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b45"><strong>XTW</strong></span> <em><strong>Xataka Windows - Universo Microsoft</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciaslifestyle.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b46"><strong>TLS</strong></span> <em><strong>Trendencias Lifestyle</strong></em></a></li>
+                        </ul>
+
+                    </div>
+                </div>
+                <!-- .scrollWrapper-->
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<div id="wsl_dialog"></div>
+<script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', function() {
+  try {
+    if (window.external.msIsSiteMode()) {
+      window.external.msSiteModeClearJumpList();
+      window.external.msSiteModeCreateJumplist('Mensajes Recientes');
+            window.external.msSiteModeAddJumpListItem('Office\x20para\x20iPad,\x20m\u00E1s\x20pronto\x20que\x20tarde\x3A\x20para\x20la\x20primera\x20mitad\x20de\x202014', 'http://www.genbeta.com/ofimatica/office-para-ipad-mas-pronto-que-tarde-para-la-primera-mitad-de-2014', '');
+            window.external.msSiteModeAddJumpListItem('Bittorrent\x20Live,\x20el\x20streaming\x20P2P,\x20llegar\u00E1\x20pronto\x20a\x20los\x20m\u00F3viles\x20', 'http://www.genbeta.com/multimedia/bittorrent-live-el-streaming-p2p-llegara-pronto-a-los-moviles', '');
+            window.external.msSiteModeAddJumpListItem('La\x20hipocres\u00EDa\x20de\x20algunos\x20medios\x20tradicionales.\x20La\x20imagen\x20de\x20la\x20semana\x20', 'http://www.genbeta.com/actualidad/la-hipocresia-de-algunos-medios-tradicionales-la-imagen-de-la-semana', '');
+            window.external.msSiteModeAddJumpListItem('\x22Tasa\x20Google\x22\x3A\x20si\x20tienes\x20un\x20blog\x20tambi\u00E9n\x20te\x20afecta,\x20solo\x20que\x20otros\x20la\x20cobrar\u00E1n\x20por\x20ti\x20', 'http://www.genbeta.com/actualidad/tasa-google-si-tienes-un-blog-tambien-te-afecta-solo-que-otros-la-cobraran-por-ti', '');
+            window.external.msSiteModeAddJumpListItem('Kickstarter,\x20tras\x20sufrir\x20un\x20ataque,\x20recomienda\x20cambiar\x20contrase\u00F1as\x20', 'http://www.genbeta.com/web/kickstarter-tras-sufrir-un-ataque-recomienda-cambiar-contrasenas', '');
+            window.external.msSiteModeShowJumpList();
+    }
+  } catch (exp) {
+    // do nothing
+  }
+  });
+</script>
+
+
+<script type='text/javascript'>
+    (function() {
+      new ViceVersaLink("http://t.genbeta.com");
+    })();
+</script>
+
+<script type='text/javascript'>
+  window.onerror = function(message, file, line) {
+    var sFormattedMessage = '[' + file + ' (' + line + ')] ' + message;
+    _gaq.push(['_trackEvent', 'Errors', 'Browser', sFormattedMessage, null, true]);
+  }
+    
+</script>
+
+</body>
+</html>

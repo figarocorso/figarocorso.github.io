@@ -1,0 +1,795 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+                                                                                                                                                                                                                                                                                <title>Siri al descubierto, ¿llegará a otros dispositivos y plataformas?</title>
+                  <meta name="description" content="Con la llegada del nuevo iPhone 4S y de iOS 5, uno de los productos de Apple que más ha llamado la atención y que más artículos a..." />
+            <meta name="news_keywords" content="reconocimiento de voz, Siri, iPhone 4S"/>
+       
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />    
+    <meta name='robots' content='noodp' />
+    <meta property="fb:admins" content="100000716994885"/>
+    <meta name="application-name" content="Genbeta"/>
+    <meta name="msapplication-tooltip" content="Software y web. Genbeta"/>
+    <meta name="msapplication-starturl" content="http://www.genbeta.com"/>
+    <meta name="msapplication-task" content="name=Lo mejor;action-uri=http://www.genbeta.com/lomejor;icon-uri=http://img.genbeta.com/lp2/v6/images/pin-bg-lomejor-icon.ico" />
+        <meta name="msapplication-task" content="name=Respuestas;action-uri=http://www.genbeta.com/respuestas;icon-uri=http://img.genbeta.com/lp2/v6/images/pin-bg-respuestas-icon.ico" />
+                <!--[if !IE]><!--> <link rel="shortcut icon" href="http://img.genbeta.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if lt IE 9]><!--> <link rel="shortcut icon" href="http://img.genbeta.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if gte IE 9]>
+            <link rel="shortcut icon" type="image/x-icon" href="http://img.genbeta.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+            <link rel=icon type="image/ico" href="http://img.genbeta.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+        <![endif]-->
+    
+    <link rel="apple-touch-icon" href="http://img.genbeta.com/lp2/mobile/images/apple-touch-icon.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-57-precomposed.png">
+
+        <link rel="stylesheet" type="text/css" href="http://img.genbeta.com/lp2/v6/main.css?v=24272">
+        <link rel="publisher" href="http://plus.google.com/106643481235450321345" />
+    <link rel="alternate" type="application/rss+xml" title="" href="/index.xml" />
+    <!--[if lt IE 7]>
+      <link rel="stylesheet" type="text/css" href="http://img.genbeta.com/lp2/v6/ie7.css">
+    <![endif]-->
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', "UA-78515-6"]);
+  _gaq.push(['_setCampaignCookieTimeout', 259200000]);
+  _gaq.push(['_setDomainName', ".genbeta.com"]);
+  _gaq.push(['_setSiteSpeedSampleRate', 5]);
+  _gaq.push(['t2._setAccount', "UA-78515-62"]);
+  _gaq.push(['t2._setCampaignCookieTimeout', 259200000]);
+  _gaq.push(['t2._setDomainName', ".genbeta.com"]);
+  (function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') +       '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  })();
+</script>
+
+ <link rel="canonical" href="http://www.genbeta.com/movil/siri-al-descubierto-llegara-a-otros-dispositivos-y-plataformas" />
+ <link rel="image_src" href="http://img.genbeta.com/resize/75/thumbnails/b/65143.jpg" />
+ <meta property="og:title" content="Siri al descubierto, ¿llegará a otros dispositivos y plataformas?">
+ <meta property="og:description" content="Con la llegada del nuevo iPhone 4S y de iOS 5, uno de los productos de Apple que más ha llamado la atención y que más artículos a...">
+ <meta property="og:image" content="http://img.genbeta.com/original/65143.jpg">
+    <script>
+    _gaq.push(['t2._setPageGroup', '1', 'post']);
+    _gaq.push(['t2._setPageGroup', '2', "miguel julián"]);
+    _gaq.push(['t2._setPageGroup', '3', "movil"]);
+    _gaq.push(['t2._setPageGroup', '4', "normal"]);
+    _gaq.push(['_setPageGroup', '1', 'post']);
+    _gaq.push(['_setPageGroup', '2', "miguel julián"]);
+    _gaq.push(['_setPageGroup', '3', "movil"]);
+    _gaq.push(['_setPageGroup', '4', "normal"]);
+       </script>
+   </head>
+       <body id="body" class="article-single">
+
+    <script type='text/javascript'>
+    var MAX_source = "";
+    var GPTcats = ["movil"];
+    var GPTtags = ["reconocimiento-de-voz", "siri", "iphone-4s"];
+      </script>
+      <script type='text/javascript'>
+googletag.pubads().setTargeting("origin", "direct").setTargeting("screen", screen.width.toString()).setTargeting("cat", GPTcats).setTargeting("tag", GPTtags);
+if (navigator.userAgent.match(/iPad/i) != null) {
+  googletag.pubads().setTargeting("ua", "ipad");
+} 
+ 
+googletag.defineSlot('/4712/GEB/interior_top', [1000, 40], 'div-gpt-top').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_lateral', [[160, 600], [200,600], [300,600], [300,250]], 'div-gpt-lat').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_central', [[300, 250], [400,400], [1000,250]], 'div-gpt-cen').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_central2', [[300, 250],[400,400],[690, 250]], 'div-gpt-cen2').addService(googletag.pubads());
+googletag.defineSlot('/1018282/GEB-BOT2-interior',[728, 90], 'div-gpt-bot').addService(googletag.pubads());
+googletag.defineSlot('/1018282/GEB-INP', [500, 80], 'div-gpt-inp').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interstitial', [1000, 525], 'div-gpt-int').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().enableSyncRendering();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+</script>
+
+       <script type="text/javascript">
+      WSL2 = {};
+      WSL2.config = {};
+      WSL2.config.fbapikey = "360028941603";
+      WSL2.config.cookieDomain = "";
+      WSL2.config.imagePath = 'http://img.genbeta.com/lp2/v6';
+      WSL2.config.siteName = "Genbeta";
+      window.___gcfg = {lang: 'es'};
+    </script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="http://code.jquery.com/jquery-migrate-1.1.0.js"></script>
+            <script src="http://img.weblogssl.com/LPbackend/prod/v2/js/frontend-758.js"></script>
+          <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _c1 = new WSL2.Cookie;
+      loginStatus = (_c1.hasSession()) ? "yes:" + _c1.loginType() : "no";
+      _gaq.push(['t2._setCustomVar', 4, '.genbeta.com', 'loginstatus:' + loginStatus, 2]);
+      _gaq.push(['_trackPageview']);
+      _gaq.push(['t2._trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); 
+    ga.type = 'text/javascript';
+    ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+  })();
+      var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "11306788" });
+         (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[1]; 
+          s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb": "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+    </script>
+
+    <div id="fb-root"></div>
+  <!-- fb needs this -->
+
+  <script src="//platform.twitter.com/widgets.js" id="tweetjs"></script>
+  <script src="//apis.google.com/js/plusone.js" id="gplus1js"></script>
+  <script src="//connect.facebook.net/es_ES/all.js#xfbml=1" id="fbjssdk"></script>
+  <div class="customize-me">
+  <div class="content-fixed">
+    <div class="container">
+                <!-- .header -->
+            <div class="header header-page">
+        <h1 class="site-logo"><a href="http://www.genbeta.com" title="Ir a la portada">Software y web. Genbeta<span></span></a></h1>
+        <form method="get" action="/busqueda" id="search" class="search" style="top:62px; width:310px; padding: 0;">
+    <p>
+        <input type="hidden" name="cx" value="partner-pub-9977500652563564:0292109475">
+        <input type="text" id="gsearch" name="q" accesskey="4" title="Buscar" placeholder="Busca en Genbeta con Google">
+        <input type="hidden" name="ie" value="UTF-8">
+        <input type="hidden" name="oe" value="UTF-8">
+        <input type="hidden" name="cof" value="FORID:10">
+        <button class="button">Buscar <span class="arrow">&raquo;</span></button>
+    </p>
+</form>
+<script type="text/javascript" src="http://www.google.es/coop/cse/brand?form=cse-search-box&amp;lang=es"></script>
+            <div class="nav nav-main">
+    <ul class="nav-primary">
+        <li class="home-link"><a href="/" title="Volver a portada">Portada</a></li>
+        <li class="respuestas-link"><a href="/respuestas">Respuestas</a></li>
+        <li class="temas-submenu">
+            <ul class="nav-secondary">
+                                   <li><a href="/categoria/actualidad" title="Ir a la categoría Actualidad">Actualidad</a></li>
+                                   <li><a href="/categoria/linux" title="Ir a la categoría Linux">Linux</a></li>
+                                   <li><a href="/categoria/movil" title="Ir a la categoría Móvil">Móvil</a></li>
+                                   <li><a href="/categoria/windows" title="Ir a la categoría Windows">Windows</a></li>
+                                   <li><a href="/categoria/herramientas" title="Ir a la categoría Herramientas">Herramientas</a></li>
+                                <li><a href="/archivos" title="Ver todas las categorías">Más &raquo;</a></li>
+            </ul>
+        </li>
+                  
+            </ul>
+</div>
+
+        <div class="nav nav-tags">
+        <h3>No te pierdas <span class="arrow">&raquo;</span></h3>
+        <ul>
+                        <li><a href="/tag/tasa-google" title="Todo sobre Tasa Google">Tasa Google</a></li>
+                        <li><a href="/tag/ley-lassalle" title="Todo sobre Ley Lassalle">Ley Lassalle</a></li>
+                        <li><a href="/tag/balance-de-windows-8" title="Todo sobre Balance de Windows 8">Balance de Windows 8</a></li>
+                        <li><a href="/tag/cazadores-de-fakes" title="Todo sobre Cazadores de Fakes">Cazadores de Fakes</a></li>
+                        <li><a href="/tag/satya-nadella" title="Todo sobre Satya Nadella">Satya Nadella</a></li>
+                    </ul>
+</div>
+<!-- .nav-tags -->
+
+                    <div class="ad ad-desplegable">
+  <a class="ad-contact" id="div-gpt-top-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+  <div class="ad-box">
+    <div id='div-gpt-top' style='width: 1000px;'>
+    <script type="text/javascript">
+        googletag.cmd.push(function() {
+        googletag.display("div-gpt-top");
+        });
+    </script>
+    </div>
+  </div>
+</div>
+<!-- .ad-box - desplegable -->
+
+  <div class="nav">
+   <ul class="article-nav-controls">
+                              <li><a class="article-control article-previous" href="/herramientas/storeya-convierte-tu-perfil-de-facebook-en-una-tienda-online-basada-en-magento"><span>StoreYa, convierte tu perfil de Facebook en una tienda online basada en Magento</span></a></li>
+                                             <li><a class="article-control article-next" href="/web/faqme-crea-paginas-de-preguntas-frecuentes-con-estadisticas-sobre-las-preguntas-mas-revisadas"><span>FAQme: crea páginas de preguntas frecuentes con estadísticas sobre las preguntas más revisadas</span></a></li>
+                  </ul>
+  </div>
+              </div>
+                   <div class="article article-pre-content">
+  <h1 class="article-header">Siri al descubierto, ¿llegará a otros dispositivos y plataformas?</h1>
+  <div class="article-date">15 de noviembre de 2011 | 08:52 CET <span id="is_editor"></span></div>
+  <div class="article-author-details">
+  <div class="figure">
+    <a rel='author' href="/autor/miguel-julian">
+      <img src="http://www.gravatar.com/avatar/14216b3a89c997bfc641f9d3abf7bc0b?s=80&amp;d=mm&amp;r=g" alt="miguel-julian">
+    </a>
+  </div>
+  <h2><a rel='author' href="/autor/miguel-julian">Miguel Julián</a></h2>
+      </div>
+<!-- .article-author-details -->
+</div>
+           </div>
+    <!-- .container -->
+  </div>
+  <!-- .content-fixed -->
+
+  <div class="content-dinamic">
+    <div class="container">
+          <script type="text/javascript">
+        $(function()
+        {
+          AML.postVoteView = new AML.Post.View.PostVoteView({postId:"65143", el:".social-sharing" });
+          AML.isEditorView = new AML.Post.View.IsEditorView({postId:"65143", model: WSL2.User });
+        });
+      </script>
+
+    <div class="aside">
+            <div id="ad-lateral" class="ad ad-primer-escaparate">
+  <a class="ad-contact" id="div-gpt-lat-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-lat' class="ad-box" style='width: 300px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-lat");
+    });
+    </script>
+    </div>
+</div>
+<!-- .ad-box - escaparate vertical -->
+
+           <!-- .ad-box - escaparate vertical -->
+            
+                  
+<div class="aside-box aside-subscribe">
+  <h3 class="aside-header">Síguenos</h3>
+  
+          
+  <form id="feedForm" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" >
+    <label for="subscribe-email">Newsletter:</label>  
+      <input type="text" name="email" type="text" id="feedburnermail" placeholder="Correo electrónico"/>
+      <input type="hidden" name="uri" value="genbeta"/>
+      <input type="hidden" name="loc" value="es_ES">
+      <button class="button" type="submit">Suscríbete <span class="arrow">&raquo;</span></button>
+  </form>
+  <ul class="subs-channels">
+    <li class="channel-rss" id="rss"> <a href="/index.xml" rel="nofollow" title="Suscríbete por RSS a las novedades en Genbeta"><span></span>RSS</a></li>
+    <li class="channel-twitter"><a href="http://twitter.com/genbeta" title="Sigue las novedades de Genbeta en Twitter"><span></span>Twitter</a></li>
+    <li class="channel-fb"><a href="http://www.facebook.com/pages/Genbeta/54999640934" title="Conéctate a la página de Genbeta en Facebook"><span></span>Facebook</a></li>
+    <li class="channel-gplus"><a href="https://plus.google.com/109731528328750280665/posts" title="Sigue a Genbeta en Google Plus"><span></span>Google Plus</a></li>
+    <li class="channel-feedly"><a style="margin-right: 0;" title="Suscríbete a Genbeta con Feedly" href='http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fwww.genbeta.com%2Findex.xml'  target='blank'><img id='feedlyFollow' src='http://img.weblogssl.com/g/xataka4/common/m-icon-feedly.png' alt='follow us in feedly' width='32' height='32'></a></li>
+  </ul>
+  <ul class="devices-channels">
+    <li><a title="Versión para móviles" href="http://m.genbeta.com" class="button button-secondary"><img src="http://img.weblogssl.com/g/xataka4/common/mobile.png">Versión móvil</a></li>
+        <li>
+        <a id="tabletViceVersaLink" href="http://t.genbeta.com" class="button button-secondary" title="Versión tablet"><img src="http://img.weblogssl.com/g/xataka4/common/tablet.png"> Versión tablet</a>
+    </li>
+      </ul>
+
+    <script>
+  $(function() {
+      $("#feedForm").submit(function(e) {
+          e.preventDefault();
+          email = $("#feedburnermail").val();
+          emailPattern = /^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$/i
+          if (emailPattern.test(email)) {
+              window.open('http://mailer.weblogssl.com/subscribe_check/' + email +'/genbeta/Genbeta','','width=500,height=500');
+          } else {
+              alert("El correo electrónico introducido no es correcto");
+          }
+      });
+  });
+  </script>
+  
+</div>
+            <!-- .article-promo -->
+    </div>
+
+    <!-- .aside -->
+
+                    
+    <div class="section section-article-single">
+            <div class="article">
+        <div class="article-summary">
+          <p><img id="image65144" src="http://img.genbeta.com/2011/11/siri-crackeado.jpg" class="centro_sinmarco" alt="Han descubierto el protocolo de comunicación de Siri" /></p>
+
+                              <div class="article-metadata">
+            <div class="article-comments" id="postCommentCount">
+              <a href="#comments" title="Ir a comentarios">
+                Comentarios 15
+              </a>
+            </div>
+            <div class="article-links">
+              <div class="social-sharing">
+                <div class="social-sharing-widgets">
+                                    <div class="wsl-favorite">
+                    <button class="button button-small">Me gusta</button>
+                    <span class="wsl-count">4</span>
+                  </div>
+                                    <!-- twitter -->
+                  <a class="twitter-share-button" href="http://twitter.com/share" data-count="horizontal" data-url="http://www.genbeta.com/p/65143" data-counturl="http://www.genbeta.com/movil/siri-al-descubierto-llegara-a-otros-dispositivos-y-plataformas" data-text="Siri al descubierto, ¿llegará a otros dispositivos y plataformas?" data-via="genbeta" data-lang="es">Tweet</a>
+                  <!-- g+ -->
+                  <div class="g-plusone" data-size="medium" data-href="http://www.genbeta.com/movil/siri-al-descubierto-llegara-a-otros-dispositivos-y-plataformas" data-callback="gplusClickHandler" ></div>
+                  <!-- facebook like -->
+                  <div href="http://www.genbeta.com/movil/siri-al-descubierto-llegara-a-otros-dispositivos-y-plataformas" class="fb-like" data-send="false" data-layout="button_count" data-show-faces="false"></div>
+                </div>
+              </div>
+              <!-- .social-sharing -->
+            </div>
+            <!-- .article-links -->
+          </div>
+          <!-- .article-metadata -->
+
+
+          	<p></p>
+
+	<p>Con la llegada del nuevo iPhone 4S y de iOS 5, uno de los productos de Apple que más ha llamado la atención y que más artículos a protagonizado ha sido Siri, esa asistente virtual que <strong>responde casi cualquier pregunta que le formulemos</strong> con un lenguaje natural.</p>
+
+	<p>Pues cuando la criaturita apenas tiene un mes de vida oficial, el equipo de Applidium asegura haber crackeado Siri, es decir que parece que <strong>han descubierto cuál es el protocolo que siguen los dispositivos iPhone 4S</strong> para comunicarse con los servidores de Apple. Siempre con un punto de duda, pero las posibilidades ahora son interesantes.</p>
+
+	<p>Puede que al final todo quede en nada, pero seguro que esta noticia lleva de cabeza a la gente de Cupertino, y es que ahora <strong>Siri podría aparecer en otros dispositivos</strong> <em>de la manzanita</em> y no sólo en el iPhone 4S, o incluso podríamos tener nuestra propia asistente en Android o en nuestros ordenadores de sobremesa. Sólo queda esperar.</p>
+
+	<p>Vía | <a href="http://www.neowin.net/news/siri-cracked-theoretically-available-on-other-platforms">Neowin</a> | <a href="http://applidium.com/en/news/cracking_siri/">Applidium Blog</a><br />
+En Genbeta | <a href="http://www.genbeta.com/mac/andy-rubin-creador-de-android-critica-al-asistente-siri-de-ios-5">Andy Rubin, creador de Android, critica al asistente Siri de iOS 5</a></p>                  </div>
+
+                        
+        <div class="ad links-ad-inpost">
+    <div id='div-gpt-inp' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-inp");
+    });
+    </script>
+    </div>
+</div>
+
+
+        
+        <div class="article-taxonomy">
+                      <div class="nav article-tags article-categories">
+  <h2>Categorías</h2>
+    <ul>
+                      
+      <li><a href="/categoria/movil">Móvil</a></li>
+        </ul>
+</div>
+            <div class="nav article-tags">
+  <h2>Tags</h2>
+  <ul>
+                                             
+      <li><a href="/tag/reconocimiento-de-voz">reconocimiento de voz</a></li>
+                                             
+      <li><a href="/tag/siri">Siri</a></li>
+                                             
+      <li><a href="/tag/iphone-4s">iPhone 4S</a></li>
+          
+  </ul>
+</div>
+                  </div>
+        <!-- .article-metadata -->
+      </div>
+      <!-- .article -->
+    </div>
+    <!-- .section-articles -->
+            <div id="ad-center" class="ad ad-escaparate-medio">
+  <a class="ad-contact" id="div-gpt-cen-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-cen' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+
+        
+        
+    <div class="section section-related">
+               <div id="outbrainRecommendedPosts" class="post-related-posts articles-full-width">
+  <h3>Artículos recomendados</h3>  
+  <div class="post-related-content">
+
+    <div class="OUTBRAIN" data-src="http://www.genbeta.com/movil/siri-al-descubierto-llegara-a-otros-dispositivos-y-plataformas"
+      data-widget-id="AR_1" data-ob-template="genbeta" >
+    </div>
+    <script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js">
+    </script>
+  </div>
+  <!-- .post-related-content -->
+  <p class="post-related-more">
+    <a href="/categoria/movil" title="Ver más artículos relacionados">
+      Ver más artículos <span class="arrow">»</span>    
+    </a>
+  </p>
+</div>          </div>
+
+
+  <!-- Comments Section -->
+        <a id="to-comments"></a>
+  <div id="comments" class="section section-comments">
+            <div class="standalone-message">
+            <div class="message aviso"><h3>Los comentarios se han cerrado</h3></div>
+        </div>
+        <!-- #comment-write -->
+            <div id="ad-center2" class="ad ad-segundo-escaparate">
+  <a class="ad-contact" id="div-gpt-cen2-contact" style='display:none'
+  href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-cen2' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen2");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+    <div id="comments-header" class="header-section">
+      <div class="comment-order">
+    	<h3>Ordenar por:</h3>
+      </div>
+      <!-- #comment-order -->
+          	<h2>
+              15 comentarios
+            </h2>
+    </div>
+    <div id="top-section-settings"></div>
+    <ul class="comment-list"></ul>
+        <div class="nav"></div>
+    <div id="bottom-section-settings"></div>
+  </div>
+    <script type="text/javascript">
+      $(function()
+      {
+        var commentList = new AML.Comments.Model.CommentList({},{postId:65143});
+        commentList.resetParsed({"comments":[{"id":"371569","post_id":"65143","date":1321358793,"content_filtered":"<p>Esto de la voz en los m\u00f3viles es mas viejo que el cagar y jam\u00e1s lo ha usado nadie. Ahora se lo ponen a un iPhone y la novena maravilla del mundo. <\/p>\n\n<p>Las personas, cada d\u00eda mas gilipollas.<\/p>","content":"<p>Esto de la voz en los m\u00f3viles es mas viejo que el cagar y jam\u00e1s lo ha usado nadie. Ahora se lo ponen a un iPhone y la novena maravilla del mundo. <\/p>\n\n<p>Las personas, cada d\u00eda mas gilipollas.<\/p>","karma":"43.00","parent":"0","comment_edited_date":"","vote_count":"6","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"core_spain","user_id":"46907","author":"","webpage":null,"user_name":"core_spain","karma_level":"22.00","iseditor":"0","global_id":"212246","facebook_uid":null,"index":3,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/98f01ea964f9415329f9ab5b5777d04b"},{"id":"371566","post_id":"65143","date":1321355260,"content_filtered":"<p>Asistentes para Android en ingl\u00e9s hay varios y en espa\u00f1ol Cloe. Siri no ha sido un invento de Apple, era una aplicaci\u00f3n que hab\u00eda en la AppStore y que Apple compr\u00f3 para integrarlo en iOS. En PC desde hace a\u00f1os que existen estos asistentes de voz que luego muy poca gente usa porque se acaba antes haciendo click con el rat\u00f3n a lo que quieres abrir o ver que dec\u00edrselo.<\/p>","content":"<p>Asistentes para Android en ingl\u00e9s hay varios y en espa\u00f1ol Cloe. Siri no ha sido un invento de Apple, era una aplicaci\u00f3n que hab\u00eda en la AppStore y que Apple compr\u00f3 para integrarlo en iOS. En PC desde hace a\u00f1os que existen estos asistentes de voz que luego muy poca gente usa porque se acaba antes haciendo click con el rat\u00f3n a lo que quieres abrir o ver que dec\u00edrselo.<\/p>","karma":"20.00","parent":"0","comment_edited_date":"","vote_count":"4","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Escapology","user_id":"10101","author":"Escapology","webpage":null,"user_name":"escapology","karma_level":"61.00","iseditor":"0","global_id":"194037","facebook_uid":"1585042198","index":2,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/194037_1.png"},{"id":"371658","post_id":"65143","date":1321391145,"content_filtered":"<p>cielos cada vez que veo comentarios como este me dan ganas de llorar, pues en realidad no saben lo que es siri y lo comparan con los sistema de comando de voz que son una antig\u00fcedad, lo que hace especial a siri es que no tienes que estar memorizando acciones para decirlos de la misma forma como esta escrito para que siri te entienda sino que lo haces de forma natural como si fuera con una persona a la cual le puedes preguntar y esta te responde a modo de conversacion gracias a la IA(inteligencia artificial) que implementa. asi que ya sabes no es un simple listado de comandos de voz para ser interpretados es reconocimiento de voz mezclado con IA, lo cual lo hace mas como f\u00e1cil y optimo de usar... ah que quede claro que no tengo ning\u00fan IDevice pero no soy ciego y se las diferencias entre peras y manzanas.<\/p>","content":"<p>cielos cada vez que veo comentarios como este me dan ganas de llorar, pues en realidad no saben lo que es siri y lo comparan con los sistema de comando de voz que son una antig\u00fcedad, lo que hace especial a siri es que no tienes que estar memorizando acciones para decirlos de la misma forma como esta escrito para que siri te entienda sino que lo haces de forma natural como si fuera con una persona a la cual le puedes preguntar y esta te responde a modo de conversacion gracias a la IA(inteligencia artificial) que implementa. asi que ya sabes no es un simple listado de comandos de voz para ser interpretados es reconocimiento de voz mezclado con IA, lo cual lo hace mas como f\u00e1cil y optimo de usar... ah que quede claro que no tengo ning\u00fan IDevice pero no soy ciego y se las diferencias entre peras y manzanas.<\/p>","karma":"45.00","parent":"371566","comment_edited_date":"","vote_count":"3","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"blizzard01","user_id":"86474","author":"","webpage":null,"user_name":"blizzard01","karma_level":"17.00","iseditor":"0","global_id":"404218","facebook_uid":null,"index":8,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/26929fcad3688d519681f587f9c93eef"},{"id":"375443","post_id":"65143","date":1324308195,"content_filtered":"<p>Algunos si lo saben, pero incluso esos, le piden sexo o matrimonio.<\/p>","content":"Algunos si lo saben, pero incluso esos, le piden sexo o matrimonio.","karma":"5.00","parent":"371658","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"Salvador","user_id":"97763","author":"Salvador","webpage":"http:\/\/telefonia.enmalaga.eu\/p\/nokia.html","user_name":"boqu","karma_level":"20.00","iseditor":"0","global_id":"472368","facebook_uid":null,"index":15,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/472368_1.png"},{"id":"371582","post_id":"65143","date":1321364014,"content_filtered":"<p>Windows Vista\/7 lo tiene y no funciona mal<\/p>","content":"<p>Windows Vista\/7 lo tiene y no funciona mal<\/p>","karma":"22.50","parent":"371566","comment_edited_date":"","vote_count":"5","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"aama-88","user_id":"1279","author":"aama-88","webpage":null,"user_name":null,"karma_level":"32.00","iseditor":"0","global_id":"18956","facebook_uid":null,"index":6,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/9da78b6495aab75ddc9a8f7ed64510d4"},{"id":"371570","post_id":"65143","date":1321359501,"content_filtered":"<p>Coincido en que yo no lo usar\u00eda, pero es que adem\u00e1s Apple controlar\u00e1 qu\u00e9 dispositivos lo usan. Aunque lo hayan crackeado y hayan descubierto el protocolo, al estar toda la infraestructura en sus servidores nunca van a permitir que se use en un android. La \"inteligencia\" de siri est\u00e1 en la nube, en el lado de Apple y lo tienen facil\u00edsimo para saber si lo que se conecta es un iDevice u otro sistema. Con cortarles el grifo, el programa en si no sirve para nada.<\/p>","content":"<p>Coincido en que yo no lo usar\u00eda, pero es que adem\u00e1s Apple controlar\u00e1 qu\u00e9 dispositivos lo usan. Aunque lo hayan crackeado y hayan descubierto el protocolo, al estar toda la infraestructura en sus servidores nunca van a permitir que se use en un android. La \"inteligencia\" de siri est\u00e1 en la nube, en el lado de Apple y lo tienen facil\u00edsimo para saber si lo que se conecta es un iDevice u otro sistema. Con cortarles el grifo, el programa en si no sirve para nada.<\/p>","karma":"20.00","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"45969","user_id":"112442","author":"Juan Aguilera","webpage":"http:\/\/juanaguilera.es","user_name":"juanar","karma_level":"67.00","iseditor":"0","global_id":"577327","facebook_uid":"1220034049","index":4,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1220034049\/picture"},{"id":"371581","post_id":"65143","date":1321363964,"content_filtered":"<p>S\u00ed pero si lo han crackeado, podr\u00e1n 'enmascarar' el dispositivo, es decir que se conecte a los servidores de Apple como si fuera un dispotivo real de Apple, no?<\/p>","content":"S\u00ed pero si lo han crackeado, podr\u00e1n 'enmascarar' el dispositivo, es decir que se conecte a los servidores de Apple como si fuera un dispotivo real de Apple, no?","karma":"10.00","parent":"371570","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"aama-88","user_id":"1279","author":"aama-88","webpage":null,"user_name":null,"karma_level":"32.00","iseditor":"0","global_id":"18956","facebook_uid":null,"index":5,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/9da78b6495aab75ddc9a8f7ed64510d4"},{"id":"371689","post_id":"65143","date":1321406859,"content_filtered":"<p>S\u00ed, pero si Apple se pone tonta con usar el identificador de dispositivo, que tiene que ser uno v\u00e1lido, pueden comprobar qui\u00e9n se conecta. Si hay dos que usan el mismo ID al mismo tiempo es que hacen trampas. Vamos, que tendr\u00edas que dejar de usar siri en tu dispositivo Apple para poderlo usar en el Android.<\/p>","content":"S\u00ed, pero si Apple se pone tonta con usar el identificador de dispositivo, que tiene que ser uno v\u00e1lido, pueden comprobar qui\u00e9n se conecta. Si hay dos que usan el mismo ID al mismo tiempo es que hacen trampas. Vamos, que tendr\u00edas que dejar de usar siri en tu dispositivo Apple para poderlo usar en el Android.","karma":"10.00","parent":"371581","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"45969","user_id":"112442","author":"Juan Aguilera","webpage":"http:\/\/juanaguilera.es","user_name":"juanar","karma_level":"67.00","iseditor":"0","global_id":"577327","facebook_uid":"1220034049","index":9,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1220034049\/picture"},{"id":"371707","post_id":"65143","date":1321425573,"content_filtered":"<p>Ser\u00e1 f\u00e1cil para apple bloquearlo, y tambien ser\u00e1 f\u00e1cil para los hackers volver a saltarse las trancas. Y no ser\u00eda necesario dejar de usar tu dispositivo apple para cambiarlo el truco esta en la composici\u00f3n del paquete :P<\/p>","content":"Ser\u00e1 f\u00e1cil para apple bloquearlo, y tambien ser\u00e1 f\u00e1cil para los hackers volver a saltarse las trancas. Y no ser\u00eda necesario dejar de usar tu dispositivo apple para cambiarlo el truco esta en la composici\u00f3n del paquete :P","karma":"5.00","parent":"371689","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"1","comment_author":"juandelcielo","user_id":"98276","author":"","webpage":null,"user_name":"juandelcielo","karma_level":"17.00","iseditor":"0","global_id":"476547","facebook_uid":null,"index":11,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/366946cd2d1d82ea333f9f7f697efdc9"},{"id":"371561","post_id":"65143","date":1321350818,"content_filtered":"<p>Bueno,acaban de sacar CLOE para android,esta verde,es espa\u00f1ol,pero estan empezando.Recomiendo probarlo..<\/p>","content":"Bueno,acaban de sacar CLOE para android,esta verde,es espa\u00f1ol,pero estan empezando.Recomiendo probarlo..","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"50283","user_id":"50283","author":"","webpage":null,"user_name":"rafamartin40","karma_level":"22.00","iseditor":"0","global_id":"189201","facebook_uid":"1751776008","index":1,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1751776008\/picture"},{"id":"371645","post_id":"65143","date":1321385761,"content_filtered":"<p>Bueno pero entonces, siri sin los servidores de apple no sirva para nada verdad ? entonces cual es el merito del 4S con siri, que sin los servidores de apple se le acaba la \"inteligencia\"<\/p>","content":"Bueno pero entonces, siri sin los servidores de apple no sirva para nada verdad ? entonces cual es el merito del 4S con siri, que sin los servidores de apple se le acaba la \"inteligencia\"","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"kahlessbk","user_id":"72341","author":"","webpage":null,"user_name":"kahlessbk","karma_level":"25.00","iseditor":"0","global_id":"341597","facebook_uid":null,"index":7,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/341597_1.png"},{"id":"371691","post_id":"65143","date":1321407051,"content_filtered":"<p>En resumidas cuentas, s\u00ed. Es como el reconocimiento de voz de Google, todo el trabajo se hace en sus servidores, el \"smart\"phone lo \u00fanico que hace es enviar la voz para que se procese remotamente y espera el resultado.<\/p>","content":"En resumidas cuentas, s\u00ed. Es como el reconocimiento de voz de Google, todo el trabajo se hace en sus servidores, el \"smart\"phone lo \u00fanico que hace es enviar la voz para que se procese remotamente y espera el resultado.","karma":"10.00","parent":"371645","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"45969","user_id":"112442","author":"Juan Aguilera","webpage":"http:\/\/juanaguilera.es","user_name":"juanar","karma_level":"67.00","iseditor":"0","global_id":"577327","facebook_uid":"1220034049","index":10,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1220034049\/picture"},{"id":"371708","post_id":"65143","date":1321425766,"content_filtered":"<p>En efecto la aplicaci\u00f3n solo captura la onda sinoidal de tu voz (entre otras cosas) y la envia para ser procesada por los servidores de apple, la respuesta regresa y siri muestra los resultados. Esto tiene una razon de ser, el procesamiento de voz no es algo que quieras que haga un telefono que ya de por si consume bateria.<\/p>","content":"En efecto la aplicaci\u00f3n solo captura la onda sinoidal de tu voz (entre otras cosas) y la envia para ser procesada por los servidores de apple, la respuesta regresa y siri muestra los resultados. Esto tiene una razon de ser, el procesamiento de voz no es algo que quieras que haga un telefono que ya de por si consume bateria.","karma":"5.00","parent":"371645","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"juandelcielo","user_id":"98276","author":"","webpage":null,"user_name":"juandelcielo","karma_level":"17.00","iseditor":"0","global_id":"476547","facebook_uid":null,"index":12,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/366946cd2d1d82ea333f9f7f697efdc9"},{"id":"371787","post_id":"65143","date":1321484274,"content_filtered":"<p>Yo que lo que s\u00e9 es una cosa: mientras los usuarios de Apple intentan crackear sistemas cerrados, los de Android, ya abierto, emplean su tiempo en portar ICS a otros dispositivos: <a href=\"http:\/\/www.ersarp.com\/2011\/11\/dos-filosofias-que-estos-dias-dejan-dos.html\" rel=\"nofollow\">http:\/\/www.ersarp.com\/2011\/11\/dos-filosofias-que-estos-dias-dejan-dos.html<\/a><\/p>","content":"Yo que lo que s\u00e9 es una cosa: mientras los usuarios de Apple intentan crackear sistemas cerrados, los de Android, ya abierto, emplean su tiempo en portar ICS a otros dispositivos: <a href=\"http:\/\/www.ersarp.com\/2011\/11\/dos-filosofias-que-estos-dias-dejan-dos.html\">http:\/\/www.ersarp.com\/2011\/11\/dos-filosofias-que-e...<\/a>","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"98312","user_id":"98312","author":"","webpage":null,"user_name":null,"karma_level":"17.00","iseditor":"0","global_id":"476843","facebook_uid":"774465292","index":13,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/774465292\/picture"},{"id":"372655","post_id":"65143","date":1322093107,"content_filtered":"<p>Es decir, que si no estoy conectado a Internet porque estoy en la v\u00eda siri no me sirve?<\/p>","content":"Es decir, que si no estoy conectado a Internet porque estoy en la v\u00eda siri no me sirve?","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"98727","user_id":"98727","author":"","webpage":null,"user_name":"jansen.willie","karma_level":"17.00","iseditor":"0","global_id":"479839","facebook_uid":"1142672422","index":14,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1142672422\/picture"}],"meta":{"more_records":"false","start":0,"total":15,"order":"valued","totalCount":15},"commentStatus":"closed"});
+
+	window.App = new AML.Comments.Application(65143, commentList);
+	Backbone.history.start();
+      });
+    </script>
+
+  <!-- Comments and Other Stuff -->
+
+  <div id="ad-bottom" class="ad ad-boton">
+  <a class="ad-contact" id="div-gpt-bot-contact" style="display:none" href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-bot' class="ad-box" style='width: 728px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-bot");
+    });
+    </script>
+    </div>
+</div>
+
+  <!-- .ad - boton -->
+  <div class="sidebar-seo-links">
+    <h4>Más en Genbeta</h4>
+    <ul>
+              <li>
+          <a  href="/multimedia/bittorrent-live-el-streaming-p2p-llegara-pronto-a-los-moviles" class="thumb80">
+            <img title="Bittorrent Live, el streaming P2P, llegará pronto a los móviles " src="http://img.genbeta.com/tb/80_80/110968.jpg" alt="Bittorrent Live, el streaming P2P, llegará pronto a los móviles ">
+          </a>
+          <a  href="/multimedia/bittorrent-live-el-streaming-p2p-llegara-pronto-a-los-moviles">
+            Bittorrent Live, el streaming P2P, llegará pronto a los móviles 
+          </a>
+        </li>
+              <li>
+          <a  href="/movil/cuanto-vale-realmente-viber-y-por-que-rakuten-ha-decidido-comprarlo" class="thumb80">
+            <img title="¿Cuánto vale realmente Viber y por qué Rakuten ha decidido comprarlo? " src="http://img.genbeta.com/tb/80_80/110947.jpg" alt="¿Cuánto vale realmente Viber y por qué Rakuten ha decidido comprarlo? ">
+          </a>
+          <a  href="/movil/cuanto-vale-realmente-viber-y-por-que-rakuten-ha-decidido-comprarlo">
+            ¿Cuánto vale realmente Viber y por qué Rakuten ha decidido comprarlo? 
+          </a>
+        </li>
+              <li>
+          <a  href="/movil/rakuten-compra-viber-por-900-millones-de-dolares" class="thumb80">
+            <img title="Rakuten compra Viber por 900 millones de dólares " src="http://img.genbeta.com/tb/80_80/110937.jpg" alt="Rakuten compra Viber por 900 millones de dólares ">
+          </a>
+          <a  href="/movil/rakuten-compra-viber-por-900-millones-de-dolares">
+            Rakuten compra Viber por 900 millones de dólares 
+          </a>
+        </li>
+              <li>
+          <a  href="/movil/blackberry-no-se-rinde-y-lanza-la-segunda-version-de-bbm-para-ios-y-android" class="thumb80">
+            <img title="BlackBerry no se rinde y lanza la segunda versión de BBM para iOS y Android " src="http://img.genbeta.com/tb/80_80/110925.jpg" alt="BlackBerry no se rinde y lanza la segunda versión de BBM para iOS y Android ">
+          </a>
+          <a  href="/movil/blackberry-no-se-rinde-y-lanza-la-segunda-version-de-bbm-para-ios-y-android">
+            BlackBerry no se rinde y lanza la segunda versión de BBM para iOS y Android 
+          </a>
+        </li>
+              <li>
+          <a  href="/movil/tizen-puede-debutar-con-la-capacidad-de-ejecutar-aplicaciones-para-android" class="thumb80">
+            <img title="Tizen puede debutar con la capacidad de ejecutar aplicaciones para Android " src="http://img.genbeta.com/tb/80_80/110922.jpg" alt="Tizen puede debutar con la capacidad de ejecutar aplicaciones para Android ">
+          </a>
+          <a  href="/movil/tizen-puede-debutar-con-la-capacidad-de-ejecutar-aplicaciones-para-android">
+            Tizen puede debutar con la capacidad de ejecutar aplicaciones para Android 
+          </a>
+        </li>
+          </ul>
+</div>
+<!-- related-posts SEO links-->
+       
+    </div>
+  <!-- .container -->
+  </div>
+  <!-- .content-dinamic -->
+
+  <div class= "nav nav-blog">
+  <div class= "container">
+    <h2><strong>&#43;</strong> en Genbeta</h2>
+    <ul>
+      <li class= "blog-section section-lomejor"><a href="/lomejor">Lo mejor</a></li>
+      <li class= "blog-section section-temas"><a href="/archivos">Temas</a></li>
+            <li class= "blog-section section-productos"><a href="/productos">Productos</a></li>
+                  <li class= "blog-section section-respuestas"><a href="/respuestas">Respuestas</a></li>
+            
+            <li class="blog-section section-club"><a href="/club">Club</a></li>
+            <li class= "blog-section section-comunidad"><a href="/comunidad">Comunidad</a></li>
+      <li class="blog-section section-staff"><a href="/quienes-somos">Staff</a></li>
+    </ul>
+  </div>
+</div>
+  
+<div class="footer">
+        <div class="footer-media">
+                <div class="links-category">
+            <h2>Tecnología</h2>
+            <ul>
+                              <li class="tec-xataka"><a href="http://www.xataka.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka<span></span></a></li>
+                              <li class="tec-xatakamovil"><a href="http://www.xatakamovil.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Móvil<span></span></a></li>
+                              <li class="tec-xatakafoto"><a href="http://www.xatakafoto.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Foto<span></span></a></li>
+                              <li class="tec-xatakandroid"><a href="http://www.xatakandroid.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Android<span></span></a></li>
+                              <li class="tec-xatakaon"><a href="http://www.xatakaon.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka On<span></span></a></li>
+                              <li class="tec-xatakahome"><a href="http://www.xatakahome.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Smart Home<span></span></a></li>
+                              <li class="tec-xatakawindows"><a href="http://xatakawindows.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Windows<span></span></a></li>
+                              <li class="tec-xatakaciencia"><a href="http://www.xatakaciencia.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Ciencia<span></span></a></li>
+                              <li class="tec-applesfera"><a href="http://www.applesfera.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Applesfera<span></span></a></li>
+                              <li class="tec-vidaextra"><a href="http://www.vidaextra.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vida Extra<span></span></a></li>
+                              <li class="tec-genbeta"><a href="http://www.genbeta.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Genbeta<span></span></a></li>
+                              <li class="tec-genbetadev"><a href="http://www.genbetadev.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Genbeta Dev<span></span></a></li>
+                          </ul>
+        </div>
+            </div>
+    
+    <div class="footer-links">
+                        <div class="links-category">
+            <h2>Estilos de vida</h2>
+            <ul>
+                              <li><a href="http://www.trendencias.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias</a></li>
+                              <li><a href="http://www.trendenciasbelleza.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Belleza</a></li>
+                              <li><a href="http://www.trendenciashombre.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Hombre</a></li>
+                              <li><a href="http://www.trendenciasshopping.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Shopping</a></li>
+                              <li><a href="http://www.trendenciaslifestyle.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Lifestyle</a></li>
+                              <li><a href="http://www.directoalpaladar.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Directo al Paladar</a></li>
+                              <li><a href="http://www.bebesymas.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bebés y Más</a></li>
+                              <li><a href="http://www.pequesymas.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Peques y Más</a></li>
+                              <li><a href="http://www.vitonica.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vitónica</a></li>
+                              <li><a href="http://www.decoesfera.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Decoesfera</a></li>
+                              <li><a href="http://www.embelezzia.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Embelezzia</a></li>
+                              <li><a href="http://www.ambienteg.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ambiente G</a></li>
+                              <li><a href="http://www.poprosa.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Poprosa</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Motor</h2>
+            <ul>
+                              <li><a href="http://www.motorpasion.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión</a></li>
+                              <li><a href="http://www.motorpasionf1.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión F1</a></li>
+                              <li><a href="http://www.motorpasionmoto.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Moto</a></li>
+                              <li><a href="http://www.motorpasionfuturo.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Futuro</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Ocio</h2>
+            <ul>
+                              <li><a href="http://www.blogdecine.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog de Cine</a></li>
+                              <li><a href="http://www.vayatele.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">¡Vaya Tele!</a></li>
+                              <li><a href="http://www.hipersonica.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Hipersónica</a></li>
+                              <li><a href="http://www.diariodelviajero.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Diario del Viajero</a></li>
+                              <li><a href="http://www.papelenblanco.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Papel en Blanco</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Economía</h2>
+            <ul>
+                              <li><a href="http://www.elblogsalmon.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">El Blog Salmón</a></li>
+                              <li><a href="http://www.pymesyautonomos.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Pymes y Autónomos</a></li>
+                              <li><a href="http://www.tecnologiapyme.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Tecnología Pyme</a></li>
+                              <li><a href="http://www.ahorrodiario.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ahorro Diario</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Latinoamérica</h2>
+            <ul>
+                              <li><a href="http://www.xataka.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Brasil</a></li>
+                              <li><a href="http://www.trendencias.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Brasil</a></li>
+                              <li><a href="http://www.motorpasion.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Brasil</a></li>
+                              <li><a href="http://www.xataka.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka México</a></li>
+                              <li><a href="http://www.motorpasion.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión México</a></li>
+                              <li><a href="http://www.directoalpaladar.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Directo Al Paladar México</a></li>
+                              <li><a href="http://www.xatakandroid.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Android México</a></li>
+                              <li><a href="http://www.vidaextra.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vida Extra México</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Participamos en</h2>
+            <ul>
+                              <li><a href="http://www.ebayers.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">eBayers</a></li>
+                              <li><a href="http://www.circulaseguro.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Circula Seguro</a></li>
+                              <li><a href="http://www.circulaseguro.pt/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Circula Seguro PT</a></li>
+                              <li><a href="http://www.actibva.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Actibva</a></li>
+                              <li><a href="http://www.anexom.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Anexo M</a></li>
+                              <li><a href="http://blog.cocacola.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Happing Magazine</a></li>
+                              <li><a href="http://blog.sage.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog Sage</a></li>
+                              <li><a href="http://www.optimismodigital.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Optimismo Digital</a></li>
+                              <li><a href="http://www.1001experiencias.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">1001 Experiencias</a></li>
+                              <li><a href="http://www.ennaranja.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">En Naranja</a></li>
+                              <li><a href="http://www.essieblog.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Essie Blog</a></li>
+                              <li><a href="http://blogginzenith.zenithmedia.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bloggin Zenith</a></li>
+                              <li><a href="http://www.urbanfire.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Urbanfire</a></li>
+                              <li><a href="http://www.tecnologiadetuatu.elcorteingles.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Tecnología de tú a tú</a></li>
+                              <li><a href="http://www.ciudadano00.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ciudadano 0,0</a></li>
+                              <li><a href="http://blogfanta.cocacola.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog Fanta</a></li>
+                              <li><a href="http://mimundo.philips.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Mi Mundo Philips</a></li>
+                              <li><a href="http://www.bbvacontuempresa.es?utm_source=genbeta&utm_medium=network&utm_campaign=footer">BBVA con tu empresa</a></li>
+                              <li><a href="http://www.perutravelblog.net/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Perú Travel Blog</a></li>
+                              <li><a href="http://bscene.bershka.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bershka Bscene</a></li>
+                              <li><a href="http://www.institutodelafelicidad.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Instituto de la Felicidad</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                    </div>
+</div>
+
+<div class="closure">
+    <div class="container">
+        <div class="weblogssl"><a href="http://www.weblogssl.com">Weblogs SL<span></span></a></div>
+        <ul class="nav">
+            <li><a href="/quienes-somos">¿Quienes somos?</a></li>
+            <li><a href="http://www.weblogssl.com/contenidos">Condiciones de uso</a></li>
+            <li><a href="http://www.weblogssl.com/cookies">Política de cookies</a></li>
+            <li><a href="http://www.weblogssl.com/aviso">Aviso legal</a></li>
+            <li><a title="Publicidad en Genbeta" href="http://www.socialmediasl.com/genbeta.php">Publicidad</a></li>
+            <li><a href="/ayuda-2012">Ayuda</a></li>
+            <li><a href="/contacto">Contacto</a></li>
+        </ul>
+    </div>
+</div>
+
+<div id="cookies-overlay"></div>
+
+  <script type="text/javascript">
+    $(function() {
+      new AML.Auth.View.CookiesOverlayView;
+    });
+  </script>
+
+</div>
+<div id="favicons-list">
+
+    <div class="userbar">
+        <a class="head-shortcut" href="#body" title="Volver arriba">&uarr;</a>
+        <div class="userbox" id="wsl_userbox">
+        </div>
+
+        <div class="favicons" style="width: auto; ">
+
+            <div id="scroll-menu">
+
+                <div class="disabledHotSpotLeft">«</div>
+                <div class="disabledHotSpotRight">»</div>
+                <div class="scrollingHotSpotLeft">«</div>
+                <div class="scrollingHotSpotRight">»</div>
+
+                <div class="scrollWrapper">
+                    <div class="scrollableArea">
+
+                        <ul class="favicroll">
+                            <li id="wsl"><a target="_top" href="http://www.weblogssl.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><em><strong>Blog corporativo</strong></em></a></li>
+
+                            <li><a target="_top" href="http://www.xataka.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b1"><strong>XTK</strong></span> <em><strong>Xataka - Gadgets y electrónica de consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vidaextra.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b2"><strong>VX</strong></span> <em><strong>VidaExtra - Videojuegos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.blogdecine.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b3"><strong>BDC</strong></span> <em><strong>Blog de cine - Cine  y críticas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.elblogsalmon.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b5"><strong>EBS</strong></span> <em><strong>El Blog Salmón - Economía y finanzas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.genbeta.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b6"><strong>GBT</strong></span> <em><strong>Genbeta - Software</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasion.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b7"><strong>MP</strong></span> <em><strong>MotorPasión - Coches y motor</strong></em></a></li>
+                            <li><a target="_top" href="http://www.directoalpaladar.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b8"><strong>DAP</strong></span> <em><strong>Directo al paladar - Gastronomía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.bebesymas.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b9"><strong>BYM</strong></span> <em><strong>Bebés y más - Todo sobre bebés</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vayatele.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b11"><strong>VYT</strong></span> <em><strong>¡Vaya Tele! - Series y televisión</strong></em></a></li>
+                            <li><a target="_top" href="http://www.diariodelviajero.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b12"><strong>DDV</strong></span> <em><strong>Diario del viajero - Viajes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakaciencia.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b13"><strong>XCI</strong></span> <em><strong>Xataka Ciencia - Ciencia</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendencias.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b14"><strong>TRE</strong></span> <em><strong>Trendencias - Moda y tendencias</strong></em></a></li>
+                            <li><a target="_top" href="http://www.hipersonica.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b15"><strong>HIP</strong></span> <em><strong>HiperSónica - Música</strong></em></a></li>
+                            <li><a target="_top" href="http://www.applesfera.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b16"><strong>APP</strong></span> <em><strong>Applesfera - Apple</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasshopping.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b17"><strong>COM</strong></span> <em><strong>Trendencias Shopping - Compras y consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakamovil.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b18"><strong>XTM</strong></span> <em><strong>Xataka Móvil - Móviles</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ambienteg.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b19"><strong>AMG</strong></span> <em><strong>Ambiente G - Gays y lesbianas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionmoto.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b20"><strong>MMO</strong></span> <em><strong>Motorpasión Moto - Motos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.papelenblanco.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b21"><strong>PEB</strong></span> <em><strong>Papel en blanco - Literatura</strong></em></a></li>
+                            <li><a target="_top" href="http://www.decoesfera.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b22"><strong>DEC</strong></span> <em><strong>Decoesfera - Decoración e interiorismo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionf1.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b23"><strong>MF1</strong></span> <em><strong>Motorpasión F1 - Carreras</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vitonica.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b24"><strong>VIT</strong></span> <em><strong>Vitónica - Vida sana</strong></em></a></li>
+                            <li><a target="_top" href="http://www.embelezzia.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b25"><strong>EMB</strong></span> <em><strong>Embelezzia - Lujo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.poprosa.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b26"><strong>POP</strong></span> <em><strong>Poprosa - Famosos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakafoto.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b27"><strong>XTF</strong></span> <em><strong>Xataka Foto - Fotografía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.pymesyautonomos.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b28"><strong>PYA</strong></span> <em><strong>Pymes y autónomos - Pymes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasbelleza.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b30"><strong>TRB</strong></span> <em><strong>Trendencias Belleza - Belleza y cosmética</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.tecnologiapyme.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b34"><strong>TPY</strong></span> <em><strong>Tecnología Pyme - Tecnología para empresas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ahorrodiario.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b35"><strong>AHD</strong></span> <em><strong>Ahorro Diario - Ahorro</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciashombre.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b36"><strong>TRH</strong></span> <em><strong>Trendencias Hombre - Moda y estilo masculino</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.pequesymas.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b37"><strong>PEQ</strong></span> <em><strong>Peques y más - Niños e infancia</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakaon.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b39"><strong>XTO</strong></span> <em><strong>Xataka On - Todo sobre conectividad, ADSL</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakandroid.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b40"><strong>XTA</strong></span> <em><strong>Xataka Android - Android, aplicaciones y dispositivos</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.genbetadev.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b41"><strong>GBD</strong></span> <em><strong>Genbeta Dev - Desarrollo de software</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.motorpasionfuturo.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b42"><strong>MPF</strong></span> <em><strong>Motorpasión Futuro - Innovación y Motor</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakahome.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b44"><strong>XSH</strong></span> <em><strong>Xataka Smart Home - Inteligencia doméstica digital</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakawindows.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b45"><strong>XTW</strong></span> <em><strong>Xataka Windows - Universo Microsoft</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciaslifestyle.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b46"><strong>TLS</strong></span> <em><strong>Trendencias Lifestyle</strong></em></a></li>
+                        </ul>
+
+                    </div>
+                </div>
+                <!-- .scrollWrapper-->
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<div id="wsl_dialog"></div>
+<script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', function() {
+  try {
+    if (window.external.msIsSiteMode()) {
+      window.external.msSiteModeClearJumpList();
+      window.external.msSiteModeCreateJumplist('Mensajes Recientes');
+            window.external.msSiteModeAddJumpListItem('Office\x20para\x20iPad,\x20m\u00E1s\x20pronto\x20que\x20tarde\x3A\x20para\x20la\x20primera\x20mitad\x20de\x202014', 'http://www.genbeta.com/ofimatica/office-para-ipad-mas-pronto-que-tarde-para-la-primera-mitad-de-2014', '');
+            window.external.msSiteModeAddJumpListItem('Bittorrent\x20Live,\x20el\x20streaming\x20P2P,\x20llegar\u00E1\x20pronto\x20a\x20los\x20m\u00F3viles\x20', 'http://www.genbeta.com/multimedia/bittorrent-live-el-streaming-p2p-llegara-pronto-a-los-moviles', '');
+            window.external.msSiteModeAddJumpListItem('La\x20hipocres\u00EDa\x20de\x20algunos\x20medios\x20tradicionales.\x20La\x20imagen\x20de\x20la\x20semana\x20', 'http://www.genbeta.com/actualidad/la-hipocresia-de-algunos-medios-tradicionales-la-imagen-de-la-semana', '');
+            window.external.msSiteModeAddJumpListItem('\x22Tasa\x20Google\x22\x3A\x20si\x20tienes\x20un\x20blog\x20tambi\u00E9n\x20te\x20afecta,\x20solo\x20que\x20otros\x20la\x20cobrar\u00E1n\x20por\x20ti\x20', 'http://www.genbeta.com/actualidad/tasa-google-si-tienes-un-blog-tambien-te-afecta-solo-que-otros-la-cobraran-por-ti', '');
+            window.external.msSiteModeAddJumpListItem('Kickstarter,\x20tras\x20sufrir\x20un\x20ataque,\x20recomienda\x20cambiar\x20contrase\u00F1as\x20', 'http://www.genbeta.com/web/kickstarter-tras-sufrir-un-ataque-recomienda-cambiar-contrasenas', '');
+            window.external.msSiteModeShowJumpList();
+    }
+  } catch (exp) {
+    // do nothing
+  }
+  });
+</script>
+
+
+<script type='text/javascript'>
+    (function() {
+      new ViceVersaLink("http://t.genbeta.com");
+    })();
+</script>
+
+<script type='text/javascript'>
+  window.onerror = function(message, file, line) {
+    var sFormattedMessage = '[' + file + ' (' + line + ')] ' + message;
+    _gaq.push(['_trackEvent', 'Errors', 'Browser', sFormattedMessage, null, true]);
+  }
+    
+</script>
+
+</body>
+</html>

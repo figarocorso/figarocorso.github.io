@@ -1,0 +1,872 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+                                                                                                                                                                                                                                                                                <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><title>iOS 5.1 mejora el rendimiento de la batería, pero no lo suficiente </title>
+                  <meta name="description" content="Supongo que coincidiremos todos en que la duración de las baterías de los dispositivos móviles (sobre todo en cuanto a móviles y tabletas se..." />
+            <meta name="news_keywords" content="bateria, iOS 5.1"/>
+       
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />    
+    <meta name='robots' content='noodp' />
+    <meta property="fb:admins" content="100000716994885"/>
+    <meta name="application-name" content="Genbeta"/>
+    <meta name="msapplication-tooltip" content="Software y web. Genbeta"/>
+    <meta name="msapplication-starturl" content="http://www.genbeta.com"/>
+    <meta name="msapplication-task" content="name=Lo mejor;action-uri=http://www.genbeta.com/lomejor;icon-uri=http://img.genbeta.com/lp2/v6/images/pin-bg-lomejor-icon.ico" />
+        <meta name="msapplication-task" content="name=Respuestas;action-uri=http://www.genbeta.com/respuestas;icon-uri=http://img.genbeta.com/lp2/v6/images/pin-bg-respuestas-icon.ico" />
+                <!--[if !IE]><!--> <link rel="shortcut icon" href="http://img.genbeta.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if lt IE 9]><!--> <link rel="shortcut icon" href="http://img.genbeta.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if gte IE 9]>
+            <link rel="shortcut icon" type="image/x-icon" href="http://img.genbeta.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+            <link rel=icon type="image/ico" href="http://img.genbeta.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+        <![endif]-->
+    
+    <link rel="apple-touch-icon" href="http://img.genbeta.com/lp2/mobile/images/apple-touch-icon.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-57-precomposed.png">
+
+        <link rel="stylesheet" type="text/css" href="http://img.genbeta.com/lp2/v6/main.css?v=24272">
+        <link rel="publisher" href="http://plus.google.com/106643481235450321345" />
+    <link rel="alternate" type="application/rss+xml" title="" href="/index.xml" />
+    <!--[if lt IE 7]>
+      <link rel="stylesheet" type="text/css" href="http://img.genbeta.com/lp2/v6/ie7.css">
+    <![endif]-->
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', "UA-78515-6"]);
+  _gaq.push(['_setCampaignCookieTimeout', 259200000]);
+  _gaq.push(['_setDomainName', ".genbeta.com"]);
+  _gaq.push(['_setSiteSpeedSampleRate', 5]);
+  _gaq.push(['t2._setAccount', "UA-78515-62"]);
+  _gaq.push(['t2._setCampaignCookieTimeout', 259200000]);
+  _gaq.push(['t2._setDomainName', ".genbeta.com"]);
+  (function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') +       '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  })();
+</script>
+
+ <link rel="canonical" href="http://www.genbeta.com/movil/ios-5-1-mejora-el-rendimiento-de-la-bateria-pero-no-lo-suficiente" />
+ <link rel="image_src" href="http://img.genbeta.com/resize/75/thumbnails/b/67770.jpg" />
+ <meta property="og:title" content="iOS 5.1 mejora el rendimiento de la batería, pero no lo suficiente ">
+ <meta property="og:description" content="Supongo que coincidiremos todos en que la duración de las baterías de los dispositivos móviles (sobre todo en cuanto a móviles y tabletas se...">
+ <meta property="og:image" content="http://img.genbeta.com/original/67770.jpg">
+    <script>
+    _gaq.push(['t2._setPageGroup', '1', 'post']);
+    _gaq.push(['t2._setPageGroup', '2', "miguel julián"]);
+    _gaq.push(['t2._setPageGroup', '3', "movil"]);
+    _gaq.push(['t2._setPageGroup', '4', "normal"]);
+    _gaq.push(['_setPageGroup', '1', 'post']);
+    _gaq.push(['_setPageGroup', '2', "miguel julián"]);
+    _gaq.push(['_setPageGroup', '3', "movil"]);
+    _gaq.push(['_setPageGroup', '4', "normal"]);
+       </script>
+   </head>
+       <body id="body" class="article-single">
+
+    <script type='text/javascript'>
+    var MAX_source = "";
+    var GPTcats = ["movil"];
+    var GPTtags = ["bateria", "ios-5-1"];
+      </script>
+      <script type='text/javascript'>
+googletag.pubads().setTargeting("origin", "direct").setTargeting("screen", screen.width.toString()).setTargeting("cat", GPTcats).setTargeting("tag", GPTtags);
+if (navigator.userAgent.match(/iPad/i) != null) {
+  googletag.pubads().setTargeting("ua", "ipad");
+} 
+ 
+googletag.defineSlot('/4712/GEB/interior_top', [1000, 40], 'div-gpt-top').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_lateral', [[160, 600], [200,600], [300,600], [300,250]], 'div-gpt-lat').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_central', [[300, 250], [400,400], [1000,250]], 'div-gpt-cen').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_central2', [[300, 250],[400,400],[690, 250]], 'div-gpt-cen2').addService(googletag.pubads());
+googletag.defineSlot('/1018282/GEB-BOT2-interior',[728, 90], 'div-gpt-bot').addService(googletag.pubads());
+googletag.defineSlot('/1018282/GEB-INP', [500, 80], 'div-gpt-inp').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interstitial', [1000, 525], 'div-gpt-int').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().enableSyncRendering();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+</script>
+
+       <script type="text/javascript">
+      WSL2 = {};
+      WSL2.config = {};
+      WSL2.config.fbapikey = "360028941603";
+      WSL2.config.cookieDomain = "";
+      WSL2.config.imagePath = 'http://img.genbeta.com/lp2/v6';
+      WSL2.config.siteName = "Genbeta";
+      window.___gcfg = {lang: 'es'};
+    </script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="http://code.jquery.com/jquery-migrate-1.1.0.js"></script>
+            <script src="http://img.weblogssl.com/LPbackend/prod/v2/js/frontend-758.js"></script>
+          <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _c1 = new WSL2.Cookie;
+      loginStatus = (_c1.hasSession()) ? "yes:" + _c1.loginType() : "no";
+      _gaq.push(['t2._setCustomVar', 4, '.genbeta.com', 'loginstatus:' + loginStatus, 2]);
+      _gaq.push(['_trackPageview']);
+      _gaq.push(['t2._trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); 
+    ga.type = 'text/javascript';
+    ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+  })();
+      var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "11306788" });
+         (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[1]; 
+          s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb": "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+    </script>
+
+    <div id="fb-root"></div>
+  <!-- fb needs this -->
+
+  <script src="//platform.twitter.com/widgets.js" id="tweetjs"></script>
+  <script src="//apis.google.com/js/plusone.js" id="gplus1js"></script>
+  <script src="//connect.facebook.net/es_ES/all.js#xfbml=1" id="fbjssdk"></script>
+  <div class="customize-me">
+  <div class="content-fixed">
+    <div class="container">
+                <!-- .header -->
+            <div class="header header-page">
+        <h1 class="site-logo"><a href="http://www.genbeta.com" title="Ir a la portada">Software y web. Genbeta<span></span></a></h1>
+        <form method="get" action="/busqueda" id="search" class="search" style="top:62px; width:310px; padding: 0;">
+    <p>
+        <input type="hidden" name="cx" value="partner-pub-9977500652563564:0292109475">
+        <input type="text" id="gsearch" name="q" accesskey="4" title="Buscar" placeholder="Busca en Genbeta con Google">
+        <input type="hidden" name="ie" value="UTF-8">
+        <input type="hidden" name="oe" value="UTF-8">
+        <input type="hidden" name="cof" value="FORID:10">
+        <button class="button">Buscar <span class="arrow">&raquo;</span></button>
+    </p>
+</form>
+<script type="text/javascript" src="http://www.google.es/coop/cse/brand?form=cse-search-box&amp;lang=es"></script>
+            <div class="nav nav-main">
+    <ul class="nav-primary">
+        <li class="home-link"><a href="/" title="Volver a portada">Portada</a></li>
+        <li class="respuestas-link"><a href="/respuestas">Respuestas</a></li>
+        <li class="temas-submenu">
+            <ul class="nav-secondary">
+                                   <li><a href="/categoria/actualidad" title="Ir a la categoría Actualidad">Actualidad</a></li>
+                                   <li><a href="/categoria/linux" title="Ir a la categoría Linux">Linux</a></li>
+                                   <li><a href="/categoria/movil" title="Ir a la categoría Móvil">Móvil</a></li>
+                                   <li><a href="/categoria/windows" title="Ir a la categoría Windows">Windows</a></li>
+                                   <li><a href="/categoria/herramientas" title="Ir a la categoría Herramientas">Herramientas</a></li>
+                                <li><a href="/archivos" title="Ver todas las categorías">Más &raquo;</a></li>
+            </ul>
+        </li>
+                  
+            </ul>
+</div>
+
+        <div class="nav nav-tags">
+        <h3>No te pierdas <span class="arrow">&raquo;</span></h3>
+        <ul>
+                        <li><a href="/tag/tasa-google" title="Todo sobre Tasa Google">Tasa Google</a></li>
+                        <li><a href="/tag/ley-lassalle" title="Todo sobre Ley Lassalle">Ley Lassalle</a></li>
+                        <li><a href="/tag/balance-de-windows-8" title="Todo sobre Balance de Windows 8">Balance de Windows 8</a></li>
+                        <li><a href="/tag/cazadores-de-fakes" title="Todo sobre Cazadores de Fakes">Cazadores de Fakes</a></li>
+                        <li><a href="/tag/satya-nadella" title="Todo sobre Satya Nadella">Satya Nadella</a></li>
+                    </ul>
+</div>
+<!-- .nav-tags -->
+
+                    <div class="ad ad-desplegable">
+  <a class="ad-contact" id="div-gpt-top-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+  <div class="ad-box">
+    <div id='div-gpt-top' style='width: 1000px;'>
+    <script type="text/javascript">
+        googletag.cmd.push(function() {
+        googletag.display("div-gpt-top");
+        });
+    </script>
+    </div>
+  </div>
+</div>
+<!-- .ad-box - desplegable -->
+
+  <div class="nav">
+   <ul class="article-nav-controls">
+                              <li><a class="article-control article-previous" href="/activismo-online/doble-traicion-en-lulzsec-sabu-el-traidor-traicionado"><span>Doble traición en LulzSec: Sabu, el traidor traicionado</span></a></li>
+                                             <li><a class="article-control article-next" href="/activismo-online/eeuu-no-responde-cuando-se-le-pregunta-por-los-archivos-de-los-espanoles-en-megaupload"><span>EE.UU. no responde cuando se le pregunta por los archivos y datos de los españoles en Megaupload</span></a></li>
+                  </ul>
+  </div>
+              </div>
+                   <div class="article article-pre-content">
+  <h1 class="article-header">iOS 5.1 mejora el rendimiento de la batería, pero no lo suficiente </h1>
+  <div class="article-date">09 de marzo de 2012 | 20:04 CET <span id="is_editor"></span></div>
+  <div class="article-author-details">
+  <div class="figure">
+    <a rel='author' href="/autor/miguel-julian">
+      <img src="http://www.gravatar.com/avatar/14216b3a89c997bfc641f9d3abf7bc0b?s=80&amp;d=mm&amp;r=g" alt="miguel-julian">
+    </a>
+  </div>
+  <h2><a rel='author' href="/autor/miguel-julian">Miguel Julián</a></h2>
+      </div>
+<!-- .article-author-details -->
+</div>
+           </div>
+    <!-- .container -->
+  </div>
+  <!-- .content-fixed -->
+
+  <div class="content-dinamic">
+    <div class="container">
+          <script type="text/javascript">
+        $(function()
+        {
+          AML.postVoteView = new AML.Post.View.PostVoteView({postId:"67770", el:".social-sharing" });
+          AML.isEditorView = new AML.Post.View.IsEditorView({postId:"67770", model: WSL2.User });
+        });
+      </script>
+
+    <div class="aside">
+            <div id="ad-lateral" class="ad ad-primer-escaparate">
+  <a class="ad-contact" id="div-gpt-lat-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-lat' class="ad-box" style='width: 300px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-lat");
+    });
+    </script>
+    </div>
+</div>
+<!-- .ad-box - escaparate vertical -->
+
+           <!-- .ad-box - escaparate vertical -->
+            
+                  
+<div class="aside-box aside-subscribe">
+  <h3 class="aside-header">Síguenos</h3>
+  
+          
+  <form id="feedForm" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" >
+    <label for="subscribe-email">Newsletter:</label>  
+      <input type="text" name="email" type="text" id="feedburnermail" placeholder="Correo electrónico"/>
+      <input type="hidden" name="uri" value="genbeta"/>
+      <input type="hidden" name="loc" value="es_ES">
+      <button class="button" type="submit">Suscríbete <span class="arrow">&raquo;</span></button>
+  </form>
+  <ul class="subs-channels">
+    <li class="channel-rss" id="rss"> <a href="/index.xml" rel="nofollow" title="Suscríbete por RSS a las novedades en Genbeta"><span></span>RSS</a></li>
+    <li class="channel-twitter"><a href="http://twitter.com/genbeta" title="Sigue las novedades de Genbeta en Twitter"><span></span>Twitter</a></li>
+    <li class="channel-fb"><a href="http://www.facebook.com/pages/Genbeta/54999640934" title="Conéctate a la página de Genbeta en Facebook"><span></span>Facebook</a></li>
+    <li class="channel-gplus"><a href="https://plus.google.com/109731528328750280665/posts" title="Sigue a Genbeta en Google Plus"><span></span>Google Plus</a></li>
+    <li class="channel-feedly"><a style="margin-right: 0;" title="Suscríbete a Genbeta con Feedly" href='http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fwww.genbeta.com%2Findex.xml'  target='blank'><img id='feedlyFollow' src='http://img.weblogssl.com/g/xataka4/common/m-icon-feedly.png' alt='follow us in feedly' width='32' height='32'></a></li>
+  </ul>
+  <ul class="devices-channels">
+    <li><a title="Versión para móviles" href="http://m.genbeta.com" class="button button-secondary"><img src="http://img.weblogssl.com/g/xataka4/common/mobile.png">Versión móvil</a></li>
+        <li>
+        <a id="tabletViceVersaLink" href="http://t.genbeta.com" class="button button-secondary" title="Versión tablet"><img src="http://img.weblogssl.com/g/xataka4/common/tablet.png"> Versión tablet</a>
+    </li>
+      </ul>
+
+    <script>
+  $(function() {
+      $("#feedForm").submit(function(e) {
+          e.preventDefault();
+          email = $("#feedburnermail").val();
+          emailPattern = /^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$/i
+          if (emailPattern.test(email)) {
+              window.open('http://mailer.weblogssl.com/subscribe_check/' + email +'/genbeta/Genbeta','','width=500,height=500');
+          } else {
+              alert("El correo electrónico introducido no es correcto");
+          }
+      });
+  });
+  </script>
+  
+</div>
+            <!-- .article-promo -->
+    </div>
+
+    <!-- .aside -->
+
+                    
+    <div class="section section-article-single">
+            <div class="article">
+        <div class="article-summary">
+          <p><img alt="La duración de la batería de los dispositivos iOS mejora con la nueva actualización iOS 5.1" src="http://img.genbeta.com/2012/03/duracion-bateria-ios51.jpg" class="centro" /></p>
+
+                              <div class="article-metadata">
+            <div class="article-comments" id="postCommentCount">
+              <a href="#comments" title="Ir a comentarios">
+                Comentarios 18
+              </a>
+            </div>
+            <div class="article-links">
+              <div class="social-sharing">
+                <div class="social-sharing-widgets">
+                                    <div class="wsl-favorite">
+                    <button class="button button-small">Me gusta</button>
+                    <span class="wsl-count">0</span>
+                  </div>
+                                    <!-- twitter -->
+                  <a class="twitter-share-button" href="http://twitter.com/share" data-count="horizontal" data-url="http://www.genbeta.com/p/67770" data-counturl="http://www.genbeta.com/movil/ios-5-1-mejora-el-rendimiento-de-la-bateria-pero-no-lo-suficiente" data-text="iOS 5.1 mejora el rendimiento de la batería, pero no lo suficiente " data-via="genbeta" data-lang="es">Tweet</a>
+                  <!-- g+ -->
+                  <div class="g-plusone" data-size="medium" data-href="http://www.genbeta.com/movil/ios-5-1-mejora-el-rendimiento-de-la-bateria-pero-no-lo-suficiente" data-callback="gplusClickHandler" ></div>
+                  <!-- facebook like -->
+                  <div href="http://www.genbeta.com/movil/ios-5-1-mejora-el-rendimiento-de-la-bateria-pero-no-lo-suficiente" class="fb-like" data-send="false" data-layout="button_count" data-show-faces="false"></div>
+                </div>
+              </div>
+              <!-- .social-sharing -->
+            </div>
+            <!-- .article-links -->
+          </div>
+          <!-- .article-metadata -->
+
+
+          	<p></p>
+
+	<p>Supongo que coincidiremos todos en que la duración de las baterías de los dispositivos móviles (sobre todo en cuanto a móviles y tabletas se refiere) se está convirtiendo en un auténtico quebradero de cabeza para las compañías. De hecho una de las novedades anunciadas con la <strong>nueva versión iOS 5.1</strong> para los dispositivos móviles de Apple era una notable<strong> mejoría en el rendimiento de la batería</strong>.</p>
+
+	<p>Y es que en temas de duración de batería <strong>hubo un antes y un después de iOS 5</strong>. Mientras que antes de la actualización la duración de la batería de dispositivos como el iPad 2 y el iPhone 4 no era un problema. Pero la cosa cambiaba con la gran actualización. Y es que aparecieron muchos usuarios que veían cómo sus dispositivos se descargaban sin piedad. ¿Se ha solucionado el problema con el lanzamiento de iOS 5.1?</p>
+
+	<p>La respuesta más correcta sería <em>en parte</em>. La opinión generalizada es que <strong>la mejoría de rendimiento de la batería es clara, pero también que es insuficiente</strong>. Y pese a la mejora, sigue habiendo usuarios que se quejan al ver cómo su batería se descarga muy rápido. La comunidad de usuarios parece aceptar la mejoría que propone Apple, pero desde luego no es suficiente.</p>
+
+	<p>En Genbeta | <a href="http://www.genbeta.com/movil/ios-5-1-ya-esta-disponible-para-su-descarga">iOS 5.1 ya está disponible para su descarga</a></p>                  </div>
+
+                        
+        <div class="ad links-ad-inpost">
+    <div id='div-gpt-inp' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-inp");
+    });
+    </script>
+    </div>
+</div>
+
+
+        
+        <div class="article-taxonomy">
+                      <div class="nav article-tags article-categories">
+  <h2>Categorías</h2>
+    <ul>
+                      
+      <li><a href="/categoria/movil">Móvil</a></li>
+        </ul>
+</div>
+            <div class="nav article-tags">
+  <h2>Tags</h2>
+  <ul>
+                                             
+      <li><a href="/tag/bateria">bateria</a></li>
+                                             
+      <li><a href="/tag/ios-5-1">iOS 5.1</a></li>
+          
+  </ul>
+</div>
+                  </div>
+        <!-- .article-metadata -->
+      </div>
+      <!-- .article -->
+    </div>
+    <!-- .section-articles -->
+            <div id="ad-center" class="ad ad-escaparate-medio">
+  <a class="ad-contact" id="div-gpt-cen-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-cen' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+
+        
+        
+    <div class="section section-related">
+               <div id="outBrainVerticalWidget" class="post-related-posts ">
+  <h3>Artículos recomendados</h3>
+  <div class="post-related-content">
+   
+    <div class="OUTBRAIN" data-src="http://www.genbeta.com/movil/ios-5-1-mejora-el-rendimiento-de-la-bateria-pero-no-lo-suficiente" data-widget-id="AR_2" data-ob-template="genbeta" >
+    </div>
+    <script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js">
+    </script>
+  </div>
+  <!-- .post-related-content -->
+  <p class="post-related-more">
+    <a href="/categoria/movil" title="Ver más artículos relacionados">
+    Ver más artículos <span class="arrow">»</span>    
+    </a>
+    </p>
+</div>     
+      <div class="post-related-products">
+   <h3>Productos</h3>
+   <div id="post-related-products" class="post-related-content">
+                <script type="text/javascript">
+        $(function()
+        {
+          WSL2.config.imageUrl = "http://img.genbeta.com"
+          WSL2.config.Products = {}
+          WSL2.config.Products.iwishihave = {}
+          WSL2.config.Products.iwishihave.buttonOne = "ME GUSTA"
+          WSL2.config.Products.iwishihave.buttonTwo = "LO ODIO"
+
+          var product = new AML.Products.Model.Product({"id":"111852","nicename":"ios-5","name":"iOS 5","photo_post_id":"65268","users_votes_sum":"53","users_votes_count":"9","ihave_count":"7","iwish_count":"14","category_nicename":"sistemas-operativos","cat_id":"428","category_type":"1","adspot_price":"0"}, {"pageUrlPrefix":"productos"});
+          AML.productView = new AML.Products.View.ProductView({model:product, userModel: WSL2.User});
+        });
+      </script>
+        </div>
+  <p class="post-related-more">
+    <a href="/productos/sistemas-operativos/ios-5" title="Ver más productos relacionados">
+      Ver más productos <span class="arrow">»</span>
+    </a>
+  </p>
+ </div>
+<!-- .post-related-products -->
+     <div class="post-related-qa">
+    <h3>Respuestas</h3>
+        <div class="post-related-content">
+            <ul>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>4</strong>
+                    </div>
+                    <a href="/respuestas/existe-alguna-aplicacion-android-para-apagar-el-dispositivo-tras-un-tiempo-de-inactividad">¿Existe alguna aplicación Android para apagar el dispositivo tras un tiempo de inactividad?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2013-03-11T12:54:36Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>2</strong>
+                    </div>
+                    <a href="/respuestas/xq-mi-bateria-dice-deveria-cambiar-la-bateria-y-sale-una-x-donde-carga">¿Por qué mi batería dice &quot;debería cambiar la batería&quot; y sale una X donde carga?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2011-10-02T17:34:26Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>1</strong>
+                    </div>
+                    <a href="/respuestas/existe-alguna-opcion-para-la-configuracion-de-energia-en-ubuntu-1104">¿Existe alguna opcion para la configuracion de energia en Ubuntu 11.04?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2011-08-10T01:42:42Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>3</strong>
+                    </div>
+                    <a href="/respuestas/cual-es-la-mejor-distro-linux-para-el-tema-de-la-bateria">¿Cual es la mejor distro linux para el tema de la bateria?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2011-07-07T03:48:50Z"></abbr>
+                    </span>            
+                </li>
+                        </ul>
+        </div>
+        <!-- .post-related-content -->
+        <p class="post-related-more">
+            <a href="/respuestas" title="Ver más respuestas relacionados">
+                Ver más respuestas
+                <span class="arrow">»</span>
+            </a>
+        </p>
+</div>
+
+<script type="text/javascript">
+   $(function(){
+      $("abbr.timeago").timeago();
+   });
+</script>
+     </div>
+
+
+  <!-- Comments Section -->
+        <a id="to-comments"></a>
+  <div id="comments" class="section section-comments">
+            <div class="standalone-message">
+            <div class="message aviso"><h3>Los comentarios se han cerrado</h3></div>
+        </div>
+        <!-- #comment-write -->
+            <div id="ad-center2" class="ad ad-segundo-escaparate">
+  <a class="ad-contact" id="div-gpt-cen2-contact" style='display:none'
+  href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-cen2' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen2");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+    <div id="comments-header" class="header-section">
+      <div class="comment-order">
+    	<h3>Ordenar por:</h3>
+      </div>
+      <!-- #comment-order -->
+          	<h2>
+              18 comentarios
+            </h2>
+    </div>
+    <div id="top-section-settings"></div>
+    <ul class="comment-list"></ul>
+        <div class="nav"></div>
+    <div id="bottom-section-settings"></div>
+  </div>
+    <script type="text/javascript">
+      $(function()
+      {
+        var commentList = new AML.Comments.Model.CommentList({},{postId:67770});
+        commentList.resetParsed({"comments":[{"id":"387537","post_id":"67770","date":1331338019,"content_filtered":"<p>A mi ahora con el iOS 5.1 en el iPhone 4 me dura menos!! no lo entiendo...<\/p>","content":"<p>A mi ahora con el iOS 5.1 en el iPhone 4 me dura menos!! no lo entiendo...<\/p>","karma":"25.00","parent":"0","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"105946","user_id":"105946","author":"","webpage":null,"user_name":null,"karma_level":"12.00","iseditor":"0","global_id":"223044","facebook_uid":"875165051","index":3,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/875165051\/picture"},{"id":"387574","post_id":"67770","date":1331377530,"content_filtered":"<p>Pues a mi con iOS5 e iPad original me dura una bestialidad,10h... eso s\u00ed, jugando se gasta antes...<\/p>\n\n<p>El problema es que la gente no gestiona bien las notificaciones, muchas aplicaciones piden acceder al servicio de notificaciones y de localizaci\u00f3n y la gentr acepta,es necesario limitarlo. Tambi\u00e9n alargo la duraci\u00f3n de la bater\u00eda poniendolo en modo avi\u00f3n cuando no lo uso o cuando simplemente leo un libro\/revista o juego offline y ajustando el brillo al m\u00ednimo y que sea c\u00f3moda la lectura<br \/><\/p>","content":"<p>Pues a mi con iOS5 e iPad original me dura una bestialidad,10h... eso s\u00ed, jugando se gasta antes...<\/p><p>El problema es que la gente no gestiona bien las notificaciones, muchas aplicaciones piden acceder al servicio de notificaciones y de localizaci\u00f3n y la gentr acepta,es necesario limitarlo. Tambi\u00e9n alargo la duraci\u00f3n de la bater\u00eda poniendolo en modo avi\u00f3n cuando no lo uso o cuando simplemente leo un libro\/revista o juego offline y ajustando el brillo al m\u00ednimo y que sea c\u00f3moda la lectura<br><\/p>","karma":"8.00","parent":"0","comment_edited_date":1331377698,"vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"mikilink","user_id":"58313","author":"","webpage":null,"user_name":"mikilink","karma_level":"54.00","iseditor":"0","global_id":"265987","facebook_uid":"566862397","index":11,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/566862397\/picture"},{"id":"391672","post_id":"67770","date":1334590859,"content_filtered":"<p>Yo he desactivado por defecto la geolocalizaci\u00f3n.<\/p>","content":"Yo he desactivado por defecto la geolocalizaci\u00f3n.","karma":"5.00","parent":"387574","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Jesus","user_id":"97424","author":"Jesus","webpage":"http:\/\/malaga.awardspace.co.uk\/","user_name":"nsul","karma_level":"20.00","iseditor":"0","global_id":"469782","facebook_uid":null,"index":18,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/469782_1.png"},{"id":"387517","post_id":"67770","date":1331326907,"content_filtered":"<p>Yo no me quejaba en exceso de la duraci\u00f3n de bater\u00eda con iOS 5.0.1 en mi 4S, y tampoco he notado que se haya incrementado la con iOS 5.1...<\/p>","content":"Yo no me quejaba en exceso de la duraci\u00f3n de bater\u00eda con iOS 5.0.1 en mi 4S, y tampoco he notado que se haya incrementado la con iOS 5.1...","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Lucas","user_id":"73306","author":"Lucas","webpage":"http:\/\/thtswhtisaid.com","user_name":"antiheroe","karma_level":"25.00","iseditor":"0","global_id":"10579","facebook_uid":null,"index":2,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/10579_1.png"},{"id":"387559","post_id":"67770","date":1331364154,"content_filtered":"<p>Debo ser uno de los pocos afortunados para los que el rendimiento de la bater\u00eda en su iPad2 ya sea con iOS4, 5 o 5.1 no es un problema. Me dura lo mismo (si no igual, casi igual) con las tres versiones.<\/p>\n\n<p>Habr\u00e1 que esperar un poco m\u00e1s a que se extienda iOS 5.1 para ver las opiniones de los consumidores que notaron esa bajada dr\u00e1stica con la actualizaci\u00f3n a iOS5.<\/p>\n\n<p>Salu2!!<\/p>","content":"Debo ser uno de los pocos afortunados para los que el rendimiento de la bater\u00eda en su iPad2 ya sea con iOS4, 5 o 5.1 no es un problema. Me dura lo mismo (si no igual, casi igual) con las tres versiones.\n\nHabr\u00e1 que esperar un poco m\u00e1s a que se extienda iOS 5.1 para ver las opiniones de los consumidores que notaron esa bajada dr\u00e1stica con la actualizaci\u00f3n a iOS5.\n\nSalu2!!","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"60723","user_id":"60723","author":"","webpage":"http:\/\/aj2r.es","user_name":"arodriguezrios","karma_level":"22.00","iseditor":"0","global_id":"282188","facebook_uid":"1250015513","index":6,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1250015513\/picture"},{"id":"387561","post_id":"67770","date":1331367832,"content_filtered":"<p>A mi la bateria me dura medio dia mas, y lo sigo utilizando igual, para ver correos facebook, twitter, whatsaap, internnet....\nEsta actualizacion a mi me va mejor<\/p>","content":"A mi la bateria me dura medio dia mas, y lo sigo utilizando igual, para ver correos facebook, twitter, whatsaap, internnet....\nEsta actualizacion a mi me va mejor","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"David Rodriguez Carvajal","user_id":"50566","author":"David Rodriguez Carvajal","webpage":"http:\/\/www.lauramontano.es","user_name":"davidcarvajal1","karma_level":"25.00","iseditor":"0","global_id":"187987","facebook_uid":"1358786888","index":7,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1358786888\/picture"},{"id":"387567","post_id":"67770","date":1331372627,"content_filtered":"<p>Por favor, decidme que no soy el \u00fanico al que con iOS 5.1 le dura la bater\u00eda la mitad que con iOS 5.0.1 en el iPod touch 4G. Y lo uso lo mismo que antes...<\/p>","content":"Por favor, decidme que no soy el \u00fanico al que con iOS 5.1 le dura la bater\u00eda la mitad que con iOS 5.0.1 en el iPod touch 4G. Y lo uso lo mismo que antes...","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Bourne","user_id":"81623","author":"Bourne","webpage":null,"user_name":"perigali","karma_level":"20.00","iseditor":"0","global_id":"305068","facebook_uid":null,"index":9,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/305068_2.png"},{"id":"387695","post_id":"67770","date":1331437283,"content_filtered":"<p>Me pasa lo mismo.<\/p>","content":"Me pasa lo mismo.","karma":"5.00","parent":"387567","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"37170","user_id":"37170","author":"","webpage":null,"user_name":"santiagoeze123","karma_level":"22.00","iseditor":"0","global_id":"192813","facebook_uid":"1651253756","index":16,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1651253756\/picture"},{"id":"387587","post_id":"67770","date":1331385306,"content_filtered":"<p>el 4S me dura un 10% mas que antes con 3G activado viendo emails, facebook, whatsApp. creo que algunos estamos notando el cambio pero en definitiva estoy de acuerdo con que se debe mejorar aun mas y se agradecen todas las dem\u00e1s mejoras.<\/p>","content":"el 4S me dura un 10% mas que antes con 3G activado viendo emails, facebook, whatsApp. creo que algunos estamos notando el cambio pero en definitiva estoy de acuerdo con que se debe mejorar aun mas y se agradecen todas las dem\u00e1s mejoras.","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Alberto Mazza","user_id":"105970","author":"Alberto Mazza","webpage":null,"user_name":"tedy22","karma_level":"15.00","iseditor":"0","global_id":"87323","facebook_uid":null,"index":12,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/87323_1.png"},{"id":"387597","post_id":"67770","date":1331389328,"content_filtered":"<p>Consejo para mejor rendimiento de la bateria, en el apartado localizaciones del iphone, desactiven las localizaciones para Siri.<\/p>","content":"Consejo para mejor rendimiento de la bateria, en el apartado localizaciones del iphone, desactiven las localizaciones para Siri.","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"105973","user_id":"105973","author":"","webpage":null,"user_name":null,"karma_level":"12.00","iseditor":"0","global_id":"531708","facebook_uid":"1570741873","index":13,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1570741873\/picture"},{"id":"387613","post_id":"67770","date":1331397908,"content_filtered":"<p>Parece ser que en mi caso, con la versi\u00f3n 5.1 me dura la bateria 1 d\u00eda mas.<\/p>","content":"Parece ser que en mi caso, con la versi\u00f3n 5.1 me dura la bateria 1 d\u00eda mas.","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"105978","user_id":"105978","author":"","webpage":null,"user_name":null,"karma_level":"12.00","iseditor":"0","global_id":"531745","facebook_uid":"605524705","index":14,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/605524705\/picture"},{"id":"387650","post_id":"67770","date":1331411114,"content_filtered":"<p>Pues la mejora en mi 3GS en reposo ha sido muy considerable. Antes cargaba al 100% por la noche y apagando los datos m\u00f3viles (para que no me fr\u00edan a notificaciones mientras duermo) a las 6 horas que me levantaba la bater\u00eda estaba al 85%.\nAnoche hice exactamente lo mismo y a las 9 horas (es finde, jeje) la bater\u00eda estaba al 97%. <\/p>\n\n<p>Para un aparato con tant\u00edsima tralla en la bater\u00eda desde que me lo compr\u00e9 (es viejito el pobre) la bater\u00eda est\u00e1 en niveles m\u00e1s que decentes... y ahora con la 5.1, much\u00edsimo mejor. No puedo quejarme.<\/p>\n\n<p>En el iPad 2 no s\u00e9 si ha mejorado algo porque al bicho le dura la bater\u00eda una bestialidad siempre... no s\u00e9 si ahora dura una bestialidad + algo m\u00e1s o no... ni me importa...<\/p>","content":"Pues la mejora en mi 3GS en reposo ha sido muy considerable. Antes cargaba al 100% por la noche y apagando los datos m\u00f3viles (para que no me fr\u00edan a notificaciones mientras duermo) a las 6 horas que me levantaba la bater\u00eda estaba al 85%.\nAnoche hice exactamente lo mismo y a las 9 horas (es finde, jeje) la bater\u00eda estaba al 97%. \n\nPara un aparato con tant\u00edsima tralla en la bater\u00eda desde que me lo compr\u00e9 (es viejito el pobre) la bater\u00eda est\u00e1 en niveles m\u00e1s que decentes... y ahora con la 5.1, much\u00edsimo mejor. No puedo quejarme.\n\nEn el iPad 2 no s\u00e9 si ha mejorado algo porque al bicho le dura la bater\u00eda una bestialidad siempre... no s\u00e9 si ahora dura una bestialidad + algo m\u00e1s o no... ni me importa...","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"cascaman","user_id":"105994","author":"cascaman","webpage":null,"user_name":null,"karma_level":"12.00","iseditor":"0","global_id":"3676","facebook_uid":null,"index":15,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/a3e0a09917f2eebc09e24ad50efd26da"},{"id":"387516","post_id":"67770","date":1331325161,"content_filtered":"<p>Yo he notado mejoria. Por fin la recargu\u00e9 al 100% la noche que sacaron la version 5.1 y al dia siguiente seguia estando en 100%...xD Pero ahora, en el tercer dia, 81% y eso sin usar el telefono... En fin, no se, ya ni me acuerdo cuanto duraba antes de la iOS 5 pero recuerdo perfectamente, que cuando actualic\u00e9, la bajada de bateria se notaba notablemente...<\/p>","content":"<p>Yo he notado mejoria. Por fin la recargu\u00e9 al 100% la noche que sacaron la version 5.1 y al dia siguiente seguia estando en 100%...xD Pero ahora, en el tercer dia, 81% y eso sin usar el telefono... En fin, no se, ya ni me acuerdo cuanto duraba antes de la iOS 5 pero recuerdo perfectamente, que cuando actualic\u00e9, la bajada de bateria se notaba notablemente...<\/p>","karma":"-5.00","parent":"0","comment_edited_date":"","vote_count":"4","comment_level":4,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"tupadre","user_id":"80504","author":"","webpage":null,"user_name":"tupadre","karma_level":"20.00","iseditor":"0","global_id":"138429","facebook_uid":null,"index":1,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/138429_3.png"},{"id":"387550","post_id":"67770","date":1331346734,"content_filtered":"<p>\u00bfPero tu para que usas el iphone?<\/p>","content":"<p>\u00bfPero tu para que usas el iphone?<\/p>","karma":"45.50","parent":"387516","comment_edited_date":"","vote_count":"6","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"David Cienfuegos Rodriguez","user_id":"48476","author":"David Cienfuegos Rodriguez","webpage":"http:\/\/www.davidcienfuegos.com","user_name":"cienfu","karma_level":"35.00","iseditor":"0","global_id":"198752","facebook_uid":"1359872038","index":4,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/198752_2.png"},{"id":"387556","post_id":"67770","date":1331353754,"content_filtered":"<p>Eins? xDD<\/p>","content":"<p>Eins? xDD<\/p>","karma":"-5.00","parent":"387550","comment_edited_date":"","vote_count":"4","comment_level":4,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"tupadre","user_id":"80504","author":"","webpage":null,"user_name":"tupadre","karma_level":"20.00","iseditor":"0","global_id":"138429","facebook_uid":null,"index":5,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/138429_3.png"},{"id":"387564","post_id":"67770","date":1331369924,"content_filtered":"<p>\u00bf3 d\u00edas y la bater\u00eda del iphone al 81% de carga?<\/p>\n\n<p>O sea que lo enciendes pero no lo usas para nada...<\/p>","content":"\u00bf3 d\u00edas y la bater\u00eda del iphone al 81% de carga?\n\nO sea que lo enciendes pero no lo usas para nada...","karma":"5.00","parent":"387516","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"dacotinho","user_id":"78266","author":"","webpage":null,"user_name":"dacotinho","karma_level":"38.00","iseditor":"0","global_id":"365997","facebook_uid":null,"index":8,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/365997_1.png"},{"id":"387572","post_id":"67770","date":1331376694,"content_filtered":"<p>error, lo enciende un minuto para ver la carga de la bater\u00eda, y lo apaga, yo hago la mismo, y el iphone me ha lleagdo a aguanter 3 semanas! xDDDD<\/p>","content":"<p>error, lo enciende un minuto para ver la carga de la bater\u00eda, y lo apaga, yo hago la mismo, y el iphone me ha lleagdo a aguanter 3 semanas! xDDDD<\/p>","karma":"30.00","parent":"387564","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"92022","user_id":"92022","author":"","webpage":null,"user_name":null,"karma_level":"17.00","iseditor":"0","global_id":"337791","facebook_uid":"553518601","index":10,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/553518601\/picture"},{"id":"387836","post_id":"67770","date":1331510385,"content_filtered":"<p>A vale, ya entiendo los votos negativos...<\/p>\n\n<p>No, es simplemente que practicamente no lo uso para mas que llamar, ver correo, facebook muy de vez en cuando (no me acostumbro a verlo aun desde el movil, prefiero el ordenador) y poco m\u00e1s, no me pongo a trastear con el todo los dias de dios... tengo otras cosas que hacer.<\/p>","content":"<p>A vale, ya entiendo los votos negativos...<\/p>\n\n<p>No, es simplemente que practicamente no lo uso para mas que llamar, ver correo, facebook muy de vez en cuando (no me acostumbro a verlo aun desde el movil, prefiero el ordenador) y poco m\u00e1s, no me pongo a trastear con el todo los dias de dios... tengo otras cosas que hacer.<\/p>","karma":"5.00","parent":"387564","comment_edited_date":1331510556,"vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"tupadre","user_id":"80504","author":"","webpage":null,"user_name":"tupadre","karma_level":"20.00","iseditor":"0","global_id":"138429","facebook_uid":null,"index":17,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/138429_3.png"}],"meta":{"more_records":"false","start":0,"total":18,"order":"valued","totalCount":18},"commentStatus":"closed"});
+
+	window.App = new AML.Comments.Application(67770, commentList);
+	Backbone.history.start();
+      });
+    </script>
+
+  <!-- Comments and Other Stuff -->
+
+  <div id="ad-bottom" class="ad ad-boton">
+  <a class="ad-contact" id="div-gpt-bot-contact" style="display:none" href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-bot' class="ad-box" style='width: 728px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-bot");
+    });
+    </script>
+    </div>
+</div>
+
+  <!-- .ad - boton -->
+  <div class="sidebar-seo-links">
+    <h4>Más en Genbeta</h4>
+    <ul>
+              <li>
+          <a  href="/multimedia/bittorrent-live-el-streaming-p2p-llegara-pronto-a-los-moviles" class="thumb80">
+            <img title="Bittorrent Live, el streaming P2P, llegará pronto a los móviles " src="http://img.genbeta.com/tb/80_80/110968.jpg" alt="Bittorrent Live, el streaming P2P, llegará pronto a los móviles ">
+          </a>
+          <a  href="/multimedia/bittorrent-live-el-streaming-p2p-llegara-pronto-a-los-moviles">
+            Bittorrent Live, el streaming P2P, llegará pronto a los móviles 
+          </a>
+        </li>
+              <li>
+          <a  href="/movil/cuanto-vale-realmente-viber-y-por-que-rakuten-ha-decidido-comprarlo" class="thumb80">
+            <img title="¿Cuánto vale realmente Viber y por qué Rakuten ha decidido comprarlo? " src="http://img.genbeta.com/tb/80_80/110947.jpg" alt="¿Cuánto vale realmente Viber y por qué Rakuten ha decidido comprarlo? ">
+          </a>
+          <a  href="/movil/cuanto-vale-realmente-viber-y-por-que-rakuten-ha-decidido-comprarlo">
+            ¿Cuánto vale realmente Viber y por qué Rakuten ha decidido comprarlo? 
+          </a>
+        </li>
+              <li>
+          <a  href="/movil/rakuten-compra-viber-por-900-millones-de-dolares" class="thumb80">
+            <img title="Rakuten compra Viber por 900 millones de dólares " src="http://img.genbeta.com/tb/80_80/110937.jpg" alt="Rakuten compra Viber por 900 millones de dólares ">
+          </a>
+          <a  href="/movil/rakuten-compra-viber-por-900-millones-de-dolares">
+            Rakuten compra Viber por 900 millones de dólares 
+          </a>
+        </li>
+              <li>
+          <a  href="/movil/blackberry-no-se-rinde-y-lanza-la-segunda-version-de-bbm-para-ios-y-android" class="thumb80">
+            <img title="BlackBerry no se rinde y lanza la segunda versión de BBM para iOS y Android " src="http://img.genbeta.com/tb/80_80/110925.jpg" alt="BlackBerry no se rinde y lanza la segunda versión de BBM para iOS y Android ">
+          </a>
+          <a  href="/movil/blackberry-no-se-rinde-y-lanza-la-segunda-version-de-bbm-para-ios-y-android">
+            BlackBerry no se rinde y lanza la segunda versión de BBM para iOS y Android 
+          </a>
+        </li>
+              <li>
+          <a  href="/movil/tizen-puede-debutar-con-la-capacidad-de-ejecutar-aplicaciones-para-android" class="thumb80">
+            <img title="Tizen puede debutar con la capacidad de ejecutar aplicaciones para Android " src="http://img.genbeta.com/tb/80_80/110922.jpg" alt="Tizen puede debutar con la capacidad de ejecutar aplicaciones para Android ">
+          </a>
+          <a  href="/movil/tizen-puede-debutar-con-la-capacidad-de-ejecutar-aplicaciones-para-android">
+            Tizen puede debutar con la capacidad de ejecutar aplicaciones para Android 
+          </a>
+        </li>
+          </ul>
+</div>
+<!-- related-posts SEO links-->
+       
+    </div>
+  <!-- .container -->
+  </div>
+  <!-- .content-dinamic -->
+
+  <div class= "nav nav-blog">
+  <div class= "container">
+    <h2><strong>&#43;</strong> en Genbeta</h2>
+    <ul>
+      <li class= "blog-section section-lomejor"><a href="/lomejor">Lo mejor</a></li>
+      <li class= "blog-section section-temas"><a href="/archivos">Temas</a></li>
+            <li class= "blog-section section-productos"><a href="/productos">Productos</a></li>
+                  <li class= "blog-section section-respuestas"><a href="/respuestas">Respuestas</a></li>
+            
+            <li class="blog-section section-club"><a href="/club">Club</a></li>
+            <li class= "blog-section section-comunidad"><a href="/comunidad">Comunidad</a></li>
+      <li class="blog-section section-staff"><a href="/quienes-somos">Staff</a></li>
+    </ul>
+  </div>
+</div>
+  
+<div class="footer">
+        <div class="footer-media">
+                <div class="links-category">
+            <h2>Tecnología</h2>
+            <ul>
+                              <li class="tec-xataka"><a href="http://www.xataka.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka<span></span></a></li>
+                              <li class="tec-xatakamovil"><a href="http://www.xatakamovil.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Móvil<span></span></a></li>
+                              <li class="tec-xatakafoto"><a href="http://www.xatakafoto.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Foto<span></span></a></li>
+                              <li class="tec-xatakandroid"><a href="http://www.xatakandroid.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Android<span></span></a></li>
+                              <li class="tec-xatakaon"><a href="http://www.xatakaon.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka On<span></span></a></li>
+                              <li class="tec-xatakahome"><a href="http://www.xatakahome.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Smart Home<span></span></a></li>
+                              <li class="tec-xatakawindows"><a href="http://xatakawindows.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Windows<span></span></a></li>
+                              <li class="tec-xatakaciencia"><a href="http://www.xatakaciencia.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Ciencia<span></span></a></li>
+                              <li class="tec-applesfera"><a href="http://www.applesfera.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Applesfera<span></span></a></li>
+                              <li class="tec-vidaextra"><a href="http://www.vidaextra.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vida Extra<span></span></a></li>
+                              <li class="tec-genbeta"><a href="http://www.genbeta.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Genbeta<span></span></a></li>
+                              <li class="tec-genbetadev"><a href="http://www.genbetadev.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Genbeta Dev<span></span></a></li>
+                          </ul>
+        </div>
+            </div>
+    
+    <div class="footer-links">
+                        <div class="links-category">
+            <h2>Estilos de vida</h2>
+            <ul>
+                              <li><a href="http://www.trendencias.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias</a></li>
+                              <li><a href="http://www.trendenciasbelleza.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Belleza</a></li>
+                              <li><a href="http://www.trendenciashombre.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Hombre</a></li>
+                              <li><a href="http://www.trendenciasshopping.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Shopping</a></li>
+                              <li><a href="http://www.trendenciaslifestyle.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Lifestyle</a></li>
+                              <li><a href="http://www.directoalpaladar.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Directo al Paladar</a></li>
+                              <li><a href="http://www.bebesymas.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bebés y Más</a></li>
+                              <li><a href="http://www.pequesymas.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Peques y Más</a></li>
+                              <li><a href="http://www.vitonica.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vitónica</a></li>
+                              <li><a href="http://www.decoesfera.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Decoesfera</a></li>
+                              <li><a href="http://www.embelezzia.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Embelezzia</a></li>
+                              <li><a href="http://www.ambienteg.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ambiente G</a></li>
+                              <li><a href="http://www.poprosa.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Poprosa</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Motor</h2>
+            <ul>
+                              <li><a href="http://www.motorpasion.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión</a></li>
+                              <li><a href="http://www.motorpasionf1.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión F1</a></li>
+                              <li><a href="http://www.motorpasionmoto.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Moto</a></li>
+                              <li><a href="http://www.motorpasionfuturo.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Futuro</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Ocio</h2>
+            <ul>
+                              <li><a href="http://www.blogdecine.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog de Cine</a></li>
+                              <li><a href="http://www.vayatele.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">¡Vaya Tele!</a></li>
+                              <li><a href="http://www.hipersonica.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Hipersónica</a></li>
+                              <li><a href="http://www.diariodelviajero.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Diario del Viajero</a></li>
+                              <li><a href="http://www.papelenblanco.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Papel en Blanco</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Economía</h2>
+            <ul>
+                              <li><a href="http://www.elblogsalmon.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">El Blog Salmón</a></li>
+                              <li><a href="http://www.pymesyautonomos.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Pymes y Autónomos</a></li>
+                              <li><a href="http://www.tecnologiapyme.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Tecnología Pyme</a></li>
+                              <li><a href="http://www.ahorrodiario.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ahorro Diario</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Latinoamérica</h2>
+            <ul>
+                              <li><a href="http://www.xataka.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Brasil</a></li>
+                              <li><a href="http://www.trendencias.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Brasil</a></li>
+                              <li><a href="http://www.motorpasion.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Brasil</a></li>
+                              <li><a href="http://www.xataka.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka México</a></li>
+                              <li><a href="http://www.motorpasion.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión México</a></li>
+                              <li><a href="http://www.directoalpaladar.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Directo Al Paladar México</a></li>
+                              <li><a href="http://www.xatakandroid.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Android México</a></li>
+                              <li><a href="http://www.vidaextra.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vida Extra México</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Participamos en</h2>
+            <ul>
+                              <li><a href="http://www.ebayers.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">eBayers</a></li>
+                              <li><a href="http://www.circulaseguro.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Circula Seguro</a></li>
+                              <li><a href="http://www.circulaseguro.pt/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Circula Seguro PT</a></li>
+                              <li><a href="http://www.actibva.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Actibva</a></li>
+                              <li><a href="http://www.anexom.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Anexo M</a></li>
+                              <li><a href="http://blog.cocacola.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Happing Magazine</a></li>
+                              <li><a href="http://blog.sage.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog Sage</a></li>
+                              <li><a href="http://www.optimismodigital.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Optimismo Digital</a></li>
+                              <li><a href="http://www.1001experiencias.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">1001 Experiencias</a></li>
+                              <li><a href="http://www.ennaranja.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">En Naranja</a></li>
+                              <li><a href="http://www.essieblog.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Essie Blog</a></li>
+                              <li><a href="http://blogginzenith.zenithmedia.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bloggin Zenith</a></li>
+                              <li><a href="http://www.urbanfire.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Urbanfire</a></li>
+                              <li><a href="http://www.tecnologiadetuatu.elcorteingles.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Tecnología de tú a tú</a></li>
+                              <li><a href="http://www.ciudadano00.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ciudadano 0,0</a></li>
+                              <li><a href="http://blogfanta.cocacola.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog Fanta</a></li>
+                              <li><a href="http://mimundo.philips.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Mi Mundo Philips</a></li>
+                              <li><a href="http://www.bbvacontuempresa.es?utm_source=genbeta&utm_medium=network&utm_campaign=footer">BBVA con tu empresa</a></li>
+                              <li><a href="http://www.perutravelblog.net/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Perú Travel Blog</a></li>
+                              <li><a href="http://bscene.bershka.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bershka Bscene</a></li>
+                              <li><a href="http://www.institutodelafelicidad.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Instituto de la Felicidad</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                    </div>
+</div>
+
+<div class="closure">
+    <div class="container">
+        <div class="weblogssl"><a href="http://www.weblogssl.com">Weblogs SL<span></span></a></div>
+        <ul class="nav">
+            <li><a href="/quienes-somos">¿Quienes somos?</a></li>
+            <li><a href="http://www.weblogssl.com/contenidos">Condiciones de uso</a></li>
+            <li><a href="http://www.weblogssl.com/cookies">Política de cookies</a></li>
+            <li><a href="http://www.weblogssl.com/aviso">Aviso legal</a></li>
+            <li><a title="Publicidad en Genbeta" href="http://www.socialmediasl.com/genbeta.php">Publicidad</a></li>
+            <li><a href="/ayuda-2012">Ayuda</a></li>
+            <li><a href="/contacto">Contacto</a></li>
+        </ul>
+    </div>
+</div>
+
+<div id="cookies-overlay"></div>
+
+  <script type="text/javascript">
+    $(function() {
+      new AML.Auth.View.CookiesOverlayView;
+    });
+  </script>
+
+</div>
+<div id="favicons-list">
+
+    <div class="userbar">
+        <a class="head-shortcut" href="#body" title="Volver arriba">&uarr;</a>
+        <div class="userbox" id="wsl_userbox">
+        </div>
+
+        <div class="favicons" style="width: auto; ">
+
+            <div id="scroll-menu">
+
+                <div class="disabledHotSpotLeft">«</div>
+                <div class="disabledHotSpotRight">»</div>
+                <div class="scrollingHotSpotLeft">«</div>
+                <div class="scrollingHotSpotRight">»</div>
+
+                <div class="scrollWrapper">
+                    <div class="scrollableArea">
+
+                        <ul class="favicroll">
+                            <li id="wsl"><a target="_top" href="http://www.weblogssl.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><em><strong>Blog corporativo</strong></em></a></li>
+
+                            <li><a target="_top" href="http://www.xataka.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b1"><strong>XTK</strong></span> <em><strong>Xataka - Gadgets y electrónica de consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vidaextra.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b2"><strong>VX</strong></span> <em><strong>VidaExtra - Videojuegos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.blogdecine.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b3"><strong>BDC</strong></span> <em><strong>Blog de cine - Cine  y críticas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.elblogsalmon.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b5"><strong>EBS</strong></span> <em><strong>El Blog Salmón - Economía y finanzas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.genbeta.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b6"><strong>GBT</strong></span> <em><strong>Genbeta - Software</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasion.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b7"><strong>MP</strong></span> <em><strong>MotorPasión - Coches y motor</strong></em></a></li>
+                            <li><a target="_top" href="http://www.directoalpaladar.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b8"><strong>DAP</strong></span> <em><strong>Directo al paladar - Gastronomía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.bebesymas.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b9"><strong>BYM</strong></span> <em><strong>Bebés y más - Todo sobre bebés</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vayatele.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b11"><strong>VYT</strong></span> <em><strong>¡Vaya Tele! - Series y televisión</strong></em></a></li>
+                            <li><a target="_top" href="http://www.diariodelviajero.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b12"><strong>DDV</strong></span> <em><strong>Diario del viajero - Viajes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakaciencia.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b13"><strong>XCI</strong></span> <em><strong>Xataka Ciencia - Ciencia</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendencias.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b14"><strong>TRE</strong></span> <em><strong>Trendencias - Moda y tendencias</strong></em></a></li>
+                            <li><a target="_top" href="http://www.hipersonica.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b15"><strong>HIP</strong></span> <em><strong>HiperSónica - Música</strong></em></a></li>
+                            <li><a target="_top" href="http://www.applesfera.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b16"><strong>APP</strong></span> <em><strong>Applesfera - Apple</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasshopping.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b17"><strong>COM</strong></span> <em><strong>Trendencias Shopping - Compras y consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakamovil.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b18"><strong>XTM</strong></span> <em><strong>Xataka Móvil - Móviles</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ambienteg.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b19"><strong>AMG</strong></span> <em><strong>Ambiente G - Gays y lesbianas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionmoto.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b20"><strong>MMO</strong></span> <em><strong>Motorpasión Moto - Motos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.papelenblanco.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b21"><strong>PEB</strong></span> <em><strong>Papel en blanco - Literatura</strong></em></a></li>
+                            <li><a target="_top" href="http://www.decoesfera.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b22"><strong>DEC</strong></span> <em><strong>Decoesfera - Decoración e interiorismo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionf1.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b23"><strong>MF1</strong></span> <em><strong>Motorpasión F1 - Carreras</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vitonica.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b24"><strong>VIT</strong></span> <em><strong>Vitónica - Vida sana</strong></em></a></li>
+                            <li><a target="_top" href="http://www.embelezzia.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b25"><strong>EMB</strong></span> <em><strong>Embelezzia - Lujo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.poprosa.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b26"><strong>POP</strong></span> <em><strong>Poprosa - Famosos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakafoto.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b27"><strong>XTF</strong></span> <em><strong>Xataka Foto - Fotografía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.pymesyautonomos.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b28"><strong>PYA</strong></span> <em><strong>Pymes y autónomos - Pymes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasbelleza.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b30"><strong>TRB</strong></span> <em><strong>Trendencias Belleza - Belleza y cosmética</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.tecnologiapyme.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b34"><strong>TPY</strong></span> <em><strong>Tecnología Pyme - Tecnología para empresas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ahorrodiario.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b35"><strong>AHD</strong></span> <em><strong>Ahorro Diario - Ahorro</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciashombre.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b36"><strong>TRH</strong></span> <em><strong>Trendencias Hombre - Moda y estilo masculino</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.pequesymas.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b37"><strong>PEQ</strong></span> <em><strong>Peques y más - Niños e infancia</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakaon.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b39"><strong>XTO</strong></span> <em><strong>Xataka On - Todo sobre conectividad, ADSL</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakandroid.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b40"><strong>XTA</strong></span> <em><strong>Xataka Android - Android, aplicaciones y dispositivos</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.genbetadev.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b41"><strong>GBD</strong></span> <em><strong>Genbeta Dev - Desarrollo de software</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.motorpasionfuturo.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b42"><strong>MPF</strong></span> <em><strong>Motorpasión Futuro - Innovación y Motor</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakahome.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b44"><strong>XSH</strong></span> <em><strong>Xataka Smart Home - Inteligencia doméstica digital</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakawindows.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b45"><strong>XTW</strong></span> <em><strong>Xataka Windows - Universo Microsoft</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciaslifestyle.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b46"><strong>TLS</strong></span> <em><strong>Trendencias Lifestyle</strong></em></a></li>
+                        </ul>
+
+                    </div>
+                </div>
+                <!-- .scrollWrapper-->
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<div id="wsl_dialog"></div>
+<script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', function() {
+  try {
+    if (window.external.msIsSiteMode()) {
+      window.external.msSiteModeClearJumpList();
+      window.external.msSiteModeCreateJumplist('Mensajes Recientes');
+            window.external.msSiteModeAddJumpListItem('Office\x20para\x20iPad,\x20m\u00E1s\x20pronto\x20que\x20tarde\x3A\x20para\x20la\x20primera\x20mitad\x20de\x202014', 'http://www.genbeta.com/ofimatica/office-para-ipad-mas-pronto-que-tarde-para-la-primera-mitad-de-2014', '');
+            window.external.msSiteModeAddJumpListItem('Bittorrent\x20Live,\x20el\x20streaming\x20P2P,\x20llegar\u00E1\x20pronto\x20a\x20los\x20m\u00F3viles\x20', 'http://www.genbeta.com/multimedia/bittorrent-live-el-streaming-p2p-llegara-pronto-a-los-moviles', '');
+            window.external.msSiteModeAddJumpListItem('La\x20hipocres\u00EDa\x20de\x20algunos\x20medios\x20tradicionales.\x20La\x20imagen\x20de\x20la\x20semana\x20', 'http://www.genbeta.com/actualidad/la-hipocresia-de-algunos-medios-tradicionales-la-imagen-de-la-semana', '');
+            window.external.msSiteModeAddJumpListItem('\x22Tasa\x20Google\x22\x3A\x20si\x20tienes\x20un\x20blog\x20tambi\u00E9n\x20te\x20afecta,\x20solo\x20que\x20otros\x20la\x20cobrar\u00E1n\x20por\x20ti\x20', 'http://www.genbeta.com/actualidad/tasa-google-si-tienes-un-blog-tambien-te-afecta-solo-que-otros-la-cobraran-por-ti', '');
+            window.external.msSiteModeAddJumpListItem('Kickstarter,\x20tras\x20sufrir\x20un\x20ataque,\x20recomienda\x20cambiar\x20contrase\u00F1as\x20', 'http://www.genbeta.com/web/kickstarter-tras-sufrir-un-ataque-recomienda-cambiar-contrasenas', '');
+            window.external.msSiteModeShowJumpList();
+    }
+  } catch (exp) {
+    // do nothing
+  }
+  });
+</script>
+
+
+<script type='text/javascript'>
+    (function() {
+      new ViceVersaLink("http://t.genbeta.com");
+    })();
+</script>
+
+<script type='text/javascript'>
+  window.onerror = function(message, file, line) {
+    var sFormattedMessage = '[' + file + ' (' + line + ')] ' + message;
+    _gaq.push(['_trackEvent', 'Errors', 'Browser', sFormattedMessage, null, true]);
+  }
+    
+</script>
+
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-5.newrelic.com","09bdee14ae","1094498","ZgdUZxMAW0EDARULCl9NdUYSFVpfTRIOERFhA1FW",0,210,new Date().getTime(),"","","","",""]);</script></body>
+</html>

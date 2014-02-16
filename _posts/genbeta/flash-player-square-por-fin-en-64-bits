@@ -1,0 +1,894 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+                                                                                                                                                                                                                                                                                <title>Flash Player "Square", por fin en 64 bits</title>
+                  <meta name="description" content="Buenas noticias para aquellos usuarios que pedían a gritos la salida de una versión del Adobe Flash Player para arquitecturas de 64 bits. En la..." />
+            <meta name="news_keywords" content="Adobe, Flash, lanzamiento"/>
+       
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />    
+    <meta name='robots' content='noodp' />
+    <meta property="fb:admins" content="100000716994885"/>
+    <meta name="application-name" content="Genbeta"/>
+    <meta name="msapplication-tooltip" content="Software y web. Genbeta"/>
+    <meta name="msapplication-starturl" content="http://www.genbeta.com"/>
+    <meta name="msapplication-task" content="name=Lo mejor;action-uri=http://www.genbeta.com/lomejor;icon-uri=http://img.genbeta.com/lp2/v6/images/pin-bg-lomejor-icon.ico" />
+        <meta name="msapplication-task" content="name=Respuestas;action-uri=http://www.genbeta.com/respuestas;icon-uri=http://img.genbeta.com/lp2/v6/images/pin-bg-respuestas-icon.ico" />
+                <!--[if !IE]><!--> <link rel="shortcut icon" href="http://img.genbeta.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if lt IE 9]><!--> <link rel="shortcut icon" href="http://img.genbeta.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if gte IE 9]>
+            <link rel="shortcut icon" type="image/x-icon" href="http://img.genbeta.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+            <link rel=icon type="image/ico" href="http://img.genbeta.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+        <![endif]-->
+    
+    <link rel="apple-touch-icon" href="http://img.genbeta.com/lp2/mobile/images/apple-touch-icon.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-57-precomposed.png">
+
+        <link rel="stylesheet" type="text/css" href="http://img.genbeta.com/lp2/v6/main.css?v=24272">
+        <link rel="publisher" href="http://plus.google.com/106643481235450321345" />
+    <link rel="alternate" type="application/rss+xml" title="" href="/index.xml" />
+    <!--[if lt IE 7]>
+      <link rel="stylesheet" type="text/css" href="http://img.genbeta.com/lp2/v6/ie7.css">
+    <![endif]-->
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', "UA-78515-6"]);
+  _gaq.push(['_setCampaignCookieTimeout', 259200000]);
+  _gaq.push(['_setDomainName', ".genbeta.com"]);
+  _gaq.push(['_setSiteSpeedSampleRate', 5]);
+  _gaq.push(['t2._setAccount', "UA-78515-62"]);
+  _gaq.push(['t2._setCampaignCookieTimeout', 259200000]);
+  _gaq.push(['t2._setDomainName', ".genbeta.com"]);
+  (function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') +       '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  })();
+</script>
+
+ <link rel="canonical" href="http://www.genbeta.com/multimedia/flash-player-square-por-fin-en-64-bits" />
+ <link rel="image_src" href="http://img.genbeta.com/resize/75/thumbnails/b/57748.jpg" />
+ <meta property="og:title" content="Flash Player &quot;Square&quot;, por fin en 64 bits">
+ <meta property="og:description" content="Buenas noticias para aquellos usuarios que pedían a gritos la salida de una versión del Adobe Flash Player para arquitecturas de 64 bits. En la...">
+ <meta property="og:image" content="http://img.genbeta.com/original/57748.jpg">
+    <script>
+    _gaq.push(['t2._setPageGroup', '1', 'post']);
+    _gaq.push(['t2._setPageGroup', '2', "miguel julián"]);
+    _gaq.push(['t2._setPageGroup', '3', "multimedia"]);
+    _gaq.push(['t2._setPageGroup', '4', "normal"]);
+    _gaq.push(['_setPageGroup', '1', 'post']);
+    _gaq.push(['_setPageGroup', '2', "miguel julián"]);
+    _gaq.push(['_setPageGroup', '3', "multimedia"]);
+    _gaq.push(['_setPageGroup', '4', "normal"]);
+       </script>
+   </head>
+       <body id="body" class="article-single">
+
+    <script type='text/javascript'>
+    var MAX_source = "";
+    var GPTcats = ["multimedia", "navegadores"];
+    var GPTtags = ["adobe", "flash", "lanzamiento"];
+      </script>
+      <script type='text/javascript'>
+googletag.pubads().setTargeting("origin", "direct").setTargeting("screen", screen.width.toString()).setTargeting("cat", GPTcats).setTargeting("tag", GPTtags);
+if (navigator.userAgent.match(/iPad/i) != null) {
+  googletag.pubads().setTargeting("ua", "ipad");
+} 
+ 
+googletag.defineSlot('/4712/GEB/interior_top', [1000, 40], 'div-gpt-top').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_lateral', [[160, 600], [200,600], [300,600], [300,250]], 'div-gpt-lat').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_central', [[300, 250], [400,400], [1000,250]], 'div-gpt-cen').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_central2', [[300, 250],[400,400],[690, 250]], 'div-gpt-cen2').addService(googletag.pubads());
+googletag.defineSlot('/1018282/GEB-BOT2-interior',[728, 90], 'div-gpt-bot').addService(googletag.pubads());
+googletag.defineSlot('/1018282/GEB-INP', [500, 80], 'div-gpt-inp').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interstitial', [1000, 525], 'div-gpt-int').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().enableSyncRendering();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+</script>
+
+       <script type="text/javascript">
+      WSL2 = {};
+      WSL2.config = {};
+      WSL2.config.fbapikey = "360028941603";
+      WSL2.config.cookieDomain = "";
+      WSL2.config.imagePath = 'http://img.genbeta.com/lp2/v6';
+      WSL2.config.siteName = "Genbeta";
+      window.___gcfg = {lang: 'es'};
+    </script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="http://code.jquery.com/jquery-migrate-1.1.0.js"></script>
+            <script src="http://img.weblogssl.com/LPbackend/prod/v2/js/frontend-758.js"></script>
+          <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _c1 = new WSL2.Cookie;
+      loginStatus = (_c1.hasSession()) ? "yes:" + _c1.loginType() : "no";
+      _gaq.push(['t2._setCustomVar', 4, '.genbeta.com', 'loginstatus:' + loginStatus, 2]);
+      _gaq.push(['_trackPageview']);
+      _gaq.push(['t2._trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); 
+    ga.type = 'text/javascript';
+    ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+  })();
+      var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "11306788" });
+         (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[1]; 
+          s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb": "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+    </script>
+
+    <div id="fb-root"></div>
+  <!-- fb needs this -->
+
+  <script src="//platform.twitter.com/widgets.js" id="tweetjs"></script>
+  <script src="//apis.google.com/js/plusone.js" id="gplus1js"></script>
+  <script src="//connect.facebook.net/es_ES/all.js#xfbml=1" id="fbjssdk"></script>
+  <div class="customize-me">
+  <div class="content-fixed">
+    <div class="container">
+                <!-- .header -->
+            <div class="header header-page">
+        <h1 class="site-logo"><a href="http://www.genbeta.com" title="Ir a la portada">Software y web. Genbeta<span></span></a></h1>
+        <form method="get" action="/busqueda" id="search" class="search" style="top:62px; width:310px; padding: 0;">
+    <p>
+        <input type="hidden" name="cx" value="partner-pub-9977500652563564:0292109475">
+        <input type="text" id="gsearch" name="q" accesskey="4" title="Buscar" placeholder="Busca en Genbeta con Google">
+        <input type="hidden" name="ie" value="UTF-8">
+        <input type="hidden" name="oe" value="UTF-8">
+        <input type="hidden" name="cof" value="FORID:10">
+        <button class="button">Buscar <span class="arrow">&raquo;</span></button>
+    </p>
+</form>
+<script type="text/javascript" src="http://www.google.es/coop/cse/brand?form=cse-search-box&amp;lang=es"></script>
+            <div class="nav nav-main">
+    <ul class="nav-primary">
+        <li class="home-link"><a href="/" title="Volver a portada">Portada</a></li>
+        <li class="respuestas-link"><a href="/respuestas">Respuestas</a></li>
+        <li class="temas-submenu">
+            <ul class="nav-secondary">
+                                   <li><a href="/categoria/actualidad" title="Ir a la categoría Actualidad">Actualidad</a></li>
+                                   <li><a href="/categoria/linux" title="Ir a la categoría Linux">Linux</a></li>
+                                   <li><a href="/categoria/movil" title="Ir a la categoría Móvil">Móvil</a></li>
+                                   <li><a href="/categoria/windows" title="Ir a la categoría Windows">Windows</a></li>
+                                   <li><a href="/categoria/herramientas" title="Ir a la categoría Herramientas">Herramientas</a></li>
+                                <li><a href="/archivos" title="Ver todas las categorías">Más &raquo;</a></li>
+            </ul>
+        </li>
+                  
+            </ul>
+</div>
+
+        <div class="nav nav-tags">
+        <h3>No te pierdas <span class="arrow">&raquo;</span></h3>
+        <ul>
+                        <li><a href="/tag/tasa-google" title="Todo sobre Tasa Google">Tasa Google</a></li>
+                        <li><a href="/tag/ley-lassalle" title="Todo sobre Ley Lassalle">Ley Lassalle</a></li>
+                        <li><a href="/tag/balance-de-windows-8" title="Todo sobre Balance de Windows 8">Balance de Windows 8</a></li>
+                        <li><a href="/tag/cazadores-de-fakes" title="Todo sobre Cazadores de Fakes">Cazadores de Fakes</a></li>
+                        <li><a href="/tag/satya-nadella" title="Todo sobre Satya Nadella">Satya Nadella</a></li>
+                    </ul>
+</div>
+<!-- .nav-tags -->
+
+                    <div class="ad ad-desplegable">
+  <a class="ad-contact" id="div-gpt-top-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+  <div class="ad-box">
+    <div id='div-gpt-top' style='width: 1000px;'>
+    <script type="text/javascript">
+        googletag.cmd.push(function() {
+        googletag.display("div-gpt-top");
+        });
+    </script>
+    </div>
+  </div>
+</div>
+<!-- .ad-box - desplegable -->
+
+  <div class="nav">
+   <ul class="article-nav-controls">
+                              <li><a class="article-control article-previous" href="/activismo-online/los-discapacitados-tambien-le-reclaman-al-gobierno-que-cumpla-su-promesa-banda-ancha-para-todos"><span>Los discapacitados también le reclaman al gobierno que cumpla su promesa: banda ancha para todos </span></a></li>
+                                             <li><a class="article-control article-next" href="/navegadores/entrevistamos-a-brian-hall-director-general-de-windows-live-y-business-group-de-microsoft"><span>Entrevistamos a Brian Hall, director general de Windows Live y Business Group de Microsoft</span></a></li>
+                  </ul>
+  </div>
+              </div>
+                   <div class="article article-pre-content">
+  <h1 class="article-header">Flash Player "Square", por fin en 64 bits</h1>
+  <div class="article-date">16 de septiembre de 2010 | 19:30 CET <span id="is_editor"></span></div>
+  <div class="article-author-details">
+  <div class="figure">
+    <a rel='author' href="/autor/miguel-julian">
+      <img src="http://www.gravatar.com/avatar/14216b3a89c997bfc641f9d3abf7bc0b?s=80&amp;d=mm&amp;r=g" alt="miguel-julian">
+    </a>
+  </div>
+  <h2><a rel='author' href="/autor/miguel-julian">Miguel Julián</a></h2>
+      </div>
+<!-- .article-author-details -->
+</div>
+           </div>
+    <!-- .container -->
+  </div>
+  <!-- .content-fixed -->
+
+  <div class="content-dinamic">
+    <div class="container">
+          <script type="text/javascript">
+        $(function()
+        {
+          AML.postVoteView = new AML.Post.View.PostVoteView({postId:"57748", el:".social-sharing" });
+          AML.isEditorView = new AML.Post.View.IsEditorView({postId:"57748", model: WSL2.User });
+        });
+      </script>
+
+    <div class="aside">
+            <div id="ad-lateral" class="ad ad-primer-escaparate">
+  <a class="ad-contact" id="div-gpt-lat-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-lat' class="ad-box" style='width: 300px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-lat");
+    });
+    </script>
+    </div>
+</div>
+<!-- .ad-box - escaparate vertical -->
+
+           <!-- .ad-box - escaparate vertical -->
+            
+                  
+<div class="aside-box aside-subscribe">
+  <h3 class="aside-header">Síguenos</h3>
+  
+          
+  <form id="feedForm" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" >
+    <label for="subscribe-email">Newsletter:</label>  
+      <input type="text" name="email" type="text" id="feedburnermail" placeholder="Correo electrónico"/>
+      <input type="hidden" name="uri" value="genbeta"/>
+      <input type="hidden" name="loc" value="es_ES">
+      <button class="button" type="submit">Suscríbete <span class="arrow">&raquo;</span></button>
+  </form>
+  <ul class="subs-channels">
+    <li class="channel-rss" id="rss"> <a href="/index.xml" rel="nofollow" title="Suscríbete por RSS a las novedades en Genbeta"><span></span>RSS</a></li>
+    <li class="channel-twitter"><a href="http://twitter.com/genbeta" title="Sigue las novedades de Genbeta en Twitter"><span></span>Twitter</a></li>
+    <li class="channel-fb"><a href="http://www.facebook.com/pages/Genbeta/54999640934" title="Conéctate a la página de Genbeta en Facebook"><span></span>Facebook</a></li>
+    <li class="channel-gplus"><a href="https://plus.google.com/109731528328750280665/posts" title="Sigue a Genbeta en Google Plus"><span></span>Google Plus</a></li>
+    <li class="channel-feedly"><a style="margin-right: 0;" title="Suscríbete a Genbeta con Feedly" href='http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fwww.genbeta.com%2Findex.xml'  target='blank'><img id='feedlyFollow' src='http://img.weblogssl.com/g/xataka4/common/m-icon-feedly.png' alt='follow us in feedly' width='32' height='32'></a></li>
+  </ul>
+  <ul class="devices-channels">
+    <li><a title="Versión para móviles" href="http://m.genbeta.com" class="button button-secondary"><img src="http://img.weblogssl.com/g/xataka4/common/mobile.png">Versión móvil</a></li>
+        <li>
+        <a id="tabletViceVersaLink" href="http://t.genbeta.com" class="button button-secondary" title="Versión tablet"><img src="http://img.weblogssl.com/g/xataka4/common/tablet.png"> Versión tablet</a>
+    </li>
+      </ul>
+
+    <script>
+  $(function() {
+      $("#feedForm").submit(function(e) {
+          e.preventDefault();
+          email = $("#feedburnermail").val();
+          emailPattern = /^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$/i
+          if (emailPattern.test(email)) {
+              window.open('http://mailer.weblogssl.com/subscribe_check/' + email +'/genbeta/Genbeta','','width=500,height=500');
+          } else {
+              alert("El correo electrónico introducido no es correcto");
+          }
+      });
+  });
+  </script>
+  
+</div>
+            <!-- .article-promo -->
+    </div>
+
+    <!-- .aside -->
+
+                    
+    <div class="section section-article-single">
+            <div class="article">
+        <div class="article-summary">
+          <p><img id="image57751" src="http://img.genbeta.com/2010/09/adobe-flash-player-square-cabecera.jpg" class="centro_sinmarco" alt="Adobe Flash Player Square" /></p>
+
+                              <div class="article-metadata">
+            <div class="article-comments" id="postCommentCount">
+              <a href="#comments" title="Ir a comentarios">
+                Comentarios 29
+              </a>
+            </div>
+            <div class="article-links">
+              <div class="social-sharing">
+                <div class="social-sharing-widgets">
+                                    <div class="wsl-favorite">
+                    <button class="button button-small">Me gusta</button>
+                    <span class="wsl-count">5</span>
+                  </div>
+                                    <!-- twitter -->
+                  <a class="twitter-share-button" href="http://twitter.com/share" data-count="horizontal" data-url="http://www.genbeta.com/p/57748" data-counturl="http://www.genbeta.com/multimedia/flash-player-square-por-fin-en-64-bits" data-text="Flash Player &quot;Square&quot;, por fin en 64 bits" data-via="genbeta" data-lang="es">Tweet</a>
+                  <!-- g+ -->
+                  <div class="g-plusone" data-size="medium" data-href="http://www.genbeta.com/multimedia/flash-player-square-por-fin-en-64-bits" data-callback="gplusClickHandler" ></div>
+                  <!-- facebook like -->
+                  <div href="http://www.genbeta.com/multimedia/flash-player-square-por-fin-en-64-bits" class="fb-like" data-send="false" data-layout="button_count" data-show-faces="false"></div>
+                </div>
+              </div>
+              <!-- .social-sharing -->
+            </div>
+            <!-- .article-links -->
+          </div>
+          <!-- .article-metadata -->
+
+
+          	<p><br />
+Buenas noticias para aquellos usuarios que pedían a gritos la salida de una versión del <strong>Adobe Flash Player para arquitecturas de 64 bits</strong>. En la página de <a href="http://labs.adobe.com/technologies/flashplayer10/">Adobe Labs</a> podemos encontrar información sobre la nueva preview release de <strong>Flash Player &#8220;Square&#8221;</strong>.</p>
+
+	<p>Esta versión ofrecerá soporte nativo para los <strong>sistemas operativos Windows, Mac OS y Linux de 64 bits</strong>. En este último caso, aclaran que han probado el software sobre Ubuntu 10 y facilitan una página para <a href="http://bugs.adobe.com/flashplayer/">reportar bugs</a> al respecto. Página de reporte que puede ser utilizada para notificar bugs ocurrido sobre cualquier sistema.</p>
+
+	<p>Así mismo, ofrece ese soporte nativo a navegadores de 64 bits (por ahora Safari  e Internet Explorer 64 bits), destacando en su propia web que, fruto de su <strong>colaboración durante los últimos meses con el equipo de desarrollo de Internet Explorer de Microsoft</strong>, esta versión ha sido mejorada para aprovechar la aceleración por hardware que se ha presentado con el navegador Internet Explorer 9 Beta; alcanzando mejoras de más de un 35% respecto al rendimiento obtenido con versiones anteriores del navegador.<br />
+<!--more--><br />
+Este lanzamiento viene claramente ligado al anuncio del <a href="http://www.genbeta.com/a-fondo/las-novedades-de-internet-explorer-9-un-nuevo-enfoque-para-navegar-en-internet">Internet Explorer 9 Beta</a> y podría comenzar a limpiar el nombre de la compañía después de las últimas noticias acerca de fallos de seguridad en varios de sus productos. Paralelo al lanzamiento, anuncian que han realizado esfuerzos para lograr que <em>Square</em> fuera una <strong>versión estable totalmente preparada para un lanzamiento público y global</strong>. Esperemos que así lo sea, porque volvería a degradar aún más la imagen de la empresa californiana.</p>
+
+	<p>El ejecutar una versión que soporta de forma nativa la arquitectura de <strong>64 bits nos permite ampliar el rango de direccionamiento dentro de nuestro sistema</strong>, de forma que nuestras aplicaciones podrán gestionar de forma más eficiente consultas a bases de datos o, como resulta en este caso, los recursos de hardware que proporcionan los procesadores de hoy en día. De esta forma podrán <strong>acceder a espacios más grandes de memoria</strong> realizando más tareas en menos de la mitad del tiempo empleado en arquitecturas de 32 bits.</p>
+
+	<p>También debemos tener en cuenta que la mejora obtenida al ejecutar aplicaciones de 64 bits es más visible cuando estas aplicaciones hacen un uso intensivo de accesos a memoria y de <span class="caps">CPU</span>, y que, si bien mejorará el rendimiento, la puerta abierta por Adobe, es más una <strong>puerta para investigar y mejorar el producto en sistemas de 64 bits</strong> que un lanzamiento con el que vayamos a poder observar una mejora rotunda.</p>
+
+	<p>Gracias a <em>martian007</em> por el chivatazo, que esta vez, se nos había pasado por alto el lanzamiento.</p>
+
+	<p>Vía | <a href="http://blogs.adobe.com/jnack/2010/09/flash-player-goes-64-bit-on-mac-linux-windows.html">Flash Blog</a><br />
+Descarga | <a href="http://labs.adobe.com/technologies/flashplayer10/">Adobe Labs</a><br />
+En Genbeta | <a href="http://www.genbeta.com/linux/grave-vulnerabilidad-en-flash-adobe-reader-y-acrobat">Grave vulnerabilidad en Flash, Adobe Reader y Acrobat</a></p>                  </div>
+
+                        
+        <div class="ad links-ad-inpost">
+    <div id='div-gpt-inp' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-inp");
+    });
+    </script>
+    </div>
+</div>
+
+
+        
+        <div class="article-taxonomy">
+                      <div class="nav article-tags article-categories">
+  <h2>Categorías</h2>
+    <ul>
+                      
+      <li><a href="/categoria/multimedia">Multimedia</a></li>
+                      
+      <li><a href="/categoria/navegadores">Navegadores</a></li>
+        </ul>
+</div>
+            <div class="nav article-tags">
+  <h2>Tags</h2>
+  <ul>
+                                             
+      <li><a href="/tag/adobe">Adobe</a></li>
+                                             
+      <li><a href="/tag/flash">Flash</a></li>
+                                             
+      <li><a href="/tag/lanzamiento">lanzamiento</a></li>
+          
+  </ul>
+</div>
+                  </div>
+        <!-- .article-metadata -->
+      </div>
+      <!-- .article -->
+    </div>
+    <!-- .section-articles -->
+            <div id="ad-center" class="ad ad-escaparate-medio">
+  <a class="ad-contact" id="div-gpt-cen-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-cen' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+
+        
+        
+    <div class="section section-related">
+               <div id="outBrainVerticalWidget" class="post-related-posts ">
+  <h3>Artículos recomendados</h3>
+  <div class="post-related-content">
+   
+    <div class="OUTBRAIN" data-src="http://www.genbeta.com/multimedia/flash-player-square-por-fin-en-64-bits" data-widget-id="AR_2" data-ob-template="genbeta" >
+    </div>
+    <script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js">
+    </script>
+  </div>
+  <!-- .post-related-content -->
+  <p class="post-related-more">
+    <a href="/categoria/multimedia" title="Ver más artículos relacionados">
+    Ver más artículos <span class="arrow">»</span>    
+    </a>
+    </p>
+</div>     
+      <div class="post-related-products">
+   <h3>Productos</h3>
+   <div id="post-related-products" class="post-related-content">
+                <script type="text/javascript">
+        $(function()
+        {
+          WSL2.config.imageUrl = "http://img.genbeta.com"
+          WSL2.config.Products = {}
+          WSL2.config.Products.iwishihave = {}
+          WSL2.config.Products.iwishihave.buttonOne = "ME GUSTA"
+          WSL2.config.Products.iwishihave.buttonTwo = "LO ODIO"
+
+          var product = new AML.Products.Model.Product({"id":"26473","nicename":"flash-square","name":"Flash Square","photo_post_id":"57748","users_votes_sum":"13","users_votes_count":"2","ihave_count":"5","iwish_count":"0","category_nicename":"imagen-y-sonido","cat_id":"448","category_type":"1","adspot_price":"0"}, {"pageUrlPrefix":"productos"});
+          AML.productView = new AML.Products.View.ProductView({model:product, userModel: WSL2.User});
+        });
+      </script>
+        </div>
+  <p class="post-related-more">
+    <a href="/productos/imagen-y-sonido/flash-square" title="Ver más productos relacionados">
+      Ver más productos <span class="arrow">»</span>
+    </a>
+  </p>
+ </div>
+<!-- .post-related-products -->
+     <div class="post-related-qa">
+    <h3>Respuestas</h3>
+        <div class="post-related-content">
+            <ul>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>4</strong>
+                    </div>
+                    <a href="/respuestas/genbeta-imposible-de-abrir-con-adobe-flash-11">Genbeta imposible de abrir con Adobe Flash 11</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2013-03-30T03:22:54Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>4</strong>
+                    </div>
+                    <a href="/respuestas/genbeta-imposible-de-abrir-con-adobe-flash-11">Genbeta imposible de abrir con Adobe Flash 11</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2013-03-30T03:22:54Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>2</strong>
+                    </div>
+                    <a href="/respuestas/en-chrome-sobre-windows-8-desde-ayer-ha-dejado-de-funcionar-flashsolucion-2pc">En Chrome sobre Windows 8 desde ayer ha dejado de funcionar Flash.¿Solución? 2PC</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2013-02-09T00:43:40Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>1</strong>
+                    </div>
+                    <a href="/respuestas/los-juegos-ya-estan-dejando-de-usar-flash-hay-mucho-en-html5">Los juegos ya están dejando de usar Flash. Hay mucho en HTML5.</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2012-09-03T22:37:55Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number empty-topic">
+                        <strong>0</strong>
+                    </div>
+                    <a href="/respuestas/ei10-metro-no-soportaria-flash-o-era-solo-para-windows-rt">EI10 Metro no soportaría Flash o era sólo para Windows RT?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2012-08-19T06:28:50Z"></abbr>
+                    </span>            
+                </li>
+                        </ul>
+        </div>
+        <!-- .post-related-content -->
+        <p class="post-related-more">
+            <a href="/respuestas" title="Ver más respuestas relacionados">
+                Ver más respuestas
+                <span class="arrow">»</span>
+            </a>
+        </p>
+</div>
+
+<script type="text/javascript">
+   $(function(){
+      $("abbr.timeago").timeago();
+   });
+</script>
+     </div>
+
+
+  <!-- Comments Section -->
+        <a id="to-comments"></a>
+  <div id="comments" class="section section-comments">
+            <div class="standalone-message">
+            <div class="message aviso"><h3>Los comentarios se han cerrado</h3></div>
+        </div>
+        <!-- #comment-write -->
+            <div id="ad-center2" class="ad ad-segundo-escaparate">
+  <a class="ad-contact" id="div-gpt-cen2-contact" style='display:none'
+  href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-cen2' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen2");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+    <div id="comments-header" class="header-section">
+      <div class="comment-order">
+    	<h3>Ordenar por:</h3>
+      </div>
+      <!-- #comment-order -->
+          	<h2>
+              29 comentarios
+            </h2>
+    </div>
+    <div id="top-section-settings"></div>
+    <ul class="comment-list"></ul>
+        <div class="nav"></div>
+    <div id="bottom-section-settings"></div>
+  </div>
+    <script type="text/javascript">
+      $(function()
+      {
+        var commentList = new AML.Comments.Model.CommentList({},{postId:57748});
+        commentList.resetParsed({"comments":[{"id":"311320","post_id":"57748","date":1284669820,"content_filtered":"<p>Algunos pensamientos:\u00a0<\/p>\n\n<p>+Siento que vivo en un mundo surrealista ahora que Internet Explorer se est\u00e1 convirtiendo en uno de los mejores navegadores de todos.<\/p>\n\n<p><\/p>\n\n<p>+\"Por fin en 64 bits\"<\/p>\n\n<p><\/p>\n\n<p>+Me sorprende que esta vez la hayan sacado para Linux, que a los pobres muchas empresas los dejan hasta el final; ojal\u00e1 Adobe les empiece a prestar m\u00e1s atenci\u00f3n (que lo dudo).<\/p>\n\n<p><\/p>\n\n<p>+En Mac s\u00ed se nota la diferencia con algunas aplicaciones intensivas; aunque en los v\u00eddeos (que ya los pod\u00eda correr bien sin que se trabe) los controles dejan de esconderse en pantalla completa.<\/p>","content":"<p>Algunos pensamientos:\u00a0<\/p>\n\n<p>+Siento que vivo en un mundo surrealista ahora que Internet Explorer se est\u00e1 convirtiendo en uno de los mejores navegadores de todos.<\/p>\n\n<p><\/p>\n\n<p>+\"Por fin en 64 bits\"<\/p>\n\n<p><\/p>\n\n<p>+Me sorprende que esta vez la hayan sacado para Linux, que a los pobres muchas empresas los dejan hasta el final; ojal\u00e1 Adobe les empiece a prestar m\u00e1s atenci\u00f3n (que lo dudo).<\/p>\n\n<p><\/p>\n\n<p>+En Mac s\u00ed se nota la diferencia con algunas aplicaciones intensivas; aunque en los v\u00eddeos (que ya los pod\u00eda correr bien sin que se trabe) los controles dejan de esconderse en pantalla completa.<\/p>","karma":"38.00","parent":"0","comment_edited_date":1284669832,"vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Eduardo Cedillo Mart\u00ednez","user_id":"43376","author":"Eduardo Cedillo Mart\u00ednez","webpage":"http:\/\/appleator.blogspot.com","user_name":"blackmist24","karma_level":"25.00","iseditor":"0","global_id":"212199","facebook_uid":"550064562","index":7,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/212199_1.png"},{"id":"311328","post_id":"57748","date":1284673896,"content_filtered":"<p>+1 por el mundo surrealista XD\nQue mejor que el navegador con mas usuarios establesca un parametro a seguir para los demas. Microsoft puso las cartas sobre la mesa, no perdera mercado ante los demas.<\/p>","content":"<p>+1 por el mundo surrealista XD\nQue mejor que el navegador con mas usuarios establesca un parametro a seguir para los demas. Microsoft puso las cartas sobre la mesa, no perdera mercado ante los demas.<\/p>","karma":"15.00","parent":"311320","comment_edited_date":"","vote_count":"3","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Ricardo lopez","user_id":"35881","author":"Ricardo lopez","webpage":null,"user_name":"ilukrismx","karma_level":"27.00","iseditor":"0","global_id":"188028","facebook_uid":null,"index":9,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/188028_1.png"},{"id":"311316","post_id":"57748","date":1284668406,"content_filtered":"<p>Incre\u00edble, acabo de verificar actualizaciones en Ubuntu y ya me marc\u00f3 la versi\u00f3n 10.2.161.22-0ubuntu0~sevenmachines2 de FLash, no se si esto se deba al IE9 beta, pero que bueno que por fin lo tenemos.<\/p>","content":"<p>Incre\u00edble, acabo de verificar actualizaciones en Ubuntu y ya me marc\u00f3 la versi\u00f3n 10.2.161.22-0ubuntu0~sevenmachines2 de FLash, no se si esto se deba al IE9 beta, pero que bueno que por fin lo tenemos.<\/p>","karma":"25.00","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"hectormacias","user_id":"24210","author":"Hector Macias Ayala","webpage":null,"user_name":"hectormacias","karma_level":"40.00","iseditor":"0","global_id":"155170","facebook_uid":null,"index":5,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/155170_1.png"},{"id":"311317","post_id":"57748","date":1284668459,"content_filtered":"<p>Olvid\u00e9 mencionarlo, hay que activar el repositorio de Flash, yo lo activ\u00e9 con Ubuntu Tweak, en el centro de fuentes.<\/p>","content":"Olvid\u00e9 mencionarlo, hay que activar el repositorio de Flash, yo lo activ\u00e9 con Ubuntu Tweak, en el centro de fuentes.","karma":"10.00","parent":"311316","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"hectormacias","user_id":"24210","author":"Hector Macias Ayala","webpage":null,"user_name":"hectormacias","karma_level":"40.00","iseditor":"0","global_id":"155170","facebook_uid":null,"index":6,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/155170_1.png"},{"id":"311334","post_id":"57748","date":1284675271,"content_filtered":"<p>Por PPA<\/p>\n\n<p>sudo add-apt-repository ppa:sevenmachines\/flash<\/p>\n\n<p>sudo apt-get update<\/p>\n\n<p>sudo apt-get install flashplugin64-installer<\/p>","content":"<p>Por PPA<\/p>\n\n<p>sudo add-apt-repository ppa:sevenmachines\/flash<\/p>\n\n<p>sudo apt-get update<\/p>\n\n<p>sudo apt-get install flashplugin64-installer<\/p>","karma":"25.00","parent":"311317","comment_edited_date":1284675294,"vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"0","comment_author":"Blackgem Vindicare","user_id":"48762","author":"Blackgem Vindicare","webpage":"http:\/\/blog.vindicare.es","user_name":"blackgem","karma_level":"39.00","iseditor":"0","global_id":"236104","facebook_uid":null,"index":10,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/236104_1.png"},{"id":"311432","post_id":"57748","date":1284732458,"content_filtered":"<p>Gracias a los dos por la informaci\u00f3n. :)<\/p>","content":"Gracias a los dos por la informaci\u00f3n. :)","karma":"8.00","parent":"311334","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"1","comment_author":"jak69pv","user_id":"45978","author":"","webpage":null,"user_name":"jak69pv","karma_level":"26.00","iseditor":"0","global_id":"226678","facebook_uid":null,"index":19,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/226678_2.png"},{"id":"311483","post_id":"57748","date":1284770731,"content_filtered":"<p>Ricardo lopez ami me paso todo lo contrario, estoy en windows seven, baje IE 9 64 bits, baje \u00e9ste flash player 64 bits. Estuve probando videos en youtube y me cargan mucho m\u00e1s rapido de lo que me cargan en Chrome. Igualmente sigo usando chrome todav\u00eda. En unos videos a 1080p no sufr\u00ed ningun corte, se reproducio todo seguido.\nCreo que a \u00e9sta altura y con la cantidad de fallos de seguridad que le encontraron a firefox, por lo que consume, por lo que tarda en arrancar, por la velocidad, se esta quedando atras de todo en la carrera. Personalmente lo utilice hasta que sali\u00f3 Chrome y todav\u00eda sigo usando Chrome. Nunca m\u00e1s volvi a firefox.<\/p>","content":"<p>Ricardo lopez ami me paso todo lo contrario, estoy en windows seven, baje IE 9 64 bits, baje \u00e9ste flash player 64 bits. Estuve probando videos en youtube y me cargan mucho m\u00e1s rapido de lo que me cargan en Chrome. Igualmente sigo usando chrome todav\u00eda. En unos videos a 1080p no sufr\u00ed ningun corte, se reproducio todo seguido.\nCreo que a \u00e9sta altura y con la cantidad de fallos de seguridad que le encontraron a firefox, por lo que consume, por lo que tarda en arrancar, por la velocidad, se esta quedando atras de todo en la carrera. Personalmente lo utilice hasta que sali\u00f3 Chrome y todav\u00eda sigo usando Chrome. Nunca m\u00e1s volvi a firefox.<\/p>","karma":"20.00","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"61357","user_id":"61357","author":"","webpage":null,"user_name":"joondor","karma_level":"22.00","iseditor":"0","global_id":"261282","facebook_uid":"679788716","index":24,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/679788716\/picture"},{"id":"311494","post_id":"57748","date":1284775051,"content_filtered":"<p>Bueno entonces quizas fuera un <em>peque\u00f1o problema<\/em> de mi conexion, pero bueno mi post fue en sentido que <strong>adobe<\/strong> se vio mas que obligado por sacar esta version para x64 en vista de IE9, dicho que tambien prefiero usarlo para visualizar html5 en lugar de firefox4 que aun no me da toda la confianza para hacerlo(cierto dia dejo de funcionar mi controlador de video por lo mismo). Bueno esta probado que si anda y muy bien\u00a0XD\u00a0<br \/> Saludos y suerte<\/p>","content":"<P>Bueno entonces quizas fuera un <EM>peque\u00f1o problema<\/EM> de mi conexion, pero bueno mi post fue en sentido que <STRONG>adobe<\/STRONG> se vio mas que obligado por sacar esta version para x64 en vista de IE9, dicho que tambien prefiero usarlo para visualizar html5 en lugar de firefox4 que aun no me da toda la confianza para hacerlo(cierto dia dejo de funcionar mi controlador de video por lo mismo). Bueno esta probado que si anda y muy bien\u00a0XD\u00a0<br> Saludos y suerte<\/P>","karma":"8.00","parent":"311483","comment_edited_date":1284775130,"vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Ricardo lopez","user_id":"35881","author":"Ricardo lopez","webpage":null,"user_name":"ilukrismx","karma_level":"27.00","iseditor":"0","global_id":"188028","facebook_uid":null,"index":26,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/188028_1.png"},{"id":"311345","post_id":"57748","date":1284680184,"content_filtered":"<p>Yo tengo desde hace d\u00edas el plugin en Ubuntu 64 y me va sin problemas, de hecho mucho mejor que en Windows 7 64, donde m\u00e1s de una vez se me ha petado el PC por incompatibilidades entre el SO y el Flash (bueno d\u00ed que los pantallazos en W7 est\u00e1n a la orden del d\u00eda, mucho m\u00e1s habituales que en XP, por mucho que digan que no volver\u00edan a verse)<\/p>","content":"<p>Yo tengo desde hace d\u00edas el plugin en Ubuntu 64 y me va sin problemas, de hecho mucho mejor que en Windows 7 64, donde m\u00e1s de una vez se me ha petado el PC por incompatibilidades entre el SO y el Flash (bueno d\u00ed que los pantallazos en W7 est\u00e1n a la orden del d\u00eda, mucho m\u00e1s habituales que en XP, por mucho que digan que no volver\u00edan a verse)<\/p>","karma":"12.50","parent":"0","comment_edited_date":"","vote_count":"6","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"stranno","user_id":"36909","author":"stranno","webpage":null,"user_name":"stranno1","karma_level":"27.00","iseditor":"0","global_id":"187682","facebook_uid":"1034597960","index":11,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/187682_1.png"},{"id":"311365","post_id":"57748","date":1284687435,"content_filtered":"<p>Esa publicidad negativa falsa de los pantallazos ya da flojera leerla. Yo use windows 7 desde que era beta en diciembre de 2008 y jam\u00e1s vi ninguno, ni tampoco tiene problemas con ninguna versi\u00f3n de flash.<\/p>\n\n<p>Ahora me pas\u00e9 a Ubuntu, pero los motivos eran por el costo de la licencia de windows, b\u00e1sicamente lo ten\u00eda pirata y como bloquearon las actualizaciones para los usuarios no leg\u00edtimos decidi que no ten\u00eda porque meterme en problemas, adem\u00e1s del consumo de recursos, que no era problema, pero si mayor al que consume linux.<\/p>\n\n<p>Pero de los pantallazos y problemas con flash ya nadie se lo cree.<\/p>","content":"<p>Esa publicidad negativa falsa de los pantallazos ya da flojera leerla. Yo use windows 7 desde que era beta en diciembre de 2008 y jam\u00e1s vi ninguno, ni tampoco tiene problemas con ninguna versi\u00f3n de flash.<\/p>\n\n<p>Ahora me pas\u00e9 a Ubuntu, pero los motivos eran por el costo de la licencia de windows, b\u00e1sicamente lo ten\u00eda pirata y como bloquearon las actualizaciones para los usuarios no leg\u00edtimos decidi que no ten\u00eda porque meterme en problemas, adem\u00e1s del consumo de recursos, que no era problema, pero si mayor al que consume linux.<\/p>\n\n<p>Pero de los pantallazos y problemas con flash ya nadie se lo cree.<\/p>","karma":"40.00","parent":"311345","comment_edited_date":1284687559,"vote_count":"7","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"hectormacias","user_id":"24210","author":"Hector Macias Ayala","webpage":null,"user_name":"hectormacias","karma_level":"40.00","iseditor":"0","global_id":"155170","facebook_uid":null,"index":12,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/155170_1.png"},{"id":"311648","post_id":"57748","date":1284914014,"content_filtered":"<p><i>Esa publicidad negativa falsa de los pantallazos ya da flojera leerla. <b>Yo<\/b> use windows 7 desde que era beta en diciembre de 2008 y jam\u00e1s vi ninguno, ni tampoco tiene problemas con ninguna versi\u00f3n de flash.<\/i><\/p>\n\n<p>Que t\u00fa no lo hayas visto no quiere decir que stranno mienta. Simplemente a ti no te ha pasado. Yo nunca hab\u00eda tenido un BSOD en XP y justo al d\u00eda siguiente de comentarlo con un amigo pude ver uno.<\/p>","content":"<i>Esa publicidad negativa falsa de los pantallazos ya da flojera leerla. <b>Yo<\/b> use windows 7 desde que era beta en diciembre de 2008 y jam\u00e1s vi ninguno, ni tampoco tiene problemas con ninguna versi\u00f3n de flash.<\/i>\n\nQue t\u00fa no lo hayas visto no quiere decir que stranno mienta. Simplemente a ti no te ha pasado. Yo nunca hab\u00eda tenido un BSOD en XP y justo al d\u00eda siguiente de comentarlo con un amigo pude ver uno.","karma":"8.00","parent":"311365","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"45969","user_id":"112442","author":"Juan Aguilera","webpage":"http:\/\/juanaguilera.es","user_name":"juanar","karma_level":"67.00","iseditor":"0","global_id":"577327","facebook_uid":"1220034049","index":27,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1220034049\/picture"},{"id":"311400","post_id":"57748","date":1284716437,"content_filtered":"<p>Y yo que uso al rey de los pantallazos azules Windows Vista apenas ayer me salio mi primera BSOD en 3 a\u00f1os y medio de usarlo, los que dicen que Windows sigue igual de feo que en la presentacion del 98 (Epic fail,pero ya pas\u00f3) es que ni lo han probado.\u00a0<\/p>","content":"<p>Y yo que uso al rey de los pantallazos azules Windows Vista apenas ayer me salio mi primera BSOD en 3 a\u00f1os y medio de usarlo, los que dicen que Windows sigue igual de feo que en la presentacion del 98 (Epic fail,pero ya pas\u00f3) es que ni lo han probado.\u00a0<\/p>","karma":"3.00","parent":"311365","comment_edited_date":1284716513,"vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"Left My Dead","user_id":"46902","author":"Left My Dead","webpage":null,"user_name":"netbookero","karma_level":"27.00","iseditor":"0","global_id":"92133","facebook_uid":null,"index":15,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/92133_2.png"},{"id":"311405","post_id":"57748","date":1284717526,"content_filtered":"<p>Creo que llevas raz\u00f3n, cada vez m\u00e1s, los sistemas Windows son m\u00e1s estables.<\/p>\n\n<p>Pero d\u00e9jame indicar, que el rey de los pantallazos tiene que ser Windows Me. (y de largo...al menos en mi experiencia personal).<\/p>","content":"<p>Creo que llevas raz\u00f3n, cada vez m\u00e1s, los sistemas Windows son m\u00e1s estables.<\/p>\n\n<p>Pero d\u00e9jame indicar, que el rey de los pantallazos tiene que ser Windows Me. (y de largo...al menos en mi experiencia personal).<\/p>","karma":"33.00","parent":"311400","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"1","comment_author":"miky_kun","user_id":"62376","author":"","webpage":"http:\/\/www.genbeta.com","user_name":"miky_kun","karma_level":"25.00","iseditor":"0","global_id":"291289","facebook_uid":null,"index":16,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/291289_1.png"},{"id":"311409","post_id":"57748","date":1284720628,"content_filtered":"<p>Que t\u00fa no hayas visto pantallazos es irrelevante, y si te digo que en mi ordenador son habituales (con un W7 mantenido perfectemente) y muchos de ellos son por incompatibilidades con el producto de Adobe es PORQUE ES AS\u00cd<\/p>\n\n<p>Que no te lo creas es otra cosa que resulta absolutamente irrelevante, es una realidad<\/p>","content":"<p>Que t\u00fa no hayas visto pantallazos es irrelevante, y si te digo que en mi ordenador son habituales (con un W7 mantenido perfectemente) y muchos de ellos son por incompatibilidades con el producto de Adobe es PORQUE ES AS\u00cd<\/p>\n\n<p>Que no te lo creas es otra cosa que resulta absolutamente irrelevante, es una realidad<\/p>","karma":"2.50","parent":"311365","comment_edited_date":"","vote_count":"3","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"stranno","user_id":"36909","author":"stranno","webpage":null,"user_name":"stranno1","karma_level":"27.00","iseditor":"0","global_id":"187682","facebook_uid":"1034597960","index":17,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/187682_1.png"},{"id":"311481","post_id":"57748","date":1284770518,"content_filtered":"<p>Entonces tenes problemas con tu pc, no con el sistema operativo. Fijate antes de que vuele el ordenador mientras lo usas en linux. ja<\/p>","content":"Entonces tenes problemas con tu pc, no con el sistema operativo. Fijate antes de que vuele el ordenador mientras lo usas en linux. ja","karma":"5.00","parent":"311409","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"1","comment_author":"61357","user_id":"61357","author":"","webpage":null,"user_name":"joondor","karma_level":"22.00","iseditor":"0","global_id":"261282","facebook_uid":"679788716","index":23,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/679788716\/picture"},{"id":"311367","post_id":"57748","date":1284687737,"content_filtered":"<p>Personalmente s\u00f3lo he tenido pantallazos azules por fallos de hardware. Nunca dde software. Eso s\u00ed, todav\u00eda no he probado el plugin de Ubuntu 64, pero me alegra que funcione tan bien como comentas.<\/p>","content":"<p>Personalmente s\u00f3lo he tenido pantallazos azules por fallos de hardware. Nunca dde software. Eso s\u00ed, todav\u00eda no he probado el plugin de Ubuntu 64, pero me alegra que funcione tan bien como comentas.<\/p>","karma":"28.00","parent":"311345","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"miky_kun","user_id":"62376","author":"","webpage":"http:\/\/www.genbeta.com","user_name":"miky_kun","karma_level":"25.00","iseditor":"0","global_id":"291289","facebook_uid":null,"index":13,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/291289_1.png"},{"id":"311493","post_id":"57748","date":1284774940,"content_filtered":"<p>Que pantallazos??  jamas he visto pantallazos en w7 desde que existe...mmmmm  extra\u00f1o tu caso<\/p>","content":"Que pantallazos??  jamas he visto pantallazos en w7 desde que existe...mmmmm  extra\u00f1o tu caso","karma":"8.00","parent":"311345","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"angel_mal_herid","user_id":"47859","author":"","webpage":null,"user_name":"angel_mal_herid","karma_level":"25.00","iseditor":"0","global_id":"233164","facebook_uid":null,"index":25,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/233164_1.png"},{"id":"311414","post_id":"57748","date":1284720956,"content_filtered":"<p>Coincido en lo de los problemas, alguna vez se me ha parado el portatil viendo videos de youtube<\/p>","content":"Coincido en lo de los problemas, alguna vez se me ha parado el portatil viendo videos de youtube","karma":"5.00","parent":"311345","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Victor Suarez","user_id":"62893","author":"Victor Suarez","webpage":null,"user_name":null,"karma_level":"25.00","iseditor":"0","global_id":"293974","facebook_uid":"100001544725263","index":18,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/293974_1.png"},{"id":"311391","post_id":"57748","date":1284704707,"content_filtered":"<p>Dejen de echarle la culpa al windows por sus hardware defectuosos.<\/p>","content":"<p>Dejen de echarle la culpa al windows por sus hardware defectuosos.<\/p>","karma":"-2.50","parent":"311345","comment_edited_date":"","vote_count":"3","comment_level":4,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"57565","user_id":"57565","author":"","webpage":null,"user_name":"julian100","karma_level":"43.00","iseditor":"0","global_id":"255270","facebook_uid":"1338480301","index":14,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1338480301\/picture"},{"id":"311447","post_id":"57748","date":1284743618,"content_filtered":"<p>Parece que es beta. Y no incluye actualizaciones automaticas. Ya iremos leyendo que tal funciona.<\/p>","content":"Parece que es beta. Y no incluye actualizaciones automaticas. Ya iremos leyendo que tal funciona.","karma":"10.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"zeioth","user_id":"9915","author":"","webpage":null,"user_name":"zeioth","karma_level":"25.00","iseditor":"0","global_id":"80871","facebook_uid":null,"index":22,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/80871_1.png"},{"id":"311303","post_id":"57748","date":1284666231,"content_filtered":"<p>A ver si estos sinverg\u00fcenzas van ahora en serio, porque vaya como se han re\u00eddo de los usuarios de GNU\/Linux despu\u00e9s de cancelar anteriormente la versi\u00f3n de 64 bits de su plugin.<\/p>","content":"A ver si estos sinverg\u00fcenzas van ahora en serio, porque vaya como se han re\u00eddo de los usuarios de GNU\/Linux despu\u00e9s de cancelar anteriormente la versi\u00f3n de 64 bits de su plugin.","karma":"8.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"irongraywolf","user_id":"32317","author":"","webpage":null,"user_name":"irongraywolf","karma_level":"25.00","iseditor":"0","global_id":"179429","facebook_uid":null,"index":1,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/179429_3.png"},{"id":"311305","post_id":"57748","date":1284666330,"content_filtered":"<p>Comentan textualmente que los usuarios de Linux van a notar la diferencia en velocidad con el anterior plugin.<\/p>","content":"<p>Comentan textualmente que los usuarios de Linux van a notar la diferencia en velocidad con el anterior plugin.<\/p>","karma":"43.00","parent":"311303","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"miky_kun","user_id":"62376","author":"","webpage":"http:\/\/www.genbeta.com","user_name":"miky_kun","karma_level":"25.00","iseditor":"0","global_id":"291289","facebook_uid":null,"index":2,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/291289_1.png"},{"id":"311433","post_id":"57748","date":1284734359,"content_filtered":"<p>ahora cada vez se venden mas pc con windows de 64 bits porque cada vez vienen con mas memoria ram, entonces, \u00bflos de Win 64 bits hasta ahora no podian usar el flash ?<\/p>","content":"ahora cada vez se venden mas pc con windows de 64 bits porque cada vez vienen con mas memoria ram, entonces, \u00bflos de Win 64 bits hasta ahora no podian usar el flash ?","karma":"8.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"hann","user_id":"19040","author":"","webpage":null,"user_name":"hann","karma_level":"22.00","iseditor":"0","global_id":"133035","facebook_uid":null,"index":20,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/a54afb5c6139238635bd3b2d8fefcf70"},{"id":"311435","post_id":"57748","date":1284736683,"content_filtered":"<p>...., en Windows CASI NINGUN programa esta preparado para 64 bits, prueba a mirar en \"Program Files (x86)\" o algo asi se llama, cualquier cosa ahi instalada es de 32 bits.<\/p>\n\n<p>En Mac y Linux es practicamente al contrario, casi nada esta en 32 bits, flash y otra propietarias tal vez fuera de las pocas que no estaban preparadas. Y ahora Apple pone como un requisito en Mac que las aplicaciones esten en 32 bits para darlas por buenas.<\/p>\n\n<p>Usar programas de 32 bits es ineficaz si usas un sistema de 64 bits que tiene muchas mas ventajas (usa mas recursos, pero mucho mas eficientemente).<\/p>","content":"<p>...., en Windows CASI NINGUN programa esta preparado para 64 bits, prueba a mirar en \"Program Files (x86)\" o algo asi se llama, cualquier cosa ahi instalada es de 32 bits.<\/p>\n\n<p>En Mac y Linux es practicamente al contrario, casi nada esta en 32 bits, flash y otra propietarias tal vez fuera de las pocas que no estaban preparadas. Y ahora Apple pone como un requisito en Mac que las aplicaciones esten en 32 bits para darlas por buenas.<\/p>\n\n<p>Usar programas de 32 bits es ineficaz si usas un sistema de 64 bits que tiene muchas mas ventajas (usa mas recursos, pero mucho mas eficientemente).<\/p>","karma":"22.50","parent":"311433","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"0","comment_author":"Blackgem Vindicare","user_id":"48762","author":"Blackgem Vindicare","webpage":"http:\/\/blog.vindicare.es","user_name":"blackgem","karma_level":"39.00","iseditor":"0","global_id":"236104","facebook_uid":null,"index":21,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/236104_1.png"},{"id":"311310","post_id":"57748","date":1284666854,"content_filtered":"<p>Ahora que usan el doble de bits... \u00bfTendr\u00e1n tambi\u00e9n el doble de bugs zero day? :)<\/p>\n\n<p>Es que era demasiado tentador hacer el chiste f\u00e1cil... :P<\/p>","content":"<p>Ahora que usan el doble de bits... \u00bfTendr\u00e1n tambi\u00e9n el doble de bugs zero day? :)<\/p>\n\n<p>Es que era demasiado tentador hacer el chiste f\u00e1cil... :P<\/p>","karma":"5.50","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"45969","user_id":"112442","author":"Juan Aguilera","webpage":"http:\/\/juanaguilera.es","user_name":"juanar","karma_level":"67.00","iseditor":"0","global_id":"577327","facebook_uid":"1220034049","index":3,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1220034049\/picture"},{"id":"311326","post_id":"57748","date":1284673047,"content_filtered":"<p><\/p>\n\n<p>Yo hice ayer una instalaci\u00f3n limpia de Arch en mi nuevo HD y me ocurri\u00f3 algo curioso.<\/p>\n\n<p><\/p>\n\n<p>Me dispongo a instalar el paquete <em>'flashplugin-native64'<\/em> y me dice que est\u00e1 obsoleto, en ese momento me llev\u00e9 las manos a la cabeza <em>(\u00bfme quedo sin flash?).<\/em> <br \/><\/p>\n\n<p><\/p>\n\n<p>Vuelvo a releer detenidamente todo lo imprimido por la orden <em>'yaourt flashplugin'<\/em> y me encuentro con un paquete que no habia visto nunca antes llamado <em>'flashplugin-square'<\/em>.\n No sabia lo que era pero tampoco requer\u00eda dependencias de ning\u00fan tipo \nas\u00ed que lo instal\u00e9. Y sorpendentemente al entrar en Youtube se ve\u00edan los\n v\u00eddeos.<\/p>\n\n<p><\/p>\n\n<p>Un d\u00eda despu\u00e9s me entero de que es xD.<\/p>\n\n<p><\/p>\n\n<p>\nPD: Bien por Adobe, ya era hora de lanzar flash al mundillo de los 64 bits.<\/p>","content":"<p><\/p>\n\n<p>Yo hice ayer una instalaci\u00f3n limpia de Arch en mi nuevo HD y me ocurri\u00f3 algo curioso.<\/p>\n\n<p><\/p>\n\n<p>Me dispongo a instalar el paquete <em>'flashplugin-native64'<\/em> y me dice que est\u00e1 obsoleto, en ese momento me llev\u00e9 las manos a la cabeza <em>(\u00bfme quedo sin flash?).<\/em> <br \/><\/p>\n\n<p><\/p>\n\n<p>Vuelvo a releer detenidamente todo lo imprimido por la orden <em>'yaourt flashplugin'<\/em> y me encuentro con un paquete que no habia visto nunca antes llamado <em>'flashplugin-square'<\/em>.\n No sabia lo que era pero tampoco requer\u00eda dependencias de ning\u00fan tipo \nas\u00ed que lo instal\u00e9. Y sorpendentemente al entrar en Youtube se ve\u00edan los\n v\u00eddeos.<\/p>\n\n<p><\/p>\n\n<p>Un d\u00eda despu\u00e9s me entero de que es xD.<\/p>\n\n<p><\/p>\n\n<p>\nPD: Bien por Adobe, ya era hora de lanzar flash al mundillo de los 64 bits.<\/p>","karma":"5.50","parent":"0","comment_edited_date":1284673540,"vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Manuel ","user_id":"25040","author":"Manuel","webpage":"http:\/\/juanma90.deviantart.com\/","user_name":"emmanuel00","karma_level":"40.00","iseditor":"0","global_id":"158837","facebook_uid":null,"index":8,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/158837_1.png"},{"id":"311656","post_id":"57748","date":1284916109,"content_filtered":"<p>Al fin podr\u00e9 usar Firefox 64 bits y poder ver v\u00eddeos de Youtube jeje<\/p>","content":"Al fin podr\u00e9 usar Firefox 64 bits y poder ver v\u00eddeos de Youtube jeje","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"MarSanMar ","user_id":"9615","author":"MarSanMar","webpage":"http:\/\/www.blogssl.com","user_name":"marsanmar","karma_level":"27.00","iseditor":"0","global_id":"86470","facebook_uid":null,"index":28,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/86470_2.png"},{"id":"312962","post_id":"57748","date":1286076311,"content_filtered":"<p>En relaci\u00f3n a los pantallazos de W7. He pasado por todos los sistemas de microsoft y alguno m\u00e1s que no es de ellos. Ahora utilizo W7 x64 y Ubuntu x64, ambos en mi port\u00e1til y en el de sobremesa W7 x64. No he visto ning\u00fan pantallazo desde que los instal\u00e9 hace 4 o 5 meses aproximadamente. Flash square tamopco me ha dao problemas, aunque lo estoy utiliando con la versi\u00f3n 8. Bajo mi experiencia personal W7 es, a fecha de hoy, el mejor sistema operativo de Microsoft para estaci\u00f3n de trabajo.\nStranno, si tienes pantallazos, repasa las conexiones sata, saca la gr\u00e1fica y prueba con otra y finalmente comprueba que ni la memoria ni el procesador se sobrecalienten (ya sabes que a partir de 72 \u00baC empiezas a tener errore cada uno de una madre) y ultima instancia... reinstala.\nEspero que puedas eliminar los pantallazos, amigo.<\/p>","content":"En relaci\u00f3n a los pantallazos de W7. He pasado por todos los sistemas de microsoft y alguno m\u00e1s que no es de ellos. Ahora utilizo W7 x64 y Ubuntu x64, ambos en mi port\u00e1til y en el de sobremesa W7 x64. No he visto ning\u00fan pantallazo desde que los instal\u00e9 hace 4 o 5 meses aproximadamente. Flash square tamopco me ha dao problemas, aunque lo estoy utiliando con la versi\u00f3n 8. Bajo mi experiencia personal W7 es, a fecha de hoy, el mejor sistema operativo de Microsoft para estaci\u00f3n de trabajo.\nStranno, si tienes pantallazos, repasa las conexiones sata, saca la gr\u00e1fica y prueba con otra y finalmente comprueba que ni la memoria ni el procesador se sobrecalienten (ya sabes que a partir de 72 \u00baC empiezas a tener errore cada uno de una madre) y ultima instancia... reinstala.\nEspero que puedas eliminar los pantallazos, amigo.","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"64312","user_id":"64312","author":"","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"301027","facebook_uid":"1597434288","index":29,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1597434288\/picture"},{"id":"311314","post_id":"57748","date":1284667670,"content_filtered":"<p>He probado la nueva version de flash usando W7 bajo IE9 utilizando un video en youtube a 1080p y cabe decir que  aunque al principio tarda un poco mas en la carga del video, anda de 100 para visualizarlo, bien hecho por adobe, ya hacia falta.<\/p>","content":"<p>He probado la nueva version de flash usando W7 bajo IE9 utilizando un video en youtube a 1080p y cabe decir que  aunque al principio tarda un poco mas en la carga del video, anda de 100 para visualizarlo, bien hecho por adobe, ya hacia falta.<\/p>","karma":"2.50","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Ricardo lopez","user_id":"35881","author":"Ricardo lopez","webpage":null,"user_name":"ilukrismx","karma_level":"27.00","iseditor":"0","global_id":"188028","facebook_uid":null,"index":4,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/188028_1.png"}],"meta":{"more_records":"false","start":0,"total":29,"order":"valued","totalCount":29},"commentStatus":"closed"});
+
+	window.App = new AML.Comments.Application(57748, commentList);
+	Backbone.history.start();
+      });
+    </script>
+
+  <!-- Comments and Other Stuff -->
+
+  <div id="ad-bottom" class="ad ad-boton">
+  <a class="ad-contact" id="div-gpt-bot-contact" style="display:none" href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-bot' class="ad-box" style='width: 728px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-bot");
+    });
+    </script>
+    </div>
+</div>
+
+  <!-- .ad - boton -->
+  <div class="sidebar-seo-links">
+    <h4>Más en Genbeta</h4>
+    <ul>
+              <li>
+          <a  href="/multimedia/bittorrent-live-el-streaming-p2p-llegara-pronto-a-los-moviles" class="thumb80">
+            <img title="Bittorrent Live, el streaming P2P, llegará pronto a los móviles " src="http://img.genbeta.com/tb/80_80/110968.jpg" alt="Bittorrent Live, el streaming P2P, llegará pronto a los móviles ">
+          </a>
+          <a  href="/multimedia/bittorrent-live-el-streaming-p2p-llegara-pronto-a-los-moviles">
+            Bittorrent Live, el streaming P2P, llegará pronto a los móviles 
+          </a>
+        </li>
+              <li>
+          <a  href="/multimedia/playmoss-cataloga-las-canciones-de-youtube-vimeo-y-soundcloud-en-una-coleccion-personal" class="thumb80">
+            <img title="Playmoss, cataloga las canciones de YouTube, Vimeo y Soundcloud en una colección personal" src="http://img.genbeta.com/tb/80_80/110934.jpg" alt="Playmoss, cataloga las canciones de YouTube, Vimeo y Soundcloud en una colección personal">
+          </a>
+          <a  href="/multimedia/playmoss-cataloga-las-canciones-de-youtube-vimeo-y-soundcloud-en-una-coleccion-personal">
+            Playmoss, cataloga las canciones de YouTube, Vimeo y Soundcloud en una colección personal
+          </a>
+        </li>
+              <li>
+          <a  href="/navegadores/chrome-33-para-windows-solo-permitira-instalar-extensiones-desde-chrome-web-store" class="thumb80">
+            <img title="Chrome 33 para Windows sólo permitirá instalar extensiones desde Chrome Web Store" src="http://img.genbeta.com/tb/80_80/110920.jpg" alt="Chrome 33 para Windows sólo permitirá instalar extensiones desde Chrome Web Store">
+          </a>
+          <a  href="/navegadores/chrome-33-para-windows-solo-permitira-instalar-extensiones-desde-chrome-web-store">
+            Chrome 33 para Windows sólo permitirá instalar extensiones desde Chrome Web Store
+          </a>
+        </li>
+              <li>
+          <a  href="/navegadores/mozilla-mostrara-anuncios-en-su-pagina-de-nueva-pestana" class="thumb80">
+            <img title="Mozilla mostrará anuncios en su página de nueva pestaña " src="http://img.genbeta.com/tb/80_80/110874.jpg" alt="Mozilla mostrará anuncios en su página de nueva pestaña ">
+          </a>
+          <a  href="/navegadores/mozilla-mostrara-anuncios-en-su-pagina-de-nueva-pestana">
+            Mozilla mostrará anuncios en su página de nueva pestaña 
+          </a>
+        </li>
+              <li>
+          <a  href="/navegadores/mozilla-lanza-firefox-accounts-para-poder-usar-sync-y-otros-servicios-facilmente" class="thumb80">
+            <img title="Mozilla lanza Firefox Accounts para poder usar Sync y otros servicios cómodamente" src="http://img.genbeta.com/tb/80_80/110791.jpg" alt="Mozilla lanza Firefox Accounts para poder usar Sync y otros servicios cómodamente">
+          </a>
+          <a  href="/navegadores/mozilla-lanza-firefox-accounts-para-poder-usar-sync-y-otros-servicios-facilmente">
+            Mozilla lanza Firefox Accounts para poder usar Sync y otros servicios cómodamente
+          </a>
+        </li>
+          </ul>
+</div>
+<!-- related-posts SEO links-->
+       
+    </div>
+  <!-- .container -->
+  </div>
+  <!-- .content-dinamic -->
+
+  <div class= "nav nav-blog">
+  <div class= "container">
+    <h2><strong>&#43;</strong> en Genbeta</h2>
+    <ul>
+      <li class= "blog-section section-lomejor"><a href="/lomejor">Lo mejor</a></li>
+      <li class= "blog-section section-temas"><a href="/archivos">Temas</a></li>
+            <li class= "blog-section section-productos"><a href="/productos">Productos</a></li>
+                  <li class= "blog-section section-respuestas"><a href="/respuestas">Respuestas</a></li>
+            
+            <li class="blog-section section-club"><a href="/club">Club</a></li>
+            <li class= "blog-section section-comunidad"><a href="/comunidad">Comunidad</a></li>
+      <li class="blog-section section-staff"><a href="/quienes-somos">Staff</a></li>
+    </ul>
+  </div>
+</div>
+  
+<div class="footer">
+        <div class="footer-media">
+                <div class="links-category">
+            <h2>Tecnología</h2>
+            <ul>
+                              <li class="tec-xataka"><a href="http://www.xataka.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka<span></span></a></li>
+                              <li class="tec-xatakamovil"><a href="http://www.xatakamovil.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Móvil<span></span></a></li>
+                              <li class="tec-xatakafoto"><a href="http://www.xatakafoto.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Foto<span></span></a></li>
+                              <li class="tec-xatakandroid"><a href="http://www.xatakandroid.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Android<span></span></a></li>
+                              <li class="tec-xatakaon"><a href="http://www.xatakaon.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka On<span></span></a></li>
+                              <li class="tec-xatakahome"><a href="http://www.xatakahome.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Smart Home<span></span></a></li>
+                              <li class="tec-xatakawindows"><a href="http://xatakawindows.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Windows<span></span></a></li>
+                              <li class="tec-xatakaciencia"><a href="http://www.xatakaciencia.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Ciencia<span></span></a></li>
+                              <li class="tec-applesfera"><a href="http://www.applesfera.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Applesfera<span></span></a></li>
+                              <li class="tec-vidaextra"><a href="http://www.vidaextra.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vida Extra<span></span></a></li>
+                              <li class="tec-genbeta"><a href="http://www.genbeta.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Genbeta<span></span></a></li>
+                              <li class="tec-genbetadev"><a href="http://www.genbetadev.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Genbeta Dev<span></span></a></li>
+                          </ul>
+        </div>
+            </div>
+    
+    <div class="footer-links">
+                        <div class="links-category">
+            <h2>Estilos de vida</h2>
+            <ul>
+                              <li><a href="http://www.trendencias.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias</a></li>
+                              <li><a href="http://www.trendenciasbelleza.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Belleza</a></li>
+                              <li><a href="http://www.trendenciashombre.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Hombre</a></li>
+                              <li><a href="http://www.trendenciasshopping.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Shopping</a></li>
+                              <li><a href="http://www.trendenciaslifestyle.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Lifestyle</a></li>
+                              <li><a href="http://www.directoalpaladar.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Directo al Paladar</a></li>
+                              <li><a href="http://www.bebesymas.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bebés y Más</a></li>
+                              <li><a href="http://www.pequesymas.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Peques y Más</a></li>
+                              <li><a href="http://www.vitonica.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vitónica</a></li>
+                              <li><a href="http://www.decoesfera.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Decoesfera</a></li>
+                              <li><a href="http://www.embelezzia.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Embelezzia</a></li>
+                              <li><a href="http://www.ambienteg.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ambiente G</a></li>
+                              <li><a href="http://www.poprosa.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Poprosa</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Motor</h2>
+            <ul>
+                              <li><a href="http://www.motorpasion.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión</a></li>
+                              <li><a href="http://www.motorpasionf1.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión F1</a></li>
+                              <li><a href="http://www.motorpasionmoto.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Moto</a></li>
+                              <li><a href="http://www.motorpasionfuturo.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Futuro</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Ocio</h2>
+            <ul>
+                              <li><a href="http://www.blogdecine.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog de Cine</a></li>
+                              <li><a href="http://www.vayatele.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">¡Vaya Tele!</a></li>
+                              <li><a href="http://www.hipersonica.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Hipersónica</a></li>
+                              <li><a href="http://www.diariodelviajero.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Diario del Viajero</a></li>
+                              <li><a href="http://www.papelenblanco.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Papel en Blanco</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Economía</h2>
+            <ul>
+                              <li><a href="http://www.elblogsalmon.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">El Blog Salmón</a></li>
+                              <li><a href="http://www.pymesyautonomos.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Pymes y Autónomos</a></li>
+                              <li><a href="http://www.tecnologiapyme.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Tecnología Pyme</a></li>
+                              <li><a href="http://www.ahorrodiario.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ahorro Diario</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Latinoamérica</h2>
+            <ul>
+                              <li><a href="http://www.xataka.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Brasil</a></li>
+                              <li><a href="http://www.trendencias.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Brasil</a></li>
+                              <li><a href="http://www.motorpasion.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Brasil</a></li>
+                              <li><a href="http://www.xataka.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka México</a></li>
+                              <li><a href="http://www.motorpasion.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión México</a></li>
+                              <li><a href="http://www.directoalpaladar.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Directo Al Paladar México</a></li>
+                              <li><a href="http://www.xatakandroid.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Android México</a></li>
+                              <li><a href="http://www.vidaextra.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vida Extra México</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Participamos en</h2>
+            <ul>
+                              <li><a href="http://www.ebayers.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">eBayers</a></li>
+                              <li><a href="http://www.circulaseguro.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Circula Seguro</a></li>
+                              <li><a href="http://www.circulaseguro.pt/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Circula Seguro PT</a></li>
+                              <li><a href="http://www.actibva.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Actibva</a></li>
+                              <li><a href="http://www.anexom.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Anexo M</a></li>
+                              <li><a href="http://blog.cocacola.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Happing Magazine</a></li>
+                              <li><a href="http://blog.sage.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog Sage</a></li>
+                              <li><a href="http://www.optimismodigital.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Optimismo Digital</a></li>
+                              <li><a href="http://www.1001experiencias.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">1001 Experiencias</a></li>
+                              <li><a href="http://www.ennaranja.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">En Naranja</a></li>
+                              <li><a href="http://www.essieblog.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Essie Blog</a></li>
+                              <li><a href="http://blogginzenith.zenithmedia.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bloggin Zenith</a></li>
+                              <li><a href="http://www.urbanfire.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Urbanfire</a></li>
+                              <li><a href="http://www.tecnologiadetuatu.elcorteingles.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Tecnología de tú a tú</a></li>
+                              <li><a href="http://www.ciudadano00.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ciudadano 0,0</a></li>
+                              <li><a href="http://blogfanta.cocacola.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog Fanta</a></li>
+                              <li><a href="http://mimundo.philips.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Mi Mundo Philips</a></li>
+                              <li><a href="http://www.bbvacontuempresa.es?utm_source=genbeta&utm_medium=network&utm_campaign=footer">BBVA con tu empresa</a></li>
+                              <li><a href="http://www.perutravelblog.net/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Perú Travel Blog</a></li>
+                              <li><a href="http://bscene.bershka.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bershka Bscene</a></li>
+                              <li><a href="http://www.institutodelafelicidad.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Instituto de la Felicidad</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                    </div>
+</div>
+
+<div class="closure">
+    <div class="container">
+        <div class="weblogssl"><a href="http://www.weblogssl.com">Weblogs SL<span></span></a></div>
+        <ul class="nav">
+            <li><a href="/quienes-somos">¿Quienes somos?</a></li>
+            <li><a href="http://www.weblogssl.com/contenidos">Condiciones de uso</a></li>
+            <li><a href="http://www.weblogssl.com/cookies">Política de cookies</a></li>
+            <li><a href="http://www.weblogssl.com/aviso">Aviso legal</a></li>
+            <li><a title="Publicidad en Genbeta" href="http://www.socialmediasl.com/genbeta.php">Publicidad</a></li>
+            <li><a href="/ayuda-2012">Ayuda</a></li>
+            <li><a href="/contacto">Contacto</a></li>
+        </ul>
+    </div>
+</div>
+
+<div id="cookies-overlay"></div>
+
+  <script type="text/javascript">
+    $(function() {
+      new AML.Auth.View.CookiesOverlayView;
+    });
+  </script>
+
+</div>
+<div id="favicons-list">
+
+    <div class="userbar">
+        <a class="head-shortcut" href="#body" title="Volver arriba">&uarr;</a>
+        <div class="userbox" id="wsl_userbox">
+        </div>
+
+        <div class="favicons" style="width: auto; ">
+
+            <div id="scroll-menu">
+
+                <div class="disabledHotSpotLeft">«</div>
+                <div class="disabledHotSpotRight">»</div>
+                <div class="scrollingHotSpotLeft">«</div>
+                <div class="scrollingHotSpotRight">»</div>
+
+                <div class="scrollWrapper">
+                    <div class="scrollableArea">
+
+                        <ul class="favicroll">
+                            <li id="wsl"><a target="_top" href="http://www.weblogssl.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><em><strong>Blog corporativo</strong></em></a></li>
+
+                            <li><a target="_top" href="http://www.xataka.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b1"><strong>XTK</strong></span> <em><strong>Xataka - Gadgets y electrónica de consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vidaextra.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b2"><strong>VX</strong></span> <em><strong>VidaExtra - Videojuegos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.blogdecine.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b3"><strong>BDC</strong></span> <em><strong>Blog de cine - Cine  y críticas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.elblogsalmon.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b5"><strong>EBS</strong></span> <em><strong>El Blog Salmón - Economía y finanzas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.genbeta.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b6"><strong>GBT</strong></span> <em><strong>Genbeta - Software</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasion.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b7"><strong>MP</strong></span> <em><strong>MotorPasión - Coches y motor</strong></em></a></li>
+                            <li><a target="_top" href="http://www.directoalpaladar.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b8"><strong>DAP</strong></span> <em><strong>Directo al paladar - Gastronomía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.bebesymas.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b9"><strong>BYM</strong></span> <em><strong>Bebés y más - Todo sobre bebés</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vayatele.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b11"><strong>VYT</strong></span> <em><strong>¡Vaya Tele! - Series y televisión</strong></em></a></li>
+                            <li><a target="_top" href="http://www.diariodelviajero.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b12"><strong>DDV</strong></span> <em><strong>Diario del viajero - Viajes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakaciencia.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b13"><strong>XCI</strong></span> <em><strong>Xataka Ciencia - Ciencia</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendencias.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b14"><strong>TRE</strong></span> <em><strong>Trendencias - Moda y tendencias</strong></em></a></li>
+                            <li><a target="_top" href="http://www.hipersonica.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b15"><strong>HIP</strong></span> <em><strong>HiperSónica - Música</strong></em></a></li>
+                            <li><a target="_top" href="http://www.applesfera.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b16"><strong>APP</strong></span> <em><strong>Applesfera - Apple</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasshopping.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b17"><strong>COM</strong></span> <em><strong>Trendencias Shopping - Compras y consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakamovil.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b18"><strong>XTM</strong></span> <em><strong>Xataka Móvil - Móviles</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ambienteg.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b19"><strong>AMG</strong></span> <em><strong>Ambiente G - Gays y lesbianas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionmoto.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b20"><strong>MMO</strong></span> <em><strong>Motorpasión Moto - Motos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.papelenblanco.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b21"><strong>PEB</strong></span> <em><strong>Papel en blanco - Literatura</strong></em></a></li>
+                            <li><a target="_top" href="http://www.decoesfera.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b22"><strong>DEC</strong></span> <em><strong>Decoesfera - Decoración e interiorismo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionf1.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b23"><strong>MF1</strong></span> <em><strong>Motorpasión F1 - Carreras</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vitonica.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b24"><strong>VIT</strong></span> <em><strong>Vitónica - Vida sana</strong></em></a></li>
+                            <li><a target="_top" href="http://www.embelezzia.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b25"><strong>EMB</strong></span> <em><strong>Embelezzia - Lujo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.poprosa.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b26"><strong>POP</strong></span> <em><strong>Poprosa - Famosos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakafoto.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b27"><strong>XTF</strong></span> <em><strong>Xataka Foto - Fotografía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.pymesyautonomos.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b28"><strong>PYA</strong></span> <em><strong>Pymes y autónomos - Pymes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasbelleza.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b30"><strong>TRB</strong></span> <em><strong>Trendencias Belleza - Belleza y cosmética</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.tecnologiapyme.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b34"><strong>TPY</strong></span> <em><strong>Tecnología Pyme - Tecnología para empresas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ahorrodiario.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b35"><strong>AHD</strong></span> <em><strong>Ahorro Diario - Ahorro</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciashombre.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b36"><strong>TRH</strong></span> <em><strong>Trendencias Hombre - Moda y estilo masculino</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.pequesymas.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b37"><strong>PEQ</strong></span> <em><strong>Peques y más - Niños e infancia</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakaon.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b39"><strong>XTO</strong></span> <em><strong>Xataka On - Todo sobre conectividad, ADSL</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakandroid.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b40"><strong>XTA</strong></span> <em><strong>Xataka Android - Android, aplicaciones y dispositivos</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.genbetadev.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b41"><strong>GBD</strong></span> <em><strong>Genbeta Dev - Desarrollo de software</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.motorpasionfuturo.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b42"><strong>MPF</strong></span> <em><strong>Motorpasión Futuro - Innovación y Motor</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakahome.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b44"><strong>XSH</strong></span> <em><strong>Xataka Smart Home - Inteligencia doméstica digital</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakawindows.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b45"><strong>XTW</strong></span> <em><strong>Xataka Windows - Universo Microsoft</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciaslifestyle.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b46"><strong>TLS</strong></span> <em><strong>Trendencias Lifestyle</strong></em></a></li>
+                        </ul>
+
+                    </div>
+                </div>
+                <!-- .scrollWrapper-->
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<div id="wsl_dialog"></div>
+<script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', function() {
+  try {
+    if (window.external.msIsSiteMode()) {
+      window.external.msSiteModeClearJumpList();
+      window.external.msSiteModeCreateJumplist('Mensajes Recientes');
+            window.external.msSiteModeAddJumpListItem('Office\x20para\x20iPad,\x20m\u00E1s\x20pronto\x20que\x20tarde\x3A\x20para\x20la\x20primera\x20mitad\x20de\x202014', 'http://www.genbeta.com/ofimatica/office-para-ipad-mas-pronto-que-tarde-para-la-primera-mitad-de-2014', '');
+            window.external.msSiteModeAddJumpListItem('Bittorrent\x20Live,\x20el\x20streaming\x20P2P,\x20llegar\u00E1\x20pronto\x20a\x20los\x20m\u00F3viles\x20', 'http://www.genbeta.com/multimedia/bittorrent-live-el-streaming-p2p-llegara-pronto-a-los-moviles', '');
+            window.external.msSiteModeAddJumpListItem('La\x20hipocres\u00EDa\x20de\x20algunos\x20medios\x20tradicionales.\x20La\x20imagen\x20de\x20la\x20semana\x20', 'http://www.genbeta.com/actualidad/la-hipocresia-de-algunos-medios-tradicionales-la-imagen-de-la-semana', '');
+            window.external.msSiteModeAddJumpListItem('\x22Tasa\x20Google\x22\x3A\x20si\x20tienes\x20un\x20blog\x20tambi\u00E9n\x20te\x20afecta,\x20solo\x20que\x20otros\x20la\x20cobrar\u00E1n\x20por\x20ti\x20', 'http://www.genbeta.com/actualidad/tasa-google-si-tienes-un-blog-tambien-te-afecta-solo-que-otros-la-cobraran-por-ti', '');
+            window.external.msSiteModeAddJumpListItem('Kickstarter,\x20tras\x20sufrir\x20un\x20ataque,\x20recomienda\x20cambiar\x20contrase\u00F1as\x20', 'http://www.genbeta.com/web/kickstarter-tras-sufrir-un-ataque-recomienda-cambiar-contrasenas', '');
+            window.external.msSiteModeShowJumpList();
+    }
+  } catch (exp) {
+    // do nothing
+  }
+  });
+</script>
+
+
+<script type='text/javascript'>
+    (function() {
+      new ViceVersaLink("http://t.genbeta.com");
+    })();
+</script>
+
+<script type='text/javascript'>
+  window.onerror = function(message, file, line) {
+    var sFormattedMessage = '[' + file + ' (' + line + ')] ' + message;
+    _gaq.push(['_trackEvent', 'Errors', 'Browser', sFormattedMessage, null, true]);
+  }
+    
+</script>
+
+</body>
+</html>

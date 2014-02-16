@@ -1,0 +1,862 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+                                                                                                                                                                                                                                                                                <title>Linux Mint "traiciona" a Banshee alterando su código</title>
+                  <meta name="description" content="La noticia se puede analizar desde tantos puntos de vista que lo más prudente parece empezar por lo más básico: poner en situación los actores..." />
+            <meta name="news_keywords" content="open source, tienda musical"/>
+       
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />    
+    <meta name='robots' content='noodp' />
+    <meta property="fb:admins" content="100000716994885"/>
+    <meta name="application-name" content="Genbeta"/>
+    <meta name="msapplication-tooltip" content="Software y web. Genbeta"/>
+    <meta name="msapplication-starturl" content="http://www.genbeta.com"/>
+    <meta name="msapplication-task" content="name=Lo mejor;action-uri=http://www.genbeta.com/lomejor;icon-uri=http://img.genbeta.com/lp2/v6/images/pin-bg-lomejor-icon.ico" />
+        <meta name="msapplication-task" content="name=Respuestas;action-uri=http://www.genbeta.com/respuestas;icon-uri=http://img.genbeta.com/lp2/v6/images/pin-bg-respuestas-icon.ico" />
+                <!--[if !IE]><!--> <link rel="shortcut icon" href="http://img.genbeta.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if lt IE 9]><!--> <link rel="shortcut icon" href="http://img.genbeta.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if gte IE 9]>
+            <link rel="shortcut icon" type="image/x-icon" href="http://img.genbeta.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+            <link rel=icon type="image/ico" href="http://img.genbeta.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+        <![endif]-->
+    
+    <link rel="apple-touch-icon" href="http://img.genbeta.com/lp2/mobile/images/apple-touch-icon.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-57-precomposed.png">
+
+        <link rel="stylesheet" type="text/css" href="http://img.genbeta.com/lp2/v6/main.css?v=24272">
+        <link rel="publisher" href="http://plus.google.com/106643481235450321345" />
+    <link rel="alternate" type="application/rss+xml" title="" href="/index.xml" />
+    <!--[if lt IE 7]>
+      <link rel="stylesheet" type="text/css" href="http://img.genbeta.com/lp2/v6/ie7.css">
+    <![endif]-->
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', "UA-78515-6"]);
+  _gaq.push(['_setCampaignCookieTimeout', 259200000]);
+  _gaq.push(['_setDomainName', ".genbeta.com"]);
+  _gaq.push(['_setSiteSpeedSampleRate', 5]);
+  _gaq.push(['t2._setAccount', "UA-78515-62"]);
+  _gaq.push(['t2._setCampaignCookieTimeout', 259200000]);
+  _gaq.push(['t2._setDomainName', ".genbeta.com"]);
+  (function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') +       '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  })();
+</script>
+
+ <link rel="canonical" href="http://www.genbeta.com/linux/linux-mint-traiciona-a-banshee-alterando-su-codigo" />
+ <link rel="image_src" href="http://img.genbeta.com/resize/75/thumbnails/b/65659.jpg" />
+ <meta property="og:title" content="Linux Mint &quot;traiciona&quot; a Banshee alterando su código">
+ <meta property="og:description" content="La noticia se puede analizar desde tantos puntos de vista que lo más prudente parece empezar por lo más básico: poner en situación los actores...">
+ <meta property="og:image" content="http://img.genbeta.com/original/65659.jpg">
+    <script>
+    _gaq.push(['t2._setPageGroup', '1', 'post']);
+    _gaq.push(['t2._setPageGroup', '2', "miguel julián"]);
+    _gaq.push(['t2._setPageGroup', '3', "linux"]);
+    _gaq.push(['t2._setPageGroup', '4', "normal"]);
+    _gaq.push(['_setPageGroup', '1', 'post']);
+    _gaq.push(['_setPageGroup', '2', "miguel julián"]);
+    _gaq.push(['_setPageGroup', '3', "linux"]);
+    _gaq.push(['_setPageGroup', '4', "normal"]);
+       </script>
+   </head>
+       <body id="body" class="article-single">
+
+    <script type='text/javascript'>
+    var MAX_source = "";
+    var GPTcats = ["linux"];
+    var GPTtags = ["open-source", "tienda-musical"];
+      </script>
+      <script type='text/javascript'>
+googletag.pubads().setTargeting("origin", "googlesearch").setTargeting("screen", screen.width.toString()).setTargeting("cat", GPTcats).setTargeting("tag", GPTtags);
+if (navigator.userAgent.match(/iPad/i) != null) {
+  googletag.pubads().setTargeting("ua", "ipad");
+} 
+ 
+googletag.defineSlot('/4712/GEB/interior_top', [1000, 40], 'div-gpt-top').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_lateral', [[160, 600], [200,600], [300,600], [300,250]], 'div-gpt-lat').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_central', [[300, 250], [400,400], [1000,250]], 'div-gpt-cen').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_central2', [[300, 250],[400,400],[690, 250]], 'div-gpt-cen2').addService(googletag.pubads());
+googletag.defineSlot('/1018282/GEB-BOT2-interior',[728, 90], 'div-gpt-bot').addService(googletag.pubads());
+googletag.defineSlot('/1018282/GEB-INP', [500, 80], 'div-gpt-inp').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interstitial', [1000, 525], 'div-gpt-int').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().enableSyncRendering();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+</script>
+
+       <script type="text/javascript">
+      WSL2 = {};
+      WSL2.config = {};
+      WSL2.config.fbapikey = "360028941603";
+      WSL2.config.cookieDomain = "";
+      WSL2.config.imagePath = 'http://img.genbeta.com/lp2/v6';
+      WSL2.config.siteName = "Genbeta";
+      window.___gcfg = {lang: 'es'};
+    </script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="http://code.jquery.com/jquery-migrate-1.1.0.js"></script>
+            <script src="http://img.weblogssl.com/LPbackend/prod/v2/js/frontend-758.js"></script>
+          <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _c1 = new WSL2.Cookie;
+      loginStatus = (_c1.hasSession()) ? "yes:" + _c1.loginType() : "no";
+      _gaq.push(['t2._setCustomVar', 4, '.genbeta.com', 'loginstatus:' + loginStatus, 2]);
+      _gaq.push(['_trackPageview']);
+      _gaq.push(['t2._trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); 
+    ga.type = 'text/javascript';
+    ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+  })();
+      var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "11306788" });
+         (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[1]; 
+          s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb": "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+    </script>
+
+    <div id="fb-root"></div>
+  <!-- fb needs this -->
+
+  <script src="//platform.twitter.com/widgets.js" id="tweetjs"></script>
+  <script src="//apis.google.com/js/plusone.js" id="gplus1js"></script>
+  <script src="//connect.facebook.net/es_ES/all.js#xfbml=1" id="fbjssdk"></script>
+  <div class="customize-me">
+  <div class="content-fixed">
+    <div class="container">
+                <!-- .header -->
+            <div class="header header-page">
+        <h1 class="site-logo"><a href="http://www.genbeta.com" title="Ir a la portada">Software y web. Genbeta<span></span></a></h1>
+        <form method="get" action="/busqueda" id="search" class="search" style="top:62px; width:310px; padding: 0;">
+    <p>
+        <input type="hidden" name="cx" value="partner-pub-9977500652563564:0292109475">
+        <input type="text" id="gsearch" name="q" accesskey="4" title="Buscar" placeholder="Busca en Genbeta con Google">
+        <input type="hidden" name="ie" value="UTF-8">
+        <input type="hidden" name="oe" value="UTF-8">
+        <input type="hidden" name="cof" value="FORID:10">
+        <button class="button">Buscar <span class="arrow">&raquo;</span></button>
+    </p>
+</form>
+<script type="text/javascript" src="http://www.google.es/coop/cse/brand?form=cse-search-box&amp;lang=es"></script>
+            <div class="nav nav-main">
+    <ul class="nav-primary">
+        <li class="home-link"><a href="/" title="Volver a portada">Portada</a></li>
+        <li class="respuestas-link"><a href="/respuestas">Respuestas</a></li>
+        <li class="temas-submenu">
+            <ul class="nav-secondary">
+                                   <li><a href="/categoria/actualidad" title="Ir a la categoría Actualidad">Actualidad</a></li>
+                                   <li><a href="/categoria/linux" title="Ir a la categoría Linux">Linux</a></li>
+                                   <li><a href="/categoria/movil" title="Ir a la categoría Móvil">Móvil</a></li>
+                                   <li><a href="/categoria/windows" title="Ir a la categoría Windows">Windows</a></li>
+                                   <li><a href="/categoria/herramientas" title="Ir a la categoría Herramientas">Herramientas</a></li>
+                                <li><a href="/archivos" title="Ver todas las categorías">Más &raquo;</a></li>
+            </ul>
+        </li>
+                  
+            </ul>
+</div>
+
+        <div class="nav nav-tags">
+        <h3>No te pierdas <span class="arrow">&raquo;</span></h3>
+        <ul>
+                        <li><a href="/tag/tasa-google" title="Todo sobre Tasa Google">Tasa Google</a></li>
+                        <li><a href="/tag/ley-lassalle" title="Todo sobre Ley Lassalle">Ley Lassalle</a></li>
+                        <li><a href="/tag/balance-de-windows-8" title="Todo sobre Balance de Windows 8">Balance de Windows 8</a></li>
+                        <li><a href="/tag/cazadores-de-fakes" title="Todo sobre Cazadores de Fakes">Cazadores de Fakes</a></li>
+                        <li><a href="/tag/satya-nadella" title="Todo sobre Satya Nadella">Satya Nadella</a></li>
+                    </ul>
+</div>
+<!-- .nav-tags -->
+
+                    <div class="ad ad-desplegable">
+  <a class="ad-contact" id="div-gpt-top-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+  <div class="ad-box">
+    <div id='div-gpt-top' style='width: 1000px;'>
+    <script type="text/javascript">
+        googletag.cmd.push(function() {
+        googletag.display("div-gpt-top");
+        });
+    </script>
+    </div>
+  </div>
+</div>
+<!-- .ad-box - desplegable -->
+
+  <div class="nav">
+   <ul class="article-nav-controls">
+                              <li><a class="article-control article-previous" href="/genbeta/internet-is-a-series-of-blogs-cxi"><span>Internet is a series of Blogs (CXI)</span></a></li>
+                                             <li><a class="article-control article-next" href="/activismo-online/roja-directa-a-la-confiscacion-de-dominios-en-eeuu"><span>Roja Directa a la confiscación de dominios en EE.UU.</span></a></li>
+                  </ul>
+  </div>
+              </div>
+                   <div class="article article-pre-content">
+  <h1 class="article-header">Linux Mint "traiciona" a Banshee alterando su código</h1>
+  <div class="article-date">10 de diciembre de 2011 | 11:55 CET <span id="is_editor"></span></div>
+  <div class="article-author-details">
+  <div class="figure">
+    <a rel='author' href="/autor/miguel-julian">
+      <img src="http://www.gravatar.com/avatar/14216b3a89c997bfc641f9d3abf7bc0b?s=80&amp;d=mm&amp;r=g" alt="miguel-julian">
+    </a>
+  </div>
+  <h2><a rel='author' href="/autor/miguel-julian">Miguel Julián</a></h2>
+      </div>
+<!-- .article-author-details -->
+</div>
+           </div>
+    <!-- .container -->
+  </div>
+  <!-- .content-fixed -->
+
+  <div class="content-dinamic">
+    <div class="container">
+          <script type="text/javascript">
+        $(function()
+        {
+          AML.postVoteView = new AML.Post.View.PostVoteView({postId:"65659", el:".social-sharing" });
+          AML.isEditorView = new AML.Post.View.IsEditorView({postId:"65659", model: WSL2.User });
+        });
+      </script>
+
+    <div class="aside">
+            <div id="ad-lateral" class="ad ad-primer-escaparate">
+  <a class="ad-contact" id="div-gpt-lat-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-lat' class="ad-box" style='width: 300px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-lat");
+    });
+    </script>
+    </div>
+</div>
+<!-- .ad-box - escaparate vertical -->
+
+           <!-- .ad-box - escaparate vertical -->
+            
+                  
+<div class="aside-box aside-subscribe">
+  <h3 class="aside-header">Síguenos</h3>
+  
+          
+  <form id="feedForm" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" >
+    <label for="subscribe-email">Newsletter:</label>  
+      <input type="text" name="email" type="text" id="feedburnermail" placeholder="Correo electrónico"/>
+      <input type="hidden" name="uri" value="genbeta"/>
+      <input type="hidden" name="loc" value="es_ES">
+      <button class="button" type="submit">Suscríbete <span class="arrow">&raquo;</span></button>
+  </form>
+  <ul class="subs-channels">
+    <li class="channel-rss" id="rss"> <a href="/index.xml" rel="nofollow" title="Suscríbete por RSS a las novedades en Genbeta"><span></span>RSS</a></li>
+    <li class="channel-twitter"><a href="http://twitter.com/genbeta" title="Sigue las novedades de Genbeta en Twitter"><span></span>Twitter</a></li>
+    <li class="channel-fb"><a href="http://www.facebook.com/pages/Genbeta/54999640934" title="Conéctate a la página de Genbeta en Facebook"><span></span>Facebook</a></li>
+    <li class="channel-gplus"><a href="https://plus.google.com/109731528328750280665/posts" title="Sigue a Genbeta en Google Plus"><span></span>Google Plus</a></li>
+    <li class="channel-feedly"><a style="margin-right: 0;" title="Suscríbete a Genbeta con Feedly" href='http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fwww.genbeta.com%2Findex.xml'  target='blank'><img id='feedlyFollow' src='http://img.weblogssl.com/g/xataka4/common/m-icon-feedly.png' alt='follow us in feedly' width='32' height='32'></a></li>
+  </ul>
+  <ul class="devices-channels">
+    <li><a title="Versión para móviles" href="http://m.genbeta.com" class="button button-secondary"><img src="http://img.weblogssl.com/g/xataka4/common/mobile.png">Versión móvil</a></li>
+        <li>
+        <a id="tabletViceVersaLink" href="http://t.genbeta.com" class="button button-secondary" title="Versión tablet"><img src="http://img.weblogssl.com/g/xataka4/common/tablet.png"> Versión tablet</a>
+    </li>
+      </ul>
+
+    <script>
+  $(function() {
+      $("#feedForm").submit(function(e) {
+          e.preventDefault();
+          email = $("#feedburnermail").val();
+          emailPattern = /^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$/i
+          if (emailPattern.test(email)) {
+              window.open('http://mailer.weblogssl.com/subscribe_check/' + email +'/genbeta/Genbeta','','width=500,height=500');
+          } else {
+              alert("El correo electrónico introducido no es correcto");
+          }
+      });
+  });
+  </script>
+  
+</div>
+            <!-- .article-promo -->
+    </div>
+
+    <!-- .aside -->
+
+                    
+    <div class="section section-article-single">
+            <div class="article">
+        <div class="article-summary">
+          <p><img id="image65662" src="http://img.genbeta.com/2011/12/linux-mint-cambia-el-codigo-de-banshee.jpg" class="centro" alt="Linux Mint cambia el código de Banshee para llevarse el 100% de los beneficios de la Amazon Store" /></p>
+
+                              <div class="article-metadata">
+            <div class="article-comments" id="postCommentCount">
+              <a href="#comments" title="Ir a comentarios">
+                Comentarios 94
+              </a>
+            </div>
+            <div class="article-links">
+              <div class="social-sharing">
+                <div class="social-sharing-widgets">
+                                    <div class="wsl-favorite">
+                    <button class="button button-small">Me gusta</button>
+                    <span class="wsl-count">3</span>
+                  </div>
+                                    <!-- twitter -->
+                  <a class="twitter-share-button" href="http://twitter.com/share" data-count="horizontal" data-url="http://www.genbeta.com/p/65659" data-counturl="http://www.genbeta.com/linux/linux-mint-traiciona-a-banshee-alterando-su-codigo" data-text="Linux Mint &quot;traiciona&quot; a Banshee alterando su código" data-via="genbeta" data-lang="es">Tweet</a>
+                  <!-- g+ -->
+                  <div class="g-plusone" data-size="medium" data-href="http://www.genbeta.com/linux/linux-mint-traiciona-a-banshee-alterando-su-codigo" data-callback="gplusClickHandler" ></div>
+                  <!-- facebook like -->
+                  <div href="http://www.genbeta.com/linux/linux-mint-traiciona-a-banshee-alterando-su-codigo" class="fb-like" data-send="false" data-layout="button_count" data-show-faces="false"></div>
+                </div>
+              </div>
+              <!-- .social-sharing -->
+            </div>
+            <!-- .article-links -->
+          </div>
+          <!-- .article-metadata -->
+
+
+          	<p></p>
+
+	<p>La noticia se puede analizar desde tantos puntos de vista que lo más prudente parece empezar por lo más básico: poner en situación los actores que intervienen. B<strong>anshee es el reproductor de música que viene instalado por defecto tanto en Ubuntu como en Linux Mint</strong> (una distribución GNU/Linux basada en el propio Ubuntu). Además, moviéndonos en entornos de software libre parece conveniente anotar que Banshee se distribuye bajo una licencia <span class="caps">MIT</span>.</p>
+
+	<p>Ahora que ya conocemos a los actores de la película hablemos ahora sobre el guión de la misma. En una aburrida tarde de lluvia podemos dedicarnos a modificar el código de <a href="http://www.genbeta.com/productos/reproductores-audio/banshee">Banshee</a> siempre y cuando lo redistribuyamos cumpliendo algunas restricciones, y esto es lo que han hecho los desarrolladores de <a href="http://www.genbeta.com/productos/sistemas-operativos/linux-mint-12">Linux Mint</a>. Pero el cambio que han realizado no parece muy justo; y es que han cambiado la parte en la que los beneficios por la compra de música en la tienda de Amazon iban a la <span class="caps">GNOME</span> Foundation haciendo que, en cambio, <strong>el dinero viaje directamente a los bolsillos de Linux Mint</strong>.<br />
+<!--more--><br />
+<h2>Los dos puntos de vista de la &#8220;traición&#8221;</h2><br />
+Un punto de vista está muy claro: <strong>Linux Mint podía cambiar el código de Banshee y así lo ha hecho</strong>. ¿Alguien puede reclamar algo? Legalmente no, moralmente dependerá del punto de vista de cada persona. El segundo punto de vista de este entuerto es el de Banshee, que seguramente se podría resumir con una imagen de un niño pequeño con los ojos como platos. De hecho, en su página anuncian que Linux Mint se quedan el 50% de esos pagos en la tienda Amazon.</p>
+
+	<p>El titular de la noticia viene con un entrecomillado de <em>traición</em>, y parece que es la palabra que más se ajusta al caso&#8230; al menos veamos lo que dice la <span class="caps">RAE</span> al respecto:</p>
+
+<blockquote><strong>Traición</strong>: Falta que se comete quebrantando la fidelidad o lealtad que se debe guardar o tener.</blockquote>
+
+	<p>Traición o no, parece claro que dentro de un mundo que se considera más como una filosofía y hasta casi una estilo de vida la gente de Linux Mint no está actuando de manera acorde a lo que podría esperarse. Cambiar el código, sin avisar a nadie, <strong>para que los pagos de nuestros usuarios vengan directamente a mi cartera no parece muy justo</strong>.</p>
+
+	<p><h2>Clement Lefebvre sale a la palestra explicando la situación</h2><br />
+En los comentarios del artículo que se cita como fuente el propio <strong>Clement Lefebvre sale al quite de la polémica</strong> arrojando datos y opiniones entre las que se destacan que los pagos sobre los que estamos hablando <strong>no alcanzan los cuatro dólares mensuales</strong>. Además justifica que la misma línea de código la había cambiado con anterioridad Canonical (para Ubuntu) y que la línea original de Banshee no funcionaba ya que la página a la que hacía referencia parece no existir.</p>
+
+	<p>Pero posiblemente el meollo moral del asunto sea el <strong>no haber hecho público</strong> (dejando de lado la constancia del cambio del código) que se iba a hacer ese cambio. Si se corrige un problema funcional en el código no debería haber mayor problema, pero <strong>cuando hay dinero y beneficios de por medio</strong> parece mucho más que razonable andar con pies de plomo y explicar los cambios que has hecho. De hecho en esos mismos comentarios en mayúsculas encontramos la siguiente frase (que traduzco):</p>
+
+<blockquote>Si encontramos cualquier vía de ingresos generada por nuestros usuarios, tomamos el control de la misma.</blockquote>
+
+	<p>Y es que después comenta que no tiene ningún problema en llegar a acuerdos y compartir los ingresos. De hecho, esto mismo que ahora se critica lo hizo con anterioridad Canonical con los ingresos generados por Banshee en Ubuntu, lo que generó grandes debates en la comunidad del software libre y que quedó en un 75/25, es decir un 75% de los ingresos para Canonical y un 25% para la <span class="caps">GNOME</span> Foundation por parte de Banshee. Pero la diferencia es clara, mientras que Canonical (aunque también podría haberse quedado el 100% de los ingresos) negoció los porcentajes, la gente de <strong>Linux Mint parece haberse saltado un pequeño paso, que para muchos, es muy importante</strong>.</p>
+
+	<p>Para acabar un dato. En contraste con los menos de 4 dólares mensuales que Banshee genera en Linux Mint, d<strong>esde septiembre de 2011 en Ubuntu, Banshee ha generado para la <span class="caps">GNOME</span> Foundation más de 9.200 dólares</strong>. Y teniendo en cuenta que eso significa el 25% de los ingresos, la cifra asciende a más de 36.800 dólares en tres meses. No pongo en duda la palabra de Lefebvre, sino que más bien me gustaría poner el foco sobre la cantidad de esfuerzos opuestos, recursos y problemas puestos para una diferencia tan abismal. Pero ese es otro debate, y seguramente, nunca se dará por zanjado.</p>
+
+	<p>Vía | <a href="http://www.omgubuntu.co.uk/2011/12/linux-mint-swap-banshee-affiliate-code-take-100-of-profits/">OMG! Ubuntu</a> | <a href="http://forum.ubuntuusers.de/topic/diskussion-ueber-linux-mint/14/#post-3717647">Foro donde se observa el cambio en el código</a></p>                  </div>
+
+                        
+        <div class="ad links-ad-inpost">
+    <div id='div-gpt-inp' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-inp");
+    });
+    </script>
+    </div>
+</div>
+
+
+        
+        <div class="article-taxonomy">
+                      <div class="nav article-tags article-categories">
+  <h2>Categorías</h2>
+    <ul>
+                      
+      <li><a href="/categoria/linux">Linux</a></li>
+        </ul>
+</div>
+            <div class="nav article-tags">
+  <h2>Tags</h2>
+  <ul>
+                                             
+      <li><a href="/tag/open-source">open source</a></li>
+                                             
+      <li><a href="/tag/tienda-musical">tienda musical</a></li>
+          
+  </ul>
+</div>
+                  </div>
+        <!-- .article-metadata -->
+      </div>
+      <!-- .article -->
+    </div>
+    <!-- .section-articles -->
+            <div id="ad-center" class="ad ad-escaparate-medio">
+  <a class="ad-contact" id="div-gpt-cen-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-cen' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+
+        
+        
+    <div class="section section-related">
+               <div id="outBrainVerticalWidget" class="post-related-posts ">
+  <h3>Artículos recomendados</h3>
+  <div class="post-related-content">
+   
+    <div class="OUTBRAIN" data-src="http://www.genbeta.com/linux/linux-mint-traiciona-a-banshee-alterando-su-codigo" data-widget-id="AR_2" data-ob-template="genbeta" >
+    </div>
+    <script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js">
+    </script>
+  </div>
+  <!-- .post-related-content -->
+  <p class="post-related-more">
+    <a href="/categoria/linux" title="Ver más artículos relacionados">
+    Ver más artículos <span class="arrow">»</span>    
+    </a>
+    </p>
+</div>     
+      <div class="post-related-products">
+   <h3>Productos</h3>
+   <div id="post-related-products" class="post-related-content">
+                    <div class="product">
+            <h4><a href="/productos/reproductores-audio/banshee">Banshee</a></h4>
+            <a href="/productos/reproductores-audio/banshee" class="figure">
+              <img src="http://img.genbeta.com/thumbnails/b/65659.jpg" alt="Banshee">
+            </a>
+        </div>
+                <div class="product">
+            <h4><a href="/productos/sistemas-operativos/linux-mint-12">Linux Mint 12</a></h4>
+            <a href="/productos/sistemas-operativos/linux-mint-12" class="figure">
+              <img src="http://img.genbeta.com/thumbnails/b/65659.jpg" alt="Linux Mint 12">
+            </a>
+        </div>
+                </div>
+  <p class="post-related-more">
+    <a href="/productos//" title="Ver más productos relacionados">
+      Ver más productos <span class="arrow">»</span>
+    </a>
+  </p>
+ </div>
+<!-- .post-related-products -->
+     <div class="post-related-qa">
+    <h3>Respuestas</h3>
+        <div class="post-related-content">
+            <ul>
+                            <li>
+                    <div class="answer-number empty-topic">
+                        <strong>0</strong>
+                    </div>
+                    <a href="/respuestas/recomendacion-proyecto-open-source">¿Recomendación proyecto open source?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2012-04-04T00:18:11Z"></abbr>
+                    </span>            
+                </li>
+                        </ul>
+        </div>
+        <!-- .post-related-content -->
+        <p class="post-related-more">
+            <a href="/respuestas" title="Ver más respuestas relacionados">
+                Ver más respuestas
+                <span class="arrow">»</span>
+            </a>
+        </p>
+</div>
+
+<script type="text/javascript">
+   $(function(){
+      $("abbr.timeago").timeago();
+   });
+</script>
+     </div>
+
+
+  <!-- Comments Section -->
+        <a id="to-comments"></a>
+  <div id="comments" class="section section-comments">
+            <div class="standalone-message">
+            <div class="message aviso"><h3>Los comentarios se han cerrado</h3></div>
+        </div>
+        <!-- #comment-write -->
+            <div id="ad-center2" class="ad ad-segundo-escaparate">
+  <a class="ad-contact" id="div-gpt-cen2-contact" style='display:none'
+  href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-cen2' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen2");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+    <div id="comments-header" class="header-section">
+      <div class="comment-order">
+    	<h3>Ordenar por:</h3>
+      </div>
+      <!-- #comment-order -->
+          	<h2>
+              50 comentarios
+            </h2>
+    </div>
+    <div id="top-section-settings"></div>
+    <ul class="comment-list"></ul>
+        <div class="nav"></div>
+    <div id="bottom-section-settings"></div>
+  </div>
+    <script type="text/javascript">
+      $(function()
+      {
+        var commentList = new AML.Comments.Model.CommentList({},{postId:65659});
+        commentList.resetParsed({"comments":[{"id":"374492","post_id":"65659","date":1323537989,"content_filtered":"<p>Linux, Ubuntu, Microsoft, Apple, etc. ... finalmente, todo se trata de dinero, el v\u00edl metal, \u00bfsorprende? para nada, qui\u00e9n no lo tuviera claro, bienvenidos de vuelta del pa\u00eds \"Utop\u00eda\".<\/p>","content":"<p>Linux, Ubuntu, Microsoft, Apple, etc. ... finalmente, todo se trata de dinero, el v\u00edl metal, \u00bfsorprende? para nada, qui\u00e9n no lo tuviera claro, bienvenidos de vuelta del pa\u00eds \"Utop\u00eda\".<\/p>","karma":"135.00","parent":"0","comment_edited_date":"","vote_count":"22","comment_level":1,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"86484","user_id":"86484","author":"","webpage":null,"user_name":"fernandojconti","karma_level":"20.00","iseditor":"0","global_id":"386822","facebook_uid":"100000230999242","index":31,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100000230999242\/picture"},{"id":"374534","post_id":"65659","date":1323571049,"content_filtered":"<p>Es que ganar dinero es leg\u00edtimo, lo que no siempre es leg\u00edtimo es la forma de hacerlo.<\/p>\n\n<p>Dicho esto, dos matices: <\/p>\n\n<p>- Linux Mint no es Linux, es solo una distribuci\u00f3n.<\/p>\n\n<p>- En muchos proyectos de software libre no hay ning\u00fan \u00e1nimo de lucro. Tu generalizaci\u00f3n no se ajusta en modo alguno a la realidad.<\/p>","content":"<p>Es que ganar dinero es leg\u00edtimo, lo que no siempre es leg\u00edtimo es la forma de hacerlo.<\/p>\n\n<p>Dicho esto, dos matices: <\/p>\n\n<p>- Linux Mint no es Linux, es solo una distribuci\u00f3n.<\/p>\n\n<p>- En muchos proyectos de software libre no hay ning\u00fan \u00e1nimo de lucro. Tu generalizaci\u00f3n no se ajusta en modo alguno a la realidad.<\/p>","karma":"122.50","parent":"374492","comment_edited_date":"","vote_count":"16","comment_level":2,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"shotokan","user_id":"67368","author":"","webpage":null,"user_name":"shotokan","karma_level":"72.00","iseditor":"0","global_id":"319021","facebook_uid":null,"index":51,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/319021_1.png"},{"id":"377671","post_id":"65659","date":1325614713,"content_filtered":"<p>De acuerdo, pero prefiero que mi dinero lo reciba RMS por poner un ejemplo, a Bill Gates, por poner otro.<\/p>","content":"De acuerdo, pero prefiero que mi dinero lo reciba RMS por poner un ejemplo, a Bill Gates, por poner otro.","karma":"5.00","parent":"374492","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Manolo","user_id":"98809","author":"Manolo","webpage":"http:\/\/about.me\/gestoria","user_name":"bahi","karma_level":"20.00","iseditor":"0","global_id":"480511","facebook_uid":null,"index":94,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/480511_1.png"},{"id":"374453","post_id":"65659","date":1323523924,"content_filtered":"<p>Me afecta poco, yo sigo desinstalando Banshee e instalando Rhythmbox. Pero vamos, que un cambio de ese tipo si debe ser avisado. Lo hagan los de Ubuntu o los de Mint.<\/p>","content":"<p>Me afecta poco, yo sigo desinstalando Banshee e instalando Rhythmbox. Pero vamos, que un cambio de ese tipo si debe ser avisado. Lo hagan los de Ubuntu o los de Mint.<\/p>","karma":"55.00","parent":"0","comment_edited_date":"","vote_count":"4","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"s_48k","user_id":"77631","author":"","webpage":null,"user_name":"s_48k","karma_level":"22.00","iseditor":"0","global_id":"363909","facebook_uid":null,"index":5,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/363909_1.png"},{"id":"374456","post_id":"65659","date":1323524179,"content_filtered":"<p>Ubuntu avis\u00f3. Que su negociaci\u00f3n se haya parecido a una de las amables ofertas que nadie podr\u00eda rechazar de Don Corleone es otra cosa<\/p>","content":"<p>Ubuntu avis\u00f3. Que su negociaci\u00f3n se haya parecido a una de las amables ofertas que nadie podr\u00eda rechazar de Don Corleone es otra cosa<\/p>","karma":"20.00","parent":"374453","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"0","comment_author":"Diego Germ\u00e1n Gonzalez","user_id":"18808","author":"Diego Germ\u00e1n Gonzalez","webpage":null,"user_name":"dggonzalez","karma_level":"32.00","iseditor":"0","global_id":"133442","facebook_uid":null,"index":8,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/963785ed6ba925a47584c60e210417be"},{"id":"374448","post_id":"65659","date":1323521894,"content_filtered":"<p>Decepcionante, \u00bfprueba ello que la oportunidad hace al ladr\u00f3n?<\/p>","content":"<p>Decepcionante, \u00bfprueba ello que la oportunidad hace al ladr\u00f3n?<\/p>","karma":"37.50","parent":"0","comment_edited_date":"","vote_count":"4","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"84240","user_id":"84240","author":"","webpage":null,"user_name":"genbeto","karma_level":"22.00","iseditor":"0","global_id":"265744","facebook_uid":"100000670966837","index":1,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/265744_1.png"},{"id":"374450","post_id":"65659","date":1323522356,"content_filtered":"<p>Creo que lo que prueba que a la larga el modelo de gratuidad del c\u00f3digo abierto\/software libre es insostenible<\/p>","content":"<p>Creo que lo que prueba que a la larga el modelo de gratuidad del c\u00f3digo abierto\/software libre es insostenible<\/p>","karma":"77.50","parent":"374448","comment_edited_date":"","vote_count":"29","comment_level":2,"comment_deleted_date":"","tree_level":"1","comment_approved":"0","comment_author":"Diego Germ\u00e1n Gonzalez","user_id":"18808","author":"Diego Germ\u00e1n Gonzalez","webpage":null,"user_name":"dggonzalez","karma_level":"32.00","iseditor":"0","global_id":"133442","facebook_uid":null,"index":3,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/963785ed6ba925a47584c60e210417be"},{"id":"374452","post_id":"65659","date":1323523897,"content_filtered":"<p>esto no prueba nada, lo unico que prueba es al ambici\u00f3n de los seres humanos.<\/p>","content":"<p>esto no prueba nada, lo unico que prueba es al ambici\u00f3n de los seres humanos.<\/p>","karma":"57.50","parent":"374450","comment_edited_date":"","vote_count":"12","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"74729","user_id":"74729","author":"","webpage":null,"user_name":"fredyqpmn","karma_level":"22.00","iseditor":"0","global_id":"351533","facebook_uid":"1344594862","index":4,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1344594862\/picture"},{"id":"374454","post_id":"65659","date":1323524106,"content_filtered":"<p>\u00bf\u00bfambici\u00f3n??<\/p>\n\n<p>A ver, hay mucho software de pago que es una porquer\u00eda. Pero hacer software de calidad lleva tiempo, esfuerzo y dedicaci\u00f3n. Por muy buena voluntad que tengan los desarrolladores y por mucho que quieran contribuir al software libre hay que pagar las facturas<\/p>","content":"<p>\u00bf\u00bfambici\u00f3n??<\/p>\n\n<p>A ver, hay mucho software de pago que es una porquer\u00eda. Pero hacer software de calidad lleva tiempo, esfuerzo y dedicaci\u00f3n. Por muy buena voluntad que tengan los desarrolladores y por mucho que quieran contribuir al software libre hay que pagar las facturas<\/p>","karma":"57.50","parent":"374452","comment_edited_date":"","vote_count":"13","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"0","comment_author":"Diego Germ\u00e1n Gonzalez","user_id":"18808","author":"Diego Germ\u00e1n Gonzalez","webpage":null,"user_name":"dggonzalez","karma_level":"32.00","iseditor":"0","global_id":"133442","facebook_uid":null,"index":6,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/963785ed6ba925a47584c60e210417be"},{"id":"374468","post_id":"65659","date":1323529128,"content_filtered":"<p>Estamos hablando de <b>Banshee, un software que NO es desarrollado por la gente de Linux Mint<\/b>; que dicho sea de paso, contribuye tanto o menos que Canonical, para los puritanos que odian a la distribuci\u00f3n Sudafricana.<\/p>\n\n<p>Ent\u00f3nces, si Banshee NO es desarrollado por la gente de Linux Mint y el esfuerzo debe ser retribuido, \u00bfpor qu\u00e9 quitarle el dinero de forma oculta y maliciosa?<\/p>\n\n<p>Perd\u00f3n, pero en tu comentario no veo sentido alg\u00fano.<\/p>\n\n<p>Lo que se cuestiona no es que Linux Mint desee obtener beneficios si sus usuarios compran m\u00fasica; sino la forma de hacerlo y la tonta justificaci\u00f3n que intent\u00f3 Clement.<\/p>\n\n<p>Por otra parte, <b>la linea de c\u00f3digo que cambiaron no es la modificada por Canonoical<\/b>. <\/p>\n\n<p>Han modificado el paquete de Ubuntu que es su upstream y la <b>linea cambiada es la de Banshee - Amazon, ya que  Ubuntu no toca esa linea<\/b> porque en virtud de su acuerdo p\u00fablico no requiere hacerlo.<\/p>\n\n<p>\u00bfUna de las pruebas? Si es verdad que Canonical hab\u00eda cambiado esa linea, \u00bfc\u00f3mo es que la linea cambiada hablaba de Banshee - Amazon y no de Canonical? ARGUMENTOS D\u00c9BILES SI LOS HAY.<\/p>","content":"<p>Estamos hablando de <b>Banshee, un software que NO es desarrollado por la gente de Linux Mint<\/b>; que dicho sea de paso, contribuye tanto o menos que Canonical, para los puritanos que odian a la distribuci\u00f3n Sudafricana.<\/p>\n\n<p>Ent\u00f3nces, si Banshee NO es desarrollado por la gente de Linux Mint y el esfuerzo debe ser retribuido, \u00bfpor qu\u00e9 quitarle el dinero de forma oculta y maliciosa?<\/p>\n\n<p>Perd\u00f3n, pero en tu comentario no veo sentido alg\u00fano.<\/p>\n\n<p>Lo que se cuestiona no es que Linux Mint desee obtener beneficios si sus usuarios compran m\u00fasica; sino la forma de hacerlo y la tonta justificaci\u00f3n que intent\u00f3 Clement.<\/p>\n\n<p>Por otra parte, <b>la linea de c\u00f3digo que cambiaron no es la modificada por Canonoical<\/b>. <\/p>\n\n<p>Han modificado el paquete de Ubuntu que es su upstream y la <b>linea cambiada es la de Banshee - Amazon, ya que  Ubuntu no toca esa linea<\/b> porque en virtud de su acuerdo p\u00fablico no requiere hacerlo.<\/p>\n\n<p>\u00bfUna de las pruebas? Si es verdad que Canonical hab\u00eda cambiado esa linea, \u00bfc\u00f3mo es que la linea cambiada hablaba de Banshee - Amazon y no de Canonical? ARGUMENTOS D\u00c9BILES SI LOS HAY.<\/p>","karma":"102.50","parent":"374454","comment_edited_date":"","vote_count":"19","comment_level":2,"comment_deleted_date":"","tree_level":"4","comment_approved":"1","comment_author":"79746","user_id":"79746","author":"","webpage":null,"user_name":null,"karma_level":"17.00","iseditor":"0","global_id":"373836","facebook_uid":"1368671477","index":15,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1368671477\/picture"},{"id":"374471","post_id":"65659","date":1323531089,"content_filtered":"<p>Claro. Pero yo lo interpreto desde el punto de vista que para usar Banshee necesitas una distribuci\u00f3n de Linux instalada. \u00bfY esa distribuci\u00f3n quien la hace? Los desarrolladores de Linux Mint. Por lo que, directa o indirectamente, est\u00e1n involucrados en el proceso de que el usuario pueda usar Banshee. <\/p>\n\n<p>Sin embargo, la movida de Linux Mint es inaceptable. Si necesitaban m\u00e1s ingresos, deber\u00edan haber avisado lo que pensaban hacer.<\/p>\n\n<p><br \/><\/p>","content":"<p>Claro. Pero yo lo interpreto desde el punto de vista que para usar Banshee necesitas una distribuci\u00f3n de Linux instalada. \u00bfY esa distribuci\u00f3n quien la hace? Los desarrolladores de Linux Mint. Por lo que, directa o indirectamente, est\u00e1n involucrados en el proceso de que el usuario pueda usar Banshee. <\/p>\n\n<p>Sin embargo, la movida de Linux Mint es inaceptable. Si necesitaban m\u00e1s ingresos, deber\u00edan haber avisado lo que pensaban hacer.<\/p>\n\n<p><br \/><\/p>","karma":"25.00","parent":"374468","comment_edited_date":1323531187,"vote_count":"4","comment_level":3,"comment_deleted_date":"","tree_level":"5","comment_approved":"1","comment_author":"Gonzalo ","user_id":"14983","author":"Gonzalo ","webpage":null,"user_name":"gonzakpo","karma_level":"37.00","iseditor":"0","global_id":"121227","facebook_uid":null,"index":16,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/9903325bebbe53a48f5fb798d673d727"},{"id":"374483","post_id":"65659","date":1323535684,"content_filtered":"<p>En realidad bashee no esta hecho para Mint.. esta hecho para cualquier plataforma que soporte gnome (todos los gnu\/linux y portandolo a otros sistemas posix, como bsd) Asi que, para usar bashee puedes prescindir de mint, al equipo de gnome le da igual si mint exista o no, gnome es mas antiguo que hasta ubuntu..<\/p>\n\n<p>Lo mas adecuado creo yo, es que el equipo de mint haga un fork de bashee con esa modificaci\u00f3n, pero de igual manejar dar la opci\u00f3n (en repositorios) al usuario de instalar el bashee original con los ingresos para gnome.<\/p>\n\n<p>Otra opci\u00f3n seria que den al usuario, en el momento de realizar el pago, elegir a quien quiere dar ese beneficio: a gnome o a mint. Claro en el caso que uses mint como distro.<\/p>","content":"<p>En realidad bashee no esta hecho para Mint.. esta hecho para cualquier plataforma que soporte gnome (todos los gnu\/linux y portandolo a otros sistemas posix, como bsd) Asi que, para usar bashee puedes prescindir de mint, al equipo de gnome le da igual si mint exista o no, gnome es mas antiguo que hasta ubuntu..<\/p>\n\n<p>Lo mas adecuado creo yo, es que el equipo de mint haga un fork de bashee con esa modificaci\u00f3n, pero de igual manejar dar la opci\u00f3n (en repositorios) al usuario de instalar el bashee original con los ingresos para gnome.<\/p>\n\n<p>Otra opci\u00f3n seria que den al usuario, en el momento de realizar el pago, elegir a quien quiere dar ese beneficio: a gnome o a mint. Claro en el caso que uses mint como distro.<\/p>","karma":"20.00","parent":"374471","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"6","comment_approved":"1","comment_author":"jSan","user_id":"67306","author":"jSan","webpage":null,"user_name":null,"karma_level":"25.00","iseditor":"0","global_id":"290497","facebook_uid":null,"index":25,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/290497_1.png"},{"id":"374504","post_id":"65659","date":1323542753,"content_filtered":"<p><i>\"Por otra parte, la linea de c\u00f3digo que cambiaron no es la modificada por Canonoical. \n\nHan modificado el paquete de Ubuntu que es su upstream y la linea cambiada es la de Banshee - Amazon, ya que Ubuntu no toca esa linea porque en virtud de su acuerdo p\u00fablico no requiere hacerlo.\"<\/i><\/p>\n\n<p>- \u00bfEst\u00e1s hablando de esto?<\/p>\n\n<p><a href=\"http:\/\/img708.imageshack.us\/img708\/3205\/bansheev.png\" rel=\"nofollow\">http:\/\/img708.imageshack.us\/img708\/3205\/bansheev.png<\/a><\/p>\n\n<p>Ah\u00ed se ve que Canonical s\u00ed la cambia y no podr\u00eda ser otra manera porque sino no s\u00e9 c\u00f3mo podr\u00eda cobrar el dinero para luego darle el porcentaje a Banshee.<\/p>","content":"<p><i>\"Por otra parte, la linea de c\u00f3digo que cambiaron no es la modificada por Canonoical. \n\nHan modificado el paquete de Ubuntu que es su upstream y la linea cambiada es la de Banshee - Amazon, ya que Ubuntu no toca esa linea porque en virtud de su acuerdo p\u00fablico no requiere hacerlo.\"<\/i><\/p>\n\n<p>- \u00bfEst\u00e1s hablando de esto?<\/p>\n\n<p><a href=\"http:\/\/img708.imageshack.us\/img708\/3205\/bansheev.png\" rel=\"nofollow\">http:\/\/img708.imageshack.us\/img708\/3205\/bansheev.png<\/a><\/p>\n\n<p>Ah\u00ed se ve que Canonical s\u00ed la cambia y no podr\u00eda ser otra manera porque sino no s\u00e9 c\u00f3mo podr\u00eda cobrar el dinero para luego darle el porcentaje a Banshee.<\/p>","karma":"23.00","parent":"374468","comment_edited_date":1323542811,"vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"5","comment_approved":"1","comment_author":"apolon","user_id":"65031","author":"apolon","webpage":"http:\/\/votame.negativo.fanboy.deprimido","user_name":"apolon","karma_level":"40.00","iseditor":"0","global_id":"305242","facebook_uid":null,"index":38,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/305242_2.png"},{"id":"374472","post_id":"65659","date":1323531132,"content_filtered":"<p>\u00bfSe puede saber de que parte de mi comentario deduces que estoy defendiendo lo que hizo Linux MInt?\nYo no estaba justificando la acci\u00f3n de Mint sino  respondiendo al comentario de Fredy. Linux Mint acometi\u00f3 un proyecto ambicioso para ganar a los usuarios disconformes de Gnome 3\/Unity y para eso necesita o muchos desarrolladores part time y pocos full time y eso implica dinero. Eligi\u00f3 un p\u00e9simo camino.. Yo hace tiempo que insisto que las distribuciones Linux en alg\u00fan momento van a tener que empezar a cobrar, al menos las que no tienen la cantidad de usuarios suficientes como para obtener ingresos de otra forma como  alianzas con buscadores o convenios con tiendas.<\/p>","content":"<p>\u00bfSe puede saber de que parte de mi comentario deduces que estoy defendiendo lo que hizo Linux MInt?\nYo no estaba justificando la acci\u00f3n de Mint sino  respondiendo al comentario de Fredy. Linux Mint acometi\u00f3 un proyecto ambicioso para ganar a los usuarios disconformes de Gnome 3\/Unity y para eso necesita o muchos desarrolladores part time y pocos full time y eso implica dinero. Eligi\u00f3 un p\u00e9simo camino.. Yo hace tiempo que insisto que las distribuciones Linux en alg\u00fan momento van a tener que empezar a cobrar, al menos las que no tienen la cantidad de usuarios suficientes como para obtener ingresos de otra forma como  alianzas con buscadores o convenios con tiendas.<\/p>","karma":"20.00","parent":"374468","comment_edited_date":1323531275,"vote_count":"3","comment_level":3,"comment_deleted_date":"","tree_level":"5","comment_approved":"0","comment_author":"Diego Germ\u00e1n Gonzalez","user_id":"18808","author":"Diego Germ\u00e1n Gonzalez","webpage":null,"user_name":"dggonzalez","karma_level":"32.00","iseditor":"0","global_id":"133442","facebook_uid":null,"index":17,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/963785ed6ba925a47584c60e210417be"},{"id":"374489","post_id":"65659","date":1323537181,"content_filtered":"<p>Y otra vez, a nadie se le obliga a hacer lo que hace. La inmensa mayor\u00eda de la gente que se le da por hacer una distribuci\u00f3n propia lo hacen por propia voluntad, por hobby, no porque quieran hacerse ricos.<\/p>\n\n<p>Y si una distribuci\u00f3n es insostenible se abandona su desarrollo y punto, por mi se pueden mirar 200 distribuciones si entre ellas no est\u00e1n las 10 o 12 distribuciones troncales que existen.<\/p>","content":"<p>Y otra vez, a nadie se le obliga a hacer lo que hace. La inmensa mayor\u00eda de la gente que se le da por hacer una distribuci\u00f3n propia lo hacen por propia voluntad, por hobby, no porque quieran hacerse ricos.<\/p>\n\n<p>Y si una distribuci\u00f3n es insostenible se abandona su desarrollo y punto, por mi se pueden mirar 200 distribuciones si entre ellas no est\u00e1n las 10 o 12 distribuciones troncales que existen.<\/p>","karma":"-17.00","parent":"374472","comment_edited_date":1323537194,"vote_count":"3","comment_level":4,"comment_deleted_date":"","tree_level":"6","comment_approved":"1","comment_author":"irongraywolf","user_id":"32317","author":"","webpage":null,"user_name":"irongraywolf","karma_level":"25.00","iseditor":"0","global_id":"179429","facebook_uid":null,"index":30,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/179429_3.png"},{"id":"374493","post_id":"65659","date":1323538106,"content_filtered":"<p>Nadie habla de hacerse ricos, pero las computadoras a cuerda de Negroponte todav\u00eda no salieron, la luz hay que pagarla<\/p>","content":"<p>Nadie habla de hacerse ricos, pero las computadoras a cuerda de Negroponte todav\u00eda no salieron, la luz hay que pagarla<\/p>","karma":"30.00","parent":"374489","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"7","comment_approved":"0","comment_author":"Diego Germ\u00e1n Gonzalez","user_id":"18808","author":"Diego Germ\u00e1n Gonzalez","webpage":null,"user_name":"dggonzalez","karma_level":"32.00","iseditor":"0","global_id":"133442","facebook_uid":null,"index":32,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/963785ed6ba925a47584c60e210417be"},{"id":"374500","post_id":"65659","date":1323541916,"content_filtered":"<p>Banshee permitio esto desde que decidio liberar su proyecto como Software Libre. Cualquiera puede tomar el codigo, cambiarlo y distribuirlo siempre y cuando se siga la licencia.<\/p>\n\n<p>Los devs de Linux Mint tienen todo el derecho de hacerlo, no necesitan hacer acuerdos o negociaciones (lo que hizo Canonical fue mas bien simbolico) el Software Libre te permite hacerlo.<\/p>\n\n<p>Si no te gusta la idea, bien, no liberes el software, asi de simple.<\/p>","content":"<p>Banshee permitio esto desde que decidio liberar su proyecto como Software Libre. Cualquiera puede tomar el codigo, cambiarlo y distribuirlo siempre y cuando se siga la licencia.<\/p>\n\n<p>Los devs de Linux Mint tienen todo el derecho de hacerlo, no necesitan hacer acuerdos o negociaciones (lo que hizo Canonical fue mas bien simbolico) el Software Libre te permite hacerlo.<\/p>\n\n<p>Si no te gusta la idea, bien, no liberes el software, asi de simple.<\/p>","karma":"-37.50","parent":"374468","comment_edited_date":"","vote_count":"7","comment_level":4,"comment_deleted_date":"","tree_level":"5","comment_approved":"1","comment_author":"81886","user_id":"81886","author":"","webpage":null,"user_name":null,"karma_level":"17.00","iseditor":"0","global_id":"384661","facebook_uid":"100000279071061","index":36,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100000279071061\/picture"},{"id":"374593","post_id":"65659","date":1323646973,"content_filtered":"<p>A la mierda, entonces esta bien que vos hagas algo para compartir y yo venga y saque plata de eso SIN SIQUIERA avisarte?<\/p>","content":"<p>A la mierda, entonces esta bien que vos hagas algo para compartir y yo venga y saque plata de eso SIN SIQUIERA avisarte?<\/p>","karma":"15.00","parent":"374500","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"6","comment_approved":"1","comment_author":"Franz","user_id":"1964","author":"Franz","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"4636","facebook_uid":null,"index":88,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/a62f824e06c56af422c7d17daba511fc"},{"id":"374551","post_id":"65659","date":1323593397,"content_filtered":"<p>Siempre hay un punto entre la rentabilidad y como se llega a ella, aqui los ingresos los genera un programa de codigo aparte, que hizo sus propios esfuerzos, Mint solo agarro el programa para su distribucion, y yo creo que redireccionar los ingresos de monetarios de otro aprovechandose de un agujero en la licensia no tiene nada que ver, y a eso si se le puede llamar ambicion<\/p>","content":"<p>Siempre hay un punto entre la rentabilidad y como se llega a ella, aqui los ingresos los genera un programa de codigo aparte, que hizo sus propios esfuerzos, Mint solo agarro el programa para su distribucion, y yo creo que redireccionar los ingresos de monetarios de otro aprovechandose de un agujero en la licensia no tiene nada que ver, y a eso si se le puede llamar ambicion<\/p>","karma":"33.00","parent":"374454","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"4","comment_approved":"1","comment_author":"RaphaniacZX","user_id":"9680","author":"RaphaniacZX","webpage":"http:\/\/www.rzxsky.com.ar","user_name":"raphaniaczx","karma_level":"40.00","iseditor":"0","global_id":"86907","facebook_uid":null,"index":65,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/86907_6.png"},{"id":"374557","post_id":"65659","date":1323600510,"content_filtered":"<p>Ese es un buen punto<\/p>","content":"Ese es un buen punto","karma":"10.00","parent":"374551","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"5","comment_approved":"0","comment_author":"Diego Germ\u00e1n Gonzalez","user_id":"18808","author":"Diego Germ\u00e1n Gonzalez","webpage":null,"user_name":"dggonzalez","karma_level":"32.00","iseditor":"0","global_id":"133442","facebook_uid":null,"index":71,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/963785ed6ba925a47584c60e210417be"},{"id":"374466","post_id":"65659","date":1323528298,"content_filtered":"<p>Adem\u00e1s, <i>\"Quien planta manzanos, quiere vender manzanas\" <\/i>aunque haya plantado los manzanos por <i>amor al arte.<\/i><\/p>","content":"<p>Adem\u00e1s, <i>\"Quien planta manzanos, quiere vender manzanas\" <\/i>aunque haya plantado los manzanos por <i>amor al arte.<\/i><\/p>","karma":"25.00","parent":"374454","comment_edited_date":1323528306,"vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"4","comment_approved":"1","comment_author":"Raus15","user_id":"75374","author":"rra","webpage":null,"user_name":"raus15","karma_level":"43.00","iseditor":"0","global_id":"354471","facebook_uid":"100001952687556","index":13,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/354471_6.png"},{"id":"374467","post_id":"65659","date":1323529040,"content_filtered":"<p>Yo lo dejar\u00eda en \"qui\u00e9n planta manzanos necesita plata para pagar el agua, fertilizantes, insecticidas, jardineros y empacadores\"<\/p>","content":"<p>Yo lo dejar\u00eda en \"qui\u00e9n planta manzanos necesita plata para pagar el agua, fertilizantes, insecticidas, jardineros y empacadores\"<\/p>","karma":"127.50","parent":"374466","comment_edited_date":"","vote_count":"11","comment_level":2,"comment_deleted_date":"","tree_level":"5","comment_approved":"0","comment_author":"Diego Germ\u00e1n Gonzalez","user_id":"18808","author":"Diego Germ\u00e1n Gonzalez","webpage":null,"user_name":"dggonzalez","karma_level":"32.00","iseditor":"0","global_id":"133442","facebook_uid":null,"index":14,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/963785ed6ba925a47584c60e210417be"},{"id":"374536","post_id":"65659","date":1323571524,"content_filtered":"<p>Eso es una forma muy simplista de verlo. <\/p>\n\n<p>Como dec\u00eda en mi comentario anterior, las empresas empiezan a darse cuenta de que tu planteamiento, que es el tradicional en ocasiones, es err\u00f3neo.<\/p>\n\n<p>Linux (el n\u00facleo) es una buena prueba de lo rentable que sale la colaboraci\u00f3n. Hay m\u00e1s gente cobrando por su desarrollo que haci\u00e9ndolo por amor al arte y es gratis. Los beneficios son indirectos. Linux es m\u00e1s sostenible que nunca y hay m\u00e1s empresas poniendo dinero que nunca. <\/p>\n\n<p>Hay muchas formas de ganar dinero con el software que no son las licencias.<\/p>","content":"Eso es una forma muy simplista de verlo. \n\nComo dec\u00eda en mi comentario anterior, las empresas empiezan a darse cuenta de que tu planteamiento, que es el tradicional en ocasiones, es err\u00f3neo.\n\nLinux (el n\u00facleo) es una buena prueba de lo rentable que sale la colaboraci\u00f3n. Hay m\u00e1s gente cobrando por su desarrollo que haci\u00e9ndolo por amor al arte y es gratis. Los beneficios son indirectos. Linux es m\u00e1s sostenible que nunca y hay m\u00e1s empresas poniendo dinero que nunca. \n\nHay muchas formas de ganar dinero con el software que no son las licencias.","karma":"5.00","parent":"374454","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"4","comment_approved":"1","comment_author":"shotokan","user_id":"67368","author":"","webpage":null,"user_name":"shotokan","karma_level":"72.00","iseditor":"0","global_id":"319021","facebook_uid":null,"index":53,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/319021_1.png"},{"id":"374542","post_id":"65659","date":1323589230,"content_filtered":"<p>Hasta el momento  de esa forma solo funcionan el ofrecimiento de servicio t\u00e9cnico y el patrocinio de una empresa importante. Las otras formas todav\u00eda no ofrecieron resultados significativos<\/p>","content":"<p>Hasta el momento  de esa forma solo funcionan el ofrecimiento de servicio t\u00e9cnico y el patrocinio de una empresa importante. Las otras formas todav\u00eda no ofrecieron resultados significativos<\/p>","karma":"25.00","parent":"374536","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"5","comment_approved":"0","comment_author":"Diego Germ\u00e1n Gonzalez","user_id":"18808","author":"Diego Germ\u00e1n Gonzalez","webpage":null,"user_name":"dggonzalez","karma_level":"32.00","iseditor":"0","global_id":"133442","facebook_uid":null,"index":58,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/963785ed6ba925a47584c60e210417be"},{"id":"374455","post_id":"65659","date":1323524160,"content_filtered":"<p>Claro, por eso el software libre domina todos los campos de la inform\u00e1tica menos el que corresponde el trasto desde el que posteas aqu\u00ed.<\/p>","content":"<p>Claro, por eso el software libre domina todos los campos de la inform\u00e1tica menos el que corresponde el trasto desde el que posteas aqu\u00ed.<\/p>","karma":"23.00","parent":"374450","comment_edited_date":"","vote_count":"14","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"irongraywolf","user_id":"32317","author":"","webpage":null,"user_name":"irongraywolf","karma_level":"25.00","iseditor":"0","global_id":"179429","facebook_uid":null,"index":7,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/179429_3.png"},{"id":"374459","post_id":"65659","date":1323525612,"content_filtered":"<p>Estamos hablando de 3 o 4 proyectos muy bien gerenciados.\nApache: una fundaci\u00f3n que cuenta con el apoyo de grandes empresas\nFirefox: que hasta hace poco tuvo el apoyo de Google\nRED HAT: cobra por soporte t\u00e9cnico\nKernel Linux: la mayor parte de los desarrolladores son pagados por grandes corporaciones.<\/p>\n\n<p>Edito.<\/p>\n\n<p>Estoy escribiendo desde Ubuntu y lo que estoy cuestionando es la gratuidad no la libertad<br \/><\/p>","content":"<p>Estamos hablando de 3 o 4 proyectos muy bien gerenciados.\nApache: una fundaci\u00f3n que cuenta con el apoyo de grandes empresas\nFirefox: que hasta hace poco tuvo el apoyo de Google\nRED HAT: cobra por soporte t\u00e9cnico\nKernel Linux: la mayor parte de los desarrolladores son pagados por grandes corporaciones.<\/p>\n\n<p>Edito.<\/p>\n\n<p>Estoy escribiendo desde Ubuntu y lo que estoy cuestionando es la gratuidad no la libertad<br \/><\/p>","karma":"45.00","parent":"374455","comment_edited_date":1323525681,"vote_count":"3","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"0","comment_author":"Diego Germ\u00e1n Gonzalez","user_id":"18808","author":"Diego Germ\u00e1n Gonzalez","webpage":null,"user_name":"dggonzalez","karma_level":"32.00","iseditor":"0","global_id":"133442","facebook_uid":null,"index":10,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/963785ed6ba925a47584c60e210417be"},{"id":"374473","post_id":"65659","date":1323531317,"content_filtered":"<p>En realidad, el software libre se puede vender. La licencia GPL no impone restricciones de ese tipo. Es decir, si quieres puedes vender tu software a 30u$s, pero debes proveer el c\u00f3digo fuente de lo que vendes. Luego si alguien cuelga el c\u00f3digo y lo comparte gratuitamente, t\u00fa no puedes hacer nada al respecto. <\/p>\n\n<p>Es decir, puedes cobrar por la \"distribuci\u00f3n\" pero no por el programa en s\u00ed mismo. Y el c\u00f3digo siempre debe ser libre.<\/p>","content":"<p>En realidad, el software libre se puede vender. La licencia GPL no impone restricciones de ese tipo. Es decir, si quieres puedes vender tu software a 30u$s, pero debes proveer el c\u00f3digo fuente de lo que vendes. Luego si alguien cuelga el c\u00f3digo y lo comparte gratuitamente, t\u00fa no puedes hacer nada al respecto. <\/p>\n\n<p>Es decir, puedes cobrar por la \"distribuci\u00f3n\" pero no por el programa en s\u00ed mismo. Y el c\u00f3digo siempre debe ser libre.<\/p>","karma":"90.00","parent":"374459","comment_edited_date":"","vote_count":"8","comment_level":2,"comment_deleted_date":"","tree_level":"4","comment_approved":"1","comment_author":"Gonzalo ","user_id":"14983","author":"Gonzalo ","webpage":null,"user_name":"gonzakpo","karma_level":"37.00","iseditor":"0","global_id":"121227","facebook_uid":null,"index":18,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/9903325bebbe53a48f5fb798d673d727"},{"id":"374476","post_id":"65659","date":1323532438,"content_filtered":"<p>De acuerdo, yo estoy hablando de impedimentos culturales, no legales. SI Ubuntu, Fedora u Opensuse dijeran que empiezan a cobrar un euro por bajarte su distro \u00bfcual crees que ser\u00eda la reacci\u00f3n?<\/p>","content":"<p>De acuerdo, yo estoy hablando de impedimentos culturales, no legales. SI Ubuntu, Fedora u Opensuse dijeran que empiezan a cobrar un euro por bajarte su distro \u00bfcual crees que ser\u00eda la reacci\u00f3n?<\/p>","karma":"55.00","parent":"374473","comment_edited_date":"","vote_count":"4","comment_level":3,"comment_deleted_date":"","tree_level":"5","comment_approved":"0","comment_author":"Diego Germ\u00e1n Gonzalez","user_id":"18808","author":"Diego Germ\u00e1n Gonzalez","webpage":null,"user_name":"dggonzalez","karma_level":"32.00","iseditor":"0","global_id":"133442","facebook_uid":null,"index":20,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/963785ed6ba925a47584c60e210417be"},{"id":"374482","post_id":"65659","date":1323535653,"content_filtered":"<p>Mmm... \u00bfla misma reacci\u00f3n de cr\u00edticas airadas y usuarios enfurecidos que surgi\u00f3 cuando Canonical anunci\u00f3 que no mandar\u00eda CDs gratis?<br \/>\n(Lo s\u00e9, era una pregunta ret\u00f3rica)<\/p>","content":"<p>Mmm... \u00bfla misma reacci\u00f3n de cr\u00edticas airadas y usuarios enfurecidos que surgi\u00f3 cuando Canonical anunci\u00f3 que no mandar\u00eda CDs gratis?<br \/>\n(Lo s\u00e9, era una pregunta ret\u00f3rica)<\/p>","karma":"18.00","parent":"374476","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"6","comment_approved":"1","comment_author":"cobarde_anonimo","user_id":"63008","author":"","webpage":null,"user_name":"cobarde_anonimo","karma_level":"32.00","iseditor":"0","global_id":"294622","facebook_uid":null,"index":24,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/294622_1.png"},{"id":"374552","post_id":"65659","date":1323593565,"content_filtered":"<p>Una cosa son ingresos legales de una tienda virtual completamente aparte de un programa que tu pones en tu distribucion y otra es querer aprovecharse de la depencia de bajarse una aplicaicion con la etiqueta libre -libre no dice que tiene que ser gratuito, pero al ser libre siempre hay doble camino para hacerlo gratuito-<\/p>","content":"Una cosa son ingresos legales de una tienda virtual completamente aparte de un programa que tu pones en tu distribucion y otra es querer aprovecharse de la depencia de bajarse una aplicaicion con la etiqueta libre -libre no dice que tiene que ser gratuito, pero al ser libre siempre hay doble camino para hacerlo gratuito-","karma":"8.00","parent":"374476","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"6","comment_approved":"1","comment_author":"RaphaniacZX","user_id":"9680","author":"RaphaniacZX","webpage":"http:\/\/www.rzxsky.com.ar","user_name":"raphaniaczx","karma_level":"40.00","iseditor":"0","global_id":"86907","facebook_uid":null,"index":66,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/86907_6.png"},{"id":"374485","post_id":"65659","date":1323536178,"content_filtered":"<p>Nacer\u00edan proyectos como CentOS, hecho con el codigo de redhat.. y todo mundo feliz. El c\u00f3digo seguir\u00e1 siendo libre.<\/p>","content":"Nacer\u00edan proyectos como CentOS, hecho con el codigo de redhat.. y todo mundo feliz. El c\u00f3digo seguir\u00e1 siendo libre.","karma":"5.00","parent":"374476","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"6","comment_approved":"1","comment_author":"jSan","user_id":"67306","author":"jSan","webpage":null,"user_name":null,"karma_level":"25.00","iseditor":"0","global_id":"290497","facebook_uid":null,"index":27,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/290497_1.png"},{"id":"374499","post_id":"65659","date":1323541452,"content_filtered":"<p>Que la gente no usar\u00eda o al menos la mayor\u00eda que piraterar\u00eda las versiones pagas de las distros m\u00e1s usadas<\/p>","content":"Que la gente no usar\u00eda o al menos la mayor\u00eda que piraterar\u00eda las versiones pagas de las distros m\u00e1s usadas","karma":"10.00","parent":"374485","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"7","comment_approved":"0","comment_author":"Diego Germ\u00e1n Gonzalez","user_id":"18808","author":"Diego Germ\u00e1n Gonzalez","webpage":null,"user_name":"dggonzalez","karma_level":"32.00","iseditor":"0","global_id":"133442","facebook_uid":null,"index":35,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/963785ed6ba925a47584c60e210417be"},{"id":"374584","post_id":"65659","date":1323634948,"content_filtered":"<p>Y por eso el problema radica en creer que LIBRE es GRATIS. Por eso es que naci\u00f3 CentOS, para aquellos que no quieren pagarle el soporte a RedHat...<\/p>","content":"Y por eso el problema radica en creer que LIBRE es GRATIS. Por eso es que naci\u00f3 CentOS, para aquellos que no quieren pagarle el soporte a RedHat...","karma":"10.00","parent":"374499","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"8","comment_approved":"1","comment_author":"Jhonatan Palencia Garcia","user_id":"50312","author":"Jhonatan Palencia","webpage":"http:\/\/tpbarranquilla.wordpress.com","user_name":"jhonypalencia","karma_level":"55.00","iseditor":"0","global_id":"196368","facebook_uid":"1113203077","index":83,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/196368_1.png"},{"id":"374596","post_id":"65659","date":1323654421,"content_filtered":"<p>Parece que no conoces sobre el tema, RedHat es una distro pagada (se paga por el soporte), pero al ser GNU\/Linux esta sometido a los t\u00e9rminos de la licencia que dice que es obligatorio poner a disposici\u00f3n de la comunidad su c\u00f3digo.<\/p>\n\n<p>Por eso la comunidad usa ese mismo c\u00f3digo lo compila, prepara y lo redistribuye con el nombre de CentOS, que viene a ser lo mismo con la diferencia de no llamarse RedHat (que es una marca registrada y es ilegal el uso del nombre sin consentimiento), y de no llevar una que otra aplicaci\u00f3n de c\u00f3digo cerrado que distribuye redhat.<\/p>\n\n<p>El escenario que planteaste con Ubuntu, Fedora o Mint ya existe, y se llama RedHat Linux (RHEL). Y nadie piratea RHEL, seria absurdo teniendo a CentOS o la posibilidad el c\u00f3digo de RHEL y tu mismo compilarlo (puedes descargarlo gratis y legalmente desde redhat.com eso si, para poder compilarlo e instalarlo correctamente de tener conocimientos amplios del tema).<\/p>","content":"<p>Parece que no conoces sobre el tema, RedHat es una distro pagada (se paga por el soporte), pero al ser GNU\/Linux esta sometido a los t\u00e9rminos de la licencia que dice que es obligatorio poner a disposici\u00f3n de la comunidad su c\u00f3digo.<\/p>\n\n<p>Por eso la comunidad usa ese mismo c\u00f3digo lo compila, prepara y lo redistribuye con el nombre de CentOS, que viene a ser lo mismo con la diferencia de no llamarse RedHat (que es una marca registrada y es ilegal el uso del nombre sin consentimiento), y de no llevar una que otra aplicaci\u00f3n de c\u00f3digo cerrado que distribuye redhat.<\/p>\n\n<p>El escenario que planteaste con Ubuntu, Fedora o Mint ya existe, y se llama RedHat Linux (RHEL). Y nadie piratea RHEL, seria absurdo teniendo a CentOS o la posibilidad el c\u00f3digo de RHEL y tu mismo compilarlo (puedes descargarlo gratis y legalmente desde redhat.com eso si, para poder compilarlo e instalarlo correctamente de tener conocimientos amplios del tema).<\/p>","karma":"-15.00","parent":"374499","comment_edited_date":"","vote_count":"1","comment_level":4,"comment_deleted_date":"","tree_level":"8","comment_approved":"1","comment_author":"jSan","user_id":"67306","author":"jSan","webpage":null,"user_name":null,"karma_level":"25.00","iseditor":"0","global_id":"290497","facebook_uid":null,"index":89,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/290497_1.png"},{"id":"374601","post_id":"65659","date":1323674877,"content_filtered":"<p>\u00bfQue parte de USUARIOS DOM\u00c9STICOS no entendiste?. Tu mismo reconoces que usar el c\u00f3digo puesto a disposici\u00f3n por la GPL lleva tiempo esfuerzos y conocimientos y eso implica en definitiva dinero.<br \/><\/p>","content":"<p>\u00bfQue parte de USUARIOS DOM\u00c9STICOS no entendiste?. Tu mismo reconoces que usar el c\u00f3digo puesto a disposici\u00f3n por la GPL lleva tiempo esfuerzos y conocimientos y eso implica en definitiva dinero.<br><\/p>","karma":"10.00","parent":"374596","comment_edited_date":1323674966,"vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"9","comment_approved":"0","comment_author":"Diego Germ\u00e1n Gonzalez","user_id":"18808","author":"Diego Germ\u00e1n Gonzalez","webpage":null,"user_name":"dggonzalez","karma_level":"32.00","iseditor":"0","global_id":"133442","facebook_uid":null,"index":91,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/963785ed6ba925a47584c60e210417be"},{"id":"374502","post_id":"65659","date":1323542065,"content_filtered":"<p>Lo cual hace que el negocio no sea redituable, por que una vez que alguien compre tu primera copia, solo necesita recompilar y distribuir la modificacion de forma gratuita. Adios negocio. Por eso puedo contar con los dedos de mi mano izquierda la cantidad de empresas cuyo modelo de negocio se basa en la venta de software libre.<\/p>","content":"Lo cual hace que el negocio no sea redituable, por que una vez que alguien compre tu primera copia, solo necesita recompilar y distribuir la modificacion de forma gratuita. Adios negocio. Por eso puedo contar con los dedos de mi mano izquierda la cantidad de empresas cuyo modelo de negocio se basa en la venta de software libre.","karma":"5.00","parent":"374473","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"5","comment_approved":"1","comment_author":"81886","user_id":"81886","author":"","webpage":null,"user_name":null,"karma_level":"17.00","iseditor":"0","global_id":"384661","facebook_uid":"100000279071061","index":37,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100000279071061\/picture"},{"id":"374487","post_id":"65659","date":1323536239,"content_filtered":"<p>Nadie obliga a dar gratis nada, as\u00ed que si lo haces debes ser consciente de lo que te exponer, igual que Red Hat cuando publica (obligada) el c\u00f3digo de su sistema operativo, \u00bfqu\u00e9 pasa?, pues que salen cl\u00f3nicos gratuitos como CentOS.<\/p>\n\n<p>A nadie le obliga a Canonical o a la Gnome Foundation a actuar como lo hacen.<\/p>\n\n<p>Habas se cuecen en todos los sitios con el caso de Linux Mint.<\/p>","content":"Nadie obliga a dar gratis nada, as\u00ed que si lo haces debes ser consciente de lo que te exponer, igual que Red Hat cuando publica (obligada) el c\u00f3digo de su sistema operativo, \u00bfqu\u00e9 pasa?, pues que salen cl\u00f3nicos gratuitos como CentOS.\n\nA nadie le obliga a Canonical o a la Gnome Foundation a actuar como lo hacen.\n\nHabas se cuecen en todos los sitios con el caso de Linux Mint.","karma":"8.00","parent":"374459","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"4","comment_approved":"1","comment_author":"irongraywolf","user_id":"32317","author":"","webpage":null,"user_name":"irongraywolf","karma_level":"25.00","iseditor":"0","global_id":"179429","facebook_uid":null,"index":28,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/179429_3.png"},{"id":"374537","post_id":"65659","date":1323571589,"content_filtered":"<p>Si tan insostenible es el modelo, \u00bfque pasa?, \u00bfque esas empresas son tontas y sus accionistas pierden dinero?<\/p>","content":"Si tan insostenible es el modelo, \u00bfque pasa?, \u00bfque esas empresas son tontas y sus accionistas pierden dinero?","karma":"5.00","parent":"374459","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"4","comment_approved":"1","comment_author":"shotokan","user_id":"67368","author":"","webpage":null,"user_name":"shotokan","karma_level":"72.00","iseditor":"0","global_id":"319021","facebook_uid":null,"index":54,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/319021_1.png"},{"id":"374543","post_id":"65659","date":1323589445,"content_filtered":"<p>A ver. \u00bfQue le pas\u00f3 a Firefox cuando Google decidi\u00f3 sacar su propio navegador?\nNovell que segu\u00eda el mismo modelo de financiamiento de RedHat se vendi\u00f3 y en cuanto a la Fundaci\u00f3n Apache sus patrociandores tienen modelos de negocios que no dependen exclusivamente del software libre<\/p>","content":"<p>A ver. \u00bfQue le pas\u00f3 a Firefox cuando Google decidi\u00f3 sacar su propio navegador?\nNovell que segu\u00eda el mismo modelo de financiamiento de RedHat se vendi\u00f3 y en cuanto a la Fundaci\u00f3n Apache sus patrociandores tienen modelos de negocios que no dependen exclusivamente del software libre<\/p>","karma":"25.00","parent":"374537","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"5","comment_approved":"0","comment_author":"Diego Germ\u00e1n Gonzalez","user_id":"18808","author":"Diego Germ\u00e1n Gonzalez","webpage":null,"user_name":"dggonzalez","karma_level":"32.00","iseditor":"0","global_id":"133442","facebook_uid":null,"index":59,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/963785ed6ba925a47584c60e210417be"},{"id":"374558","post_id":"65659","date":1323601655,"content_filtered":"<p>Si claro. El kernel linux, red hat, php, jquery, android... se les ve fatal.<\/p>\n\n<p>Menudo patinazo el tuyo.<\/p>","content":"<p>Si claro. El kernel linux, red hat, php, jquery, android... se les ve fatal.<\/p>\n\n<p>Menudo patinazo el tuyo.<\/p>","karma":"18.00","parent":"374450","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"64017","user_id":"64017","author":"","webpage":null,"user_name":"disecain","karma_level":"22.00","iseditor":"0","global_id":"278383","facebook_uid":"720484666","index":72,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/720484666\/picture"},{"id":"374559","post_id":"65659","date":1323603396,"content_filtered":"<p>Kernel Linux: La mayor\u00eda de los desarrolladores est\u00e1n a sueldo de empresas\nRedHat: Cobra por la prestaci\u00f3n de servicios inform\u00e1ticos,\nAndroid: Tiene a Google detr\u00e1s<\/p>","content":"<p>Kernel Linux: La mayor\u00eda de los desarrolladores est\u00e1n a sueldo de empresas\nRedHat: Cobra por la prestaci\u00f3n de servicios inform\u00e1ticos,\nAndroid: Tiene a Google detr\u00e1s<\/p>","karma":"25.00","parent":"374558","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"0","comment_author":"Diego Germ\u00e1n Gonzalez","user_id":"18808","author":"Diego Germ\u00e1n Gonzalez","webpage":null,"user_name":"dggonzalez","karma_level":"32.00","iseditor":"0","global_id":"133442","facebook_uid":null,"index":73,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/963785ed6ba925a47584c60e210417be"},{"id":"374561","post_id":"65659","date":1323606344,"content_filtered":"<p>PHP est\u00e1 apoyado por Zend Tecnologies, una empresa israel\u00ed.<\/p>","content":"<p>PHP est\u00e1 apoyado por Zend Tecnologies, una empresa israel\u00ed.<\/p>","karma":"25.00","parent":"374559","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"4","comment_approved":"0","comment_author":"Diego Germ\u00e1n Gonzalez","user_id":"18808","author":"Diego Germ\u00e1n Gonzalez","webpage":null,"user_name":"dggonzalez","karma_level":"32.00","iseditor":"0","global_id":"133442","facebook_uid":null,"index":75,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/963785ed6ba925a47584c60e210417be"},{"id":"374571","post_id":"65659","date":1323621043,"content_filtered":"<p>\u00bfPor eso los errores en hebreo que salen a veces? ;)<\/p>","content":"<p>\u00bfPor eso los errores en hebreo que salen a veces? ;)<\/p>","karma":"43.00","parent":"374561","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"5","comment_approved":"1","comment_author":"Manu Mateos","user_id":"80522","author":"Manu Mateos","webpage":"http:\/\/www.genbeta.com\/autor\/mmateos","user_name":"mmateos","karma_level":"85.00","iseditor":"1","global_id":"378081","facebook_uid":null,"index":79,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/378081_3.png"},{"id":"374575","post_id":"65659","date":1323623085,"content_filtered":"<p>\u00bfy que te crees que hacen empresas como Canonical?. Ese uno de los modelos de negocio del software libre: el cobro por servicios.<\/p>","content":"<p>\u00bfy que te crees que hacen empresas como Canonical?. Ese uno de los modelos de negocio del software libre: el cobro por servicios.<\/p>","karma":"-12.00","parent":"374559","comment_edited_date":"","vote_count":"1","comment_level":4,"comment_deleted_date":"","tree_level":"4","comment_approved":"1","comment_author":"64017","user_id":"64017","author":"","webpage":null,"user_name":"disecain","karma_level":"22.00","iseditor":"0","global_id":"278383","facebook_uid":"720484666","index":80,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/720484666\/picture"},{"id":"374577","post_id":"65659","date":1323626659,"content_filtered":"<p>El cobro por servicios funciona en los clientes corporativos, no en el usuario final. Lo que vengo diciendo desde hace rato es que en la medida que los usuarios no entendamos  que tenemos que contribuir econ\u00f3micamente con el desarrollo del software libre aquellos proyectos que carezcan de inter\u00e9s comercial no van a tener futuro<\/p>","content":"El cobro por servicios funciona en los clientes corporativos, no en el usuario final. Lo que vengo diciendo desde hace rato es que en la medida que los usuarios no entendamos  que tenemos que contribuir econ\u00f3micamente con el desarrollo del software libre aquellos proyectos que carezcan de inter\u00e9s comercial no van a tener futuro","karma":"10.00","parent":"374575","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"5","comment_approved":"0","comment_author":"Diego Germ\u00e1n Gonzalez","user_id":"18808","author":"Diego Germ\u00e1n Gonzalez","webpage":null,"user_name":"dggonzalez","karma_level":"32.00","iseditor":"0","global_id":"133442","facebook_uid":null,"index":81,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/963785ed6ba925a47584c60e210417be"},{"id":"374509","post_id":"65659","date":1323546632,"content_filtered":"<p>Exacto!<\/p>","content":"<p>Exacto!<\/p>","karma":"10.00","parent":"374450","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"m0nt3cr1st0","user_id":"97334","author":"","webpage":null,"user_name":"m0nt3cr1st0","karma_level":"22.00","iseditor":"0","global_id":"469180","facebook_uid":null,"index":40,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/469180_1.png"},{"id":"374522","post_id":"65659","date":1323553771,"content_filtered":"<p>Lo \u00fanico que prueba tu comentario es que tu y una parte importante de este blog sabe tanto de software libre como mi gato.<\/p>\n\n<p><a href=\"https:\/\/es.wikipedia.org\/wiki\" rel=\"nofollow\">https:\/\/es.wikipedia.org\/wiki<\/a><\/p>\n\n<p>No cuesta nada informarse antes de escribir perlas as\u00ed.<\/p>","content":"<p>Lo \u00fanico que prueba tu comentario es que tu y una parte importante de este blog sabe tanto de software libre como mi gato.<\/p>\n\n<p><a href=\"https:\/\/es.wikipedia.org\/wiki\" rel=\"nofollow\">https:\/\/es.wikipedia.org\/wiki<\/a><\/p>\n\n<p>No cuesta nada informarse antes de escribir perlas as\u00ed.<\/p>","karma":"5.00","parent":"374450","comment_edited_date":"","vote_count":"3","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"ascari","user_id":"88187","author":"","webpage":null,"user_name":"ascari","karma_level":"26.00","iseditor":"0","global_id":"75505","facebook_uid":null,"index":44,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/cde2fde868d3369dfc7753ca0c013ed4"},{"id":"374524","post_id":"65659","date":1323556492,"content_filtered":"<p>\u00bfTu gato aprob\u00f3 comprensi\u00f3n de textos en el colegio?. Evidentemente tu no<\/p>","content":"<p>\u00bfTu gato aprob\u00f3 comprensi\u00f3n de textos en el colegio?. Evidentemente tu no<\/p>","karma":"15.00","parent":"374522","comment_edited_date":"","vote_count":"3","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"0","comment_author":"Diego Germ\u00e1n Gonzalez","user_id":"18808","author":"Diego Germ\u00e1n Gonzalez","webpage":null,"user_name":"dggonzalez","karma_level":"32.00","iseditor":"0","global_id":"133442","facebook_uid":null,"index":45,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/963785ed6ba925a47584c60e210417be"},{"id":"374525","post_id":"65659","date":1323556920,"content_filtered":"<p>La FSF y la OSI pueden decir lo que quieran pero dentro de la mayor\u00eda de los usuarios de FOSS no est\u00e1 internalizada la cultura de pagar por el software. En los productos dirigidos al mercado corporativo pueden cobrar por soporte ya que las empresas ven natural pagar por el servicio pero en el caso del usuario final que muchas veces comenz\u00f3 con el Windows pirata no.<\/p>","content":"<p>La FSF y la OSI pueden decir lo que quieran pero dentro de la mayor\u00eda de los usuarios de FOSS no est\u00e1 internalizada la cultura de pagar por el software. En los productos dirigidos al mercado corporativo pueden cobrar por soporte ya que las empresas ven natural pagar por el servicio pero en el caso del usuario final que muchas veces comenz\u00f3 con el Windows pirata no.<\/p>","karma":"32.50","parent":"374524","comment_edited_date":"","vote_count":"3","comment_level":3,"comment_deleted_date":"","tree_level":"4","comment_approved":"0","comment_author":"Diego Germ\u00e1n Gonzalez","user_id":"18808","author":"Diego Germ\u00e1n Gonzalez","webpage":null,"user_name":"dggonzalez","karma_level":"32.00","iseditor":"0","global_id":"133442","facebook_uid":null,"index":46,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/963785ed6ba925a47584c60e210417be"},{"id":"374538","post_id":"65659","date":1323571675,"content_filtered":"<p>Claro, esa cultura es de los usuarios del software libre, los que usan Windows pagan todos sin excepci\u00f3n adem\u00e1s.<\/p>\n\n<p>T\u00edo, te est\u00e1s luciendo en este post. :)<br \/><\/p>","content":"<p>Claro, esa cultura es de los usuarios del software libre, los que usan Windows pagan todos sin excepci\u00f3n adem\u00e1s.<\/p>\n\n<p>T\u00edo, te est\u00e1s luciendo en este post. :)<br \/><\/p>","karma":"-30.00","parent":"374525","comment_edited_date":1323571703,"vote_count":"2","comment_level":4,"comment_deleted_date":"","tree_level":"5","comment_approved":"1","comment_author":"shotokan","user_id":"67368","author":"","webpage":null,"user_name":"shotokan","karma_level":"72.00","iseditor":"0","global_id":"319021","facebook_uid":null,"index":55,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/319021_1.png"}],"meta":{"more_records":"true","start":0,"total":50,"order":"valued","totalCount":94},"commentStatus":"closed"});
+
+	window.App = new AML.Comments.Application(65659, commentList);
+	Backbone.history.start();
+      });
+    </script>
+
+  <!-- Comments and Other Stuff -->
+
+  <div id="ad-bottom" class="ad ad-boton">
+  <a class="ad-contact" id="div-gpt-bot-contact" style="display:none" href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-bot' class="ad-box" style='width: 728px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-bot");
+    });
+    </script>
+    </div>
+</div>
+
+  <!-- .ad - boton -->
+  <div class="sidebar-seo-links">
+    <h4>Más en Genbeta</h4>
+    <ul>
+              <li>
+          <a  href="/imagen-digital/nvidia-empieza-a-contribuir-al-desarrollo-de-nouveau" class="thumb80">
+            <img title="NVIDIA empieza a contribuir al desarrollo de Nouveau" src="http://img.genbeta.com/tb/80_80/110656.jpg" alt="NVIDIA empieza a contribuir al desarrollo de Nouveau">
+          </a>
+          <a  href="/imagen-digital/nvidia-empieza-a-contribuir-al-desarrollo-de-nouveau">
+            NVIDIA empieza a contribuir al desarrollo de Nouveau
+          </a>
+        </li>
+              <li>
+          <a  href="/linux/canonical-acata-la-decision-de-debian-y-ubuntu-abrazara-systemd" class="thumb80">
+            <img title="Canonical acata la decisión de Debian y Ubuntu abrazará SystemD" src="http://img.genbeta.com/tb/80_80/110953.jpg" alt="Canonical acata la decisión de Debian y Ubuntu abrazará SystemD">
+          </a>
+          <a  href="/linux/canonical-acata-la-decision-de-debian-y-ubuntu-abrazara-systemd">
+            Canonical acata la decisión de Debian y Ubuntu abrazará SystemD
+          </a>
+        </li>
+              <li>
+          <a  href="/linux/mir-ejecutara-de-forma-nativa-los-mejores-juegos-para-linux" class="thumb80">
+            <img title="Mir ejecutará de forma nativa los mejores juegos para Linux" src="http://img.genbeta.com/tb/80_80/110741.jpg" alt="Mir ejecutará de forma nativa los mejores juegos para Linux">
+          </a>
+          <a  href="/linux/mir-ejecutara-de-forma-nativa-los-mejores-juegos-para-linux">
+            Mir ejecutará de forma nativa los mejores juegos para Linux
+          </a>
+        </li>
+              <li>
+          <a  href="/linux/nautilus-puede-ser-reemplazo-en-ubuntu-por-un-gestor-de-archivos-propio" class="thumb80">
+            <img title="Nautilus puede ser sustituido en Ubuntu por un gestor de archivos propio" src="http://img.genbeta.com/tb/80_80/110624.jpg" alt="Nautilus puede ser sustituido en Ubuntu por un gestor de archivos propio">
+          </a>
+          <a  href="/linux/nautilus-puede-ser-reemplazo-en-ubuntu-por-un-gestor-de-archivos-propio">
+            Nautilus puede ser sustituido en Ubuntu por un gestor de archivos propio
+          </a>
+        </li>
+              <li>
+          <a  href="/web/kickstarter-tras-sufrir-un-ataque-recomienda-cambiar-contrasenas" class="thumb80">
+            <img title="Kickstarter, tras sufrir un ataque, recomienda cambiar contraseñas " src="http://img.genbeta.com/tb/80_80/110976.jpg" alt="Kickstarter, tras sufrir un ataque, recomienda cambiar contraseñas ">
+          </a>
+          <a  href="/web/kickstarter-tras-sufrir-un-ataque-recomienda-cambiar-contrasenas">
+            Kickstarter, tras sufrir un ataque, recomienda cambiar contraseñas 
+          </a>
+        </li>
+          </ul>
+</div>
+<!-- related-posts SEO links-->
+       
+    </div>
+  <!-- .container -->
+  </div>
+  <!-- .content-dinamic -->
+
+  <div class= "nav nav-blog">
+  <div class= "container">
+    <h2><strong>&#43;</strong> en Genbeta</h2>
+    <ul>
+      <li class= "blog-section section-lomejor"><a href="/lomejor">Lo mejor</a></li>
+      <li class= "blog-section section-temas"><a href="/archivos">Temas</a></li>
+            <li class= "blog-section section-productos"><a href="/productos">Productos</a></li>
+                  <li class= "blog-section section-respuestas"><a href="/respuestas">Respuestas</a></li>
+            
+            <li class="blog-section section-club"><a href="/club">Club</a></li>
+            <li class= "blog-section section-comunidad"><a href="/comunidad">Comunidad</a></li>
+      <li class="blog-section section-staff"><a href="/quienes-somos">Staff</a></li>
+    </ul>
+  </div>
+</div>
+  
+<div class="footer">
+        <div class="footer-media">
+                <div class="links-category">
+            <h2>Tecnología</h2>
+            <ul>
+                              <li class="tec-xataka"><a href="http://www.xataka.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka<span></span></a></li>
+                              <li class="tec-xatakamovil"><a href="http://www.xatakamovil.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Móvil<span></span></a></li>
+                              <li class="tec-xatakafoto"><a href="http://www.xatakafoto.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Foto<span></span></a></li>
+                              <li class="tec-xatakandroid"><a href="http://www.xatakandroid.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Android<span></span></a></li>
+                              <li class="tec-xatakaon"><a href="http://www.xatakaon.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka On<span></span></a></li>
+                              <li class="tec-xatakahome"><a href="http://www.xatakahome.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Smart Home<span></span></a></li>
+                              <li class="tec-xatakawindows"><a href="http://xatakawindows.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Windows<span></span></a></li>
+                              <li class="tec-xatakaciencia"><a href="http://www.xatakaciencia.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Ciencia<span></span></a></li>
+                              <li class="tec-applesfera"><a href="http://www.applesfera.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Applesfera<span></span></a></li>
+                              <li class="tec-vidaextra"><a href="http://www.vidaextra.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vida Extra<span></span></a></li>
+                              <li class="tec-genbeta"><a href="http://www.genbeta.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Genbeta<span></span></a></li>
+                              <li class="tec-genbetadev"><a href="http://www.genbetadev.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Genbeta Dev<span></span></a></li>
+                          </ul>
+        </div>
+            </div>
+    
+    <div class="footer-links">
+                        <div class="links-category">
+            <h2>Estilos de vida</h2>
+            <ul>
+                              <li><a href="http://www.trendencias.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias</a></li>
+                              <li><a href="http://www.trendenciasbelleza.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Belleza</a></li>
+                              <li><a href="http://www.trendenciashombre.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Hombre</a></li>
+                              <li><a href="http://www.trendenciasshopping.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Shopping</a></li>
+                              <li><a href="http://www.trendenciaslifestyle.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Lifestyle</a></li>
+                              <li><a href="http://www.directoalpaladar.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Directo al Paladar</a></li>
+                              <li><a href="http://www.bebesymas.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bebés y Más</a></li>
+                              <li><a href="http://www.pequesymas.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Peques y Más</a></li>
+                              <li><a href="http://www.vitonica.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vitónica</a></li>
+                              <li><a href="http://www.decoesfera.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Decoesfera</a></li>
+                              <li><a href="http://www.embelezzia.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Embelezzia</a></li>
+                              <li><a href="http://www.ambienteg.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ambiente G</a></li>
+                              <li><a href="http://www.poprosa.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Poprosa</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Motor</h2>
+            <ul>
+                              <li><a href="http://www.motorpasion.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión</a></li>
+                              <li><a href="http://www.motorpasionf1.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión F1</a></li>
+                              <li><a href="http://www.motorpasionmoto.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Moto</a></li>
+                              <li><a href="http://www.motorpasionfuturo.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Futuro</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Ocio</h2>
+            <ul>
+                              <li><a href="http://www.blogdecine.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog de Cine</a></li>
+                              <li><a href="http://www.vayatele.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">¡Vaya Tele!</a></li>
+                              <li><a href="http://www.hipersonica.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Hipersónica</a></li>
+                              <li><a href="http://www.diariodelviajero.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Diario del Viajero</a></li>
+                              <li><a href="http://www.papelenblanco.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Papel en Blanco</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Economía</h2>
+            <ul>
+                              <li><a href="http://www.elblogsalmon.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">El Blog Salmón</a></li>
+                              <li><a href="http://www.pymesyautonomos.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Pymes y Autónomos</a></li>
+                              <li><a href="http://www.tecnologiapyme.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Tecnología Pyme</a></li>
+                              <li><a href="http://www.ahorrodiario.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ahorro Diario</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Latinoamérica</h2>
+            <ul>
+                              <li><a href="http://www.xataka.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Brasil</a></li>
+                              <li><a href="http://www.trendencias.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Brasil</a></li>
+                              <li><a href="http://www.motorpasion.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Brasil</a></li>
+                              <li><a href="http://www.xataka.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka México</a></li>
+                              <li><a href="http://www.motorpasion.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión México</a></li>
+                              <li><a href="http://www.directoalpaladar.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Directo Al Paladar México</a></li>
+                              <li><a href="http://www.xatakandroid.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Android México</a></li>
+                              <li><a href="http://www.vidaextra.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vida Extra México</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Participamos en</h2>
+            <ul>
+                              <li><a href="http://www.ebayers.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">eBayers</a></li>
+                              <li><a href="http://www.circulaseguro.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Circula Seguro</a></li>
+                              <li><a href="http://www.circulaseguro.pt/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Circula Seguro PT</a></li>
+                              <li><a href="http://www.actibva.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Actibva</a></li>
+                              <li><a href="http://www.anexom.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Anexo M</a></li>
+                              <li><a href="http://blog.cocacola.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Happing Magazine</a></li>
+                              <li><a href="http://blog.sage.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog Sage</a></li>
+                              <li><a href="http://www.optimismodigital.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Optimismo Digital</a></li>
+                              <li><a href="http://www.1001experiencias.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">1001 Experiencias</a></li>
+                              <li><a href="http://www.ennaranja.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">En Naranja</a></li>
+                              <li><a href="http://www.essieblog.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Essie Blog</a></li>
+                              <li><a href="http://blogginzenith.zenithmedia.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bloggin Zenith</a></li>
+                              <li><a href="http://www.urbanfire.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Urbanfire</a></li>
+                              <li><a href="http://www.tecnologiadetuatu.elcorteingles.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Tecnología de tú a tú</a></li>
+                              <li><a href="http://www.ciudadano00.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ciudadano 0,0</a></li>
+                              <li><a href="http://blogfanta.cocacola.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog Fanta</a></li>
+                              <li><a href="http://mimundo.philips.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Mi Mundo Philips</a></li>
+                              <li><a href="http://www.bbvacontuempresa.es?utm_source=genbeta&utm_medium=network&utm_campaign=footer">BBVA con tu empresa</a></li>
+                              <li><a href="http://www.perutravelblog.net/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Perú Travel Blog</a></li>
+                              <li><a href="http://bscene.bershka.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bershka Bscene</a></li>
+                              <li><a href="http://www.institutodelafelicidad.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Instituto de la Felicidad</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                    </div>
+</div>
+
+<div class="closure">
+    <div class="container">
+        <div class="weblogssl"><a href="http://www.weblogssl.com">Weblogs SL<span></span></a></div>
+        <ul class="nav">
+            <li><a href="/quienes-somos">¿Quienes somos?</a></li>
+            <li><a href="http://www.weblogssl.com/contenidos">Condiciones de uso</a></li>
+            <li><a href="http://www.weblogssl.com/cookies">Política de cookies</a></li>
+            <li><a href="http://www.weblogssl.com/aviso">Aviso legal</a></li>
+            <li><a title="Publicidad en Genbeta" href="http://www.socialmediasl.com/genbeta.php">Publicidad</a></li>
+            <li><a href="/ayuda-2012">Ayuda</a></li>
+            <li><a href="/contacto">Contacto</a></li>
+        </ul>
+    </div>
+</div>
+
+<div id="cookies-overlay"></div>
+
+  <script type="text/javascript">
+    $(function() {
+      new AML.Auth.View.CookiesOverlayView;
+    });
+  </script>
+
+</div>
+<div id="favicons-list">
+
+    <div class="userbar">
+        <a class="head-shortcut" href="#body" title="Volver arriba">&uarr;</a>
+        <div class="userbox" id="wsl_userbox">
+        </div>
+
+        <div class="favicons" style="width: auto; ">
+
+            <div id="scroll-menu">
+
+                <div class="disabledHotSpotLeft">«</div>
+                <div class="disabledHotSpotRight">»</div>
+                <div class="scrollingHotSpotLeft">«</div>
+                <div class="scrollingHotSpotRight">»</div>
+
+                <div class="scrollWrapper">
+                    <div class="scrollableArea">
+
+                        <ul class="favicroll">
+                            <li id="wsl"><a target="_top" href="http://www.weblogssl.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><em><strong>Blog corporativo</strong></em></a></li>
+
+                            <li><a target="_top" href="http://www.xataka.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b1"><strong>XTK</strong></span> <em><strong>Xataka - Gadgets y electrónica de consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vidaextra.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b2"><strong>VX</strong></span> <em><strong>VidaExtra - Videojuegos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.blogdecine.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b3"><strong>BDC</strong></span> <em><strong>Blog de cine - Cine  y críticas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.elblogsalmon.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b5"><strong>EBS</strong></span> <em><strong>El Blog Salmón - Economía y finanzas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.genbeta.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b6"><strong>GBT</strong></span> <em><strong>Genbeta - Software</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasion.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b7"><strong>MP</strong></span> <em><strong>MotorPasión - Coches y motor</strong></em></a></li>
+                            <li><a target="_top" href="http://www.directoalpaladar.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b8"><strong>DAP</strong></span> <em><strong>Directo al paladar - Gastronomía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.bebesymas.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b9"><strong>BYM</strong></span> <em><strong>Bebés y más - Todo sobre bebés</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vayatele.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b11"><strong>VYT</strong></span> <em><strong>¡Vaya Tele! - Series y televisión</strong></em></a></li>
+                            <li><a target="_top" href="http://www.diariodelviajero.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b12"><strong>DDV</strong></span> <em><strong>Diario del viajero - Viajes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakaciencia.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b13"><strong>XCI</strong></span> <em><strong>Xataka Ciencia - Ciencia</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendencias.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b14"><strong>TRE</strong></span> <em><strong>Trendencias - Moda y tendencias</strong></em></a></li>
+                            <li><a target="_top" href="http://www.hipersonica.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b15"><strong>HIP</strong></span> <em><strong>HiperSónica - Música</strong></em></a></li>
+                            <li><a target="_top" href="http://www.applesfera.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b16"><strong>APP</strong></span> <em><strong>Applesfera - Apple</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasshopping.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b17"><strong>COM</strong></span> <em><strong>Trendencias Shopping - Compras y consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakamovil.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b18"><strong>XTM</strong></span> <em><strong>Xataka Móvil - Móviles</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ambienteg.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b19"><strong>AMG</strong></span> <em><strong>Ambiente G - Gays y lesbianas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionmoto.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b20"><strong>MMO</strong></span> <em><strong>Motorpasión Moto - Motos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.papelenblanco.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b21"><strong>PEB</strong></span> <em><strong>Papel en blanco - Literatura</strong></em></a></li>
+                            <li><a target="_top" href="http://www.decoesfera.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b22"><strong>DEC</strong></span> <em><strong>Decoesfera - Decoración e interiorismo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionf1.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b23"><strong>MF1</strong></span> <em><strong>Motorpasión F1 - Carreras</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vitonica.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b24"><strong>VIT</strong></span> <em><strong>Vitónica - Vida sana</strong></em></a></li>
+                            <li><a target="_top" href="http://www.embelezzia.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b25"><strong>EMB</strong></span> <em><strong>Embelezzia - Lujo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.poprosa.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b26"><strong>POP</strong></span> <em><strong>Poprosa - Famosos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakafoto.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b27"><strong>XTF</strong></span> <em><strong>Xataka Foto - Fotografía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.pymesyautonomos.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b28"><strong>PYA</strong></span> <em><strong>Pymes y autónomos - Pymes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasbelleza.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b30"><strong>TRB</strong></span> <em><strong>Trendencias Belleza - Belleza y cosmética</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.tecnologiapyme.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b34"><strong>TPY</strong></span> <em><strong>Tecnología Pyme - Tecnología para empresas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ahorrodiario.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b35"><strong>AHD</strong></span> <em><strong>Ahorro Diario - Ahorro</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciashombre.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b36"><strong>TRH</strong></span> <em><strong>Trendencias Hombre - Moda y estilo masculino</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.pequesymas.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b37"><strong>PEQ</strong></span> <em><strong>Peques y más - Niños e infancia</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakaon.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b39"><strong>XTO</strong></span> <em><strong>Xataka On - Todo sobre conectividad, ADSL</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakandroid.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b40"><strong>XTA</strong></span> <em><strong>Xataka Android - Android, aplicaciones y dispositivos</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.genbetadev.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b41"><strong>GBD</strong></span> <em><strong>Genbeta Dev - Desarrollo de software</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.motorpasionfuturo.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b42"><strong>MPF</strong></span> <em><strong>Motorpasión Futuro - Innovación y Motor</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakahome.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b44"><strong>XSH</strong></span> <em><strong>Xataka Smart Home - Inteligencia doméstica digital</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakawindows.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b45"><strong>XTW</strong></span> <em><strong>Xataka Windows - Universo Microsoft</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciaslifestyle.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b46"><strong>TLS</strong></span> <em><strong>Trendencias Lifestyle</strong></em></a></li>
+                        </ul>
+
+                    </div>
+                </div>
+                <!-- .scrollWrapper-->
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<div id="wsl_dialog"></div>
+<script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', function() {
+  try {
+    if (window.external.msIsSiteMode()) {
+      window.external.msSiteModeClearJumpList();
+      window.external.msSiteModeCreateJumplist('Mensajes Recientes');
+            window.external.msSiteModeAddJumpListItem('Office\x20para\x20iPad,\x20m\u00E1s\x20pronto\x20que\x20tarde\x3A\x20para\x20la\x20primera\x20mitad\x20de\x202014', 'http://www.genbeta.com/ofimatica/office-para-ipad-mas-pronto-que-tarde-para-la-primera-mitad-de-2014', '');
+            window.external.msSiteModeAddJumpListItem('Bittorrent\x20Live,\x20el\x20streaming\x20P2P,\x20llegar\u00E1\x20pronto\x20a\x20los\x20m\u00F3viles\x20', 'http://www.genbeta.com/multimedia/bittorrent-live-el-streaming-p2p-llegara-pronto-a-los-moviles', '');
+            window.external.msSiteModeAddJumpListItem('La\x20hipocres\u00EDa\x20de\x20algunos\x20medios\x20tradicionales.\x20La\x20imagen\x20de\x20la\x20semana\x20', 'http://www.genbeta.com/actualidad/la-hipocresia-de-algunos-medios-tradicionales-la-imagen-de-la-semana', '');
+            window.external.msSiteModeAddJumpListItem('\x22Tasa\x20Google\x22\x3A\x20si\x20tienes\x20un\x20blog\x20tambi\u00E9n\x20te\x20afecta,\x20solo\x20que\x20otros\x20la\x20cobrar\u00E1n\x20por\x20ti\x20', 'http://www.genbeta.com/actualidad/tasa-google-si-tienes-un-blog-tambien-te-afecta-solo-que-otros-la-cobraran-por-ti', '');
+            window.external.msSiteModeAddJumpListItem('Kickstarter,\x20tras\x20sufrir\x20un\x20ataque,\x20recomienda\x20cambiar\x20contrase\u00F1as\x20', 'http://www.genbeta.com/web/kickstarter-tras-sufrir-un-ataque-recomienda-cambiar-contrasenas', '');
+            window.external.msSiteModeShowJumpList();
+    }
+  } catch (exp) {
+    // do nothing
+  }
+  });
+</script>
+
+
+<script type='text/javascript'>
+    (function() {
+      new ViceVersaLink("http://t.genbeta.com");
+    })();
+</script>
+
+<script type='text/javascript'>
+  window.onerror = function(message, file, line) {
+    var sFormattedMessage = '[' + file + ' (' + line + ')] ' + message;
+    _gaq.push(['_trackEvent', 'Errors', 'Browser', sFormattedMessage, null, true]);
+  }
+    
+</script>
+
+</body>
+</html>

@@ -1,0 +1,892 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+                                                                                                                                                                                                                                                                                <title>La pregunta de la semana: ¿Qué características de Android te gustaría ver en iOS?, ¿y viceversa?</title>
+                  <meta name="description" content="Hace poco anunciábamos el estreno de una nueva web en Weblogs SL, Xataka Android. Y no podríamos olvidarnos de este hecho, así que la pregunta..." />
+            <meta name="news_keywords" content="Android, ios, La pregunta de la semana"/>
+       
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />    
+    <meta name='robots' content='noodp' />
+    <meta property="fb:admins" content="100000716994885"/>
+    <meta name="application-name" content="Genbeta"/>
+    <meta name="msapplication-tooltip" content="Software y web. Genbeta"/>
+    <meta name="msapplication-starturl" content="http://www.genbeta.com"/>
+    <meta name="msapplication-task" content="name=Lo mejor;action-uri=http://www.genbeta.com/lomejor;icon-uri=http://img.genbeta.com/lp2/v6/images/pin-bg-lomejor-icon.ico" />
+        <meta name="msapplication-task" content="name=Respuestas;action-uri=http://www.genbeta.com/respuestas;icon-uri=http://img.genbeta.com/lp2/v6/images/pin-bg-respuestas-icon.ico" />
+                <!--[if !IE]><!--> <link rel="shortcut icon" href="http://img.genbeta.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if lt IE 9]><!--> <link rel="shortcut icon" href="http://img.genbeta.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if gte IE 9]>
+            <link rel="shortcut icon" type="image/x-icon" href="http://img.genbeta.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+            <link rel=icon type="image/ico" href="http://img.genbeta.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+        <![endif]-->
+    
+    <link rel="apple-touch-icon" href="http://img.genbeta.com/lp2/mobile/images/apple-touch-icon.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-57-precomposed.png">
+
+        <link rel="stylesheet" type="text/css" href="http://img.genbeta.com/lp2/v6/main.css?v=24272">
+        <link rel="publisher" href="http://plus.google.com/106643481235450321345" />
+    <link rel="alternate" type="application/rss+xml" title="" href="/index.xml" />
+    <!--[if lt IE 7]>
+      <link rel="stylesheet" type="text/css" href="http://img.genbeta.com/lp2/v6/ie7.css">
+    <![endif]-->
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', "UA-78515-6"]);
+  _gaq.push(['_setCampaignCookieTimeout', 259200000]);
+  _gaq.push(['_setDomainName', ".genbeta.com"]);
+  _gaq.push(['_setSiteSpeedSampleRate', 5]);
+  _gaq.push(['t2._setAccount', "UA-78515-62"]);
+  _gaq.push(['t2._setCampaignCookieTimeout', 259200000]);
+  _gaq.push(['t2._setDomainName', ".genbeta.com"]);
+  (function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') +       '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  })();
+</script>
+
+ <link rel="canonical" href="http://www.genbeta.com/genbeta/la-pregunta-de-la-semana-que-caracteristicas-de-android-te-gustaria-ver-en-ios-y-viceversa" />
+ <link rel="image_src" href="http://img.genbeta.com/resize/75/thumbnails/b/60163.jpg" />
+ <meta property="og:title" content="La pregunta de la semana: ¿Qué características de Android te gustaría ver en iOS?, ¿y viceversa?">
+ <meta property="og:description" content="Hace poco anunciábamos el estreno de una nueva web en Weblogs SL, Xataka Android. Y no podríamos olvidarnos de este hecho, así que la pregunta...">
+ <meta property="og:image" content="http://img.genbeta.com/original/60163.jpg">
+    <script>
+    _gaq.push(['t2._setPageGroup', '1', 'post']);
+    _gaq.push(['t2._setPageGroup', '2', "miguel julián"]);
+    _gaq.push(['t2._setPageGroup', '3', "genbeta"]);
+    _gaq.push(['t2._setPageGroup', '4', "normal"]);
+    _gaq.push(['_setPageGroup', '1', 'post']);
+    _gaq.push(['_setPageGroup', '2', "miguel julián"]);
+    _gaq.push(['_setPageGroup', '3', "genbeta"]);
+    _gaq.push(['_setPageGroup', '4', "normal"]);
+       </script>
+   </head>
+       <body id="body" class="article-single">
+
+    <script type='text/javascript'>
+    var MAX_source = "";
+    var GPTcats = ["movil", "genbeta"];
+    var GPTtags = ["android", "ios", "la-pregunta-de-la-semana"];
+      </script>
+      <script type='text/javascript'>
+googletag.pubads().setTargeting("origin", "googlesearch").setTargeting("screen", screen.width.toString()).setTargeting("cat", GPTcats).setTargeting("tag", GPTtags);
+if (navigator.userAgent.match(/iPad/i) != null) {
+  googletag.pubads().setTargeting("ua", "ipad");
+} 
+ 
+googletag.defineSlot('/4712/GEB/interior_top', [1000, 40], 'div-gpt-top').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_lateral', [[160, 600], [200,600], [300,600], [300,250]], 'div-gpt-lat').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_central', [[300, 250], [400,400], [1000,250]], 'div-gpt-cen').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_central2', [[300, 250],[400,400],[690, 250]], 'div-gpt-cen2').addService(googletag.pubads());
+googletag.defineSlot('/1018282/GEB-BOT2-interior',[728, 90], 'div-gpt-bot').addService(googletag.pubads());
+googletag.defineSlot('/1018282/GEB-INP', [500, 80], 'div-gpt-inp').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interstitial', [1000, 525], 'div-gpt-int').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().enableSyncRendering();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+</script>
+
+       <script type="text/javascript">
+      WSL2 = {};
+      WSL2.config = {};
+      WSL2.config.fbapikey = "360028941603";
+      WSL2.config.cookieDomain = "";
+      WSL2.config.imagePath = 'http://img.genbeta.com/lp2/v6';
+      WSL2.config.siteName = "Genbeta";
+      window.___gcfg = {lang: 'es'};
+    </script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="http://code.jquery.com/jquery-migrate-1.1.0.js"></script>
+            <script src="http://img.weblogssl.com/LPbackend/prod/v2/js/frontend-758.js"></script>
+          <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _c1 = new WSL2.Cookie;
+      loginStatus = (_c1.hasSession()) ? "yes:" + _c1.loginType() : "no";
+      _gaq.push(['t2._setCustomVar', 4, '.genbeta.com', 'loginstatus:' + loginStatus, 2]);
+      _gaq.push(['_trackPageview']);
+      _gaq.push(['t2._trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); 
+    ga.type = 'text/javascript';
+    ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+  })();
+      var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "11306788" });
+         (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[1]; 
+          s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb": "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+    </script>
+
+    <div id="fb-root"></div>
+  <!-- fb needs this -->
+
+  <script src="//platform.twitter.com/widgets.js" id="tweetjs"></script>
+  <script src="//apis.google.com/js/plusone.js" id="gplus1js"></script>
+  <script src="//connect.facebook.net/es_ES/all.js#xfbml=1" id="fbjssdk"></script>
+  <div class="customize-me">
+  <div class="content-fixed">
+    <div class="container">
+                <!-- .header -->
+            <div class="header header-page">
+        <h1 class="site-logo"><a href="http://www.genbeta.com" title="Ir a la portada">Software y web. Genbeta<span></span></a></h1>
+        <form method="get" action="/busqueda" id="search" class="search" style="top:62px; width:310px; padding: 0;">
+    <p>
+        <input type="hidden" name="cx" value="partner-pub-9977500652563564:0292109475">
+        <input type="text" id="gsearch" name="q" accesskey="4" title="Buscar" placeholder="Busca en Genbeta con Google">
+        <input type="hidden" name="ie" value="UTF-8">
+        <input type="hidden" name="oe" value="UTF-8">
+        <input type="hidden" name="cof" value="FORID:10">
+        <button class="button">Buscar <span class="arrow">&raquo;</span></button>
+    </p>
+</form>
+<script type="text/javascript" src="http://www.google.es/coop/cse/brand?form=cse-search-box&amp;lang=es"></script>
+            <div class="nav nav-main">
+    <ul class="nav-primary">
+        <li class="home-link"><a href="/" title="Volver a portada">Portada</a></li>
+        <li class="respuestas-link"><a href="/respuestas">Respuestas</a></li>
+        <li class="temas-submenu">
+            <ul class="nav-secondary">
+                                   <li><a href="/categoria/actualidad" title="Ir a la categoría Actualidad">Actualidad</a></li>
+                                   <li><a href="/categoria/linux" title="Ir a la categoría Linux">Linux</a></li>
+                                   <li><a href="/categoria/movil" title="Ir a la categoría Móvil">Móvil</a></li>
+                                   <li><a href="/categoria/windows" title="Ir a la categoría Windows">Windows</a></li>
+                                   <li><a href="/categoria/herramientas" title="Ir a la categoría Herramientas">Herramientas</a></li>
+                                <li><a href="/archivos" title="Ver todas las categorías">Más &raquo;</a></li>
+            </ul>
+        </li>
+                  
+            </ul>
+</div>
+
+        <div class="nav nav-tags">
+        <h3>No te pierdas <span class="arrow">&raquo;</span></h3>
+        <ul>
+                        <li><a href="/tag/tasa-google" title="Todo sobre Tasa Google">Tasa Google</a></li>
+                        <li><a href="/tag/ley-lassalle" title="Todo sobre Ley Lassalle">Ley Lassalle</a></li>
+                        <li><a href="/tag/balance-de-windows-8" title="Todo sobre Balance de Windows 8">Balance de Windows 8</a></li>
+                        <li><a href="/tag/cazadores-de-fakes" title="Todo sobre Cazadores de Fakes">Cazadores de Fakes</a></li>
+                        <li><a href="/tag/satya-nadella" title="Todo sobre Satya Nadella">Satya Nadella</a></li>
+                    </ul>
+</div>
+<!-- .nav-tags -->
+
+                    <div class="ad ad-desplegable">
+  <a class="ad-contact" id="div-gpt-top-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+  <div class="ad-box">
+    <div id='div-gpt-top' style='width: 1000px;'>
+    <script type="text/javascript">
+        googletag.cmd.push(function() {
+        googletag.display("div-gpt-top");
+        });
+    </script>
+    </div>
+  </div>
+</div>
+<!-- .ad-box - desplegable -->
+
+  <div class="nav">
+   <ul class="article-nav-controls">
+                              <li><a class="article-control article-previous" href="/activismo-online/la-camara-de-comersio-de-eeuu-presiona-por-una-ley-para-cerrar-webs"><span>La Cámara de Comercio de Estados Unidos presiona por una ley para cerrar webs</span></a></li>
+                                             <li><a class="article-control article-next" href="/activismo-online/la-tormenta-perfecta-se-acerca-a-iran"><span>La &quot;tormenta perfecta&quot; se acerca a Irán</span></a></li>
+                  </ul>
+  </div>
+              </div>
+                   <div class="article article-pre-content">
+  <h1 class="article-header">La pregunta de la semana: ¿Qué características de Android te gustaría ver en iOS?, ¿y viceversa?</h1>
+  <div class="article-date">14 de febrero de 2011 | 21:19 CET <span id="is_editor"></span></div>
+  <div class="article-author-details">
+  <div class="figure">
+    <a rel='author' href="/autor/miguel-julian">
+      <img src="http://www.gravatar.com/avatar/14216b3a89c997bfc641f9d3abf7bc0b?s=80&amp;d=mm&amp;r=g" alt="miguel-julian">
+    </a>
+  </div>
+  <h2><a rel='author' href="/autor/miguel-julian">Miguel Julián</a></h2>
+      </div>
+<!-- .article-author-details -->
+</div>
+           </div>
+    <!-- .container -->
+  </div>
+  <!-- .content-fixed -->
+
+  <div class="content-dinamic">
+    <div class="container">
+          <script type="text/javascript">
+        $(function()
+        {
+          AML.postVoteView = new AML.Post.View.PostVoteView({postId:"60163", el:".social-sharing" });
+          AML.isEditorView = new AML.Post.View.IsEditorView({postId:"60163", model: WSL2.User });
+        });
+      </script>
+
+    <div class="aside">
+            <div id="ad-lateral" class="ad ad-primer-escaparate">
+  <a class="ad-contact" id="div-gpt-lat-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-lat' class="ad-box" style='width: 300px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-lat");
+    });
+    </script>
+    </div>
+</div>
+<!-- .ad-box - escaparate vertical -->
+
+           <!-- .ad-box - escaparate vertical -->
+            
+                  
+<div class="aside-box aside-subscribe">
+  <h3 class="aside-header">Síguenos</h3>
+  
+          
+  <form id="feedForm" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" >
+    <label for="subscribe-email">Newsletter:</label>  
+      <input type="text" name="email" type="text" id="feedburnermail" placeholder="Correo electrónico"/>
+      <input type="hidden" name="uri" value="genbeta"/>
+      <input type="hidden" name="loc" value="es_ES">
+      <button class="button" type="submit">Suscríbete <span class="arrow">&raquo;</span></button>
+  </form>
+  <ul class="subs-channels">
+    <li class="channel-rss" id="rss"> <a href="/index.xml" rel="nofollow" title="Suscríbete por RSS a las novedades en Genbeta"><span></span>RSS</a></li>
+    <li class="channel-twitter"><a href="http://twitter.com/genbeta" title="Sigue las novedades de Genbeta en Twitter"><span></span>Twitter</a></li>
+    <li class="channel-fb"><a href="http://www.facebook.com/pages/Genbeta/54999640934" title="Conéctate a la página de Genbeta en Facebook"><span></span>Facebook</a></li>
+    <li class="channel-gplus"><a href="https://plus.google.com/109731528328750280665/posts" title="Sigue a Genbeta en Google Plus"><span></span>Google Plus</a></li>
+    <li class="channel-feedly"><a style="margin-right: 0;" title="Suscríbete a Genbeta con Feedly" href='http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fwww.genbeta.com%2Findex.xml'  target='blank'><img id='feedlyFollow' src='http://img.weblogssl.com/g/xataka4/common/m-icon-feedly.png' alt='follow us in feedly' width='32' height='32'></a></li>
+  </ul>
+  <ul class="devices-channels">
+    <li><a title="Versión para móviles" href="http://m.genbeta.com" class="button button-secondary"><img src="http://img.weblogssl.com/g/xataka4/common/mobile.png">Versión móvil</a></li>
+        <li>
+        <a id="tabletViceVersaLink" href="http://t.genbeta.com" class="button button-secondary" title="Versión tablet"><img src="http://img.weblogssl.com/g/xataka4/common/tablet.png"> Versión tablet</a>
+    </li>
+      </ul>
+
+    <script>
+  $(function() {
+      $("#feedForm").submit(function(e) {
+          e.preventDefault();
+          email = $("#feedburnermail").val();
+          emailPattern = /^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$/i
+          if (emailPattern.test(email)) {
+              window.open('http://mailer.weblogssl.com/subscribe_check/' + email +'/genbeta/Genbeta','','width=500,height=500');
+          } else {
+              alert("El correo electrónico introducido no es correcto");
+          }
+      });
+  });
+  </script>
+  
+</div>
+            <!-- .article-promo -->
+    </div>
+
+    <!-- .aside -->
+
+                    
+    <div class="section section-article-single">
+            <div class="article">
+        <div class="article-summary">
+          <p><img id="image59603" src="http://img.genbeta.com/2011/01/preguntasemana.png" class="centro_sinmarco" alt="Pregunta de la semana" /></p>
+
+                              <div class="article-metadata">
+            <div class="article-comments" id="postCommentCount">
+              <a href="#comments" title="Ir a comentarios">
+                Comentarios 69
+              </a>
+            </div>
+            <div class="article-links">
+              <div class="social-sharing">
+                <div class="social-sharing-widgets">
+                                    <div class="wsl-favorite">
+                    <button class="button button-small">Me gusta</button>
+                    <span class="wsl-count">0</span>
+                  </div>
+                                    <!-- twitter -->
+                  <a class="twitter-share-button" href="http://twitter.com/share" data-count="horizontal" data-url="http://www.genbeta.com/p/60163" data-counturl="http://www.genbeta.com/genbeta/la-pregunta-de-la-semana-que-caracteristicas-de-android-te-gustaria-ver-en-ios-y-viceversa" data-text="La pregunta de la semana: ¿Qué características de Android te gustaría ver en iOS?, ¿y viceversa?" data-via="genbeta" data-lang="es">Tweet</a>
+                  <!-- g+ -->
+                  <div class="g-plusone" data-size="medium" data-href="http://www.genbeta.com/genbeta/la-pregunta-de-la-semana-que-caracteristicas-de-android-te-gustaria-ver-en-ios-y-viceversa" data-callback="gplusClickHandler" ></div>
+                  <!-- facebook like -->
+                  <div href="http://www.genbeta.com/genbeta/la-pregunta-de-la-semana-que-caracteristicas-de-android-te-gustaria-ver-en-ios-y-viceversa" class="fb-like" data-send="false" data-layout="button_count" data-show-faces="false"></div>
+                </div>
+              </div>
+              <!-- .social-sharing -->
+            </div>
+            <!-- .article-links -->
+          </div>
+          <!-- .article-metadata -->
+
+
+          	<p></p>
+
+	<p>Hace poco anunciábamos el estreno de una nueva web en Weblogs SL, <a href="http://www.xatakandroid.com/">Xataka Android</a>. Y no podríamos olvidarnos de este hecho, así que <strong>la pregunta de la semana no podía ir encaminada hacia otro sistema operativo que no fuera Android</strong>. Existen muchas comparativas y puntos de vista en el tema de los sistemas operativos móviles, pero está clara la rivalidad entre Android e iOS.</p>
+
+	<p>Mucho se ha escrito y hablado sobre cuál de los dos sistemas operativos móviles es más usable; por no entrar en discusiones acerca de poder <strong>reproducir contenidos Flash</strong> o no. La <strong>lista de aplicaciones</strong> de Android sigue pareciendo anticuada a la vista, pero en cambio, los <strong>widgets </strong>te dan un accesso más rápido a algunas aplicaciones que consultas constantemente. En cuanto a la gestión de la multitarea, ¿con qué solución te quedas? Los terminales con Android tienen más botones que aquellos con<strong> iOS, que sólo disponen de un botón</strong>, ¿insuficiente?</p>
+
+	<p>La esencia debería ser la misma, ofrecernos una interfaz para nuestros dispositivos móviles, ambos están basados en aplicaciones, pero las diferencias son notables. <strong>¿Qué características de Android te gustaría ver en iOS?, ¿y viceversa?</strong> No olvides responder en la sección <a href="http://www.genbeta.com/respuestas/pregunta-de-la-semana-que-caracteristicas-de-android-te-gustaria-ver-en-ios">Genbeta Respuestas</a>, ya que la semana que viene recopilaremos vuestras opiniones.<br />
+<!--more--><br />
+Y ahora vamos con el repaso de las respuestas de las <a href="http://www.genbeta.com/respuestas/la-pregunta-de-la-semana-estamos-preparados-para-utilizar-ipv6">pregunta de la semana anterior</a>. Hablábamos de la llamada apocalíptica que vino con el <strong>anuncio del reparto de las últimas direcciones IPv4</strong>. ¿Necesitamos cambiar algo en nuestro ordenador? ¿Qué significa el cambio a IPv6?</p>
+
+	<p>La respuesta más votada ha sido la de <strong>Pedro</strong>:</p>
+
+<blockquote>Pues no sé, por un lado los SO ya están preparados hace tiempo, pero sigue habiendo mucho software por ahí que no lo está. Sin ir más lejos me pregunté qué sera de los videojuegos, como, por poner un ejemplo, Counter-Strike (y muchos más) en los que los servidores funcionan mediante IPv4. Y así muchas cosas más, que deberán cambiar su forma de trabajar para funcionar con IPv6.Y luego además también están las <span class="caps">ISP</span>, que tal y como son en España puede que el día del fin del mundo aun estén empezando a cambiarse a IPv6.</blockquote>
+
+	<p>En Genbeta | <a href="http://www.genbeta.com/respuestas/la-pregunta-de-la-semana-estamos-preparados-para-utilizar-ipv6">¿Estamos preparados para utilizar IPv6?</a> | <a href="http://www.genbeta.com/respuestas/se-podra-instalar-version-3-honeycomb-de-android-en-tablets-que-tienen-la-2">¿Se podrá instalar Version 3 Honeycomb de Android en tablets que tienen la 2?</a><br />
+En Xataka Android | <a href="http://www.xatakandroid.com/sistema-operativo/un-paseo-por-la-interfaz-de-android-30-para-tablets">Un paseo por la interfaz de Android 3.0 para tablets</a> | <a href="http://www.xatakandroid.com/tablets-android/la-generacion-honeycomb-vs-ipad-la-lucha-esta-servida">La generación Honeycomb vs. iPad, la lucha está servida</a></p>                  </div>
+
+                        
+        <div class="ad links-ad-inpost">
+    <div id='div-gpt-inp' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-inp");
+    });
+    </script>
+    </div>
+</div>
+
+
+        
+        <div class="article-taxonomy">
+                      <div class="nav article-tags article-categories">
+  <h2>Categorías</h2>
+    <ul>
+                      
+      <li><a href="/categoria/movil">Móvil</a></li>
+                      
+      <li><a href="/categoria/genbeta">Genbeta</a></li>
+        </ul>
+</div>
+            <div class="nav article-tags">
+  <h2>Tags</h2>
+  <ul>
+                                             
+      <li><a href="/tag/android">Android</a></li>
+                                             
+      <li><a href="/tag/ios">ios</a></li>
+                                             
+      <li><a href="/tag/la-pregunta-de-la-semana">La pregunta de la semana</a></li>
+          
+  </ul>
+</div>
+                  </div>
+        <!-- .article-metadata -->
+      </div>
+      <!-- .article -->
+    </div>
+    <!-- .section-articles -->
+            <div id="ad-center" class="ad ad-escaparate-medio">
+  <a class="ad-contact" id="div-gpt-cen-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-cen' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+
+        
+        
+    <div class="section section-related">
+               <div id="outBrainVerticalWidget" class="post-related-posts ">
+  <h3>Artículos recomendados</h3>
+  <div class="post-related-content">
+   
+    <div class="OUTBRAIN" data-src="http://www.genbeta.com/genbeta/la-pregunta-de-la-semana-que-caracteristicas-de-android-te-gustaria-ver-en-ios-y-viceversa" data-widget-id="AR_2" data-ob-template="genbeta" >
+    </div>
+    <script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js">
+    </script>
+  </div>
+  <!-- .post-related-content -->
+  <p class="post-related-more">
+    <a href="/categoria/genbeta" title="Ver más artículos relacionados">
+    Ver más artículos <span class="arrow">»</span>    
+    </a>
+    </p>
+</div>     
+      <div class="post-related-products">
+   <h3>Productos</h3>
+   <div id="post-related-products" class="post-related-content">
+                <script type="text/javascript">
+        $(function()
+        {
+          WSL2.config.imageUrl = "http://img.genbeta.com"
+          WSL2.config.Products = {}
+          WSL2.config.Products.iwishihave = {}
+          WSL2.config.Products.iwishihave.buttonOne = "ME GUSTA"
+          WSL2.config.Products.iwishihave.buttonTwo = "LO ODIO"
+
+          var product = new AML.Products.Model.Product({"id":"23570","nicename":"android","name":"Android","photo_post_id":"56933","users_votes_sum":"664","users_votes_count":"78","ihave_count":"101","iwish_count":"13","category_nicename":"sistemas-operativos","cat_id":"428","category_type":"1","adspot_price":"0"}, {"pageUrlPrefix":"productos"});
+          AML.productView = new AML.Products.View.ProductView({model:product, userModel: WSL2.User});
+        });
+      </script>
+        </div>
+  <p class="post-related-more">
+    <a href="/productos/sistemas-operativos/android" title="Ver más productos relacionados">
+      Ver más productos <span class="arrow">»</span>
+    </a>
+  </p>
+ </div>
+<!-- .post-related-products -->
+     <div class="post-related-qa">
+    <h3>Respuestas</h3>
+        <div class="post-related-content">
+            <ul>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>7</strong>
+                    </div>
+                    <a href="/respuestas/windows-xp-ese-muerto-vivente-ayuda">Windows XP, ese muerto vivente... Ayuda!</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2014-02-03T14:24:59Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>7</strong>
+                    </div>
+                    <a href="/respuestas/que-os-parecen-las-mejoras-introducidas-en-android-4-4">¿Qué os parecen las mejoras introducidas en Android 4.4?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2013-11-07T01:43:55Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>7</strong>
+                    </div>
+                    <a href="/respuestas/hacer-mi-app-android-la-unica-usable-en-el-dispositivo">Hacer mi app(android) la unica usable en el dispositivo?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2013-10-26T13:32:09Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number hot-topic">
+                        <strong>35</strong>
+                    </div>
+                    <a href="/respuestas/por-que-creeis-que-se-vende-mas-android-pero-se-navega-mas-con-ios">¿Por qué creéis que se vende más Android pero se navega más con iOS?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2013-10-23T23:12:55Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number hot-topic">
+                        <strong>35</strong>
+                    </div>
+                    <a href="/respuestas/por-que-creeis-que-se-vende-mas-android-pero-se-navega-mas-con-ios">¿Por qué creéis que se vende más Android pero se navega más con iOS?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2013-10-23T23:12:55Z"></abbr>
+                    </span>            
+                </li>
+                        </ul>
+        </div>
+        <!-- .post-related-content -->
+        <p class="post-related-more">
+            <a href="/respuestas" title="Ver más respuestas relacionados">
+                Ver más respuestas
+                <span class="arrow">»</span>
+            </a>
+        </p>
+</div>
+
+<script type="text/javascript">
+   $(function(){
+      $("abbr.timeago").timeago();
+   });
+</script>
+     </div>
+
+
+  <!-- Comments Section -->
+        <a id="to-comments"></a>
+  <div id="comments" class="section section-comments">
+            <div class="standalone-message">
+            <div class="message aviso"><h3>Los comentarios se han cerrado</h3></div>
+        </div>
+        <!-- #comment-write -->
+            <div id="ad-center2" class="ad ad-segundo-escaparate">
+  <a class="ad-contact" id="div-gpt-cen2-contact" style='display:none'
+  href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-cen2' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen2");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+    <div id="comments-header" class="header-section">
+      <div class="comment-order">
+    	<h3>Ordenar por:</h3>
+      </div>
+      <!-- #comment-order -->
+          	<h2>
+              50 comentarios
+            </h2>
+    </div>
+    <div id="top-section-settings"></div>
+    <ul class="comment-list"></ul>
+        <div class="nav"></div>
+    <div id="bottom-section-settings"></div>
+  </div>
+    <script type="text/javascript">
+      $(function()
+      {
+        var commentList = new AML.Comments.Model.CommentList({},{postId:60163});
+        commentList.resetParsed({"comments":[{"id":"330025","post_id":"60163","date":1297722711,"content_filtered":"<p>Yo he manejado los dos OS y me he quedado con iOS.\nRazones:<\/p>\n\n<p>*Todas las apps que encuentro en la applestore son TOTALMENTE compatibles con mi dispositivo (con android no funcionaban algunas con mi HTC Magic)<\/p>\n\n<p>*Un Market actualizado, eficaz y organizado (Android's market no tiene muchas clasificaciones por lo tanto es un desorden)<\/p>\n\n<p>*iPhone mucho mas veloz que mi HTC. Haciendo una comparativa entre ambos <a href=\"http:\/\/www.gsmarena.com\/compare.php3?idPhone1=2714&amp;idPhone2=2826\" rel=\"nofollow\">http:\/\/www.gsmarena.com\/compare.php3?idPhone1=2714&amp;idPhone2=2826<\/a> vemos que en hardware andan muy similares, sin embargo el rendimiento con iOS 4.1 vrs Froyo 2.2 es bastante notable, inclinando la balanza totalmente a iPhone. Esto obviamente porque Apple tiene un sistema totalmente optimizado a su hardware.<\/p>\n\n<p>* Personalizaci\u00f3n: aunque para muchos iOS es un sistema demasiado cerrado en este \u00e1mbito yo creo que si lo quieres personalizar para eso tienes el Jailbrake y Cydia, cr\u00e9anme que hay cientos de temas, lockscreen, springboards, etc. En Android pasa igual, mi magic no era muy personalizable, solamente si le instalaba una ROM CUSTOM que viene siendo similar a un Jailbrake (Por los conocimientos tecnicos que hay que tener para realizar ambos).<\/p>\n\n<p>*Dise\u00f1o: aunque tal vez muchos no sea relevante este aspecto, creo que la mayor parte de iPhones se venden por su dise\u00f1o. Y es que comparando estos dos dispositivos, realmente el iPhone tiene su belleza en lo simple.<\/p>\n\n<p>Creo que esos son los aspectos mas relevantes en esta comparativa, sin embargo aun extra\u00f1o algunas cosas de Froyo, como por ejemplo la sync de sistema con Gmail, tener todos los contactos ordenados con # de tel\u00e9fono AUTOMATICAMENTE es algo inigualable. Asi como la radio, la cantidad de apps gratuitas y las apps exclusivas de google (que applestore ya va implementando).<\/p>\n\n<p>Saludos Genbeteros<\/p>","content":"<p>Yo he manejado los dos OS y me he quedado con iOS.\nRazones:<\/p>\n\n<p>*Todas las apps que encuentro en la applestore son TOTALMENTE compatibles con mi dispositivo (con android no funcionaban algunas con mi HTC Magic)<\/p>\n\n<p>*Un Market actualizado, eficaz y organizado (Android's market no tiene muchas clasificaciones por lo tanto es un desorden)<\/p>\n\n<p>*iPhone mucho mas veloz que mi HTC. Haciendo una comparativa entre ambos <a href=\"http:\/\/www.gsmarena.com\/compare.php3?idPhone1=2714&amp;idPhone2=2826\" rel=\"nofollow\">http:\/\/www.gsmarena.com\/compare.php3?idPhone1=2714&amp;idPhone2=2826<\/a> vemos que en hardware andan muy similares, sin embargo el rendimiento con iOS 4.1 vrs Froyo 2.2 es bastante notable, inclinando la balanza totalmente a iPhone. Esto obviamente porque Apple tiene un sistema totalmente optimizado a su hardware.<\/p>\n\n<p>* Personalizaci\u00f3n: aunque para muchos iOS es un sistema demasiado cerrado en este \u00e1mbito yo creo que si lo quieres personalizar para eso tienes el Jailbrake y Cydia, cr\u00e9anme que hay cientos de temas, lockscreen, springboards, etc. En Android pasa igual, mi magic no era muy personalizable, solamente si le instalaba una ROM CUSTOM que viene siendo similar a un Jailbrake (Por los conocimientos tecnicos que hay que tener para realizar ambos).<\/p>\n\n<p>*Dise\u00f1o: aunque tal vez muchos no sea relevante este aspecto, creo que la mayor parte de iPhones se venden por su dise\u00f1o. Y es que comparando estos dos dispositivos, realmente el iPhone tiene su belleza en lo simple.<\/p>\n\n<p>Creo que esos son los aspectos mas relevantes en esta comparativa, sin embargo aun extra\u00f1o algunas cosas de Froyo, como por ejemplo la sync de sistema con Gmail, tener todos los contactos ordenados con # de tel\u00e9fono AUTOMATICAMENTE es algo inigualable. Asi como la radio, la cantidad de apps gratuitas y las apps exclusivas de google (que applestore ya va implementando).<\/p>\n\n<p>Saludos Genbeteros<\/p>","karma":"87.50","parent":"0","comment_edited_date":"","vote_count":"8","comment_level":2,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"64518","user_id":"39277","author":"","webpage":null,"user_name":"selvanegra","karma_level":"27.00","iseditor":"0","global_id":"200010","facebook_uid":"783618059","index":8,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/783618059\/picture"},{"id":"330041","post_id":"60163","date":1297729378,"content_filtered":"<p>Siempre con lo mismo, que si las apps de iPhone funcionan perfectamente mientras que en Android no.\n\u00bfPues sabes qu\u00e9? Intenta instalar Layar por poner un ejemplo, en un iPhone 3G \u00bfc\u00f3mo?\u00bfno funciona? \u00a1No puede ser!<\/p>\n\n<p>Las apps de iPhone funcionan perfectamente en iPhones actuales y las de Android funcionan perfectamente en Androids actuales. Pero no me compares un iPhone 3GS con un HTC Magic, hombre de dios.<\/p>","content":"<p>Siempre con lo mismo, que si las apps de iPhone funcionan perfectamente mientras que en Android no.\n\u00bfPues sabes qu\u00e9? Intenta instalar Layar por poner un ejemplo, en un iPhone 3G \u00bfc\u00f3mo?\u00bfno funciona? \u00a1No puede ser!<\/p>\n\n<p>Las apps de iPhone funcionan perfectamente en iPhones actuales y las de Android funcionan perfectamente en Androids actuales. Pero no me compares un iPhone 3GS con un HTC Magic, hombre de dios.<\/p>","karma":"33.00","parent":"330025","comment_edited_date":"","vote_count":"4","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"58888","user_id":"58888","author":"","webpage":null,"user_name":"davidru851","karma_level":"22.00","iseditor":"0","global_id":"269081","facebook_uid":"100000180841574","index":21,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100000180841574\/picture"},{"id":"330047","post_id":"60163","date":1297736250,"content_filtered":"<p>HTC Magic: Mayo de 2009.<\/p>\n\n<p>iPhone 3GS: Junio de 2009.<\/p>","content":"<p>HTC Magic: Mayo de 2009.<\/p>\n\n<p>iPhone 3GS: Junio de 2009.<\/p>","karma":"15.50","parent":"330041","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"cancamo","user_id":"43065","author":"","webpage":null,"user_name":"cancamo","karma_level":"25.00","iseditor":"0","global_id":"158659","facebook_uid":null,"index":27,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/158659_1.png"},{"id":"330060","post_id":"60163","date":1297759260,"content_filtered":"<p>La HTC Magic no dejo de ser la versi\u00f3n t\u00e1ctil del HTC G1, que sali\u00f3 en Octubre del 2008.<\/p>\n\n<p>Con lo que se esta comparando hardware de Octubre del 2008 con uno de Junio del 2009, 8 meses de diferencia.<\/p>\n\n<p>Por diferencia de tiempo lo m\u00e1s correcto ser\u00eda compararlo con el iPhone 3G que sali\u00f3 en Julio del 2008, 3 meses antes que el HTC G1...<\/p>","content":"La HTC Magic no dejo de ser la versi\u00f3n t\u00e1ctil del HTC G1, que sali\u00f3 en Octubre del 2008.\n\nCon lo que se esta comparando hardware de Octubre del 2008 con uno de Junio del 2009, 8 meses de diferencia.\n\nPor diferencia de tiempo lo m\u00e1s correcto ser\u00eda compararlo con el iPhone 3G que sali\u00f3 en Julio del 2008, 3 meses antes que el HTC G1...","karma":"10.00","parent":"330047","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"1","comment_author":"Escapology","user_id":"10101","author":"Escapology","webpage":null,"user_name":"escapology","karma_level":"61.00","iseditor":"0","global_id":"194037","facebook_uid":"1585042198","index":34,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/194037_1.png"},{"id":"330124","post_id":"60163","date":1297810486,"content_filtered":"<p>Por favor! eso que dices no tiene sentido, entonces comparemos el HTC G1 con un iPhone de primera generaci\u00f3n que salio en Enero del 2007... <\/p>\n\n<p>Al fin y al cabo el iPhone 1era Gen y el iPhone 3G tienen el mismo hardware excepto por el soporte 3G.<\/p>\n\n<p>Espero entiendas la analog\u00eda.<\/p>\n\n<p>Saludos!<\/p>","content":"<p>Por favor! eso que dices no tiene sentido, entonces comparemos el HTC G1 con un iPhone de primera generaci\u00f3n que salio en Enero del 2007... <\/p>\n\n<p>Al fin y al cabo el iPhone 1era Gen y el iPhone 3G tienen el mismo hardware excepto por el soporte 3G.<\/p>\n\n<p>Espero entiendas la analog\u00eda.<\/p>\n\n<p>Saludos!<\/p>","karma":"20.00","parent":"330060","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"4","comment_approved":"1","comment_author":"64518","user_id":"39277","author":"","webpage":null,"user_name":"selvanegra","karma_level":"27.00","iseditor":"0","global_id":"200010","facebook_uid":"783618059","index":51,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/783618059\/picture"},{"id":"330176","post_id":"60163","date":1297856201,"content_filtered":"<p>El primer iPhone sali\u00f3 en Junio del 2007.<\/p>\n\n<p>El primer Android sal\u00eda para competir con el iPhone 3G, y ofrecer una experiencia similar por menos dinero. Google intent\u00f3 que con el m\u00ednimo hardware hacer funcionar lo mejor posible Android. <\/p>\n\n<p>Lo que quiero decir es que la primera generaci\u00f3n de Android ven\u00eda a competir con los iPhone 3G, no con los 3GS que en ese momento faltava 8 meses para que saliesen.<\/p>","content":"<p>El primer iPhone sali\u00f3 en Junio del 2007.<\/p>\n\n<p>El primer Android sal\u00eda para competir con el iPhone 3G, y ofrecer una experiencia similar por menos dinero. Google intent\u00f3 que con el m\u00ednimo hardware hacer funcionar lo mejor posible Android. <\/p>\n\n<p>Lo que quiero decir es que la primera generaci\u00f3n de Android ven\u00eda a competir con los iPhone 3G, no con los 3GS que en ese momento faltava 8 meses para que saliesen.<\/p>","karma":"-22.50","parent":"330124","comment_edited_date":"","vote_count":"3","comment_level":4,"comment_deleted_date":"","tree_level":"5","comment_approved":"1","comment_author":"Escapology","user_id":"10101","author":"Escapology","webpage":null,"user_name":"escapology","karma_level":"61.00","iseditor":"0","global_id":"194037","facebook_uid":"1585042198","index":60,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/194037_1.png"},{"id":"330214","post_id":"60163","date":1297878457,"content_filtered":"<p>Tanto el iPhone 2G como el 3G se comen a una Magic.<\/p>\n\n<p>Te lo digo yo que tengo un 3G y una Magic.<\/p>","content":"Tanto el iPhone 2G como el 3G se comen a una Magic.\n\nTe lo digo yo que tengo un 3G y una Magic.","karma":"8.00","parent":"330060","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"4","comment_approved":"1","comment_author":"cancamo","user_id":"43065","author":"","webpage":null,"user_name":"cancamo","karma_level":"25.00","iseditor":"0","global_id":"158659","facebook_uid":null,"index":62,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/158659_1.png"},{"id":"330780","post_id":"60163","date":1298317566,"content_filtered":"<p>Sobretodo, cuando el G1\/Magic s\u00f3lo pretend\u00edan ser Google Dev Phones \u00ac\u00ac<\/p>","content":"Sobretodo, cuando el G1\/Magic s\u00f3lo pretend\u00edan ser Google Dev Phones \u00ac\u00ac","karma":"5.00","parent":"330060","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"4","comment_approved":"1","comment_author":"73643","user_id":"73643","author":"","webpage":null,"user_name":"jknvv13","karma_level":"24.00","iseditor":"0","global_id":"319016","facebook_uid":"100000446053657","index":68,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100000446053657\/picture"},{"id":"330065","post_id":"60163","date":1297762884,"content_filtered":"<p>Apuesto a que tienes la 1.6 de android, as\u00ed normal..<\/p>","content":"Apuesto a que tienes la 1.6 de android, as\u00ed normal..","karma":"8.00","parent":"330025","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"kl0x","user_id":"4915","author":"kl0x","webpage":null,"user_name":"kl0x","karma_level":"27.00","iseditor":"0","global_id":"9780","facebook_uid":null,"index":37,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/9780_1.png"},{"id":"330122","post_id":"60163","date":1297810204,"content_filtered":"<p>Lo tuve con la 1.6 y lo pase a la 2.2 hecha por T-Mobile. Y luego le instale algunas ROM custom.<\/p>\n\n<p>Saludos!<\/p>","content":"<p>Lo tuve con la 1.6 y lo pase a la 2.2 hecha por T-Mobile. Y luego le instale algunas ROM custom.<\/p>\n\n<p>Saludos!<\/p>","karma":"2.50","parent":"330065","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"64518","user_id":"39277","author":"","webpage":null,"user_name":"selvanegra","karma_level":"27.00","iseditor":"0","global_id":"200010","facebook_uid":"783618059","index":50,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/783618059\/picture"},{"id":"330149","post_id":"60163","date":1297827512,"content_filtered":"<p>Yo estoy con 2.2.1 oficial y muy bien la verdad, aunque se nota que le falta potencia al terminal, NO ME VA ANGRY BIRDS!!!<\/p>","content":"Yo estoy con 2.2.1 oficial y muy bien la verdad, aunque se nota que le falta potencia al terminal, NO ME VA ANGRY BIRDS!!!","karma":"5.00","parent":"330122","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"1","comment_author":"Manuel Garc\u00eda","user_id":"76034","author":"Manuel Garc\u00eda","webpage":null,"user_name":"brumanuel","karma_level":"25.00","iseditor":"0","global_id":"106448","facebook_uid":null,"index":56,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/106448_1.png"},{"id":"330157","post_id":"60163","date":1297845786,"content_filtered":"<p>S\u00ed, mi hermano lo tuvo y no, no vale lo que cuesta..<\/p>","content":"S\u00ed, mi hermano lo tuvo y no, no vale lo que cuesta..","karma":"8.00","parent":"330149","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"4","comment_approved":"1","comment_author":"kl0x","user_id":"4915","author":"kl0x","webpage":null,"user_name":"kl0x","karma_level":"27.00","iseditor":"0","global_id":"9780","facebook_uid":null,"index":59,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/9780_1.png"},{"id":"330027","post_id":"60163","date":1297723293,"content_filtered":"<p>No creo que sea justo comparar la velocidad de un terminal de gama alta contra otro de media, como lo es el htc magic.<\/p>","content":"No creo que sea justo comparar la velocidad de un terminal de gama alta contra otro de media, como lo es el htc magic.","karma":"5.00","parent":"330025","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"56884","user_id":"56884","author":"","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"263649","facebook_uid":"512445207","index":9,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/512445207\/picture"},{"id":"330031","post_id":"60163","date":1297724128,"content_filtered":"<p>mira los specs de cada celular, los coloque en comparativa y son muy similares:<\/p>\n\n<p>CPU\nHTC magic: 528 MHz ARM 11 processor, Adreno 130 GPU, Qualcomm MSM7200A chipset\t<\/p>\n\n<p>iPhone:600 MHz ARM Cortex A8 processor, PowerVR SGX535 GPU<\/p>\n\n<p>Memoria:\nHTC Magic: 288 MB RAM, 512 MB ROM\t<\/p>\n\n<p>iPhone: 8\/16\/32 GB storage, 256 MB RAM<\/p>\n\n<p>\nPorque uno es de gama alta y otro de gama media si tienen Hardware muy similar?<\/p>","content":"<p>mira los specs de cada celular, los coloque en comparativa y son muy similares:<\/p>\n\n<p>CPU\nHTC magic: 528 MHz ARM 11 processor, Adreno 130 GPU, Qualcomm MSM7200A chipset\t<\/p>\n\n<p>iPhone:600 MHz ARM Cortex A8 processor, PowerVR SGX535 GPU<\/p>\n\n<p>Memoria:\nHTC Magic: 288 MB RAM, 512 MB ROM\t<\/p>\n\n<p>iPhone: 8\/16\/32 GB storage, 256 MB RAM<\/p>\n\n<p>\nPorque uno es de gama alta y otro de gama media si tienen Hardware muy similar?<\/p>","karma":"30.00","parent":"330027","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"64518","user_id":"39277","author":"","webpage":null,"user_name":"selvanegra","karma_level":"27.00","iseditor":"0","global_id":"200010","facebook_uid":"783618059","index":13,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/783618059\/picture"},{"id":"330034","post_id":"60163","date":1297726373,"content_filtered":"<p>\u00bfComparas un ARM 11 con un A8? Seria como comparar salvando las distancias y por poner un ejemplo que te des cuenta un intel i5 con un intel i7. aproximadamente alrededor de 0,74 DMIPS\/mhz para el ARM11 vs mas de 2.0 DMIPS\/mhz para el cortex A8<\/p>","content":"<p>\u00bfComparas un ARM 11 con un A8? Seria como comparar salvando las distancias y por poner un ejemplo que te des cuenta un intel i5 con un intel i7. aproximadamente alrededor de 0,74 DMIPS\/mhz para el ARM11 vs mas de 2.0 DMIPS\/mhz para el cortex A8<\/p>","karma":"40.00","parent":"330031","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"1","comment_author":"Fransexy","user_id":"861","author":"Fransexy","webpage":null,"user_name":null,"karma_level":"27.00","iseditor":"0","global_id":"2702","facebook_uid":null,"index":16,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/0b773a8c055d40493ef8faef5ccaa2ed"},{"id":"330059","post_id":"60163","date":1297758975,"content_filtered":"<p>La HTC Magic \"With Google\" tienen 192MB de RAM, que son las que oficialmente tienen Android 2.2.1<\/p>","content":"<p>La HTC Magic \"With Google\" tienen 192MB de RAM, que son las que oficialmente tienen Android 2.2.1<\/p>","karma":"20.00","parent":"330031","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"1","comment_author":"Escapology","user_id":"10101","author":"Escapology","webpage":null,"user_name":"escapology","karma_level":"61.00","iseditor":"0","global_id":"194037","facebook_uid":"1585042198","index":33,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/194037_1.png"},{"id":"330778","post_id":"60163","date":1298317415,"content_filtered":"<p>Yp \u00f1p comsiderar\u00eda gama baja, lo siento, pero gama media ser\u00eda un legend, y alta un desire<\/p>","content":"Yp \u00f1p comsiderar\u00eda gama baja, lo siento, pero gama media ser\u00eda un legend, y alta un desire","karma":"5.00","parent":"330027","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"73643","user_id":"73643","author":"","webpage":null,"user_name":"jknvv13","karma_level":"24.00","iseditor":"0","global_id":"319016","facebook_uid":"100000446053657","index":66,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100000446053657\/picture"},{"id":"330030","post_id":"60163","date":1297723831,"content_filtered":"<p>en vez del dream comp\u00e1ralo con un HTC Desire HD ;)<\/p>","content":"en vez del dream comp\u00e1ralo con un HTC Desire HD ;)","karma":"5.00","parent":"330025","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"brutecarlos","user_id":"77104","author":"","webpage":null,"user_name":"brutecarlos","karma_level":"22.00","iseditor":"0","global_id":"108255","facebook_uid":null,"index":12,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/0b3f3ec4e75790a4b20e0819e5c07304"},{"id":"330032","post_id":"60163","date":1297724246,"content_filtered":"<p>Cuanto vale un Desire HD y cuanto vale un iPhone 3GS? ;)<\/p>\n\n<p>Saludos!<\/p>","content":"Cuanto vale un Desire HD y cuanto vale un iPhone 3GS? ;)\n\nSaludos!","karma":"5.00","parent":"330030","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"64518","user_id":"39277","author":"","webpage":null,"user_name":"selvanegra","karma_level":"27.00","iseditor":"0","global_id":"200010","facebook_uid":"783618059","index":14,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/783618059\/picture"},{"id":"330042","post_id":"60163","date":1297729642,"content_filtered":"<p>Entonces comp\u00e1ralo con Galaxy S que vale lo mismo libre que un 3GS (unos 500 Euros). El Galaxy S en versi\u00f3n 2.2 se lo merienda:<\/p>\n\n<p>- Mejor pantalla por resoluci\u00f3n, contraste y brillo<\/p>\n\n<p>- Mejor c\u00e1mara\n- 3 botones que facilitan mucho la multitarea y los accesos r\u00e1pidos a menus<\/p>\n\n<p>- En software tambi\u00e9n le gana el Galaxy, la velocidad y estabilidad de Froyo se nota y mucho, adem\u00e1s de que poder usar widgets es comod\u00edsimo.<\/p>\n\n<p>Yo tengo el Galaxy S completamente personalizado y va muy fluido, antes ten\u00eda un iPhone 3G y he tenido un iPod Touch 4Gen, un buen terminal con Android es superior a cualquiera con iOS.<\/p>","content":"<p>Entonces comp\u00e1ralo con Galaxy S que vale lo mismo libre que un 3GS (unos 500 Euros). El Galaxy S en versi\u00f3n 2.2 se lo merienda:<\/p>\n\n<p>- Mejor pantalla por resoluci\u00f3n, contraste y brillo<\/p>\n\n<p>- Mejor c\u00e1mara\n- 3 botones que facilitan mucho la multitarea y los accesos r\u00e1pidos a menus<\/p>\n\n<p>- En software tambi\u00e9n le gana el Galaxy, la velocidad y estabilidad de Froyo se nota y mucho, adem\u00e1s de que poder usar widgets es comod\u00edsimo.<\/p>\n\n<p>Yo tengo el Galaxy S completamente personalizado y va muy fluido, antes ten\u00eda un iPhone 3G y he tenido un iPod Touch 4Gen, un buen terminal con Android es superior a cualquiera con iOS.<\/p>","karma":"30.00","parent":"330032","comment_edited_date":1297729707,"vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"1","comment_author":"and34","user_id":"15266","author":"","webpage":"http:\/\/cwalkers.es","user_name":"and34","karma_level":"25.00","iseditor":"0","global_id":"122633","facebook_uid":null,"index":22,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/122633_1.png"},{"id":"330148","post_id":"60163","date":1297827370,"content_filtered":"<p>Yo creo, que el Galaxy S abr\u00eda que compararlo mas con un Iphone 4 por sus caracter\u00edsticas, es tonteria comparar un movil con 600 MHZ y otro con un 1GZ y cuando el Iphone 3gs nacio un a\u00f1o antes que el Galaxy S<\/p>","content":"Yo creo, que el Galaxy S abr\u00eda que compararlo mas con un Iphone 4 por sus caracter\u00edsticas, es tonteria comparar un movil con 600 MHZ y otro con un 1GZ y cuando el Iphone 3gs nacio un a\u00f1o antes que el Galaxy S","karma":"5.00","parent":"330042","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"4","comment_approved":"1","comment_author":"Manuel Garc\u00eda","user_id":"76034","author":"Manuel Garc\u00eda","webpage":null,"user_name":"brumanuel","karma_level":"25.00","iseditor":"0","global_id":"106448","facebook_uid":null,"index":55,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/106448_1.png"},{"id":"330779","post_id":"60163","date":1298317509,"content_filtered":"<p>Vale, compara un Galaxy S a 600 mhz con SetCPU\no ponle un legend\nya se que el legend es ARMv6 y el iPhone v7, pero en hardware general le gana el legend\npantalla led, 5 mpx + flash, etc...<\/p>","content":"Vale, compara un Galaxy S a 600 mhz con SetCPU\no ponle un legend\nya se que el legend es ARMv6 y el iPhone v7, pero en hardware general le gana el legend\npantalla led, 5 mpx + flash, etc...","karma":"5.00","parent":"330148","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"5","comment_approved":"1","comment_author":"73643","user_id":"73643","author":"","webpage":null,"user_name":"jknvv13","karma_level":"24.00","iseditor":"0","global_id":"319016","facebook_uid":"100000446053657","index":67,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100000446053657\/picture"},{"id":"330115","post_id":"60163","date":1297805863,"content_filtered":"<p>Hay unos cuantos puntos en los que creo cometes un error:\nCuando dices que el market esta mal organizado, pudedes solucionarlo bajando una aplicaci\u00f3n, como por ejemplo appbrain.\nCuando comparas la velocidad lo haces en dos terminales con caracter\u00edstcas muy diferentes.\nPones como otro punto la personlizaci\u00f3n y despues dices que los dos son iguales, no entiendo...\nY la estetica..el t\u00f3pico era sobre SO y adem\u00e1s est\u00e1s comparando el iphone con UN mobil con android.\nLo de la compatibilidad de las apps, creo que es un error que se va solicionando de a poco pero existe, en ese tienes raz\u00f3n.<\/p>","content":"Hay unos cuantos puntos en los que creo cometes un error:\nCuando dices que el market esta mal organizado, pudedes solucionarlo bajando una aplicaci\u00f3n, como por ejemplo appbrain.\nCuando comparas la velocidad lo haces en dos terminales con caracter\u00edstcas muy diferentes.\nPones como otro punto la personlizaci\u00f3n y despues dices que los dos son iguales, no entiendo...\nY la estetica..el t\u00f3pico era sobre SO y adem\u00e1s est\u00e1s comparando el iphone con UN mobil con android.\nLo de la compatibilidad de las apps, creo que es un error que se va solicionando de a poco pero existe, en ese tienes raz\u00f3n.","karma":"5.00","parent":"330025","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"77174","user_id":"77174","author":"","webpage":null,"user_name":"juanlmartinez","karma_level":"22.00","iseditor":"0","global_id":"331550","facebook_uid":"1131075640","index":48,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1131075640\/picture"},{"id":"330120","post_id":"60163","date":1297810126,"content_filtered":"<p>El market esta mal organizado, entiendo lo de la aplicaci\u00f3n que dices, pero de primera mano lo que haces es darte una vuelta en el market, con un OS nuevo para ti, y no encuentras nada, simplemente porque esta desordenado... Conforme va uno adentr\u00e1ndose al mundo android va viendo esos \"tips\" para hacer las cosas mejor, pero no de primera entrada.<\/p>\n\n<p>Lo de la velocidad es real porque yo lo comprob\u00e9, ya tuve los dos dispositivos, no son terminales tan diferentes en su hardware, arriba esta la comparaci\u00f3n.<\/p>\n\n<p>Con respecto al dise\u00f1o, es discutible como dije, pero de antemano estoy comparando esos dos terminales, por eso saque a relucir el dise\u00f1o. Pero si hay muchos HTC hermosos. XD<\/p>\n\n<p>Saludos!<\/p>","content":"El market esta mal organizado, entiendo lo de la aplicaci\u00f3n que dices, pero de primera mano lo que haces es darte una vuelta en el market, con un OS nuevo para ti, y no encuentras nada, simplemente porque esta desordenado... Conforme va uno adentr\u00e1ndose al mundo android va viendo esos \"tips\" para hacer las cosas mejor, pero no de primera entrada.\n\nLo de la velocidad es real porque yo lo comprob\u00e9, ya tuve los dos dispositivos, no son terminales tan diferentes en su hardware, arriba esta la comparaci\u00f3n.\n\nCon respecto al dise\u00f1o, es discutible como dije, pero de antemano estoy comparando esos dos terminales, por eso saque a relucir el dise\u00f1o. Pero si hay muchos HTC hermosos. XD\n\nSaludos!","karma":"5.00","parent":"330115","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"64518","user_id":"39277","author":"","webpage":null,"user_name":"selvanegra","karma_level":"27.00","iseditor":"0","global_id":"200010","facebook_uid":"783618059","index":49,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/783618059\/picture"},{"id":"330023","post_id":"60163","date":1297722043,"content_filtered":"<p>Todo el mundo dir\u00e1 blutooth y sin embargo para mi ni fu ni fa. Ni una sola vez lo he echado en falta. Ni una.\nHecho en falta algunos widgets. Creo que lo ideal ser\u00eda poder ponerlos en la pantalla de bloqueo, y que a su vez esa pantalla tuviese escritorios.\n<br \/>\nEl flash tampoco lo he echado nunca de menos, pero reconozco que vendr\u00eda bien poder tenerlo.\n<br \/>\nEn android hecho en falta la potencia. El hecho de que todo funcione en maquina virtual hace todo menos fluido que programado en objetive C.<\/p>","content":"<p>Todo el mundo dir\u00e1 blutooth y sin embargo para mi ni fu ni fa. Ni una sola vez lo he echado en falta. Ni una.\nHecho en falta algunos widgets. Creo que lo ideal ser\u00eda poder ponerlos en la pantalla de bloqueo, y que a su vez esa pantalla tuviese escritorios.\n<br \/>\nEl flash tampoco lo he echado nunca de menos, pero reconozco que vendr\u00eda bien poder tenerlo.\n<br \/>\nEn android hecho en falta la potencia. El hecho de que todo funcione en maquina virtual hace todo menos fluido que programado en objetive C.<\/p>","karma":"82.50","parent":"0","comment_edited_date":"","vote_count":"9","comment_level":2,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"cibernox","user_id":"6683","author":"cibernox","webpage":null,"user_name":"cibernox","karma_level":"27.00","iseditor":"0","global_id":"9956","facebook_uid":null,"index":6,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/9956_1.png"},{"id":"330777","post_id":"60163","date":1298317370,"content_filtered":"<p>FAIL\nHas probado un Android?\nXD\nSi hay 60000 dispositivos, y 50000 superan a iOS en velocidad \u00ac\u00ac\nA ver, tambien en Firefox 4 y en Chrome cada pesta\u00f1a es una m\u00e1quina virtual, y??\nTE PARECE CHROME LENTO?\nxD<\/p>","content":"FAIL\nHas probado un Android?\nXD\nSi hay 60000 dispositivos, y 50000 superan a iOS en velocidad \u00ac\u00ac\nA ver, tambien en Firefox 4 y en Chrome cada pesta\u00f1a es una m\u00e1quina virtual, y??\nTE PARECE CHROME LENTO?\nxD","karma":"5.00","parent":"330023","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"73643","user_id":"73643","author":"","webpage":null,"user_name":"jknvv13","karma_level":"24.00","iseditor":"0","global_id":"319016","facebook_uid":"100000446053657","index":65,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100000446053657\/picture"},{"id":"330046","post_id":"60163","date":1297734833,"content_filtered":"<p>El 80% de las personas que se quejan de la fragmentaci\u00f3n no tiene Android, simplemente se basa en lo que leen a diario en los blogs, el 20% restante tienen sus motivos, por un lado tenemos los smartphone que se han ido convirtiendo en gama baja\/media, estos no los podemos salvar oficialmente ya que no dan mas de si, pero extraoficialmente puedes seguir estando a la \u00faltima, he ah\u00ed una de las ventanas de Android. <\/p>\n\n<p>Por otro lado tenemos el resto de smartphones que no han sido actualizados por ning\u00fan motivo en concreto, el responsable principal de ello son las marcas y no a Android, he ah\u00ed la importancia de elegir una buena marca, aunque no siempre sea as\u00ed.<\/p>\n\n<p>El problema que ha habido con la \"fragmentacion\" ha sido que Android se encontraba en un proceso emergente y hasta que no ha asentado la cabeza no se ha estabilizado la cosa, pero lo peor parece que ya ha pasado, ahora les toca a las marcas portarse bien con los usuarios.<\/p>\n\n<p>Sigo insistiendo en que aunque oficialmente no actualicen vuestro m\u00f3vil pod\u00e9is buscar otras v\u00edas las cuales os servir\u00e1n para seguir estando actualizados... Lo digo a modo de ayuda, no pretendo escusar el problema que coment\u00e9 anteriormente.<\/p>\n\n<p>No tengo nada en contra de iPhone, es m\u00e1s reconozco que es un sistema totalmente c\u00f3modo e intuitivo, pero tambi\u00e9n he de decir que tiene que innovar, la gente se esta dando cuenta de que hay muy buenas alternativas y tienen que hacer algo al respecto. <\/p>\n\n<p>\u00bfQuejas? Solo una, su pol\u00edtica tan cerrada...<\/p>\n\n<p>Sobre Android.. le ha costado pero creo que lo est\u00e1 consiguiendo, debe mejorar su estabilidad y seguir innovando, que es lo que mejor se les da. No se que m\u00e1s puedo decir ya que pr\u00e1cticamente con android uno puede hacer lo que le plazca, en cambio con un iPhone no se podr\u00eda hacer ni la mitad de la mitad...<\/p>\n\n<p>\u00bfHas visto que r\u00e1pido va mi ifone?\n\u00a1Co\u00f1*! \u00bfQu\u00e9 esperabas? \u00a1Si a lo m\u00e1s que aspira tu interfaz es a alinear los iconos de las aplicaciones!<\/p>\n\n<p>\u00bfPuedes conectar el ifone al ordenador y pasarme los documentos?\nNo... es que eso yo no lo utilizo..<\/p>\n\n<p>No... si a mi el iTunes me encata.\n\u00a1Leches! \u00a1Si es que no te queda otra que apretar los dientes y trag\u00e1rtelo!<\/p>\n\n<p>\u00bfQu\u00e9 interfaz\/teclado\/navegador\/lockscreen\/theme\/recovery\/(rom\/radio\/kernel)?\/gestor de contactos\/sms\/marcadores\/reproductor\/correo..... utilizas?\nuhh? estas hablando conmigo?<\/p>\n\n<p>Espero que nadie se lo haya tomado a mal, solo quer\u00eda levantar \u00a1algunas sonrisas!<\/p>\n\n<p>Saludos<\/p>\n\n<p>PD: Por si a\u00fan os lo preguntabais: S\u00cd, uso Android xd<\/p>","content":"<p>El 80% de las personas que se quejan de la fragmentaci\u00f3n no tiene Android, simplemente se basa en lo que leen a diario en los blogs, el 20% restante tienen sus motivos, por un lado tenemos los smartphone que se han ido convirtiendo en gama baja\/media, estos no los podemos salvar oficialmente ya que no dan mas de si, pero extraoficialmente puedes seguir estando a la \u00faltima, he ah\u00ed una de las ventanas de Android. <\/p>\n\n<p>Por otro lado tenemos el resto de smartphones que no han sido actualizados por ning\u00fan motivo en concreto, el responsable principal de ello son las marcas y no a Android, he ah\u00ed la importancia de elegir una buena marca, aunque no siempre sea as\u00ed.<\/p>\n\n<p>El problema que ha habido con la \"fragmentacion\" ha sido que Android se encontraba en un proceso emergente y hasta que no ha asentado la cabeza no se ha estabilizado la cosa, pero lo peor parece que ya ha pasado, ahora les toca a las marcas portarse bien con los usuarios.<\/p>\n\n<p>Sigo insistiendo en que aunque oficialmente no actualicen vuestro m\u00f3vil pod\u00e9is buscar otras v\u00edas las cuales os servir\u00e1n para seguir estando actualizados... Lo digo a modo de ayuda, no pretendo escusar el problema que coment\u00e9 anteriormente.<\/p>\n\n<p>No tengo nada en contra de iPhone, es m\u00e1s reconozco que es un sistema totalmente c\u00f3modo e intuitivo, pero tambi\u00e9n he de decir que tiene que innovar, la gente se esta dando cuenta de que hay muy buenas alternativas y tienen que hacer algo al respecto. <\/p>\n\n<p>\u00bfQuejas? Solo una, su pol\u00edtica tan cerrada...<\/p>\n\n<p>Sobre Android.. le ha costado pero creo que lo est\u00e1 consiguiendo, debe mejorar su estabilidad y seguir innovando, que es lo que mejor se les da. No se que m\u00e1s puedo decir ya que pr\u00e1cticamente con android uno puede hacer lo que le plazca, en cambio con un iPhone no se podr\u00eda hacer ni la mitad de la mitad...<\/p>\n\n<p>\u00bfHas visto que r\u00e1pido va mi ifone?\n\u00a1Co\u00f1*! \u00bfQu\u00e9 esperabas? \u00a1Si a lo m\u00e1s que aspira tu interfaz es a alinear los iconos de las aplicaciones!<\/p>\n\n<p>\u00bfPuedes conectar el ifone al ordenador y pasarme los documentos?\nNo... es que eso yo no lo utilizo..<\/p>\n\n<p>No... si a mi el iTunes me encata.\n\u00a1Leches! \u00a1Si es que no te queda otra que apretar los dientes y trag\u00e1rtelo!<\/p>\n\n<p>\u00bfQu\u00e9 interfaz\/teclado\/navegador\/lockscreen\/theme\/recovery\/(rom\/radio\/kernel)?\/gestor de contactos\/sms\/marcadores\/reproductor\/correo..... utilizas?\nuhh? estas hablando conmigo?<\/p>\n\n<p>Espero que nadie se lo haya tomado a mal, solo quer\u00eda levantar \u00a1algunas sonrisas!<\/p>\n\n<p>Saludos<\/p>\n\n<p>PD: Por si a\u00fan os lo preguntabais: S\u00cd, uso Android xd<\/p>","karma":"77.50","parent":"0","comment_edited_date":"","vote_count":"13","comment_level":2,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"55829","user_id":"55829","author":"","webpage":"http:\/\/www.yeikos.com","user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"259689","facebook_uid":"100000524704708","index":26,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100000524704708\/picture"},{"id":"330018","post_id":"60163","date":1297719363,"content_filtered":"<p>\u00bfEn pocas palabras? LIBERTAD para ios,\nviceversa estabilidad pero no creo que el sistema de google peque de falta de ella.<\/p>","content":"<p>\u00bfEn pocas palabras? LIBERTAD para ios,\nviceversa estabilidad pero no creo que el sistema de google peque de falta de ella.<\/p>","karma":"55.00","parent":"0","comment_edited_date":"","vote_count":"3","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"77095","user_id":"77095","author":"","webpage":null,"user_name":"gertorro","karma_level":"22.00","iseditor":"0","global_id":"302167","facebook_uid":"1515264788","index":2,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1515264788\/picture"},{"id":"330104","post_id":"60163","date":1297791416,"content_filtered":"<p>Sobre todo libertad para elegir si quiero Flash Player en mi dispositivo, que es lo que m\u00e1s hecho en falta en iOsS.<\/p>","content":"<p>Sobre todo libertad para elegir si quiero Flash Player en mi dispositivo, que es lo que m\u00e1s hecho en falta en iOsS.<\/p>","karma":"5.50","parent":"330018","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"al4cran","user_id":"95","author":"al4cran","webpage":null,"user_name":"al4cran","karma_level":"22.00","iseditor":"0","global_id":"3019","facebook_uid":null,"index":47,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/3ec70f030933fa81b7ae444a3c3eab14"},{"id":"330050","post_id":"60163","date":1297740897,"content_filtered":"<p><\/p>\n\n<p><\/p>\n\n<p>Creo que aqu\u00ed la gente habla por hablar, me explico:<\/p>\n\n<p><\/p>\n\n<p><\/p><p>\u00bfQuejas? Solo una, su pol\u00edtica tan cerrada...??? ---&gt; Precisamente es el don de iPhone que si no sabes ni papa y solo juegas y llamas NO PUEDES TOCAR NADA RARO (raro me refiero a opciones que el 90% de los usuarios no necesitan) , y si eres de ese 10% lo PUEDES HACER TODO! existen cosas EXTRAOFICIALES , como las roms esas m\u00e1gicas que hacen de un cacharro un medio cacharro.<\/p>\n\n<p><\/p>\n\n<p><\/p><p>\u00bfHas visto que r\u00e1pido va mi ifone? \u00a1Co\u00f1*! \u00bfQu\u00e9 esperabas? \u00a1Si a lo m\u00e1s que aspira tu interfaz es a alinear los iconos de las aplicaciones! \u00a0---&gt; que haces tu con tu Android? dame un ejemplo en el que yo con mi iPhone 4 no puedas hacerlo? a por cierto, conoces Sandstorm 2? Infinity Blade? tengo el nexus one cada d\u00eda en la mano y nunca e visto que se le acerque a esa calidad. Y no solo los juegos, porque la multitarea de mi iPhone 4 no me falla nunca y cambia de aplicaci\u00f3n que ni te enteras. Es m\u00e1s tu en tu Android puedes cambiar entre aplicaciones abiertas?<\/p>\n\n<p><br \/><\/p>\n\n<p>\u00bfPuedes conectar el ifone al ordenador y pasarme los documentos? No... es que eso yo no lo utilizo.. ---&gt; Mira esto me viene que ni pintado, hoy e echo un examen i en menos de 10 segundos tenia en mi iphone por DropBox\/DropCopy\/iTunes\/iPhoneView\/UsbDisk\/Correo\/ iiiiiii BLUETHOOT, mis 3 pdf's necesarios!! La verdad este me parece un comentario poco acertado.<\/p>\n\n<p><br \/><\/p>\n\n<p>No... si a mi el iTunes me encata. \u00a1Leches! \u00a1Si es que no te queda otra que apretar los dientes y trag\u00e1rtelo! ---&gt; Aqu\u00ed hay un par de puntos importantes:<\/p>\n\n<p>1. M\u00e1s all\u00e1 de que te guste iTunes o no, realmente lo has usado? porque si lo configurar y pones a tu gusto, para mi(mi opini\u00f3n) es un excelente gestor de contenidos para tu iDevice, adem\u00e1s de la biblioteca de m\u00fasica, v\u00eddeos, podcast, iTunesU...y un largo etc\u00e9tera. No tiene precio tener en qualquier momento tus App en la biblioteca de iTunes, actualizarlas desde el MAC\/PC v\u00eda Wifi, borrarlas o disponerlas en las pantallas como desees.<br \/>2. Como te comentaba aqu\u00ed arriba, no solo hay la opci\u00f3n iTunes. Si eres un antisistema o simplemente no te gusta iTunes(antes de comprender que me ofrec\u00eda tambi\u00e9n lo odiaba) tienes otras v\u00edas para hacerlo mismo y quiz\u00e1s m\u00e1s r\u00e1pido.<\/p>\n\n<p><br \/><\/p>\n\n<p>\u00bfQu\u00e9 interfaz\/teclado\/navegador\/lockscreen\/theme\/recovery\/(rom\/radio\/kernel)? \/gestor de contactos\/sms\/marcadores\/reproductor\/correo..... utilizas? uhh? estas hablando conmigo? ---&gt; Vas por la calle preguntando esto? Te lo preguntan a ti? Porqu\u00e9 yo te podr\u00eda responder a todas, i dudooo muchooo que tres cuartos de la gente que usa Android sepa que Android es un SO... i sino sal a la calle y pregunta si saben que es el \"guindous\" o \"ofis\", luego vuelves y me explicas que te ha dicho la gente.<\/p>\n\n<p><br \/><\/p>\n\n<p>Mejor pantalla por resoluci\u00f3n, contraste y brillo ---&gt; de veras? a\u00fan no e encontrado nadie que me diga oye mi Galaxy se ve mejor que tu iPhone (y tengo m\u00e1s de 5 galaxys a mi alcance), en cambio e llegado a escuchar, \"oye tu iPhone se ve mejor que mi ps3 con la de 42 pulgadas\" entre muchas otras..<\/p>\n\n<p><br \/><\/p>\n\n<p>Se\u00f1ores, lo que le hace falta a IOS son unas notificaciones en condiciones, una multitarea real estilo WebOS, un gestor de archivos, y mayor integraci\u00f3n con redes sociales. ---&gt; Notificaciones en condiciones? Que eso? En Android las notificaciones son del mismo palo que las de iOS, dir\u00eda mas, las notificaciones crees que han de pasar de un simple pero elegante mensaje en tu pantalla, avisando de esto o de lo otro? no se, podr\u00edan ponerle mil efectos gr\u00e1ficos pero yo se los quitar\u00eda como fuese, no son necesarios sino al contrario. Lo de la Multitarea creo que ya ha quedado claro por aqu\u00ed arriba, un gestor de archivos? como ASTRO? creo que hay gran variedad, entre ellos iFile.. Mayor integraci\u00f3n con redes sociales? Tengo la suerte de tener muchos amigos con iPhone y poder hablar con seguridad, y te aseguro que much\u00edsima gente ni tan siquiera tiene facebook,twitter,tuenti y todas las RS que quieras. Hay otros mil millones que si, ok es verdad, pero a\u00fan as\u00ed que mas integraci\u00f3n quieres? una aplicaci\u00f3n nativa? no entiendo este punto de verdad..<\/p>\n\n<p><br \/><\/p>\n\n<p>Y ya lo que me sorprende m\u00e1s son cosas del estilo:<\/p>\n\n<p><br \/><\/p>\n\n<p>\"Yo le echo en falta a iOS ... tatatatatatattataat... aunque no tengo ning\u00fan dispositivo que lo lleve\"\u00a0\"Yo a Android no le quitar\u00eda ni pondr\u00eda nada, aunque no tengo ning\u00fan dispositivo que lo lleve\"<\/p>\n\n<p><br \/><\/p>\n\n<p>Todos estos comentarios y sin ofender a nadie no los entiendo, porque si no sabes de que hablas no hables, ya que no puedes tener una opini\u00f3n v\u00e1lida.<\/p>\n\n<p><br \/>------<br \/><\/p>\n\n<p>\"Desearia no tener tantos Force Close o random reboots al mes.\" Refiriendo a Android, yo a\u00fan no se que es un Random Reboot en mi iPhone, y eso si que me parece grave..<\/p>\n\n<p><br \/><\/p>\n\n<p>\"los widgets son importantes, pero como consumen RAM :(\" parece que nadie lo recuerda..<\/p>\n\n<p><br \/><\/p>\n\n<p>\"Todo el mundo dir\u00e1 blutooth y sin embargo para mi ni fu ni fa. Ni una sola vez lo he echado en falta. Ni una. Hecho en falta algunos widgets. Creo que lo ideal ser\u00eda poder ponerlos en la pantalla de bloqueo, y que a su vez esa pantalla tuviese escritorios.\u00a0El flash tampoco lo he echado nunca de menos, pero reconozco que vendr\u00eda bien poder tenerlo.\u00a0En android hecho en falta la potencia. El hecho de que todo funcione en maquina virtual hace todo menos fluido que programado en objetive C.\" Totalmente de acuerdo, flash si pero no me ha echo falta la verdad, bluethoot ning\u00fan problema para hacer tethering, ni pasar archivos ni nada.<\/p>\n\n<p><br \/><\/p>\n\n<p>\"Yo s\u00e9 lo que no quiero en iOS, libertad. Precisamente la falta de libertad es lo que ha llevado a Apple al lugar privilegiado en el que est\u00e1, y la excesiva libertad es lo que ha llevado a Android a donde est\u00e1, en un punto indefinido en el gran mar de dispositivos que lo usan de forma que ni ellos se aclaran en qu\u00e9 versiones est\u00e1n trabajando.\" Am\u00e9n<\/p>\n\n<p><br \/><br \/>Y si uso <strong>iPhone!<\/strong> Y si Android tambi\u00e9n me parece un muy buen SO<\/p>","content":"<p><\/p>\n\n<p><\/p>\n\n<p>Creo que aqu\u00ed la gente habla por hablar, me explico:<\/p>\n\n<p><\/p>\n\n<p><\/p><p>\u00bfQuejas? Solo una, su pol\u00edtica tan cerrada...??? ---&gt; Precisamente es el don de iPhone que si no sabes ni papa y solo juegas y llamas NO PUEDES TOCAR NADA RARO (raro me refiero a opciones que el 90% de los usuarios no necesitan) , y si eres de ese 10% lo PUEDES HACER TODO! existen cosas EXTRAOFICIALES , como las roms esas m\u00e1gicas que hacen de un cacharro un medio cacharro.<\/p>\n\n<p><\/p>\n\n<p><\/p><p>\u00bfHas visto que r\u00e1pido va mi ifone? \u00a1Co\u00f1*! \u00bfQu\u00e9 esperabas? \u00a1Si a lo m\u00e1s que aspira tu interfaz es a alinear los iconos de las aplicaciones! \u00a0---&gt; que haces tu con tu Android? dame un ejemplo en el que yo con mi iPhone 4 no puedas hacerlo? a por cierto, conoces Sandstorm 2? Infinity Blade? tengo el nexus one cada d\u00eda en la mano y nunca e visto que se le acerque a esa calidad. Y no solo los juegos, porque la multitarea de mi iPhone 4 no me falla nunca y cambia de aplicaci\u00f3n que ni te enteras. Es m\u00e1s tu en tu Android puedes cambiar entre aplicaciones abiertas?<\/p>\n\n<p><br \/><\/p>\n\n<p>\u00bfPuedes conectar el ifone al ordenador y pasarme los documentos? No... es que eso yo no lo utilizo.. ---&gt; Mira esto me viene que ni pintado, hoy e echo un examen i en menos de 10 segundos tenia en mi iphone por DropBox\/DropCopy\/iTunes\/iPhoneView\/UsbDisk\/Correo\/ iiiiiii BLUETHOOT, mis 3 pdf's necesarios!! La verdad este me parece un comentario poco acertado.<\/p>\n\n<p><br \/><\/p>\n\n<p>No... si a mi el iTunes me encata. \u00a1Leches! \u00a1Si es que no te queda otra que apretar los dientes y trag\u00e1rtelo! ---&gt; Aqu\u00ed hay un par de puntos importantes:<\/p>\n\n<p>1. M\u00e1s all\u00e1 de que te guste iTunes o no, realmente lo has usado? porque si lo configurar y pones a tu gusto, para mi(mi opini\u00f3n) es un excelente gestor de contenidos para tu iDevice, adem\u00e1s de la biblioteca de m\u00fasica, v\u00eddeos, podcast, iTunesU...y un largo etc\u00e9tera. No tiene precio tener en qualquier momento tus App en la biblioteca de iTunes, actualizarlas desde el MAC\/PC v\u00eda Wifi, borrarlas o disponerlas en las pantallas como desees.<br \/>2. Como te comentaba aqu\u00ed arriba, no solo hay la opci\u00f3n iTunes. Si eres un antisistema o simplemente no te gusta iTunes(antes de comprender que me ofrec\u00eda tambi\u00e9n lo odiaba) tienes otras v\u00edas para hacerlo mismo y quiz\u00e1s m\u00e1s r\u00e1pido.<\/p>\n\n<p><br \/><\/p>\n\n<p>\u00bfQu\u00e9 interfaz\/teclado\/navegador\/lockscreen\/theme\/recovery\/(rom\/radio\/kernel)? \/gestor de contactos\/sms\/marcadores\/reproductor\/correo..... utilizas? uhh? estas hablando conmigo? ---&gt; Vas por la calle preguntando esto? Te lo preguntan a ti? Porqu\u00e9 yo te podr\u00eda responder a todas, i dudooo muchooo que tres cuartos de la gente que usa Android sepa que Android es un SO... i sino sal a la calle y pregunta si saben que es el \"guindous\" o \"ofis\", luego vuelves y me explicas que te ha dicho la gente.<\/p>\n\n<p><br \/><\/p>\n\n<p>Mejor pantalla por resoluci\u00f3n, contraste y brillo ---&gt; de veras? a\u00fan no e encontrado nadie que me diga oye mi Galaxy se ve mejor que tu iPhone (y tengo m\u00e1s de 5 galaxys a mi alcance), en cambio e llegado a escuchar, \"oye tu iPhone se ve mejor que mi ps3 con la de 42 pulgadas\" entre muchas otras..<\/p>\n\n<p><br \/><\/p>\n\n<p>Se\u00f1ores, lo que le hace falta a IOS son unas notificaciones en condiciones, una multitarea real estilo WebOS, un gestor de archivos, y mayor integraci\u00f3n con redes sociales. ---&gt; Notificaciones en condiciones? Que eso? En Android las notificaciones son del mismo palo que las de iOS, dir\u00eda mas, las notificaciones crees que han de pasar de un simple pero elegante mensaje en tu pantalla, avisando de esto o de lo otro? no se, podr\u00edan ponerle mil efectos gr\u00e1ficos pero yo se los quitar\u00eda como fuese, no son necesarios sino al contrario. Lo de la Multitarea creo que ya ha quedado claro por aqu\u00ed arriba, un gestor de archivos? como ASTRO? creo que hay gran variedad, entre ellos iFile.. Mayor integraci\u00f3n con redes sociales? Tengo la suerte de tener muchos amigos con iPhone y poder hablar con seguridad, y te aseguro que much\u00edsima gente ni tan siquiera tiene facebook,twitter,tuenti y todas las RS que quieras. Hay otros mil millones que si, ok es verdad, pero a\u00fan as\u00ed que mas integraci\u00f3n quieres? una aplicaci\u00f3n nativa? no entiendo este punto de verdad..<\/p>\n\n<p><br \/><\/p>\n\n<p>Y ya lo que me sorprende m\u00e1s son cosas del estilo:<\/p>\n\n<p><br \/><\/p>\n\n<p>\"Yo le echo en falta a iOS ... tatatatatatattataat... aunque no tengo ning\u00fan dispositivo que lo lleve\"\u00a0\"Yo a Android no le quitar\u00eda ni pondr\u00eda nada, aunque no tengo ning\u00fan dispositivo que lo lleve\"<\/p>\n\n<p><br \/><\/p>\n\n<p>Todos estos comentarios y sin ofender a nadie no los entiendo, porque si no sabes de que hablas no hables, ya que no puedes tener una opini\u00f3n v\u00e1lida.<\/p>\n\n<p><br \/>------<br \/><\/p>\n\n<p>\"Desearia no tener tantos Force Close o random reboots al mes.\" Refiriendo a Android, yo a\u00fan no se que es un Random Reboot en mi iPhone, y eso si que me parece grave..<\/p>\n\n<p><br \/><\/p>\n\n<p>\"los widgets son importantes, pero como consumen RAM :(\" parece que nadie lo recuerda..<\/p>\n\n<p><br \/><\/p>\n\n<p>\"Todo el mundo dir\u00e1 blutooth y sin embargo para mi ni fu ni fa. Ni una sola vez lo he echado en falta. Ni una. Hecho en falta algunos widgets. Creo que lo ideal ser\u00eda poder ponerlos en la pantalla de bloqueo, y que a su vez esa pantalla tuviese escritorios.\u00a0El flash tampoco lo he echado nunca de menos, pero reconozco que vendr\u00eda bien poder tenerlo.\u00a0En android hecho en falta la potencia. El hecho de que todo funcione en maquina virtual hace todo menos fluido que programado en objetive C.\" Totalmente de acuerdo, flash si pero no me ha echo falta la verdad, bluethoot ning\u00fan problema para hacer tethering, ni pasar archivos ni nada.<\/p>\n\n<p><br \/><\/p>\n\n<p>\"Yo s\u00e9 lo que no quiero en iOS, libertad. Precisamente la falta de libertad es lo que ha llevado a Apple al lugar privilegiado en el que est\u00e1, y la excesiva libertad es lo que ha llevado a Android a donde est\u00e1, en un punto indefinido en el gran mar de dispositivos que lo usan de forma que ni ellos se aclaran en qu\u00e9 versiones est\u00e1n trabajando.\" Am\u00e9n<\/p>\n\n<p><br \/><br \/>Y si uso <strong>iPhone!<\/strong> Y si Android tambi\u00e9n me parece un muy buen SO<\/p>","karma":"25.00","parent":"0","comment_edited_date":1297742158,"vote_count":"4","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"62333","user_id":"62333","author":"","webpage":null,"user_name":"rafitafcb","karma_level":"22.00","iseditor":"0","global_id":"288537","facebook_uid":"1532330657","index":29,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1532330657\/picture"},{"id":"330056","post_id":"60163","date":1297753219,"content_filtered":"<p>Buen comentario pero aprende a redactar mejor,pues es un \"poco\" largo tu opini\u00f3n.<\/p>","content":"Buen comentario pero aprende a redactar mejor,pues es un \"poco\" largo tu opini\u00f3n.","karma":"8.00","parent":"330050","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Left My Dead","user_id":"46902","author":"Left My Dead","webpage":null,"user_name":"netbookero","karma_level":"27.00","iseditor":"0","global_id":"92133","facebook_uid":null,"index":31,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/92133_2.png"},{"id":"330062","post_id":"60163","date":1297761208,"content_filtered":"<p>Y no solo los juegos, porque la multitarea de mi iPhone 4 no me falla nunca y cambia de aplicaci\u00f3n que ni te enteras. Es m\u00e1s tu en tu Android puedes cambiar entre aplicaciones abiertas? ---&gt; \u00bfSabes qu\u00e9 pasa cuando dejas pulsada la tecla home m\u00e1s de dos segundos? Pues eso.<\/p>","content":"Y no solo los juegos, porque la multitarea de mi iPhone 4 no me falla nunca y cambia de aplicaci\u00f3n que ni te enteras. Es m\u00e1s tu en tu Android puedes cambiar entre aplicaciones abiertas? ---> \u00bfSabes qu\u00e9 pasa cuando dejas pulsada la tecla home m\u00e1s de dos segundos? Pues eso.","karma":"5.00","parent":"330050","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"59679","user_id":"59679","author":"","webpage":null,"user_name":"kabukisawa","karma_level":"22.00","iseditor":"0","global_id":"277134","facebook_uid":"100000333274073","index":36,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100000333274073\/picture"},{"id":"330077","post_id":"60163","date":1297775262,"content_filtered":"<p>S\u00ed, lo s\u00e9, te muestra una \"minilista\" de las aplicaciones abiertas recientemente, al estilo documentos recientes de windows. INDEPENDIENTEMENTE de que est\u00e9n o no est\u00e9n abiertas.<\/p>","content":"S\u00ed, lo s\u00e9, te muestra una \"minilista\" de las aplicaciones abiertas recientemente, al estilo documentos recientes de windows. INDEPENDIENTEMENTE de que est\u00e9n o no est\u00e9n abiertas.","karma":"5.00","parent":"330062","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"62333","user_id":"62333","author":"","webpage":null,"user_name":"rafitafcb","karma_level":"22.00","iseditor":"0","global_id":"288537","facebook_uid":"1532330657","index":40,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1532330657\/picture"},{"id":"330098","post_id":"60163","date":1297790133,"content_filtered":"<p>Pues mucho mejor \u00bfno? si est\u00e1 en segundo plano la traes al frente y si no te la abre \u00bfpara qu\u00e9 tener solo una de aplicaciones abiertas si con esta haces lo mismo y tienes la ventaja de tener incluso las m\u00e1s recientes (y usualmente las m\u00e1s usadas)?\nY a ver si dejamos de comparar el iOS con Android, que nadie con dos dedos de frente compara las berenjenas con las jud\u00edas. Si, las dos son vegetales, pero se acab\u00f3 la similitud.<\/p>","content":"<p>Pues mucho mejor \u00bfno? si est\u00e1 en segundo plano la traes al frente y si no te la abre \u00bfpara qu\u00e9 tener solo una de aplicaciones abiertas si con esta haces lo mismo y tienes la ventaja de tener incluso las m\u00e1s recientes (y usualmente las m\u00e1s usadas)?\nY a ver si dejamos de comparar el iOS con Android, que nadie con dos dedos de frente compara las berenjenas con las jud\u00edas. Si, las dos son vegetales, pero se acab\u00f3 la similitud.<\/p>","karma":"15.00","parent":"330077","comment_edited_date":1297790156,"vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"1","comment_author":"59679","user_id":"59679","author":"","webpage":null,"user_name":"kabukisawa","karma_level":"22.00","iseditor":"0","global_id":"277134","facebook_uid":"100000333274073","index":46,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100000333274073\/picture"},{"id":"330130","post_id":"60163","date":1297811435,"content_filtered":"<p>excelente! jajajaja!\nMuchos critican pero nisiquiera han usado el Sistema. \nYo tambien me quedo con mi iPhone!!!<\/p>\n\n<p>Saludos!<\/p>","content":"excelente! jajajaja!\nMuchos critican pero nisiquiera han usado el Sistema. \nYo tambien me quedo con mi iPhone!!!\n\nSaludos!","karma":"5.00","parent":"330050","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"64518","user_id":"39277","author":"","webpage":null,"user_name":"selvanegra","karma_level":"27.00","iseditor":"0","global_id":"200010","facebook_uid":"783618059","index":54,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/783618059\/picture"},{"id":"330091","post_id":"60163","date":1297785155,"content_filtered":"<p>Android:<\/p>\n\n<p>- Resolver el tema de la fragmentaci\u00f3n.<\/p>\n\n<p>- Mejorar y organizar la navegaci\u00f3n por las distintas aplicaciones de Android Market<\/p>\n\n<p>Iphone<\/p>\n\n<p>- Se echan de menos aplicaciones exclusivas de Google.\n- Menos censura en la Appstore. Un argumento que va en contra de comprar un Iphone.<\/p>","content":"<p>Android:<\/p>\n\n<p>- Resolver el tema de la fragmentaci\u00f3n.<\/p>\n\n<p>- Mejorar y organizar la navegaci\u00f3n por las distintas aplicaciones de Android Market<\/p>\n\n<p>Iphone<\/p>\n\n<p>- Se echan de menos aplicaciones exclusivas de Google.\n- Menos censura en la Appstore. Un argumento que va en contra de comprar un Iphone.<\/p>","karma":"25.00","parent":"0","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"0","comment_author":"solobuscame","user_id":"70701","author":"","webpage":"http:\/\/solobuscame.com","user_name":"solobuscame","karma_level":"27.00","iseditor":"0","global_id":"332626","facebook_uid":null,"index":44,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/332626_1.png"},{"id":"330024","post_id":"60163","date":1297722607,"content_filtered":"<p>Se\u00f1ores, lo que le hace falta a IOS son unas notificaciones en condiciones, una multitarea real estilo WebOS, un gestor de archivos, y mayor integraci\u00f3n con redes sociales.<\/p>\n\n<p>\n4 cosas que har\u00edan un sistema casi definitivo para m\u00ed<\/p>","content":"<p>Se\u00f1ores, lo que le hace falta a IOS son unas notificaciones en condiciones, una multitarea real estilo WebOS, un gestor de archivos, y mayor integraci\u00f3n con redes sociales.<\/p>\n\n<p>\n4 cosas que har\u00edan un sistema casi definitivo para m\u00ed<\/p>","karma":"15.00","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"77101","user_id":"77101","author":"","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"337660","facebook_uid":"1309232065","index":7,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1309232065\/picture"},{"id":"330067","post_id":"60163","date":1297764717,"content_filtered":"<p>Como interfaz prefiero la de iOS, m\u00e1s limpia, m\u00e1s clara y, por tanto, mucho m\u00e1s \u00e1gil, aunque con menos posibilidades de personalizaci\u00f3n, lo que para algunos es un problema. En cuanto a gesti\u00f3n de recursos, tambi\u00e9n me quedo con iOS, no hay nada que haga mejor apple que gestionar recursos (aunque hay que decir que la gesti\u00f3n de Android no est\u00e1 nada mal), lo cual se traduce en una autonom\u00eda bastante mayor en un dispositivo iOS que en un Android. En lo que Android barre a iOS es en conectividad, tanto por wifi como por 3g y bluetooth, as\u00ed como en la amplia gama de dispositivos que abarca, y es un poco\/bastante superior a la hora de llamar la atenci\u00f3n de los desarrolladores, ya no solo de juegos y aplicaciones, sino de complementos para el sistema operativo, roms personalizadas, etc; ya que, recordemos, es un SO basado en Linux, software libre, lo cual lo hace mucho m\u00e1s atractivo para el desarrollador medio.\nA los dos les falta una multitarea bien gestionada  (iOS en sus \u00faltimas versiones lo ha intentado, y Android lo mismo, pero se echa en falta en ambos casos la agilidad que se demanda hoy en d\u00eda en este aspecto). \u00bfCon cu\u00e1l me quedo? con los dos: si quiero escuchar m\u00fasica o jugar al Angry Birds, por ejemplo, me cojo mi iPod Touch con iOS 4.1, y si lo que quiero es conectarme a una red social, tener sincronizado mi correo de Gmail o, s\u00edmplemente navegar por Internet desde mi m\u00f3vil, cojo mi X10 con Android 2.1. Soy un enamorado de Apple, no lo puedo negar, pero no soy un \"Taliban\" que lo defiende a capa y espada en lo que a dispositivos m\u00f3viles se refiere, ahora, lo que no har\u00eda nunca es comprarme un dispositivo con WP7, no vuelvo a Microsoft ni harto de vino.<\/p>","content":"<p>Como interfaz prefiero la de iOS, m\u00e1s limpia, m\u00e1s clara y, por tanto, mucho m\u00e1s \u00e1gil, aunque con menos posibilidades de personalizaci\u00f3n, lo que para algunos es un problema. En cuanto a gesti\u00f3n de recursos, tambi\u00e9n me quedo con iOS, no hay nada que haga mejor apple que gestionar recursos (aunque hay que decir que la gesti\u00f3n de Android no est\u00e1 nada mal), lo cual se traduce en una autonom\u00eda bastante mayor en un dispositivo iOS que en un Android. En lo que Android barre a iOS es en conectividad, tanto por wifi como por 3g y bluetooth, as\u00ed como en la amplia gama de dispositivos que abarca, y es un poco\/bastante superior a la hora de llamar la atenci\u00f3n de los desarrolladores, ya no solo de juegos y aplicaciones, sino de complementos para el sistema operativo, roms personalizadas, etc; ya que, recordemos, es un SO basado en Linux, software libre, lo cual lo hace mucho m\u00e1s atractivo para el desarrollador medio.\nA los dos les falta una multitarea bien gestionada  (iOS en sus \u00faltimas versiones lo ha intentado, y Android lo mismo, pero se echa en falta en ambos casos la agilidad que se demanda hoy en d\u00eda en este aspecto). \u00bfCon cu\u00e1l me quedo? con los dos: si quiero escuchar m\u00fasica o jugar al Angry Birds, por ejemplo, me cojo mi iPod Touch con iOS 4.1, y si lo que quiero es conectarme a una red social, tener sincronizado mi correo de Gmail o, s\u00edmplemente navegar por Internet desde mi m\u00f3vil, cojo mi X10 con Android 2.1. Soy un enamorado de Apple, no lo puedo negar, pero no soy un \"Taliban\" que lo defiende a capa y espada en lo que a dispositivos m\u00f3viles se refiere, ahora, lo que no har\u00eda nunca es comprarme un dispositivo con WP7, no vuelvo a Microsoft ni harto de vino.<\/p>","karma":"15.00","parent":"0","comment_edited_date":1297764735,"vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"bl4d3","user_id":"75884","author":"","webpage":null,"user_name":"bl4d3","karma_level":"22.00","iseditor":"0","global_id":"335621","facebook_uid":null,"index":39,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/1ebca9afca61265447ce8f43870b6b4c"},{"id":"330078","post_id":"60163","date":1297776323,"content_filtered":"<p>En mi opini\u00f3n, Un iPhone4 con iOS 4.2.1 + Jailbreak es la mejor opci\u00f3n, tienes una cierta libertad, tiene un navegador de archivos con servidor web (iFile) puedes modificar los temas, iconos, a\u00f1adir gadgets a la lockscreen, utilizar iBlacklist para bloquear llamada no deseadas como n\u00fameros ocultos o n\u00fameros recientes, con FirewallIP puedes bloquear los anuncios de todas las apps... Luego el iOS es muy estable de momento y toco madera no se me a colgado ni una vez ni tan siquiera ralentizar.\nNo encuentro muy normal que mi iPod Touch 1G se meriende a bastantes m\u00f3viles android en rendimiento gr\u00e1fico, hice una prueba con un htc hero 2.3.1 gingerbread.<\/p>\n\n<p>Cosas que deber\u00edan mejorar de iOS: Navegador de archivos de serie, una barra de notificaciones, wifi hotspot (iOS4.3), Personalizar las animaciones, un gestor de sonido, con el que puedas gestionar individualmente y centralizadamente el sonido de las apps (mejorar multitarea).<\/p>\n\n<p>Mejorar Android: Mejorar rendimiento 3D, Solucionar por la fuerza la fragmentaci\u00f3n actualizando a 2.3.1 para evitar tantas vulnerabilidades que se han encontrado.\nNo puedo aportar mas ya que no estoy muy familiarizado con Android.\nPor ultimo quiero a\u00f1adir que iOS se parece al mac os x y Android al Windows menos optimizado pero mas compatible.<\/p>","content":"<p>En mi opini\u00f3n, Un iPhone4 con iOS 4.2.1 + Jailbreak es la mejor opci\u00f3n, tienes una cierta libertad, tiene un navegador de archivos con servidor web (iFile) puedes modificar los temas, iconos, a\u00f1adir gadgets a la lockscreen, utilizar iBlacklist para bloquear llamada no deseadas como n\u00fameros ocultos o n\u00fameros recientes, con FirewallIP puedes bloquear los anuncios de todas las apps... Luego el iOS es muy estable de momento y toco madera no se me a colgado ni una vez ni tan siquiera ralentizar.\nNo encuentro muy normal que mi iPod Touch 1G se meriende a bastantes m\u00f3viles android en rendimiento gr\u00e1fico, hice una prueba con un htc hero 2.3.1 gingerbread.<\/p>\n\n<p>Cosas que deber\u00edan mejorar de iOS: Navegador de archivos de serie, una barra de notificaciones, wifi hotspot (iOS4.3), Personalizar las animaciones, un gestor de sonido, con el que puedas gestionar individualmente y centralizadamente el sonido de las apps (mejorar multitarea).<\/p>\n\n<p>Mejorar Android: Mejorar rendimiento 3D, Solucionar por la fuerza la fragmentaci\u00f3n actualizando a 2.3.1 para evitar tantas vulnerabilidades que se han encontrado.\nNo puedo aportar mas ya que no estoy muy familiarizado con Android.\nPor ultimo quiero a\u00f1adir que iOS se parece al mac os x y Android al Windows menos optimizado pero mas compatible.<\/p>","karma":"15.00","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"fmv10","user_id":"77141","author":"","webpage":"http:\/\/limekernel.jimdo.com","user_name":"fmv10","karma_level":"25.00","iseditor":"0","global_id":"361944","facebook_uid":null,"index":41,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/361944_1.png"},{"id":"330781","post_id":"60163","date":1298317612,"content_filtered":"<p>Menos optimizado que Windows?\nHijo, t\u00e1pate la boca...<\/p>","content":"Menos optimizado que Windows?\nHijo, t\u00e1pate la boca...","karma":"5.00","parent":"330078","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"73643","user_id":"73643","author":"","webpage":null,"user_name":"jknvv13","karma_level":"24.00","iseditor":"0","global_id":"319016","facebook_uid":"100000446053657","index":69,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100000446053657\/picture"},{"id":"330081","post_id":"60163","date":1297777711,"content_filtered":"<p>Me gustar\u00eda que Android incluyera la marcaci\u00f3n por voz en espa\u00f1ol... no puedo entender que la primera y segunda lenguas m\u00e1s habladas del mundo no sean consideradas. (<a href=\"http:\/\/es.wikipedia.org\/wiki\/Anexo:Lenguas_por_n%C3%BAmero_de_hablantes_nativos\" rel=\"nofollow\">http:\/\/es.wikipedia.org\/wiki\/Anexo:Lenguas_por_n\u00famero_de_hablantes_nativos<\/a>)<\/p>","content":"<p>Me gustar\u00eda que Android incluyera la marcaci\u00f3n por voz en espa\u00f1ol... no puedo entender que la primera y segunda lenguas m\u00e1s habladas del mundo no sean consideradas. (<a href=\"http:\/\/es.wikipedia.org\/wiki\/Anexo:Lenguas_por_n%C3%BAmero_de_hablantes_nativos\" rel=\"nofollow\">http:\/\/es.wikipedia.org\/wiki\/Anexo:Lenguas_por_n\u00famero_de_hablantes_nativos<\/a>)<\/p>","karma":"15.00","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"46525","user_id":"46525","author":"","webpage":null,"user_name":"carlos_lemare","karma_level":"22.00","iseditor":"0","global_id":"199200","facebook_uid":"1098941453","index":42,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1098941453\/picture"},{"id":"330043","post_id":"60163","date":1297729736,"content_filtered":"<p>Lo que no me gusta de android es que al no tener controlado su sistema como lo hace el gran negocio de apple es que se le sale de las manos el tener una plataforma que funcione uniformemente con todos independientemente de las compa\u00f1ias telefonicas, el que algunas no permitan tener las actualizaciones al d\u00eda o que las aplicaciones que no sean convenientes para un pais o una empresa es algo frustante. En Cambio apple es universal al tener el control total las reglas son las mismas internacionalmente y no entran en juego otras compa\u00f1ias.<\/p>\n\n<p>Otra caracteristica que no es buena es que al no ser un sistema dise\u00f1ado para un hardware especifico no logra sacar el maximo provecho de las arquitecturas, que es lo que pasa con SO windows y macOS es que windows no logra sacar jugo total a el hardware en que esta instalado, en cambio macos al ser la arquitectura y el software hecho a la medida saca un muy buen probecho de los recursos.<\/p>","content":"<p>Lo que no me gusta de android es que al no tener controlado su sistema como lo hace el gran negocio de apple es que se le sale de las manos el tener una plataforma que funcione uniformemente con todos independientemente de las compa\u00f1ias telefonicas, el que algunas no permitan tener las actualizaciones al d\u00eda o que las aplicaciones que no sean convenientes para un pais o una empresa es algo frustante. En Cambio apple es universal al tener el control total las reglas son las mismas internacionalmente y no entran en juego otras compa\u00f1ias.<\/p>\n\n<p>Otra caracteristica que no es buena es que al no ser un sistema dise\u00f1ado para un hardware especifico no logra sacar el maximo provecho de las arquitecturas, que es lo que pasa con SO windows y macOS es que windows no logra sacar jugo total a el hardware en que esta instalado, en cambio macos al ser la arquitectura y el software hecho a la medida saca un muy buen probecho de los recursos.<\/p>","karma":"12.50","parent":"0","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"67885","user_id":"67885","author":"","webpage":null,"user_name":"dalini","karma_level":"22.00","iseditor":"0","global_id":"279650","facebook_uid":"100001282150269","index":23,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100001282150269\/picture"},{"id":"330044","post_id":"60163","date":1297734027,"content_filtered":"<p>se filtro crysis 2 en la red  donde lo bajo por torrent lo  que sea<\/p>","content":"<p>se filtro crysis 2 en la red  donde lo bajo por torrent lo  que sea<\/p>","karma":"10.00","parent":"0","comment_edited_date":"","vote_count":"3","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"75518","user_id":"75518","author":"","webpage":null,"user_name":"miguel.rocha.1656","karma_level":"22.00","iseditor":"0","global_id":"304424","facebook_uid":"100001001259263","index":24,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100001001259263\/picture"},{"id":"330084","post_id":"60163","date":1297780352,"content_filtered":"<p>Ejemplo de como \"mear fuera de tiesto\"...<\/p>","content":"Ejemplo de como \"mear fuera de tiesto\"...","karma":"5.00","parent":"330044","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"36926","user_id":"36926","author":"","webpage":null,"user_name":"eudaldvlacasa","karma_level":"22.00","iseditor":"0","global_id":"191929","facebook_uid":"733217164","index":43,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/733217164\/picture"},{"id":"330045","post_id":"60163","date":1297734321,"content_filtered":"<p>Heh... con Android el desarrollador no gana casi nada, es demasiado abierto,y Apple es un gobernador sin piedad pero que da beneficios al desarrollador..ambos son mala apuesta. paradojicamente windows phone cerrado y con escasa fragmentacion pero abierto a todos los fabricantes no esta teniendo mucho protagonismo...<\/p>\n\n<p>misterios de la vida.<\/p>\n\n<p><br \/><\/p>","content":"<p>Heh... con Android el desarrollador no gana casi nada, es demasiado abierto,y Apple es un gobernador sin piedad pero que da beneficios al desarrollador..ambos son mala apuesta. paradojicamente windows phone cerrado y con escasa fragmentacion pero abierto a todos los fabricantes no esta teniendo mucho protagonismo...<\/p>\r\n\r\n<p>misterios de la vida.<\/p><p><br><\/p>","karma":"10.00","parent":"0","comment_edited_date":1297734395,"vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"ccd","user_id":"9298","author":"","webpage":null,"user_name":"ccd","karma_level":"30.00","iseditor":"0","global_id":"84460","facebook_uid":null,"index":25,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/84460_5.png"},{"id":"330028","post_id":"60163","date":1297723617,"content_filtered":"<p>iOS un poco mas de libertad. Y para android un sistema de actualizaciones que este regulado exclusivamente por google y que las empresas dejen de hacer negocio con las updates de una buena vez...y no me quiero olvidar de las capas puestas por las empresas, que la verdad no me parcen muy buenas..supongo que esas serian las unicas actualizaciones que deberian correr por cuenta del vendedor.<\/p>","content":"iOS un poco mas de libertad. Y para android un sistema de actualizaciones que este regulado exclusivamente por google y que las empresas dejen de hacer negocio con las updates de una buena vez...y no me quiero olvidar de las capas puestas por las empresas, que la verdad no me parcen muy buenas..supongo que esas serian las unicas actualizaciones que deberian correr por cuenta del vendedor.","karma":"8.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"ale8727","user_id":"57272","author":"","webpage":null,"user_name":"ale8727","karma_level":"22.00","iseditor":"0","global_id":"264854","facebook_uid":null,"index":10,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/f7e66039e713fec8a302e991b33d4801"},{"id":"330053","post_id":"60163","date":1297744127,"content_filtered":"<p>Multitarea decente, ninguno de los 2 todavia gestiona bien ese aspecto, al estilo WebOS,aunque se lo curren,pero eso es mejor que nada<\/p>","content":"<p>Multitarea decente, ninguno de los 2 todavia gestiona bien ese aspecto, al estilo WebOS,aunque se lo curren,pero eso es mejor que nada<\/p>","karma":"8.00","parent":"0","comment_edited_date":1297744154,"vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Left My Dead","user_id":"46902","author":"Left My Dead","webpage":null,"user_name":"netbookero","karma_level":"27.00","iseditor":"0","global_id":"92133","facebook_uid":null,"index":30,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/92133_2.png"},{"id":"330066","post_id":"60163","date":1297763035,"content_filtered":"<p>He le\u00eddo varios comentarios sobre un gestor de ficheros en iOS, \u00bfme est\u00e1is diciendo entonces que iOS todav\u00eda no tiene un simple explorador de archivos?\nPat\u00e9tico\/Paup\u00e9rrimo\/In\u00fatil\/Cerrado.. en fin..<\/p>\n\n<p>Me gustar\u00eda m\u00e1s iOS si su interfaz fuera personalizable, es decir, quitarle las eternas cajitas y poder abrir sus limitaciones (l\u00e9ase BT y Flash).<\/p>\n\n<p>De primeras un cambio en la pol\u00edtica de la empresa, que brilla por su ausencia la humildad..<\/p>","content":"He le\u00eddo varios comentarios sobre un gestor de ficheros en iOS, \u00bfme est\u00e1is diciendo entonces que iOS todav\u00eda no tiene un simple explorador de archivos?\nPat\u00e9tico\/Paup\u00e9rrimo\/In\u00fatil\/Cerrado.. en fin..\n\nMe gustar\u00eda m\u00e1s iOS si su interfaz fuera personalizable, es decir, quitarle las eternas cajitas y poder abrir sus limitaciones (l\u00e9ase BT y Flash).\n\nDe primeras un cambio en la pol\u00edtica de la empresa, que brilla por su ausencia la humildad..","karma":"8.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"kl0x","user_id":"4915","author":"kl0x","webpage":null,"user_name":"kl0x","karma_level":"27.00","iseditor":"0","global_id":"9780","facebook_uid":null,"index":38,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/9780_1.png"},{"id":"330127","post_id":"60163","date":1297811080,"content_filtered":"<p>...Que te puedo decir, simplemente no aportas nada al tema.<\/p>","content":"...Que te puedo decir, simplemente no aportas nada al tema.","karma":"5.00","parent":"330066","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"64518","user_id":"39277","author":"","webpage":null,"user_name":"selvanegra","karma_level":"27.00","iseditor":"0","global_id":"200010","facebook_uid":"783618059","index":53,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/783618059\/picture"},{"id":"330156","post_id":"60163","date":1297845555,"content_filtered":"<p>S\u00ed, mi opini\u00f3n. T\u00fa s\u00ed que no has aportado nada con tu comentario..<\/p>","content":"S\u00ed, mi opini\u00f3n. T\u00fa s\u00ed que no has aportado nada con tu comentario..","karma":"8.00","parent":"330127","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"kl0x","user_id":"4915","author":"kl0x","webpage":null,"user_name":"kl0x","karma_level":"27.00","iseditor":"0","global_id":"9780","facebook_uid":null,"index":58,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/9780_1.png"}],"meta":{"more_records":"true","start":0,"total":50,"order":"valued","totalCount":69},"commentStatus":"closed"});
+
+	window.App = new AML.Comments.Application(60163, commentList);
+	Backbone.history.start();
+      });
+    </script>
+
+  <!-- Comments and Other Stuff -->
+
+  <div id="ad-bottom" class="ad ad-boton">
+  <a class="ad-contact" id="div-gpt-bot-contact" style="display:none" href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-bot' class="ad-box" style='width: 728px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-bot");
+    });
+    </script>
+    </div>
+</div>
+
+  <!-- .ad - boton -->
+  <div class="sidebar-seo-links">
+    <h4>Más en Genbeta</h4>
+    <ul>
+              <li>
+          <a  href="/redes-sociales-y-comunidades/has-notado-un-descenso-en-el-uso-de-facebook-por-parte-de-tus-conocidos-la-pregunta-de-la-semana" class="thumb80">
+            <img title="¿Has notado un descenso en el uso de Facebook por parte de tus conocidos? La pregunta de la semana " src="http://img.genbeta.com/tb/80_80/110533.jpg" alt="¿Has notado un descenso en el uso de Facebook por parte de tus conocidos? La pregunta de la semana ">
+          </a>
+          <a  href="/redes-sociales-y-comunidades/has-notado-un-descenso-en-el-uso-de-facebook-por-parte-de-tus-conocidos-la-pregunta-de-la-semana">
+            ¿Has notado un descenso en el uso de Facebook por parte de tus conocidos? La pregunta de la semana 
+          </a>
+        </li>
+              <li>
+          <a  href="/web-20/que-es-lo-mas-raro-que-has-comprado-en-la-red-la-pregunta-de-la-semana" class="thumb80">
+            <img title="¿Qué es lo más raro que has comprado en la red? La pregunta de la semana " src="http://img.genbeta.com/tb/80_80/110377.jpg" alt="¿Qué es lo más raro que has comprado en la red? La pregunta de la semana ">
+          </a>
+          <a  href="/web-20/que-es-lo-mas-raro-que-has-comprado-en-la-red-la-pregunta-de-la-semana">
+            ¿Qué es lo más raro que has comprado en la red? La pregunta de la semana 
+          </a>
+        </li>
+              <li>
+          <a  href="/multimedia/bittorrent-live-el-streaming-p2p-llegara-pronto-a-los-moviles" class="thumb80">
+            <img title="Bittorrent Live, el streaming P2P, llegará pronto a los móviles " src="http://img.genbeta.com/tb/80_80/110968.jpg" alt="Bittorrent Live, el streaming P2P, llegará pronto a los móviles ">
+          </a>
+          <a  href="/multimedia/bittorrent-live-el-streaming-p2p-llegara-pronto-a-los-moviles">
+            Bittorrent Live, el streaming P2P, llegará pronto a los móviles 
+          </a>
+        </li>
+              <li>
+          <a  href="/genbeta/markdown-gnu-linux-y-4k-el-video-palindromo-y-mas-en-internet-is-a-series-of-blogs-ccxliii" class="thumb80">
+            <img title="Markdown, GNU/Linux y 4K, el vídeo palíndromo y más, en Internet is a Series of Blogs (CCXLIII)" src="http://img.genbeta.com/tb/80_80/110959.jpg" alt="Markdown, GNU/Linux y 4K, el vídeo palíndromo y más, en Internet is a Series of Blogs (CCXLIII)">
+          </a>
+          <a  href="/genbeta/markdown-gnu-linux-y-4k-el-video-palindromo-y-mas-en-internet-is-a-series-of-blogs-ccxliii">
+            Markdown, GNU/Linux y 4K, el vídeo palíndromo y más, en Internet is a Series of Blogs (CCXLIII)
+          </a>
+        </li>
+              <li>
+          <a  href="/genbeta/manjaro-linux-empezar-a-emprender-acceso-remoto-a-webs-locales-y-mas-en-genbeta-respuestas" class="thumb80">
+            <img title="Manjaro Linux, empezar a emprender, acceso remoto a webs locales y más en Genbeta Respuestas " src="http://img.genbeta.com/tb/80_80/110957.jpg" alt="Manjaro Linux, empezar a emprender, acceso remoto a webs locales y más en Genbeta Respuestas ">
+          </a>
+          <a  href="/genbeta/manjaro-linux-empezar-a-emprender-acceso-remoto-a-webs-locales-y-mas-en-genbeta-respuestas">
+            Manjaro Linux, empezar a emprender, acceso remoto a webs locales y más en Genbeta Respuestas 
+          </a>
+        </li>
+          </ul>
+</div>
+<!-- related-posts SEO links-->
+       
+    </div>
+  <!-- .container -->
+  </div>
+  <!-- .content-dinamic -->
+
+  <div class= "nav nav-blog">
+  <div class= "container">
+    <h2><strong>&#43;</strong> en Genbeta</h2>
+    <ul>
+      <li class= "blog-section section-lomejor"><a href="/lomejor">Lo mejor</a></li>
+      <li class= "blog-section section-temas"><a href="/archivos">Temas</a></li>
+            <li class= "blog-section section-productos"><a href="/productos">Productos</a></li>
+                  <li class= "blog-section section-respuestas"><a href="/respuestas">Respuestas</a></li>
+            
+            <li class="blog-section section-club"><a href="/club">Club</a></li>
+            <li class= "blog-section section-comunidad"><a href="/comunidad">Comunidad</a></li>
+      <li class="blog-section section-staff"><a href="/quienes-somos">Staff</a></li>
+    </ul>
+  </div>
+</div>
+  
+<div class="footer">
+        <div class="footer-media">
+                <div class="links-category">
+            <h2>Tecnología</h2>
+            <ul>
+                              <li class="tec-xataka"><a href="http://www.xataka.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka<span></span></a></li>
+                              <li class="tec-xatakamovil"><a href="http://www.xatakamovil.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Móvil<span></span></a></li>
+                              <li class="tec-xatakafoto"><a href="http://www.xatakafoto.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Foto<span></span></a></li>
+                              <li class="tec-xatakandroid"><a href="http://www.xatakandroid.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Android<span></span></a></li>
+                              <li class="tec-xatakaon"><a href="http://www.xatakaon.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka On<span></span></a></li>
+                              <li class="tec-xatakahome"><a href="http://www.xatakahome.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Smart Home<span></span></a></li>
+                              <li class="tec-xatakawindows"><a href="http://xatakawindows.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Windows<span></span></a></li>
+                              <li class="tec-xatakaciencia"><a href="http://www.xatakaciencia.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Ciencia<span></span></a></li>
+                              <li class="tec-applesfera"><a href="http://www.applesfera.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Applesfera<span></span></a></li>
+                              <li class="tec-vidaextra"><a href="http://www.vidaextra.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vida Extra<span></span></a></li>
+                              <li class="tec-genbeta"><a href="http://www.genbeta.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Genbeta<span></span></a></li>
+                              <li class="tec-genbetadev"><a href="http://www.genbetadev.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Genbeta Dev<span></span></a></li>
+                          </ul>
+        </div>
+            </div>
+    
+    <div class="footer-links">
+                        <div class="links-category">
+            <h2>Estilos de vida</h2>
+            <ul>
+                              <li><a href="http://www.trendencias.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias</a></li>
+                              <li><a href="http://www.trendenciasbelleza.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Belleza</a></li>
+                              <li><a href="http://www.trendenciashombre.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Hombre</a></li>
+                              <li><a href="http://www.trendenciasshopping.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Shopping</a></li>
+                              <li><a href="http://www.trendenciaslifestyle.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Lifestyle</a></li>
+                              <li><a href="http://www.directoalpaladar.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Directo al Paladar</a></li>
+                              <li><a href="http://www.bebesymas.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bebés y Más</a></li>
+                              <li><a href="http://www.pequesymas.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Peques y Más</a></li>
+                              <li><a href="http://www.vitonica.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vitónica</a></li>
+                              <li><a href="http://www.decoesfera.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Decoesfera</a></li>
+                              <li><a href="http://www.embelezzia.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Embelezzia</a></li>
+                              <li><a href="http://www.ambienteg.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ambiente G</a></li>
+                              <li><a href="http://www.poprosa.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Poprosa</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Motor</h2>
+            <ul>
+                              <li><a href="http://www.motorpasion.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión</a></li>
+                              <li><a href="http://www.motorpasionf1.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión F1</a></li>
+                              <li><a href="http://www.motorpasionmoto.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Moto</a></li>
+                              <li><a href="http://www.motorpasionfuturo.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Futuro</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Ocio</h2>
+            <ul>
+                              <li><a href="http://www.blogdecine.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog de Cine</a></li>
+                              <li><a href="http://www.vayatele.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">¡Vaya Tele!</a></li>
+                              <li><a href="http://www.hipersonica.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Hipersónica</a></li>
+                              <li><a href="http://www.diariodelviajero.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Diario del Viajero</a></li>
+                              <li><a href="http://www.papelenblanco.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Papel en Blanco</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Economía</h2>
+            <ul>
+                              <li><a href="http://www.elblogsalmon.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">El Blog Salmón</a></li>
+                              <li><a href="http://www.pymesyautonomos.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Pymes y Autónomos</a></li>
+                              <li><a href="http://www.tecnologiapyme.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Tecnología Pyme</a></li>
+                              <li><a href="http://www.ahorrodiario.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ahorro Diario</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Latinoamérica</h2>
+            <ul>
+                              <li><a href="http://www.xataka.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Brasil</a></li>
+                              <li><a href="http://www.trendencias.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Brasil</a></li>
+                              <li><a href="http://www.motorpasion.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Brasil</a></li>
+                              <li><a href="http://www.xataka.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka México</a></li>
+                              <li><a href="http://www.motorpasion.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión México</a></li>
+                              <li><a href="http://www.directoalpaladar.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Directo Al Paladar México</a></li>
+                              <li><a href="http://www.xatakandroid.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Android México</a></li>
+                              <li><a href="http://www.vidaextra.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vida Extra México</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Participamos en</h2>
+            <ul>
+                              <li><a href="http://www.ebayers.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">eBayers</a></li>
+                              <li><a href="http://www.circulaseguro.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Circula Seguro</a></li>
+                              <li><a href="http://www.circulaseguro.pt/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Circula Seguro PT</a></li>
+                              <li><a href="http://www.actibva.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Actibva</a></li>
+                              <li><a href="http://www.anexom.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Anexo M</a></li>
+                              <li><a href="http://blog.cocacola.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Happing Magazine</a></li>
+                              <li><a href="http://blog.sage.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog Sage</a></li>
+                              <li><a href="http://www.optimismodigital.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Optimismo Digital</a></li>
+                              <li><a href="http://www.1001experiencias.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">1001 Experiencias</a></li>
+                              <li><a href="http://www.ennaranja.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">En Naranja</a></li>
+                              <li><a href="http://www.essieblog.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Essie Blog</a></li>
+                              <li><a href="http://blogginzenith.zenithmedia.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bloggin Zenith</a></li>
+                              <li><a href="http://www.urbanfire.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Urbanfire</a></li>
+                              <li><a href="http://www.tecnologiadetuatu.elcorteingles.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Tecnología de tú a tú</a></li>
+                              <li><a href="http://www.ciudadano00.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ciudadano 0,0</a></li>
+                              <li><a href="http://blogfanta.cocacola.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog Fanta</a></li>
+                              <li><a href="http://mimundo.philips.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Mi Mundo Philips</a></li>
+                              <li><a href="http://www.bbvacontuempresa.es?utm_source=genbeta&utm_medium=network&utm_campaign=footer">BBVA con tu empresa</a></li>
+                              <li><a href="http://www.perutravelblog.net/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Perú Travel Blog</a></li>
+                              <li><a href="http://bscene.bershka.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bershka Bscene</a></li>
+                              <li><a href="http://www.institutodelafelicidad.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Instituto de la Felicidad</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                    </div>
+</div>
+
+<div class="closure">
+    <div class="container">
+        <div class="weblogssl"><a href="http://www.weblogssl.com">Weblogs SL<span></span></a></div>
+        <ul class="nav">
+            <li><a href="/quienes-somos">¿Quienes somos?</a></li>
+            <li><a href="http://www.weblogssl.com/contenidos">Condiciones de uso</a></li>
+            <li><a href="http://www.weblogssl.com/cookies">Política de cookies</a></li>
+            <li><a href="http://www.weblogssl.com/aviso">Aviso legal</a></li>
+            <li><a title="Publicidad en Genbeta" href="http://www.socialmediasl.com/genbeta.php">Publicidad</a></li>
+            <li><a href="/ayuda-2012">Ayuda</a></li>
+            <li><a href="/contacto">Contacto</a></li>
+        </ul>
+    </div>
+</div>
+
+<div id="cookies-overlay"></div>
+
+  <script type="text/javascript">
+    $(function() {
+      new AML.Auth.View.CookiesOverlayView;
+    });
+  </script>
+
+</div>
+<div id="favicons-list">
+
+    <div class="userbar">
+        <a class="head-shortcut" href="#body" title="Volver arriba">&uarr;</a>
+        <div class="userbox" id="wsl_userbox">
+        </div>
+
+        <div class="favicons" style="width: auto; ">
+
+            <div id="scroll-menu">
+
+                <div class="disabledHotSpotLeft">«</div>
+                <div class="disabledHotSpotRight">»</div>
+                <div class="scrollingHotSpotLeft">«</div>
+                <div class="scrollingHotSpotRight">»</div>
+
+                <div class="scrollWrapper">
+                    <div class="scrollableArea">
+
+                        <ul class="favicroll">
+                            <li id="wsl"><a target="_top" href="http://www.weblogssl.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><em><strong>Blog corporativo</strong></em></a></li>
+
+                            <li><a target="_top" href="http://www.xataka.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b1"><strong>XTK</strong></span> <em><strong>Xataka - Gadgets y electrónica de consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vidaextra.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b2"><strong>VX</strong></span> <em><strong>VidaExtra - Videojuegos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.blogdecine.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b3"><strong>BDC</strong></span> <em><strong>Blog de cine - Cine  y críticas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.elblogsalmon.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b5"><strong>EBS</strong></span> <em><strong>El Blog Salmón - Economía y finanzas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.genbeta.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b6"><strong>GBT</strong></span> <em><strong>Genbeta - Software</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasion.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b7"><strong>MP</strong></span> <em><strong>MotorPasión - Coches y motor</strong></em></a></li>
+                            <li><a target="_top" href="http://www.directoalpaladar.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b8"><strong>DAP</strong></span> <em><strong>Directo al paladar - Gastronomía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.bebesymas.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b9"><strong>BYM</strong></span> <em><strong>Bebés y más - Todo sobre bebés</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vayatele.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b11"><strong>VYT</strong></span> <em><strong>¡Vaya Tele! - Series y televisión</strong></em></a></li>
+                            <li><a target="_top" href="http://www.diariodelviajero.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b12"><strong>DDV</strong></span> <em><strong>Diario del viajero - Viajes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakaciencia.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b13"><strong>XCI</strong></span> <em><strong>Xataka Ciencia - Ciencia</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendencias.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b14"><strong>TRE</strong></span> <em><strong>Trendencias - Moda y tendencias</strong></em></a></li>
+                            <li><a target="_top" href="http://www.hipersonica.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b15"><strong>HIP</strong></span> <em><strong>HiperSónica - Música</strong></em></a></li>
+                            <li><a target="_top" href="http://www.applesfera.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b16"><strong>APP</strong></span> <em><strong>Applesfera - Apple</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasshopping.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b17"><strong>COM</strong></span> <em><strong>Trendencias Shopping - Compras y consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakamovil.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b18"><strong>XTM</strong></span> <em><strong>Xataka Móvil - Móviles</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ambienteg.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b19"><strong>AMG</strong></span> <em><strong>Ambiente G - Gays y lesbianas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionmoto.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b20"><strong>MMO</strong></span> <em><strong>Motorpasión Moto - Motos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.papelenblanco.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b21"><strong>PEB</strong></span> <em><strong>Papel en blanco - Literatura</strong></em></a></li>
+                            <li><a target="_top" href="http://www.decoesfera.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b22"><strong>DEC</strong></span> <em><strong>Decoesfera - Decoración e interiorismo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionf1.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b23"><strong>MF1</strong></span> <em><strong>Motorpasión F1 - Carreras</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vitonica.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b24"><strong>VIT</strong></span> <em><strong>Vitónica - Vida sana</strong></em></a></li>
+                            <li><a target="_top" href="http://www.embelezzia.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b25"><strong>EMB</strong></span> <em><strong>Embelezzia - Lujo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.poprosa.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b26"><strong>POP</strong></span> <em><strong>Poprosa - Famosos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakafoto.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b27"><strong>XTF</strong></span> <em><strong>Xataka Foto - Fotografía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.pymesyautonomos.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b28"><strong>PYA</strong></span> <em><strong>Pymes y autónomos - Pymes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasbelleza.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b30"><strong>TRB</strong></span> <em><strong>Trendencias Belleza - Belleza y cosmética</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.tecnologiapyme.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b34"><strong>TPY</strong></span> <em><strong>Tecnología Pyme - Tecnología para empresas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ahorrodiario.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b35"><strong>AHD</strong></span> <em><strong>Ahorro Diario - Ahorro</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciashombre.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b36"><strong>TRH</strong></span> <em><strong>Trendencias Hombre - Moda y estilo masculino</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.pequesymas.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b37"><strong>PEQ</strong></span> <em><strong>Peques y más - Niños e infancia</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakaon.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b39"><strong>XTO</strong></span> <em><strong>Xataka On - Todo sobre conectividad, ADSL</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakandroid.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b40"><strong>XTA</strong></span> <em><strong>Xataka Android - Android, aplicaciones y dispositivos</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.genbetadev.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b41"><strong>GBD</strong></span> <em><strong>Genbeta Dev - Desarrollo de software</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.motorpasionfuturo.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b42"><strong>MPF</strong></span> <em><strong>Motorpasión Futuro - Innovación y Motor</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakahome.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b44"><strong>XSH</strong></span> <em><strong>Xataka Smart Home - Inteligencia doméstica digital</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakawindows.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b45"><strong>XTW</strong></span> <em><strong>Xataka Windows - Universo Microsoft</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciaslifestyle.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b46"><strong>TLS</strong></span> <em><strong>Trendencias Lifestyle</strong></em></a></li>
+                        </ul>
+
+                    </div>
+                </div>
+                <!-- .scrollWrapper-->
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<div id="wsl_dialog"></div>
+<script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', function() {
+  try {
+    if (window.external.msIsSiteMode()) {
+      window.external.msSiteModeClearJumpList();
+      window.external.msSiteModeCreateJumplist('Mensajes Recientes');
+            window.external.msSiteModeAddJumpListItem('Office\x20para\x20iPad,\x20m\u00E1s\x20pronto\x20que\x20tarde\x3A\x20para\x20la\x20primera\x20mitad\x20de\x202014', 'http://www.genbeta.com/ofimatica/office-para-ipad-mas-pronto-que-tarde-para-la-primera-mitad-de-2014', '');
+            window.external.msSiteModeAddJumpListItem('Bittorrent\x20Live,\x20el\x20streaming\x20P2P,\x20llegar\u00E1\x20pronto\x20a\x20los\x20m\u00F3viles\x20', 'http://www.genbeta.com/multimedia/bittorrent-live-el-streaming-p2p-llegara-pronto-a-los-moviles', '');
+            window.external.msSiteModeAddJumpListItem('La\x20hipocres\u00EDa\x20de\x20algunos\x20medios\x20tradicionales.\x20La\x20imagen\x20de\x20la\x20semana\x20', 'http://www.genbeta.com/actualidad/la-hipocresia-de-algunos-medios-tradicionales-la-imagen-de-la-semana', '');
+            window.external.msSiteModeAddJumpListItem('\x22Tasa\x20Google\x22\x3A\x20si\x20tienes\x20un\x20blog\x20tambi\u00E9n\x20te\x20afecta,\x20solo\x20que\x20otros\x20la\x20cobrar\u00E1n\x20por\x20ti\x20', 'http://www.genbeta.com/actualidad/tasa-google-si-tienes-un-blog-tambien-te-afecta-solo-que-otros-la-cobraran-por-ti', '');
+            window.external.msSiteModeAddJumpListItem('Kickstarter,\x20tras\x20sufrir\x20un\x20ataque,\x20recomienda\x20cambiar\x20contrase\u00F1as\x20', 'http://www.genbeta.com/web/kickstarter-tras-sufrir-un-ataque-recomienda-cambiar-contrasenas', '');
+            window.external.msSiteModeShowJumpList();
+    }
+  } catch (exp) {
+    // do nothing
+  }
+  });
+</script>
+
+
+<script type='text/javascript'>
+    (function() {
+      new ViceVersaLink("http://t.genbeta.com");
+    })();
+</script>
+
+<script type='text/javascript'>
+  window.onerror = function(message, file, line) {
+    var sFormattedMessage = '[' + file + ' (' + line + ')] ' + message;
+    _gaq.push(['_trackEvent', 'Errors', 'Browser', sFormattedMessage, null, true]);
+  }
+    
+</script>
+
+</body>
+</html>

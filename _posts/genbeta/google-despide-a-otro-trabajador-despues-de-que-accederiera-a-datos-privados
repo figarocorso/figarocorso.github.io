@@ -1,0 +1,897 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+                                                                                                                                                                                                                                                                                <title>Google despide a otro trabajador después de que accediera a datos privados</title>
+                  <meta name="description" content="Es una realidad. Muchos de los usarios que utilizamos los servicios del gigante californiano Google tenemos claro que tienen acceso a una gran..." />
+            <meta name="news_keywords" content="Google, Privacidad, Seguridad"/>
+       
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />    
+    <meta name='robots' content='noodp' />
+    <meta property="fb:admins" content="100000716994885"/>
+    <meta name="application-name" content="Genbeta"/>
+    <meta name="msapplication-tooltip" content="Software y web. Genbeta"/>
+    <meta name="msapplication-starturl" content="http://www.genbeta.com"/>
+    <meta name="msapplication-task" content="name=Lo mejor;action-uri=http://www.genbeta.com/lomejor;icon-uri=http://img.genbeta.com/lp2/v6/images/pin-bg-lomejor-icon.ico" />
+        <meta name="msapplication-task" content="name=Respuestas;action-uri=http://www.genbeta.com/respuestas;icon-uri=http://img.genbeta.com/lp2/v6/images/pin-bg-respuestas-icon.ico" />
+                <!--[if !IE]><!--> <link rel="shortcut icon" href="http://img.genbeta.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if lt IE 9]><!--> <link rel="shortcut icon" href="http://img.genbeta.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if gte IE 9]>
+            <link rel="shortcut icon" type="image/x-icon" href="http://img.genbeta.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+            <link rel=icon type="image/ico" href="http://img.genbeta.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+        <![endif]-->
+    
+    <link rel="apple-touch-icon" href="http://img.genbeta.com/lp2/mobile/images/apple-touch-icon.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-57-precomposed.png">
+
+        <link rel="stylesheet" type="text/css" href="http://img.genbeta.com/lp2/v6/main.css?v=24272">
+        <link rel="publisher" href="http://plus.google.com/106643481235450321345" />
+    <link rel="alternate" type="application/rss+xml" title="" href="/index.xml" />
+    <!--[if lt IE 7]>
+      <link rel="stylesheet" type="text/css" href="http://img.genbeta.com/lp2/v6/ie7.css">
+    <![endif]-->
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', "UA-78515-6"]);
+  _gaq.push(['_setCampaignCookieTimeout', 259200000]);
+  _gaq.push(['_setDomainName', ".genbeta.com"]);
+  _gaq.push(['_setSiteSpeedSampleRate', 5]);
+  _gaq.push(['t2._setAccount', "UA-78515-62"]);
+  _gaq.push(['t2._setCampaignCookieTimeout', 259200000]);
+  _gaq.push(['t2._setDomainName', ".genbeta.com"]);
+  (function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') +       '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  })();
+</script>
+
+ <link rel="canonical" href="http://www.genbeta.com/buscadores/google-despide-a-otro-trabajador-despues-de-que-accederiera-a-datos-privados" />
+ <link rel="image_src" href="http://img.genbeta.com/resize/75/thumbnails/b/57725.jpg" />
+ <meta property="og:title" content="Google despide a otro trabajador después de que accediera a datos privados">
+ <meta property="og:description" content="Es una realidad. Muchos de los usarios que utilizamos los servicios del gigante californiano Google tenemos claro que tienen acceso a una gran...">
+ <meta property="og:image" content="http://img.genbeta.com/original/57725.jpg">
+    <script>
+    _gaq.push(['t2._setPageGroup', '1', 'post']);
+    _gaq.push(['t2._setPageGroup', '2', "miguel julián"]);
+    _gaq.push(['t2._setPageGroup', '3', "buscadores"]);
+    _gaq.push(['t2._setPageGroup', '4', "normal"]);
+    _gaq.push(['_setPageGroup', '1', 'post']);
+    _gaq.push(['_setPageGroup', '2', "miguel julián"]);
+    _gaq.push(['_setPageGroup', '3', "buscadores"]);
+    _gaq.push(['_setPageGroup', '4', "normal"]);
+       </script>
+   </head>
+       <body id="body" class="article-single">
+
+    <script type='text/javascript'>
+    var MAX_source = "";
+    var GPTcats = ["buscadores", "seguridad"];
+    var GPTtags = ["google", "privacidad", "seguridad"];
+      </script>
+      <script type='text/javascript'>
+googletag.pubads().setTargeting("origin", "direct").setTargeting("screen", screen.width.toString()).setTargeting("cat", GPTcats).setTargeting("tag", GPTtags);
+if (navigator.userAgent.match(/iPad/i) != null) {
+  googletag.pubads().setTargeting("ua", "ipad");
+} 
+ 
+googletag.defineSlot('/4712/GEB/interior_top', [1000, 40], 'div-gpt-top').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_lateral', [[160, 600], [200,600], [300,600], [300,250]], 'div-gpt-lat').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_central', [[300, 250], [400,400], [1000,250]], 'div-gpt-cen').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_central2', [[300, 250],[400,400],[690, 250]], 'div-gpt-cen2').addService(googletag.pubads());
+googletag.defineSlot('/1018282/GEB-BOT2-interior',[728, 90], 'div-gpt-bot').addService(googletag.pubads());
+googletag.defineSlot('/1018282/GEB-INP', [500, 80], 'div-gpt-inp').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interstitial', [1000, 525], 'div-gpt-int').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().enableSyncRendering();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+</script>
+
+       <script type="text/javascript">
+      WSL2 = {};
+      WSL2.config = {};
+      WSL2.config.fbapikey = "360028941603";
+      WSL2.config.cookieDomain = "";
+      WSL2.config.imagePath = 'http://img.genbeta.com/lp2/v6';
+      WSL2.config.siteName = "Genbeta";
+      window.___gcfg = {lang: 'es'};
+    </script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="http://code.jquery.com/jquery-migrate-1.1.0.js"></script>
+            <script src="http://img.weblogssl.com/LPbackend/prod/v2/js/frontend-758.js"></script>
+          <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _c1 = new WSL2.Cookie;
+      loginStatus = (_c1.hasSession()) ? "yes:" + _c1.loginType() : "no";
+      _gaq.push(['t2._setCustomVar', 4, '.genbeta.com', 'loginstatus:' + loginStatus, 2]);
+      _gaq.push(['_trackPageview']);
+      _gaq.push(['t2._trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); 
+    ga.type = 'text/javascript';
+    ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+  })();
+      var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "11306788" });
+         (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[1]; 
+          s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb": "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+    </script>
+
+    <div id="fb-root"></div>
+  <!-- fb needs this -->
+
+  <script src="//platform.twitter.com/widgets.js" id="tweetjs"></script>
+  <script src="//apis.google.com/js/plusone.js" id="gplus1js"></script>
+  <script src="//connect.facebook.net/es_ES/all.js#xfbml=1" id="fbjssdk"></script>
+  <div class="customize-me">
+  <div class="content-fixed">
+    <div class="container">
+                <!-- .header -->
+            <div class="header header-page">
+        <h1 class="site-logo"><a href="http://www.genbeta.com" title="Ir a la portada">Software y web. Genbeta<span></span></a></h1>
+        <form method="get" action="/busqueda" id="search" class="search" style="top:62px; width:310px; padding: 0;">
+    <p>
+        <input type="hidden" name="cx" value="partner-pub-9977500652563564:0292109475">
+        <input type="text" id="gsearch" name="q" accesskey="4" title="Buscar" placeholder="Busca en Genbeta con Google">
+        <input type="hidden" name="ie" value="UTF-8">
+        <input type="hidden" name="oe" value="UTF-8">
+        <input type="hidden" name="cof" value="FORID:10">
+        <button class="button">Buscar <span class="arrow">&raquo;</span></button>
+    </p>
+</form>
+<script type="text/javascript" src="http://www.google.es/coop/cse/brand?form=cse-search-box&amp;lang=es"></script>
+            <div class="nav nav-main">
+    <ul class="nav-primary">
+        <li class="home-link"><a href="/" title="Volver a portada">Portada</a></li>
+        <li class="respuestas-link"><a href="/respuestas">Respuestas</a></li>
+        <li class="temas-submenu">
+            <ul class="nav-secondary">
+                                   <li><a href="/categoria/actualidad" title="Ir a la categoría Actualidad">Actualidad</a></li>
+                                   <li><a href="/categoria/linux" title="Ir a la categoría Linux">Linux</a></li>
+                                   <li><a href="/categoria/movil" title="Ir a la categoría Móvil">Móvil</a></li>
+                                   <li><a href="/categoria/windows" title="Ir a la categoría Windows">Windows</a></li>
+                                   <li><a href="/categoria/herramientas" title="Ir a la categoría Herramientas">Herramientas</a></li>
+                                <li><a href="/archivos" title="Ver todas las categorías">Más &raquo;</a></li>
+            </ul>
+        </li>
+                  
+            </ul>
+</div>
+
+        <div class="nav nav-tags">
+        <h3>No te pierdas <span class="arrow">&raquo;</span></h3>
+        <ul>
+                        <li><a href="/tag/tasa-google" title="Todo sobre Tasa Google">Tasa Google</a></li>
+                        <li><a href="/tag/ley-lassalle" title="Todo sobre Ley Lassalle">Ley Lassalle</a></li>
+                        <li><a href="/tag/balance-de-windows-8" title="Todo sobre Balance de Windows 8">Balance de Windows 8</a></li>
+                        <li><a href="/tag/cazadores-de-fakes" title="Todo sobre Cazadores de Fakes">Cazadores de Fakes</a></li>
+                        <li><a href="/tag/satya-nadella" title="Todo sobre Satya Nadella">Satya Nadella</a></li>
+                    </ul>
+</div>
+<!-- .nav-tags -->
+
+                    <div class="ad ad-desplegable">
+  <a class="ad-contact" id="div-gpt-top-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+  <div class="ad-box">
+    <div id='div-gpt-top' style='width: 1000px;'>
+    <script type="text/javascript">
+        googletag.cmd.push(function() {
+        googletag.display("div-gpt-top");
+        });
+    </script>
+    </div>
+  </div>
+</div>
+<!-- .ad-box - desplegable -->
+
+  <div class="nav">
+   <ul class="article-nav-controls">
+                              <li><a class="article-control article-previous" href="/navegadores/entrevistamos-a-brian-hall-director-general-de-windows-live-y-business-group-de-microsoft"><span>Entrevistamos a Brian Hall, director general de Windows Live y Business Group de Microsoft</span></a></li>
+                                             <li><a class="article-control article-next" href="/activismo-online/google-despide-a-un-ingeniero-acusado-de-acceder-a-datos-privados-de-menores"><span>Google despide a un ingeniero acusado de acceder a datos privados de menores</span></a></li>
+                  </ul>
+  </div>
+              </div>
+                   <div class="article article-pre-content">
+  <h1 class="article-header">Google despide a otro trabajador después de que accediera a datos privados</h1>
+  <div class="article-date">16 de septiembre de 2010 | 17:45 CET <span id="is_editor"></span></div>
+  <div class="article-author-details">
+  <div class="figure">
+    <a rel='author' href="/autor/miguel-julian">
+      <img src="http://www.gravatar.com/avatar/14216b3a89c997bfc641f9d3abf7bc0b?s=80&amp;d=mm&amp;r=g" alt="miguel-julian">
+    </a>
+  </div>
+  <h2><a rel='author' href="/autor/miguel-julian">Miguel Julián</a></h2>
+      </div>
+<!-- .article-author-details -->
+</div>
+           </div>
+    <!-- .container -->
+  </div>
+  <!-- .content-fixed -->
+
+  <div class="content-dinamic">
+    <div class="container">
+          <script type="text/javascript">
+        $(function()
+        {
+          AML.postVoteView = new AML.Post.View.PostVoteView({postId:"57725", el:".social-sharing" });
+          AML.isEditorView = new AML.Post.View.IsEditorView({postId:"57725", model: WSL2.User });
+        });
+      </script>
+
+    <div class="aside">
+            <div id="ad-lateral" class="ad ad-primer-escaparate">
+  <a class="ad-contact" id="div-gpt-lat-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-lat' class="ad-box" style='width: 300px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-lat");
+    });
+    </script>
+    </div>
+</div>
+<!-- .ad-box - escaparate vertical -->
+
+           <!-- .ad-box - escaparate vertical -->
+            
+                  
+<div class="aside-box aside-subscribe">
+  <h3 class="aside-header">Síguenos</h3>
+  
+          
+  <form id="feedForm" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" >
+    <label for="subscribe-email">Newsletter:</label>  
+      <input type="text" name="email" type="text" id="feedburnermail" placeholder="Correo electrónico"/>
+      <input type="hidden" name="uri" value="genbeta"/>
+      <input type="hidden" name="loc" value="es_ES">
+      <button class="button" type="submit">Suscríbete <span class="arrow">&raquo;</span></button>
+  </form>
+  <ul class="subs-channels">
+    <li class="channel-rss" id="rss"> <a href="/index.xml" rel="nofollow" title="Suscríbete por RSS a las novedades en Genbeta"><span></span>RSS</a></li>
+    <li class="channel-twitter"><a href="http://twitter.com/genbeta" title="Sigue las novedades de Genbeta en Twitter"><span></span>Twitter</a></li>
+    <li class="channel-fb"><a href="http://www.facebook.com/pages/Genbeta/54999640934" title="Conéctate a la página de Genbeta en Facebook"><span></span>Facebook</a></li>
+    <li class="channel-gplus"><a href="https://plus.google.com/109731528328750280665/posts" title="Sigue a Genbeta en Google Plus"><span></span>Google Plus</a></li>
+    <li class="channel-feedly"><a style="margin-right: 0;" title="Suscríbete a Genbeta con Feedly" href='http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fwww.genbeta.com%2Findex.xml'  target='blank'><img id='feedlyFollow' src='http://img.weblogssl.com/g/xataka4/common/m-icon-feedly.png' alt='follow us in feedly' width='32' height='32'></a></li>
+  </ul>
+  <ul class="devices-channels">
+    <li><a title="Versión para móviles" href="http://m.genbeta.com" class="button button-secondary"><img src="http://img.weblogssl.com/g/xataka4/common/mobile.png">Versión móvil</a></li>
+        <li>
+        <a id="tabletViceVersaLink" href="http://t.genbeta.com" class="button button-secondary" title="Versión tablet"><img src="http://img.weblogssl.com/g/xataka4/common/tablet.png"> Versión tablet</a>
+    </li>
+      </ul>
+
+    <script>
+  $(function() {
+      $("#feedForm").submit(function(e) {
+          e.preventDefault();
+          email = $("#feedburnermail").val();
+          emailPattern = /^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$/i
+          if (emailPattern.test(email)) {
+              window.open('http://mailer.weblogssl.com/subscribe_check/' + email +'/genbeta/Genbeta','','width=500,height=500');
+          } else {
+              alert("El correo electrónico introducido no es correcto");
+          }
+      });
+  });
+  </script>
+  
+</div>
+            <!-- .article-promo -->
+    </div>
+
+    <!-- .aside -->
+
+                    
+    <div class="section section-article-single">
+            <div class="article">
+        <div class="article-summary">
+          <p><img id="image57726" src="http://img.genbeta.com/2010/09/google-despide-un-trabajador-cabecera.jpg" class="centro_sinmarco" alt="Google despide a un trabajador - Cabecera" /></p>
+
+                              <div class="article-metadata">
+            <div class="article-comments" id="postCommentCount">
+              <a href="#comments" title="Ir a comentarios">
+                Comentarios 21
+              </a>
+            </div>
+            <div class="article-links">
+              <div class="social-sharing">
+                <div class="social-sharing-widgets">
+                                    <div class="wsl-favorite">
+                    <button class="button button-small">Me gusta</button>
+                    <span class="wsl-count">10</span>
+                  </div>
+                                    <!-- twitter -->
+                  <a class="twitter-share-button" href="http://twitter.com/share" data-count="horizontal" data-url="http://www.genbeta.com/p/57725" data-counturl="http://www.genbeta.com/buscadores/google-despide-a-otro-trabajador-despues-de-que-accederiera-a-datos-privados" data-text="Google despide a otro trabajador después de que accediera a datos privados" data-via="genbeta" data-lang="es">Tweet</a>
+                  <!-- g+ -->
+                  <div class="g-plusone" data-size="medium" data-href="http://www.genbeta.com/buscadores/google-despide-a-otro-trabajador-despues-de-que-accederiera-a-datos-privados" data-callback="gplusClickHandler" ></div>
+                  <!-- facebook like -->
+                  <div href="http://www.genbeta.com/buscadores/google-despide-a-otro-trabajador-despues-de-que-accederiera-a-datos-privados" class="fb-like" data-send="false" data-layout="button_count" data-show-faces="false"></div>
+                </div>
+              </div>
+              <!-- .social-sharing -->
+            </div>
+            <!-- .article-links -->
+          </div>
+          <!-- .article-metadata -->
+
+
+          	<p></p>
+
+	<p>Es una realidad. Muchos de los usarios que utilizamos los servicios del gigante californiano Google tenemos claro que tienen <strong>acceso a una gran multitud de datos sensibles</strong>. Sólo hay que pararse a pensar unos segundos para darse cuenta de que pueden conocer nuestras citas con el urólogo, nuestros intereses, e incluso, nuestros posibles flirteos con emails o conversaciones por Google Talk.</p>
+
+	<p>Por ello, enterarnos de que <strong>un empleado de 27 años de Google ha sido despedido por acceder a información privada</strong> debería remover los cimientos de nuestra confianza. En este caso, según citan algunos medios, David Barksdale se saltó las políticas de seguridad accediendo a datos privados de varios menores. Aparentemente no se conocen las causas que llevaron a dicho empleado <strong>a acceder a datos privados de varios adolescentes para después amenazarles e insultarles</strong>, lo que sí parece confirmarse es que no habría un trasfondo sexual en su acción.</p>
+
+	<p>Según un comunidado de Google, confirma el despido de David Barksdale y comunica que, efectivamente, ha sido por <strong>saltarse <em>estrictas políticas internas de privacidad</em></strong>. Así mismo, nos informa de que continuamente están mejorando sus sistemas mediante la creación y ampliación de logs y controles. Así como auditando los accesos a informaciones privadas.<br />
+
+<!--more--><br />
+
+Una de las consecuencias de las tendencias actuales en la web es la cantidad de información personal que tenemos dispersa a lo largo de diferentes servicios web. Información personal que cedemos generosamente porque es necesaria para utilizar un servicio, o porque, es introducida durante el uso normal del mismo. Un ejemplo claro podría ser el de un proyecto personal, o empresarial, cuyo germen nace de una herramienta online para ayudarnos a crear un mapa mental. La información que ahí exponemos puede valer millones de euros o, sencillamente, podría ser utilizada en nuestra contra reportando consecuencias poco deseables. Por ello antes de utilizar un servicio online, deberíamos pensar un par de veces en el nivel de confianza que tenemos en él.</p>
+
+	<p>Según nuestra <a href="http://www.tecnologiapyme.com/tag/guia-lopd">Ley Orgánica de Protección de Datos</a> que tantos quebraderos de cabeza está dando a las empresas españolas, se garantiza, dentro de la empresa, el conocimiento de qué personas acceden a la información privada y se debe auditar cada acceso y  modificación de los mismos (siempre que sean de grado 3). Aunque puedan parecer medidas excesivas, <strong>este tipo de noticias hacen que se vean necesarias esas actuaciones por parte de las instituciones</strong>.</p>
+
+	<p>Y, aunque se auditen los accesos a la información privada, <strong>resulta <em>imposible</em> evitar que una persona con acceso a datos privados haga un mal uso de ellos</strong>. Por ello se podría optar por integrar una zona de datos a la cual no pueda acceder únicamente una persona (No-Lone Zone), parecida a los protocolos establecidos en el ámbito militar y que tan famosos se hacen en las películas (girando varias llaves a la vez, códigos que se encuentran en distintas cajas fuertes, ...). </p>
+
+	<p>Vía | <a href="http://techcrunch.com/2010/09/14/google-engineer-fired-security/">TechCruch</a><br />
+
+Más información | <a href="http://gawker.com/5637234/">Gawker</a><br />
+
+En Genbeta | <a href="http://www.genbeta.com/actualidad/google-actualizara-su-politica-de-privacidad-para-hacerla-mas-facil-de-entender">Google actualizará su política de privacidad para hacerla más fácil de entender</a></p>                  </div>
+
+                        
+        <div class="ad links-ad-inpost">
+    <div id='div-gpt-inp' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-inp");
+    });
+    </script>
+    </div>
+</div>
+
+
+        
+        <div class="article-taxonomy">
+                      <div class="nav article-tags article-categories">
+  <h2>Categorías</h2>
+    <ul>
+                      
+      <li><a href="/categoria/buscadores">Buscadores</a></li>
+                      
+      <li><a href="/categoria/seguridad">Seguridad</a></li>
+        </ul>
+</div>
+            <div class="nav article-tags">
+  <h2>Tags</h2>
+  <ul>
+                                             
+      <li><a href="/tag/google">Google</a></li>
+                                             
+      <li><a href="/tag/privacidad">Privacidad</a></li>
+                                             
+      <li><a href="/tag/seguridad">Seguridad</a></li>
+          
+  </ul>
+</div>
+                  </div>
+        <!-- .article-metadata -->
+      </div>
+      <!-- .article -->
+    </div>
+    <!-- .section-articles -->
+            <div id="ad-center" class="ad ad-escaparate-medio">
+  <a class="ad-contact" id="div-gpt-cen-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-cen' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+
+        
+        
+    <div class="section section-related">
+               <div id="outBrainVerticalWidget" class="post-related-posts ">
+  <h3>Artículos recomendados</h3>
+  <div class="post-related-content">
+   
+    <div class="OUTBRAIN" data-src="http://www.genbeta.com/buscadores/google-despide-a-otro-trabajador-despues-de-que-accederiera-a-datos-privados" data-widget-id="AR_2" data-ob-template="genbeta" >
+    </div>
+    <script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js">
+    </script>
+  </div>
+  <!-- .post-related-content -->
+  <p class="post-related-more">
+    <a href="/categoria/buscadores" title="Ver más artículos relacionados">
+    Ver más artículos <span class="arrow">»</span>    
+    </a>
+    </p>
+</div>     
+      <div class="post-related-products">
+   <h3>Productos</h3>
+   <div id="post-related-products" class="post-related-content">
+                <script type="text/javascript">
+        $(function()
+        {
+          WSL2.config.imageUrl = "http://img.genbeta.com"
+          WSL2.config.Products = {}
+          WSL2.config.Products.iwishihave = {}
+          WSL2.config.Products.iwishihave.buttonOne = "ME GUSTA"
+          WSL2.config.Products.iwishihave.buttonTwo = "LO ODIO"
+
+          var product = new AML.Products.Model.Product({"id":"20990","nicename":"google","name":"Google","photo_post_id":"63034","users_votes_sum":"295","users_votes_count":"40","ihave_count":"98","iwish_count":"16","category_nicename":"redes-sociales","cat_id":"444","category_type":"1","adspot_price":"0"}, {"pageUrlPrefix":"productos"});
+          AML.productView = new AML.Products.View.ProductView({model:product, userModel: WSL2.User});
+        });
+      </script>
+        </div>
+  <p class="post-related-more">
+    <a href="/productos/redes-sociales/google" title="Ver más productos relacionados">
+      Ver más productos <span class="arrow">»</span>
+    </a>
+  </p>
+ </div>
+<!-- .post-related-products -->
+     <div class="post-related-qa">
+    <h3>Respuestas</h3>
+        <div class="post-related-content">
+            <ul>
+                            <li>
+                    <div class="answer-number hot-topic">
+                        <strong>25</strong>
+                    </div>
+                    <a href="/respuestas/como-realizamos-nuestras-copias-de-seguridad">¿Cómo realizamos nuestras copias de seguridad?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2013-11-15T18:54:16Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>4</strong>
+                    </div>
+                    <a href="/respuestas/debate-esconde-algo-google-con-el-cierre-de-igoogle">Debate: ¿Esconde algo Google con el cierre de iGoogle?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2013-10-30T18:18:47Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>6</strong>
+                    </div>
+                    <a href="/respuestas/razon-de-tantos-fallos-de-seguridad-en-android-siendo-linux">Razón de tantos fallos de seguridad en android? Siendo linux...</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2013-10-15T15:39:28Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>4</strong>
+                    </div>
+                    <a href="/respuestas/hay-alternativas-a-la-altura-de-google">¿ hay alternativas a la altura de google ?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2013-09-21T18:35:23Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>4</strong>
+                    </div>
+                    <a href="/respuestas/como-haser-un-filtrado-mac">¿Como hacer un filtrado Mac?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2013-09-12T02:22:23Z"></abbr>
+                    </span>            
+                </li>
+                        </ul>
+        </div>
+        <!-- .post-related-content -->
+        <p class="post-related-more">
+            <a href="/respuestas" title="Ver más respuestas relacionados">
+                Ver más respuestas
+                <span class="arrow">»</span>
+            </a>
+        </p>
+</div>
+
+<script type="text/javascript">
+   $(function(){
+      $("abbr.timeago").timeago();
+   });
+</script>
+     </div>
+
+
+  <!-- Comments Section -->
+        <a id="to-comments"></a>
+  <div id="comments" class="section section-comments">
+            <div class="standalone-message">
+            <div class="message aviso"><h3>Los comentarios se han cerrado</h3></div>
+        </div>
+        <!-- #comment-write -->
+            <div id="ad-center2" class="ad ad-segundo-escaparate">
+  <a class="ad-contact" id="div-gpt-cen2-contact" style='display:none'
+  href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-cen2' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen2");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+    <div id="comments-header" class="header-section">
+      <div class="comment-order">
+    	<h3>Ordenar por:</h3>
+      </div>
+      <!-- #comment-order -->
+          	<h2>
+              21 comentarios
+            </h2>
+    </div>
+    <div id="top-section-settings"></div>
+    <ul class="comment-list"></ul>
+        <div class="nav"></div>
+    <div id="bottom-section-settings"></div>
+  </div>
+    <script type="text/javascript">
+      $(function()
+      {
+        var commentList = new AML.Comments.Model.CommentList({},{postId:57725});
+        commentList.resetParsed({"comments":[{"id":"311277","post_id":"57725","date":1284660441,"content_filtered":"<p>A mi esta noticia me deja m\u00e1s tranquilo, porque ya se que Google s\u00f3lo da permisos para acceder a cualquier cuenta a muy pocos empleados y los tiene controlados, y que van a mejorar mucho m\u00e1s la seguridad para que no se repita esto...<\/p>\n\n<p>Yo creo que est\u00e1n m\u00e1s seguros los datos en Google que en cualquier otra web de Internet, donde mucha gente se registra dando la misma contrase\u00f1a que la de su correo, con lo que cualquier webmaster puede mirar los correos y contrase\u00f1as de sus usuarios y ver cual es la misma para entrar en su correo...<\/p>","content":"<p>A mi esta noticia me deja m\u00e1s tranquilo, porque ya se que Google s\u00f3lo da permisos para acceder a cualquier cuenta a muy pocos empleados y los tiene controlados, y que van a mejorar mucho m\u00e1s la seguridad para que no se repita esto...<\/p>\n\n<p>Yo creo que est\u00e1n m\u00e1s seguros los datos en Google que en cualquier otra web de Internet, donde mucha gente se registra dando la misma contrase\u00f1a que la de su correo, con lo que cualquier webmaster puede mirar los correos y contrase\u00f1as de sus usuarios y ver cual es la misma para entrar en su correo...<\/p>","karma":"115.00","parent":"0","comment_edited_date":"","vote_count":"11","comment_level":2,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Escapology","user_id":"10101","author":"Escapology","webpage":null,"user_name":"escapology","karma_level":"61.00","iseditor":"0","global_id":"194037","facebook_uid":"1585042198","index":1,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/194037_1.png"},{"id":"311286","post_id":"57725","date":1284663355,"content_filtered":"<p>S\u00ed, es muy importante que \"se hayan dado cuenta\". Lo que significa que sus medidas de auditor\u00eda de acceso han funcionado. Pero sigue siendo un problema que \"alguien\" lo haya conseguido.<\/p>\n\n<p>Desde luego, en otras empresas estos casos se dan, y ni siquiera nos enteramos.<\/p>\n\n<p>El tema de las contrase\u00f1as, es poner sentido com\u00fan, que muchas veces, como se dice, es el menos com\u00fan.<\/p>","content":"S\u00ed, es muy importante que \"se hayan dado cuenta\". Lo que significa que sus medidas de auditor\u00eda de acceso han funcionado. Pero sigue siendo un problema que \"alguien\" lo haya conseguido.\n\nDesde luego, en otras empresas estos casos se dan, y ni siquiera nos enteramos.\n\nEl tema de las contrase\u00f1as, es poner sentido com\u00fan, que muchas veces, como se dice, es el menos com\u00fan.","karma":"8.00","parent":"311277","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"miky_kun","user_id":"62376","author":"","webpage":"http:\/\/www.genbeta.com","user_name":"miky_kun","karma_level":"25.00","iseditor":"0","global_id":"291289","facebook_uid":null,"index":7,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/291289_1.png"},{"id":"311293","post_id":"57725","date":1284664777,"content_filtered":"<p>Se dieron cuenta porque el tipo amenaz\u00f3 a usuarios de Google, si hubiera vendido la informaci\u00f3n a por decir algo Mc Donal's es posible que no se dieran cuenta.\nEs probable que Google tenga mejores pol\u00edticas de seguridad que otras empresas, pero el tama\u00f1o le juega en contra. Por mucho que restrinjan y controlen el acceso no pueden estar encima de todo el mundo y la tecnolog\u00eda no es inviolable.<\/p>","content":"Se dieron cuenta porque el tipo amenaz\u00f3 a usuarios de Google, si hubiera vendido la informaci\u00f3n a por decir algo Mc Donal's es posible que no se dieran cuenta.\nEs probable que Google tenga mejores pol\u00edticas de seguridad que otras empresas, pero el tama\u00f1o le juega en contra. Por mucho que restrinjan y controlen el acceso no pueden estar encima de todo el mundo y la tecnolog\u00eda no es inviolable.","karma":"10.00","parent":"311286","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"0","comment_author":"Diego Germ\u00e1n Gonzalez","user_id":"18808","author":"Diego Germ\u00e1n Gonzalez","webpage":null,"user_name":"dggonzalez","karma_level":"32.00","iseditor":"0","global_id":"133442","facebook_uid":null,"index":9,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/963785ed6ba925a47584c60e210417be"},{"id":"311295","post_id":"57725","date":1284665031,"content_filtered":"<p>Al fin y al cabo, muchas personas tienen que tener acceso a datos privados. Seguramente se les haga firmar un documento en el que aseguren que \"yo, empleadito, no voy a mirar donde no debo\".<\/p>\n\n<p>Eso les librar\u00e1 legalmente, pero, como bien dices, es muy dif\u00edcil controlarlo.<\/p>\n\n<p>Supongo que tendr\u00e1 que haber un nivel de compromiso entre la \"libertad\" de sus trabajadores y el rendimiento de los mismos.<\/p>","content":"Al fin y al cabo, muchas personas tienen que tener acceso a datos privados. Seguramente se les haga firmar un documento en el que aseguren que \"yo, empleadito, no voy a mirar donde no debo\".\n\nEso les librar\u00e1 legalmente, pero, como bien dices, es muy dif\u00edcil controlarlo.\n\nSupongo que tendr\u00e1 que haber un nivel de compromiso entre la \"libertad\" de sus trabajadores y el rendimiento de los mismos.","karma":"8.00","parent":"311293","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"1","comment_author":"miky_kun","user_id":"62376","author":"","webpage":"http:\/\/www.genbeta.com","user_name":"miky_kun","karma_level":"25.00","iseditor":"0","global_id":"291289","facebook_uid":null,"index":11,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/291289_1.png"},{"id":"311300","post_id":"57725","date":1284665867,"content_filtered":"<p>Supongo que si una p\u00e1gina simple de una persona normal (como por ejemplo la m\u00eda), ya tiene un cifrado de contrase\u00f1as MD5... en una base de datos como la de Google o Facebook los datos deben de estar mas protegidos y con c\u00f3digos m\u00e1s fuertes y mejores... SUPONGO.<\/p>","content":"Supongo que si una p\u00e1gina simple de una persona normal (como por ejemplo la m\u00eda), ya tiene un cifrado de contrase\u00f1as MD5... en una base de datos como la de Google o Facebook los datos deben de estar mas protegidos y con c\u00f3digos m\u00e1s fuertes y mejores... SUPONGO.","karma":"8.00","parent":"311277","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"alemuro","user_id":"41628","author":"alemuro","webpage":"http:\/\/www.alemurtv.es","user_name":"alemurtv","karma_level":"29.00","iseditor":"0","global_id":"206392","facebook_uid":"668184058","index":12,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/206392_3.png"},{"id":"311307","post_id":"57725","date":1284666460,"content_filtered":"<p>El problema es que el cifrado MD5 no puede ser revertido (siempre con esto hay que poner un \"se supone\"). Y nuestros emails tienen que cifrarlos y descifrarlos, porque leerlos en MD5 no es ergon\u00f3mico.<\/p>","content":"El problema es que el cifrado MD5 no puede ser revertido (siempre con esto hay que poner un \"se supone\"). Y nuestros emails tienen que cifrarlos y descifrarlos, porque leerlos en MD5 no es ergon\u00f3mico.","karma":"8.00","parent":"311300","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"miky_kun","user_id":"62376","author":"","webpage":"http:\/\/www.genbeta.com","user_name":"miky_kun","karma_level":"25.00","iseditor":"0","global_id":"291289","facebook_uid":null,"index":13,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/291289_1.png"},{"id":"311389","post_id":"57725","date":1284700837,"content_filtered":"<p>pfff, con s\u00f3lo pensarlo un momento, te das cuenta que Google es el mayor vendedor de info p\u00fablica y privada del mundo, y si tienen alg\u00fan sistema as\u00ed, es simplemente una tapadera, y esto lo hicieron en serio, el despido por estas causas fue real, pero pq dntro de la tapadera se manejan con total normalidad, es como tener un restaurant y en la parte de atr\u00e1s venda drogas, el restaurant va a funcionar como funcionan todos, normalmente, no se si me entienden...<\/p>\n\n<p>y hablandoles a los que les preocupa la privacidad de la web o de Google, ME EST\u00c1N JODIENDO? ni que fueran tan importantes, que se creen? es cierto que hay muchos que si necesitan privacidad, pq de lo contrario ser\u00edan afectados, pero son minor\u00edas, no pasa d\u00eda que no lea alg\u00fan comentario de un fulanito preocupado por sus datos en la red, y para lo unico que usa internet es para subir fotos haciendo poses de pelotudos a Feisbuk<\/p>","content":"<p>pfff, con s\u00f3lo pensarlo un momento, te das cuenta que Google es el mayor vendedor de info p\u00fablica y privada del mundo, y si tienen alg\u00fan sistema as\u00ed, es simplemente una tapadera, y esto lo hicieron en serio, el despido por estas causas fue real, pero pq dntro de la tapadera se manejan con total normalidad, es como tener un restaurant y en la parte de atr\u00e1s venda drogas, el restaurant va a funcionar como funcionan todos, normalmente, no se si me entienden...<\/p>\n\n<p>y hablandoles a los que les preocupa la privacidad de la web o de Google, ME EST\u00c1N JODIENDO? ni que fueran tan importantes, que se creen? es cierto que hay muchos que si necesitan privacidad, pq de lo contrario ser\u00edan afectados, pero son minor\u00edas, no pasa d\u00eda que no lea alg\u00fan comentario de un fulanito preocupado por sus datos en la red, y para lo unico que usa internet es para subir fotos haciendo poses de pelotudos a Feisbuk<\/p>","karma":"7.50","parent":"311277","comment_edited_date":"","vote_count":"6","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"37695","user_id":"37695","author":"Nahuel Siviero","webpage":"","user_name":null,"karma_level":"27.00","iseditor":"0","global_id":"193537","facebook_uid":"1581834688","index":16,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/193537_2.png"},{"id":"311282","post_id":"57725","date":1284661990,"content_filtered":"<p>Tener un trabajo en Google y tirarlo de esa manera... dios le da pan a quien no tiene dientes.<\/p>","content":"<p>Tener un trabajo en Google y tirarlo de esa manera... dios le da pan a quien no tiene dientes.<\/p>","karma":"95.00","parent":"0","comment_edited_date":"","vote_count":"6","comment_level":2,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Jose Lun","user_id":"33967","author":"Jose Lun","webpage":"http:\/\/www.joselun.com","user_name":"joselun","karma_level":"27.00","iseditor":"0","global_id":"99189","facebook_uid":"673436386","index":4,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/99189_3.png"},{"id":"311284","post_id":"57725","date":1284663088,"content_filtered":"<p>Otra noticia m\u00e1s que, dependiendo del que la lee\/escribe\/comenta\/oye....puede tener un sentido u otro.<\/p>\n\n<p>Para mi, una noticia que viene a dar algo m\u00e1s de \"buena imagen\" a Google, porque al menos parece que hace algo para mantener esos datos en el \"anonimato\", aunque claro, habr\u00e1 qui\u00e9n piense que ahora hacen eso para intentar lavar su imagen. Recordemos que Google, al igual que TODAS las empresas similares, gestores de correo, etc. tiene nuestros datos. Microsoft con su Hotmail, Yahoo, Apple, Facebook...todos tienen acceso a nuestros correos, datos y dem\u00e1s, simplemente porque nosotros se los hemos dado. O nos vamos a creer ahora que en esas otras empresas no puede pasar esto mismo?<\/p>","content":"<p>Otra noticia m\u00e1s que, dependiendo del que la lee\/escribe\/comenta\/oye....puede tener un sentido u otro.<\/p>\n\n<p>Para mi, una noticia que viene a dar algo m\u00e1s de \"buena imagen\" a Google, porque al menos parece que hace algo para mantener esos datos en el \"anonimato\", aunque claro, habr\u00e1 qui\u00e9n piense que ahora hacen eso para intentar lavar su imagen. Recordemos que Google, al igual que TODAS las empresas similares, gestores de correo, etc. tiene nuestros datos. Microsoft con su Hotmail, Yahoo, Apple, Facebook...todos tienen acceso a nuestros correos, datos y dem\u00e1s, simplemente porque nosotros se los hemos dado. O nos vamos a creer ahora que en esas otras empresas no puede pasar esto mismo?<\/p>","karma":"73.00","parent":"0","comment_edited_date":"","vote_count":"3","comment_level":2,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"NetYaco","user_id":"45342","author":"NetYaco","webpage":"http:\/\/www.aixoesloquehiha.com","user_name":"netyaco","karma_level":"27.00","iseditor":"0","global_id":"187348","facebook_uid":null,"index":5,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/187348_1.png"},{"id":"311290","post_id":"57725","date":1284664441,"content_filtered":"<p>Como respond\u00eda un poco m\u00e1s arriba. De hecho es seguro que ocurren sucesos similares en otras empresas. Y el hecho de haber detectado el acceso de este empleado dice mucho de Google y de sus esfuerzos \"por y para nosotros\" (y por, y para ellos)<\/p>","content":"<p>Como respond\u00eda un poco m\u00e1s arriba. De hecho es seguro que ocurren sucesos similares en otras empresas. Y el hecho de haber detectado el acceso de este empleado dice mucho de Google y de sus esfuerzos \"por y para nosotros\" (y por, y para ellos)<\/p>","karma":"68.00","parent":"311284","comment_edited_date":"","vote_count":"4","comment_level":2,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"miky_kun","user_id":"62376","author":"","webpage":"http:\/\/www.genbeta.com","user_name":"miky_kun","karma_level":"25.00","iseditor":"0","global_id":"291289","facebook_uid":null,"index":8,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/291289_1.png"},{"id":"311278","post_id":"57725","date":1284661058,"content_filtered":"<p>El t\u00edtulo est\u00e1 mal. \"accederiera\", dice ;)<\/p>","content":"<p>El t\u00edtulo est\u00e1 mal. \"accederiera\", dice ;)<\/p>","karma":"13.00","parent":"0","comment_edited_date":1284661068,"vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"aama-88","user_id":"1279","author":"aama-88","webpage":null,"user_name":null,"karma_level":"32.00","iseditor":"0","global_id":"18956","facebook_uid":null,"index":2,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/9da78b6495aab75ddc9a8f7ed64510d4"},{"id":"311285","post_id":"57725","date":1284663193,"content_filtered":"<p>Gracias.<\/p>\n\n<p>Tengo que hacerme mirar lo de los dedos (y la vista), esto va a peor.<\/p>","content":"Gracias.\n\nTengo que hacerme mirar lo de los dedos (y la vista), esto va a peor.","karma":"8.00","parent":"311278","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"miky_kun","user_id":"62376","author":"","webpage":"http:\/\/www.genbeta.com","user_name":"miky_kun","karma_level":"25.00","iseditor":"0","global_id":"291289","facebook_uid":null,"index":6,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/291289_1.png"},{"id":"311431","post_id":"57725","date":1284732038,"content_filtered":"<p>Mejor que de la ley de protecci\u00f3n de datos espa\u00f1ola no hablemos... me parece a mi que pocas empresas la cumplen.<\/p>","content":"Mejor que de la ley de protecci\u00f3n de datos espa\u00f1ola no hablemos... me parece a mi que pocas empresas la cumplen.","karma":"13.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Sivious","user_id":"3363","author":"Sivious","webpage":null,"user_name":"sivious","karma_level":"37.00","iseditor":"0","global_id":"7586","facebook_uid":null,"index":20,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/7586_1.png"},{"id":"311411","post_id":"57725","date":1284720668,"content_filtered":"<p>\u00bfQu\u00e9 os pens\u00e1is que en los bancos, por ejemplo, los trabajadores no saben cuanto dinero tiene cualquier cliente? \u00bfO que en las operadoras de telefon\u00eda e Internet no conoce cualquier trabajador nuestro consumo, direcci\u00f3n y n\u00famero? Lo dif\u00edcil es detectar a degenerados como este aprovechando de esa informaci\u00f3n privada.<\/p>","content":"\u00bfQu\u00e9 os pens\u00e1is que en los bancos, por ejemplo, los trabajadores no saben cuanto dinero tiene cualquier cliente? \u00bfO que en las operadoras de telefon\u00eda e Internet no conoce cualquier trabajador nuestro consumo, direcci\u00f3n y n\u00famero? Lo dif\u00edcil es detectar a degenerados como este aprovechando de esa informaci\u00f3n privada.","karma":"10.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"logoff","user_id":"2589","author":"logoff","webpage":null,"user_name":"logoff","karma_level":"39.00","iseditor":"0","global_id":"5957","facebook_uid":null,"index":17,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/5957_1.png"},{"id":"311470","post_id":"57725","date":1284759536,"content_filtered":"<p>lo s\u00e9, mi padre trabaja en un banco y siempre anda vigilando mi cuenta xD<\/p>","content":"lo s\u00e9, mi padre trabaja en un banco y siempre anda vigilando mi cuenta xD","karma":"10.00","parent":"311411","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"blaqkr","user_id":"5677","author":"blaqkr","webpage":"http:\/\/twitter.com\/blaqkr","user_name":"blaqkr","karma_level":"34.00","iseditor":"0","global_id":"9407","facebook_uid":null,"index":21,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/9407_5.png"},{"id":"311422","post_id":"57725","date":1284724435,"content_filtered":"<p>Totalmente de acuerdo, lo dif\u00edcil es controlar al trabajador, y eso pasa hasta en el Carrefour.<\/p>\n\n<p>Pero creo que un tema importante puede ser el ver la cantidad de datos que tienen sobre nosotros. Porque, que vean mi cuenta corriente, por ahora, no me importar\u00eda. Pero Google tiene otros muchos datos mucho m\u00e1s importantes y personales desde mi punto de vista.<\/p>","content":"Totalmente de acuerdo, lo dif\u00edcil es controlar al trabajador, y eso pasa hasta en el Carrefour.\n\nPero creo que un tema importante puede ser el ver la cantidad de datos que tienen sobre nosotros. Porque, que vean mi cuenta corriente, por ahora, no me importar\u00eda. Pero Google tiene otros muchos datos mucho m\u00e1s importantes y personales desde mi punto de vista.","karma":"8.00","parent":"311411","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"miky_kun","user_id":"62376","author":"","webpage":"http:\/\/www.genbeta.com","user_name":"miky_kun","karma_level":"25.00","iseditor":"0","global_id":"291289","facebook_uid":null,"index":19,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/291289_1.png"},{"id":"311412","post_id":"57725","date":1284720717,"content_filtered":"<p>Bueno, malas personas hay en todos lados, podr\u00eda ser alguien de Google o un funcionario del Ayuntamiento.<\/p>","content":"Bueno, malas personas hay en todos lados, podr\u00eda ser alguien de Google o un funcionario del Ayuntamiento.","karma":"10.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"jarrevolution","user_id":"60268","author":"","webpage":null,"user_name":"jarrevolution","karma_level":"35.00","iseditor":"0","global_id":"279818","facebook_uid":null,"index":18,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/279818_1.png"},{"id":"311356","post_id":"57725","date":1284682914,"content_filtered":"<p>Descubrieron que el agua moja, ya que con el famoso lio de Google street view, se confirmo lo peligroso de la geolocalizaci\u00f3n, expertos en seguridad inform\u00e1tica, ya lo hab\u00edan advertido, desde 2003, a la fecha.\nNo creo en teor\u00edas de la conspiraci\u00f3n, pero que hubiese pasado si en vez de este chico fuese un infiltrado por el departamento de estado, el kremlin o el mossad.<\/p>\n\n<p>Eso del Instan, fuera de ser un algoritmo de respuesta en tiempo real, mas bien es un s\u00edmbolo de lo bien referencia dos que estamos por google...<\/p>","content":"Descubrieron que el agua moja, ya que con el famoso lio de Google street view, se confirmo lo peligroso de la geolocalizaci\u00f3n, expertos en seguridad inform\u00e1tica, ya lo hab\u00edan advertido, desde 2003, a la fecha.\nNo creo en teor\u00edas de la conspiraci\u00f3n, pero que hubiese pasado si en vez de este chico fuese un infiltrado por el departamento de estado, el kremlin o el mossad.\n\nEso del Instan, fuera de ser un algoritmo de respuesta en tiempo real, mas bien es un s\u00edmbolo de lo bien referencia dos que estamos por google...","karma":"8.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"gnome101","user_id":"59446","author":"gnome101","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"275895","facebook_uid":null,"index":15,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/f384e23f7cb1bcfcbe717e6daef25dc0"},{"id":"311294","post_id":"57725","date":1284664888,"content_filtered":"<p>Acabo de recibir en la direcci\u00f3n que le d\u00ed a Google para que me enviara los cheques de Adsense publicidad de Adwords. Y para abrir una cuenta en Gmail tienes que darle un sms para que te manden un c\u00f3digo de verificaci\u00f3n. Otro dato m\u00e1s que tienen<\/p>","content":"<p>Acabo de recibir en la direcci\u00f3n que le d\u00ed a Google para que me enviara los cheques de Adsense publicidad de Adwords. Y para abrir una cuenta en Gmail tienes que darle un sms para que te manden un c\u00f3digo de verificaci\u00f3n. Otro dato m\u00e1s que tienen<\/p>","karma":"7.50","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"0","comment_author":"Diego Germ\u00e1n Gonzalez","user_id":"18808","author":"Diego Germ\u00e1n Gonzalez","webpage":null,"user_name":"dggonzalez","karma_level":"32.00","iseditor":"0","global_id":"133442","facebook_uid":null,"index":10,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/963785ed6ba925a47584c60e210417be"},{"id":"311322","post_id":"57725","date":1284672740,"content_filtered":"<p>las \"pol\u00edticas\" se hicieron para romperse<\/p>","content":"<p>las \"pol\u00edticas\" se hicieron para romperse<\/p>","karma":"-37.50","parent":"0","comment_edited_date":"","vote_count":"4","comment_level":4,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"blaqkr","user_id":"5677","author":"blaqkr","webpage":"http:\/\/twitter.com\/blaqkr","user_name":"blaqkr","karma_level":"34.00","iseditor":"0","global_id":"9407","facebook_uid":null,"index":14,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/9407_5.png"},{"id":"311279","post_id":"57725","date":1284661095,"content_filtered":"<p>Otro post sensacionalista de la granja de rumores... WeblogsSL est\u00e1 tocando fondo con este tipo de posts.<\/p>","content":"<p>Otro post sensacionalista de la granja de rumores... WeblogsSL est\u00e1 tocando fondo con este tipo de posts.<\/p>","karma":"-60.00","parent":"0","comment_edited_date":"","vote_count":"3","comment_level":4,"comment_deleted_date":"","tree_level":"0","comment_approved":"0","comment_author":"37381","user_id":"37381","author":"","webpage":null,"user_name":"asabater","karma_level":"22.00","iseditor":"0","global_id":"187414","facebook_uid":"1013267864","index":3,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1013267864\/picture"}],"meta":{"more_records":"false","start":0,"total":21,"order":"valued","totalCount":21},"commentStatus":"closed"});
+
+	window.App = new AML.Comments.Application(57725, commentList);
+	Backbone.history.start();
+      });
+    </script>
+
+  <!-- Comments and Other Stuff -->
+
+  <div id="ad-bottom" class="ad ad-boton">
+  <a class="ad-contact" id="div-gpt-bot-contact" style="display:none" href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-bot' class="ad-box" style='width: 728px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-bot");
+    });
+    </script>
+    </div>
+</div>
+
+  <!-- .ad - boton -->
+  <div class="sidebar-seo-links">
+    <h4>Más en Genbeta</h4>
+    <ul>
+              <li>
+          <a  href="/navegadores/chrome-33-para-windows-solo-permitira-instalar-extensiones-desde-chrome-web-store" class="thumb80">
+            <img title="Chrome 33 para Windows sólo permitirá instalar extensiones desde Chrome Web Store" src="http://img.genbeta.com/tb/80_80/110920.jpg" alt="Chrome 33 para Windows sólo permitirá instalar extensiones desde Chrome Web Store">
+          </a>
+          <a  href="/navegadores/chrome-33-para-windows-solo-permitira-instalar-extensiones-desde-chrome-web-store">
+            Chrome 33 para Windows sólo permitirá instalar extensiones desde Chrome Web Store
+          </a>
+        </li>
+              <li>
+          <a  href="/web/quien-te-ha-visto-y-quien-te-ve-google-la-imagen-de-la-semana" class="thumb80">
+            <img title="Quién te ha visto y quién te ve, Google. La imagen de la semana " src="http://img.genbeta.com/tb/80_80/110803.jpg" alt="Quién te ha visto y quién te ve, Google. La imagen de la semana ">
+          </a>
+          <a  href="/web/quien-te-ha-visto-y-quien-te-ve-google-la-imagen-de-la-semana">
+            Quién te ha visto y quién te ve, Google. La imagen de la semana 
+          </a>
+        </li>
+              <li>
+          <a  href="/actualidad/google-condenado-en-francia-a-verguenza-publica" class="thumb80">
+            <img title="Google condenado en Francia a vergüenza pública " src="http://img.genbeta.com/tb/80_80/110796.jpg" alt="Google condenado en Francia a vergüenza pública ">
+          </a>
+          <a  href="/actualidad/google-condenado-en-francia-a-verguenza-publica">
+            Google condenado en Francia a vergüenza pública 
+          </a>
+        </li>
+              <li>
+          <a  href="/web/cuanto-dinero-da-escoger-el-azul-adecuado-para-los-enlaces-a-google-200-millones" class="thumb80">
+            <img title="¿Cuánto dinero da escoger el azul adecuado para los enlaces? A Google, 200 millones" src="http://img.genbeta.com/tb/80_80/110728.jpg" alt="¿Cuánto dinero da escoger el azul adecuado para los enlaces? A Google, 200 millones">
+          </a>
+          <a  href="/web/cuanto-dinero-da-escoger-el-azul-adecuado-para-los-enlaces-a-google-200-millones">
+            ¿Cuánto dinero da escoger el azul adecuado para los enlaces? A Google, 200 millones
+          </a>
+        </li>
+              <li>
+          <a  href="/herramientas/los-desarrolladores-ya-pueden-integrar-sus-aplicaciones-con-chromecast" class="thumb80">
+            <img title="Los desarrolladores ya pueden integrar sus aplicaciones con Chromecast" src="http://img.genbeta.com/tb/80_80/110665.jpg" alt="Los desarrolladores ya pueden integrar sus aplicaciones con Chromecast">
+          </a>
+          <a  href="/herramientas/los-desarrolladores-ya-pueden-integrar-sus-aplicaciones-con-chromecast">
+            Los desarrolladores ya pueden integrar sus aplicaciones con Chromecast
+          </a>
+        </li>
+          </ul>
+</div>
+<!-- related-posts SEO links-->
+       
+    </div>
+  <!-- .container -->
+  </div>
+  <!-- .content-dinamic -->
+
+  <div class= "nav nav-blog">
+  <div class= "container">
+    <h2><strong>&#43;</strong> en Genbeta</h2>
+    <ul>
+      <li class= "blog-section section-lomejor"><a href="/lomejor">Lo mejor</a></li>
+      <li class= "blog-section section-temas"><a href="/archivos">Temas</a></li>
+            <li class= "blog-section section-productos"><a href="/productos">Productos</a></li>
+                  <li class= "blog-section section-respuestas"><a href="/respuestas">Respuestas</a></li>
+            
+            <li class="blog-section section-club"><a href="/club">Club</a></li>
+            <li class= "blog-section section-comunidad"><a href="/comunidad">Comunidad</a></li>
+      <li class="blog-section section-staff"><a href="/quienes-somos">Staff</a></li>
+    </ul>
+  </div>
+</div>
+  
+<div class="footer">
+        <div class="footer-media">
+                <div class="links-category">
+            <h2>Tecnología</h2>
+            <ul>
+                              <li class="tec-xataka"><a href="http://www.xataka.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka<span></span></a></li>
+                              <li class="tec-xatakamovil"><a href="http://www.xatakamovil.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Móvil<span></span></a></li>
+                              <li class="tec-xatakafoto"><a href="http://www.xatakafoto.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Foto<span></span></a></li>
+                              <li class="tec-xatakandroid"><a href="http://www.xatakandroid.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Android<span></span></a></li>
+                              <li class="tec-xatakaon"><a href="http://www.xatakaon.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka On<span></span></a></li>
+                              <li class="tec-xatakahome"><a href="http://www.xatakahome.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Smart Home<span></span></a></li>
+                              <li class="tec-xatakawindows"><a href="http://xatakawindows.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Windows<span></span></a></li>
+                              <li class="tec-xatakaciencia"><a href="http://www.xatakaciencia.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Ciencia<span></span></a></li>
+                              <li class="tec-applesfera"><a href="http://www.applesfera.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Applesfera<span></span></a></li>
+                              <li class="tec-vidaextra"><a href="http://www.vidaextra.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vida Extra<span></span></a></li>
+                              <li class="tec-genbeta"><a href="http://www.genbeta.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Genbeta<span></span></a></li>
+                              <li class="tec-genbetadev"><a href="http://www.genbetadev.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Genbeta Dev<span></span></a></li>
+                          </ul>
+        </div>
+            </div>
+    
+    <div class="footer-links">
+                        <div class="links-category">
+            <h2>Estilos de vida</h2>
+            <ul>
+                              <li><a href="http://www.trendencias.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias</a></li>
+                              <li><a href="http://www.trendenciasbelleza.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Belleza</a></li>
+                              <li><a href="http://www.trendenciashombre.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Hombre</a></li>
+                              <li><a href="http://www.trendenciasshopping.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Shopping</a></li>
+                              <li><a href="http://www.trendenciaslifestyle.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Lifestyle</a></li>
+                              <li><a href="http://www.directoalpaladar.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Directo al Paladar</a></li>
+                              <li><a href="http://www.bebesymas.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bebés y Más</a></li>
+                              <li><a href="http://www.pequesymas.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Peques y Más</a></li>
+                              <li><a href="http://www.vitonica.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vitónica</a></li>
+                              <li><a href="http://www.decoesfera.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Decoesfera</a></li>
+                              <li><a href="http://www.embelezzia.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Embelezzia</a></li>
+                              <li><a href="http://www.ambienteg.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ambiente G</a></li>
+                              <li><a href="http://www.poprosa.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Poprosa</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Motor</h2>
+            <ul>
+                              <li><a href="http://www.motorpasion.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión</a></li>
+                              <li><a href="http://www.motorpasionf1.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión F1</a></li>
+                              <li><a href="http://www.motorpasionmoto.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Moto</a></li>
+                              <li><a href="http://www.motorpasionfuturo.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Futuro</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Ocio</h2>
+            <ul>
+                              <li><a href="http://www.blogdecine.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog de Cine</a></li>
+                              <li><a href="http://www.vayatele.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">¡Vaya Tele!</a></li>
+                              <li><a href="http://www.hipersonica.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Hipersónica</a></li>
+                              <li><a href="http://www.diariodelviajero.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Diario del Viajero</a></li>
+                              <li><a href="http://www.papelenblanco.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Papel en Blanco</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Economía</h2>
+            <ul>
+                              <li><a href="http://www.elblogsalmon.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">El Blog Salmón</a></li>
+                              <li><a href="http://www.pymesyautonomos.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Pymes y Autónomos</a></li>
+                              <li><a href="http://www.tecnologiapyme.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Tecnología Pyme</a></li>
+                              <li><a href="http://www.ahorrodiario.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ahorro Diario</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Latinoamérica</h2>
+            <ul>
+                              <li><a href="http://www.xataka.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Brasil</a></li>
+                              <li><a href="http://www.trendencias.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Brasil</a></li>
+                              <li><a href="http://www.motorpasion.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Brasil</a></li>
+                              <li><a href="http://www.xataka.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka México</a></li>
+                              <li><a href="http://www.motorpasion.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión México</a></li>
+                              <li><a href="http://www.directoalpaladar.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Directo Al Paladar México</a></li>
+                              <li><a href="http://www.xatakandroid.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Android México</a></li>
+                              <li><a href="http://www.vidaextra.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vida Extra México</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Participamos en</h2>
+            <ul>
+                              <li><a href="http://www.ebayers.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">eBayers</a></li>
+                              <li><a href="http://www.circulaseguro.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Circula Seguro</a></li>
+                              <li><a href="http://www.circulaseguro.pt/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Circula Seguro PT</a></li>
+                              <li><a href="http://www.actibva.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Actibva</a></li>
+                              <li><a href="http://www.anexom.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Anexo M</a></li>
+                              <li><a href="http://blog.cocacola.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Happing Magazine</a></li>
+                              <li><a href="http://blog.sage.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog Sage</a></li>
+                              <li><a href="http://www.optimismodigital.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Optimismo Digital</a></li>
+                              <li><a href="http://www.1001experiencias.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">1001 Experiencias</a></li>
+                              <li><a href="http://www.ennaranja.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">En Naranja</a></li>
+                              <li><a href="http://www.essieblog.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Essie Blog</a></li>
+                              <li><a href="http://blogginzenith.zenithmedia.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bloggin Zenith</a></li>
+                              <li><a href="http://www.urbanfire.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Urbanfire</a></li>
+                              <li><a href="http://www.tecnologiadetuatu.elcorteingles.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Tecnología de tú a tú</a></li>
+                              <li><a href="http://www.ciudadano00.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ciudadano 0,0</a></li>
+                              <li><a href="http://blogfanta.cocacola.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog Fanta</a></li>
+                              <li><a href="http://mimundo.philips.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Mi Mundo Philips</a></li>
+                              <li><a href="http://www.bbvacontuempresa.es?utm_source=genbeta&utm_medium=network&utm_campaign=footer">BBVA con tu empresa</a></li>
+                              <li><a href="http://www.perutravelblog.net/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Perú Travel Blog</a></li>
+                              <li><a href="http://bscene.bershka.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bershka Bscene</a></li>
+                              <li><a href="http://www.institutodelafelicidad.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Instituto de la Felicidad</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                    </div>
+</div>
+
+<div class="closure">
+    <div class="container">
+        <div class="weblogssl"><a href="http://www.weblogssl.com">Weblogs SL<span></span></a></div>
+        <ul class="nav">
+            <li><a href="/quienes-somos">¿Quienes somos?</a></li>
+            <li><a href="http://www.weblogssl.com/contenidos">Condiciones de uso</a></li>
+            <li><a href="http://www.weblogssl.com/cookies">Política de cookies</a></li>
+            <li><a href="http://www.weblogssl.com/aviso">Aviso legal</a></li>
+            <li><a title="Publicidad en Genbeta" href="http://www.socialmediasl.com/genbeta.php">Publicidad</a></li>
+            <li><a href="/ayuda-2012">Ayuda</a></li>
+            <li><a href="/contacto">Contacto</a></li>
+        </ul>
+    </div>
+</div>
+
+<div id="cookies-overlay"></div>
+
+  <script type="text/javascript">
+    $(function() {
+      new AML.Auth.View.CookiesOverlayView;
+    });
+  </script>
+
+</div>
+<div id="favicons-list">
+
+    <div class="userbar">
+        <a class="head-shortcut" href="#body" title="Volver arriba">&uarr;</a>
+        <div class="userbox" id="wsl_userbox">
+        </div>
+
+        <div class="favicons" style="width: auto; ">
+
+            <div id="scroll-menu">
+
+                <div class="disabledHotSpotLeft">«</div>
+                <div class="disabledHotSpotRight">»</div>
+                <div class="scrollingHotSpotLeft">«</div>
+                <div class="scrollingHotSpotRight">»</div>
+
+                <div class="scrollWrapper">
+                    <div class="scrollableArea">
+
+                        <ul class="favicroll">
+                            <li id="wsl"><a target="_top" href="http://www.weblogssl.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><em><strong>Blog corporativo</strong></em></a></li>
+
+                            <li><a target="_top" href="http://www.xataka.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b1"><strong>XTK</strong></span> <em><strong>Xataka - Gadgets y electrónica de consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vidaextra.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b2"><strong>VX</strong></span> <em><strong>VidaExtra - Videojuegos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.blogdecine.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b3"><strong>BDC</strong></span> <em><strong>Blog de cine - Cine  y críticas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.elblogsalmon.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b5"><strong>EBS</strong></span> <em><strong>El Blog Salmón - Economía y finanzas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.genbeta.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b6"><strong>GBT</strong></span> <em><strong>Genbeta - Software</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasion.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b7"><strong>MP</strong></span> <em><strong>MotorPasión - Coches y motor</strong></em></a></li>
+                            <li><a target="_top" href="http://www.directoalpaladar.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b8"><strong>DAP</strong></span> <em><strong>Directo al paladar - Gastronomía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.bebesymas.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b9"><strong>BYM</strong></span> <em><strong>Bebés y más - Todo sobre bebés</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vayatele.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b11"><strong>VYT</strong></span> <em><strong>¡Vaya Tele! - Series y televisión</strong></em></a></li>
+                            <li><a target="_top" href="http://www.diariodelviajero.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b12"><strong>DDV</strong></span> <em><strong>Diario del viajero - Viajes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakaciencia.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b13"><strong>XCI</strong></span> <em><strong>Xataka Ciencia - Ciencia</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendencias.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b14"><strong>TRE</strong></span> <em><strong>Trendencias - Moda y tendencias</strong></em></a></li>
+                            <li><a target="_top" href="http://www.hipersonica.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b15"><strong>HIP</strong></span> <em><strong>HiperSónica - Música</strong></em></a></li>
+                            <li><a target="_top" href="http://www.applesfera.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b16"><strong>APP</strong></span> <em><strong>Applesfera - Apple</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasshopping.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b17"><strong>COM</strong></span> <em><strong>Trendencias Shopping - Compras y consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakamovil.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b18"><strong>XTM</strong></span> <em><strong>Xataka Móvil - Móviles</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ambienteg.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b19"><strong>AMG</strong></span> <em><strong>Ambiente G - Gays y lesbianas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionmoto.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b20"><strong>MMO</strong></span> <em><strong>Motorpasión Moto - Motos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.papelenblanco.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b21"><strong>PEB</strong></span> <em><strong>Papel en blanco - Literatura</strong></em></a></li>
+                            <li><a target="_top" href="http://www.decoesfera.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b22"><strong>DEC</strong></span> <em><strong>Decoesfera - Decoración e interiorismo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionf1.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b23"><strong>MF1</strong></span> <em><strong>Motorpasión F1 - Carreras</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vitonica.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b24"><strong>VIT</strong></span> <em><strong>Vitónica - Vida sana</strong></em></a></li>
+                            <li><a target="_top" href="http://www.embelezzia.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b25"><strong>EMB</strong></span> <em><strong>Embelezzia - Lujo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.poprosa.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b26"><strong>POP</strong></span> <em><strong>Poprosa - Famosos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakafoto.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b27"><strong>XTF</strong></span> <em><strong>Xataka Foto - Fotografía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.pymesyautonomos.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b28"><strong>PYA</strong></span> <em><strong>Pymes y autónomos - Pymes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasbelleza.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b30"><strong>TRB</strong></span> <em><strong>Trendencias Belleza - Belleza y cosmética</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.tecnologiapyme.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b34"><strong>TPY</strong></span> <em><strong>Tecnología Pyme - Tecnología para empresas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ahorrodiario.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b35"><strong>AHD</strong></span> <em><strong>Ahorro Diario - Ahorro</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciashombre.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b36"><strong>TRH</strong></span> <em><strong>Trendencias Hombre - Moda y estilo masculino</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.pequesymas.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b37"><strong>PEQ</strong></span> <em><strong>Peques y más - Niños e infancia</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakaon.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b39"><strong>XTO</strong></span> <em><strong>Xataka On - Todo sobre conectividad, ADSL</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakandroid.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b40"><strong>XTA</strong></span> <em><strong>Xataka Android - Android, aplicaciones y dispositivos</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.genbetadev.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b41"><strong>GBD</strong></span> <em><strong>Genbeta Dev - Desarrollo de software</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.motorpasionfuturo.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b42"><strong>MPF</strong></span> <em><strong>Motorpasión Futuro - Innovación y Motor</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakahome.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b44"><strong>XSH</strong></span> <em><strong>Xataka Smart Home - Inteligencia doméstica digital</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakawindows.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b45"><strong>XTW</strong></span> <em><strong>Xataka Windows - Universo Microsoft</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciaslifestyle.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b46"><strong>TLS</strong></span> <em><strong>Trendencias Lifestyle</strong></em></a></li>
+                        </ul>
+
+                    </div>
+                </div>
+                <!-- .scrollWrapper-->
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<div id="wsl_dialog"></div>
+<script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', function() {
+  try {
+    if (window.external.msIsSiteMode()) {
+      window.external.msSiteModeClearJumpList();
+      window.external.msSiteModeCreateJumplist('Mensajes Recientes');
+            window.external.msSiteModeAddJumpListItem('Office\x20para\x20iPad,\x20m\u00E1s\x20pronto\x20que\x20tarde\x3A\x20para\x20la\x20primera\x20mitad\x20de\x202014', 'http://www.genbeta.com/ofimatica/office-para-ipad-mas-pronto-que-tarde-para-la-primera-mitad-de-2014', '');
+            window.external.msSiteModeAddJumpListItem('Bittorrent\x20Live,\x20el\x20streaming\x20P2P,\x20llegar\u00E1\x20pronto\x20a\x20los\x20m\u00F3viles\x20', 'http://www.genbeta.com/multimedia/bittorrent-live-el-streaming-p2p-llegara-pronto-a-los-moviles', '');
+            window.external.msSiteModeAddJumpListItem('La\x20hipocres\u00EDa\x20de\x20algunos\x20medios\x20tradicionales.\x20La\x20imagen\x20de\x20la\x20semana\x20', 'http://www.genbeta.com/actualidad/la-hipocresia-de-algunos-medios-tradicionales-la-imagen-de-la-semana', '');
+            window.external.msSiteModeAddJumpListItem('\x22Tasa\x20Google\x22\x3A\x20si\x20tienes\x20un\x20blog\x20tambi\u00E9n\x20te\x20afecta,\x20solo\x20que\x20otros\x20la\x20cobrar\u00E1n\x20por\x20ti\x20', 'http://www.genbeta.com/actualidad/tasa-google-si-tienes-un-blog-tambien-te-afecta-solo-que-otros-la-cobraran-por-ti', '');
+            window.external.msSiteModeAddJumpListItem('Kickstarter,\x20tras\x20sufrir\x20un\x20ataque,\x20recomienda\x20cambiar\x20contrase\u00F1as\x20', 'http://www.genbeta.com/web/kickstarter-tras-sufrir-un-ataque-recomienda-cambiar-contrasenas', '');
+            window.external.msSiteModeShowJumpList();
+    }
+  } catch (exp) {
+    // do nothing
+  }
+  });
+</script>
+
+
+<script type='text/javascript'>
+    (function() {
+      new ViceVersaLink("http://t.genbeta.com");
+    })();
+</script>
+
+<script type='text/javascript'>
+  window.onerror = function(message, file, line) {
+    var sFormattedMessage = '[' + file + ' (' + line + ')] ' + message;
+    _gaq.push(['_trackEvent', 'Errors', 'Browser', sFormattedMessage, null, true]);
+  }
+    
+</script>
+
+</body>
+</html>

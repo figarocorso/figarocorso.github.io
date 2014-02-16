@@ -1,0 +1,845 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+                                                                                                                                                                                                                                                                                <title>Gimp "en una única ventana" se retrasa</title>
+                  <meta name="description" content="El lanzamiento de la versión 2.8 del editor libre Gimp se retrasa, anunciábamos que se lanzaría una Release Candidate por estas fechas. ¿Y..." />
+            <meta name="news_keywords" content="Software libre"/>
+       
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />    
+    <meta name='robots' content='noodp' />
+    <meta property="fb:admins" content="100000716994885"/>
+    <meta name="application-name" content="Genbeta"/>
+    <meta name="msapplication-tooltip" content="Software y web. Genbeta"/>
+    <meta name="msapplication-starturl" content="http://www.genbeta.com"/>
+    <meta name="msapplication-task" content="name=Lo mejor;action-uri=http://www.genbeta.com/lomejor;icon-uri=http://img.genbeta.com/lp2/v6/images/pin-bg-lomejor-icon.ico" />
+        <meta name="msapplication-task" content="name=Respuestas;action-uri=http://www.genbeta.com/respuestas;icon-uri=http://img.genbeta.com/lp2/v6/images/pin-bg-respuestas-icon.ico" />
+                <!--[if !IE]><!--> <link rel="shortcut icon" href="http://img.genbeta.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if lt IE 9]><!--> <link rel="shortcut icon" href="http://img.genbeta.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if gte IE 9]>
+            <link rel="shortcut icon" type="image/x-icon" href="http://img.genbeta.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+            <link rel=icon type="image/ico" href="http://img.genbeta.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+        <![endif]-->
+    
+    <link rel="apple-touch-icon" href="http://img.genbeta.com/lp2/mobile/images/apple-touch-icon.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-57-precomposed.png">
+
+        <link rel="stylesheet" type="text/css" href="http://img.genbeta.com/lp2/v6/main.css?v=24272">
+        <link rel="publisher" href="http://plus.google.com/106643481235450321345" />
+    <link rel="alternate" type="application/rss+xml" title="" href="/index.xml" />
+    <!--[if lt IE 7]>
+      <link rel="stylesheet" type="text/css" href="http://img.genbeta.com/lp2/v6/ie7.css">
+    <![endif]-->
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', "UA-78515-6"]);
+  _gaq.push(['_setCampaignCookieTimeout', 259200000]);
+  _gaq.push(['_setDomainName', ".genbeta.com"]);
+  _gaq.push(['_setSiteSpeedSampleRate', 5]);
+  _gaq.push(['t2._setAccount', "UA-78515-62"]);
+  _gaq.push(['t2._setCampaignCookieTimeout', 259200000]);
+  _gaq.push(['t2._setDomainName', ".genbeta.com"]);
+  (function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') +       '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  })();
+</script>
+
+ <link rel="canonical" href="http://www.genbeta.com/imagen-digital/gimp-en-una-unica-ventana-se-retrasa" />
+ <link rel="image_src" href="http://img.genbeta.com/resize/75/thumbnails/b/59399.jpg" />
+ <meta property="og:title" content="Gimp &quot;en una única ventana&quot; se retrasa">
+ <meta property="og:description" content="El lanzamiento de la versión 2.8 del editor libre Gimp se retrasa, anunciábamos que se lanzaría una Release Candidate por estas fechas. ¿Y...">
+ <meta property="og:image" content="http://img.genbeta.com/original/59399.jpg">
+    <script>
+    _gaq.push(['t2._setPageGroup', '1', 'post']);
+    _gaq.push(['t2._setPageGroup', '2', "miguel julián"]);
+    _gaq.push(['t2._setPageGroup', '3', "imagen-digital"]);
+    _gaq.push(['t2._setPageGroup', '4', "normal"]);
+    _gaq.push(['_setPageGroup', '1', 'post']);
+    _gaq.push(['_setPageGroup', '2', "miguel julián"]);
+    _gaq.push(['_setPageGroup', '3', "imagen-digital"]);
+    _gaq.push(['_setPageGroup', '4', "normal"]);
+       </script>
+   </head>
+       <body id="body" class="article-single">
+
+    <script type='text/javascript'>
+    var MAX_source = "";
+    var GPTcats = ["imagen-digital", "actualidad"];
+    var GPTtags = ["software-libre"];
+      </script>
+      <script type='text/javascript'>
+googletag.pubads().setTargeting("origin", "googlesearch").setTargeting("screen", screen.width.toString()).setTargeting("cat", GPTcats).setTargeting("tag", GPTtags);
+if (navigator.userAgent.match(/iPad/i) != null) {
+  googletag.pubads().setTargeting("ua", "ipad");
+} 
+ 
+googletag.defineSlot('/4712/GEB/interior_top', [1000, 40], 'div-gpt-top').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_lateral', [[160, 600], [200,600], [300,600], [300,250]], 'div-gpt-lat').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_central', [[300, 250], [400,400], [1000,250]], 'div-gpt-cen').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_central2', [[300, 250],[400,400],[690, 250]], 'div-gpt-cen2').addService(googletag.pubads());
+googletag.defineSlot('/1018282/GEB-BOT2-interior',[728, 90], 'div-gpt-bot').addService(googletag.pubads());
+googletag.defineSlot('/1018282/GEB-INP', [500, 80], 'div-gpt-inp').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interstitial', [1000, 525], 'div-gpt-int').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().enableSyncRendering();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+</script>
+
+       <script type="text/javascript">
+      WSL2 = {};
+      WSL2.config = {};
+      WSL2.config.fbapikey = "360028941603";
+      WSL2.config.cookieDomain = "";
+      WSL2.config.imagePath = 'http://img.genbeta.com/lp2/v6';
+      WSL2.config.siteName = "Genbeta";
+      window.___gcfg = {lang: 'es'};
+    </script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="http://code.jquery.com/jquery-migrate-1.1.0.js"></script>
+            <script src="http://img.weblogssl.com/LPbackend/prod/v2/js/frontend-758.js"></script>
+          <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _c1 = new WSL2.Cookie;
+      loginStatus = (_c1.hasSession()) ? "yes:" + _c1.loginType() : "no";
+      _gaq.push(['t2._setCustomVar', 4, '.genbeta.com', 'loginstatus:' + loginStatus, 2]);
+      _gaq.push(['_trackPageview']);
+      _gaq.push(['t2._trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); 
+    ga.type = 'text/javascript';
+    ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+  })();
+      var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "11306788" });
+         (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[1]; 
+          s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb": "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+    </script>
+
+    <div id="fb-root"></div>
+  <!-- fb needs this -->
+
+  <script src="//platform.twitter.com/widgets.js" id="tweetjs"></script>
+  <script src="//apis.google.com/js/plusone.js" id="gplus1js"></script>
+  <script src="//connect.facebook.net/es_ES/all.js#xfbml=1" id="fbjssdk"></script>
+  <div class="customize-me">
+  <div class="content-fixed">
+    <div class="container">
+                <!-- .header -->
+            <div class="header header-page">
+        <h1 class="site-logo"><a href="http://www.genbeta.com" title="Ir a la portada">Software y web. Genbeta<span></span></a></h1>
+        <form method="get" action="/busqueda" id="search" class="search" style="top:62px; width:310px; padding: 0;">
+    <p>
+        <input type="hidden" name="cx" value="partner-pub-9977500652563564:0292109475">
+        <input type="text" id="gsearch" name="q" accesskey="4" title="Buscar" placeholder="Busca en Genbeta con Google">
+        <input type="hidden" name="ie" value="UTF-8">
+        <input type="hidden" name="oe" value="UTF-8">
+        <input type="hidden" name="cof" value="FORID:10">
+        <button class="button">Buscar <span class="arrow">&raquo;</span></button>
+    </p>
+</form>
+<script type="text/javascript" src="http://www.google.es/coop/cse/brand?form=cse-search-box&amp;lang=es"></script>
+            <div class="nav nav-main">
+    <ul class="nav-primary">
+        <li class="home-link"><a href="/" title="Volver a portada">Portada</a></li>
+        <li class="respuestas-link"><a href="/respuestas">Respuestas</a></li>
+        <li class="temas-submenu">
+            <ul class="nav-secondary">
+                                   <li><a href="/categoria/actualidad" title="Ir a la categoría Actualidad">Actualidad</a></li>
+                                   <li><a href="/categoria/linux" title="Ir a la categoría Linux">Linux</a></li>
+                                   <li><a href="/categoria/movil" title="Ir a la categoría Móvil">Móvil</a></li>
+                                   <li><a href="/categoria/windows" title="Ir a la categoría Windows">Windows</a></li>
+                                   <li><a href="/categoria/herramientas" title="Ir a la categoría Herramientas">Herramientas</a></li>
+                                <li><a href="/archivos" title="Ver todas las categorías">Más &raquo;</a></li>
+            </ul>
+        </li>
+                  
+            </ul>
+</div>
+
+        <div class="nav nav-tags">
+        <h3>No te pierdas <span class="arrow">&raquo;</span></h3>
+        <ul>
+                        <li><a href="/tag/tasa-google" title="Todo sobre Tasa Google">Tasa Google</a></li>
+                        <li><a href="/tag/ley-lassalle" title="Todo sobre Ley Lassalle">Ley Lassalle</a></li>
+                        <li><a href="/tag/balance-de-windows-8" title="Todo sobre Balance de Windows 8">Balance de Windows 8</a></li>
+                        <li><a href="/tag/cazadores-de-fakes" title="Todo sobre Cazadores de Fakes">Cazadores de Fakes</a></li>
+                        <li><a href="/tag/satya-nadella" title="Todo sobre Satya Nadella">Satya Nadella</a></li>
+                    </ul>
+</div>
+<!-- .nav-tags -->
+
+                    <div class="ad ad-desplegable">
+  <a class="ad-contact" id="div-gpt-top-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+  <div class="ad-box">
+    <div id='div-gpt-top' style='width: 1000px;'>
+    <script type="text/javascript">
+        googletag.cmd.push(function() {
+        googletag.display("div-gpt-top");
+        });
+    </script>
+    </div>
+  </div>
+</div>
+<!-- .ad-box - desplegable -->
+
+  <div class="nav">
+   <ul class="article-nav-controls">
+                              <li><a class="article-control article-previous" href="/activismo-online/reunion-en-la-academia-de-cine-primeras-reacciones-de-los-internautas"><span>Reunión en la Academia de Cine: primeras reacciones de los internautas</span></a></li>
+                                             <li><a class="article-control article-next" href="/redes-sociales-y-comunidades/google-esta-probando-una-nueva-interfaz-para-igoogle-y-mas-anuncios-en-gmail"><span>Google está probando una nueva interfaz para iGoogle y más anuncios en Gmail</span></a></li>
+                  </ul>
+  </div>
+              </div>
+                   <div class="article article-pre-content">
+  <h1 class="article-header">Gimp "en una única ventana" se retrasa</h1>
+  <div class="article-date">30 de diciembre de 2010 | 13:19 CET <span id="is_editor"></span></div>
+  <div class="article-author-details">
+  <div class="figure">
+    <a rel='author' href="/autor/miguel-julian">
+      <img src="http://www.gravatar.com/avatar/14216b3a89c997bfc641f9d3abf7bc0b?s=80&amp;d=mm&amp;r=g" alt="miguel-julian">
+    </a>
+  </div>
+  <h2><a rel='author' href="/autor/miguel-julian">Miguel Julián</a></h2>
+      </div>
+<!-- .article-author-details -->
+</div>
+           </div>
+    <!-- .container -->
+  </div>
+  <!-- .content-fixed -->
+
+  <div class="content-dinamic">
+    <div class="container">
+          <script type="text/javascript">
+        $(function()
+        {
+          AML.postVoteView = new AML.Post.View.PostVoteView({postId:"59399", el:".social-sharing" });
+          AML.isEditorView = new AML.Post.View.IsEditorView({postId:"59399", model: WSL2.User });
+        });
+      </script>
+
+    <div class="aside">
+            <div id="ad-lateral" class="ad ad-primer-escaparate">
+  <a class="ad-contact" id="div-gpt-lat-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-lat' class="ad-box" style='width: 300px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-lat");
+    });
+    </script>
+    </div>
+</div>
+<!-- .ad-box - escaparate vertical -->
+
+           <!-- .ad-box - escaparate vertical -->
+            
+                  
+<div class="aside-box aside-subscribe">
+  <h3 class="aside-header">Síguenos</h3>
+  
+          
+  <form id="feedForm" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" >
+    <label for="subscribe-email">Newsletter:</label>  
+      <input type="text" name="email" type="text" id="feedburnermail" placeholder="Correo electrónico"/>
+      <input type="hidden" name="uri" value="genbeta"/>
+      <input type="hidden" name="loc" value="es_ES">
+      <button class="button" type="submit">Suscríbete <span class="arrow">&raquo;</span></button>
+  </form>
+  <ul class="subs-channels">
+    <li class="channel-rss" id="rss"> <a href="/index.xml" rel="nofollow" title="Suscríbete por RSS a las novedades en Genbeta"><span></span>RSS</a></li>
+    <li class="channel-twitter"><a href="http://twitter.com/genbeta" title="Sigue las novedades de Genbeta en Twitter"><span></span>Twitter</a></li>
+    <li class="channel-fb"><a href="http://www.facebook.com/pages/Genbeta/54999640934" title="Conéctate a la página de Genbeta en Facebook"><span></span>Facebook</a></li>
+    <li class="channel-gplus"><a href="https://plus.google.com/109731528328750280665/posts" title="Sigue a Genbeta en Google Plus"><span></span>Google Plus</a></li>
+    <li class="channel-feedly"><a style="margin-right: 0;" title="Suscríbete a Genbeta con Feedly" href='http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fwww.genbeta.com%2Findex.xml'  target='blank'><img id='feedlyFollow' src='http://img.weblogssl.com/g/xataka4/common/m-icon-feedly.png' alt='follow us in feedly' width='32' height='32'></a></li>
+  </ul>
+  <ul class="devices-channels">
+    <li><a title="Versión para móviles" href="http://m.genbeta.com" class="button button-secondary"><img src="http://img.weblogssl.com/g/xataka4/common/mobile.png">Versión móvil</a></li>
+        <li>
+        <a id="tabletViceVersaLink" href="http://t.genbeta.com" class="button button-secondary" title="Versión tablet"><img src="http://img.weblogssl.com/g/xataka4/common/tablet.png"> Versión tablet</a>
+    </li>
+      </ul>
+
+    <script>
+  $(function() {
+      $("#feedForm").submit(function(e) {
+          e.preventDefault();
+          email = $("#feedburnermail").val();
+          emailPattern = /^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$/i
+          if (emailPattern.test(email)) {
+              window.open('http://mailer.weblogssl.com/subscribe_check/' + email +'/genbeta/Genbeta','','width=500,height=500');
+          } else {
+              alert("El correo electrónico introducido no es correcto");
+          }
+      });
+  });
+  </script>
+  
+</div>
+            <!-- .article-promo -->
+    </div>
+
+    <!-- .aside -->
+
+                    
+    <div class="section section-article-single">
+            <div class="article">
+        <div class="article-summary">
+          <p><img id="image59400" src="http://img.genbeta.com/2010/12/gimp-2_8-retrasada.jpg" class="centro_sinmarco" alt="El lanzamiento de Gimp 2.8 se retrasa" /></p>
+
+                              <div class="article-metadata">
+            <div class="article-comments" id="postCommentCount">
+              <a href="#comments" title="Ir a comentarios">
+                Comentarios 35
+              </a>
+            </div>
+            <div class="article-links">
+              <div class="social-sharing">
+                <div class="social-sharing-widgets">
+                                    <div class="wsl-favorite">
+                    <button class="button button-small">Me gusta</button>
+                    <span class="wsl-count">5</span>
+                  </div>
+                                    <!-- twitter -->
+                  <a class="twitter-share-button" href="http://twitter.com/share" data-count="horizontal" data-url="http://www.genbeta.com/p/59399" data-counturl="http://www.genbeta.com/imagen-digital/gimp-en-una-unica-ventana-se-retrasa" data-text="Gimp &quot;en una única ventana&quot; se retrasa" data-via="genbeta" data-lang="es">Tweet</a>
+                  <!-- g+ -->
+                  <div class="g-plusone" data-size="medium" data-href="http://www.genbeta.com/imagen-digital/gimp-en-una-unica-ventana-se-retrasa" data-callback="gplusClickHandler" ></div>
+                  <!-- facebook like -->
+                  <div href="http://www.genbeta.com/imagen-digital/gimp-en-una-unica-ventana-se-retrasa" class="fb-like" data-send="false" data-layout="button_count" data-show-faces="false"></div>
+                </div>
+              </div>
+              <!-- .social-sharing -->
+            </div>
+            <!-- .article-links -->
+          </div>
+          <!-- .article-metadata -->
+
+
+          	<p></p>
+
+	<p><strong>El lanzamiento de la versión 2.8 del editor libre Gimp se retrasa</strong>, anunciábamos que se <a href="http://www.genbeta.com/imagen-digital/gimp-28-avanza-ya-podemos-probar-sus-novedades">lanzaría una Release Candidate</a> por estas fechas. ¿Y qué tiene de especial esa versión? Pues es la <em>muy esperada</em> versión de Gimp con una única ventana.</p>
+
+	<p>En la versión 2.7.1 se puede utilizar, a modo de prueba esa característica. Pero ofialmente no se ha liberado la versión que pretendía incluir esa opción; pero <strong>¿por qué se está retrasando tanto?</strong></p>
+
+	<p>El equipo de Gimp ahora mismo está formado por 2.5 desarrolladores después de que <strong>Martin Northolts no haya podido participar activamente</strong> durante este 2010, así que el equipo de desarrollo hace un llamamiento en busca de fondos y <a href="http://developer.gimp.org/">colaboración</a>.</p>
+
+	<p>Vía | <a href="http://www.omgubuntu.co.uk/2010/12/single-window-gimp-release-delayed-but-why/">OMG! UBuntu</a></p>                  </div>
+
+                        
+        <div class="ad links-ad-inpost">
+    <div id='div-gpt-inp' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-inp");
+    });
+    </script>
+    </div>
+</div>
+
+
+        
+        <div class="article-taxonomy">
+                      <div class="nav article-tags article-categories">
+  <h2>Categorías</h2>
+    <ul>
+                      
+      <li><a href="/categoria/imagen-digital">Imagen digital</a></li>
+                      
+      <li><a href="/categoria/actualidad">Actualidad</a></li>
+        </ul>
+</div>
+            <div class="nav article-tags">
+  <h2>Tags</h2>
+  <ul>
+                                             
+      <li><a href="/tag/software-libre">Software libre</a></li>
+          
+  </ul>
+</div>
+                  </div>
+        <!-- .article-metadata -->
+      </div>
+      <!-- .article -->
+    </div>
+    <!-- .section-articles -->
+            <div id="ad-center" class="ad ad-escaparate-medio">
+  <a class="ad-contact" id="div-gpt-cen-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-cen' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+
+        
+        
+    <div class="section section-related">
+               <div id="outBrainVerticalWidget" class="post-related-posts ">
+  <h3>Artículos recomendados</h3>
+  <div class="post-related-content">
+   
+    <div class="OUTBRAIN" data-src="http://www.genbeta.com/imagen-digital/gimp-en-una-unica-ventana-se-retrasa" data-widget-id="AR_2" data-ob-template="genbeta" >
+    </div>
+    <script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js">
+    </script>
+  </div>
+  <!-- .post-related-content -->
+  <p class="post-related-more">
+    <a href="/categoria/imagen-digital" title="Ver más artículos relacionados">
+    Ver más artículos <span class="arrow">»</span>    
+    </a>
+    </p>
+</div>     
+      <div class="post-related-products">
+   <h3>Productos</h3>
+   <div id="post-related-products" class="post-related-content">
+                <script type="text/javascript">
+        $(function()
+        {
+          WSL2.config.imageUrl = "http://img.genbeta.com"
+          WSL2.config.Products = {}
+          WSL2.config.Products.iwishihave = {}
+          WSL2.config.Products.iwishihave.buttonOne = "ME GUSTA"
+          WSL2.config.Products.iwishihave.buttonTwo = "LO ODIO"
+
+          var product = new AML.Products.Model.Product({"id":"21035","nicename":"gimp","name":"GIMP","photo_post_id":"61289","users_votes_sum":"174","users_votes_count":"21","ihave_count":"137","iwish_count":"35","category_nicename":"programas-fotografia","cat_id":"421","category_type":"2","adspot_price":"0"}, {"pageUrlPrefix":"productos"});
+          AML.productView = new AML.Products.View.ProductView({model:product, userModel: WSL2.User});
+        });
+      </script>
+        </div>
+  <p class="post-related-more">
+    <a href="/productos/programas-fotografia/gimp" title="Ver más productos relacionados">
+      Ver más productos <span class="arrow">»</span>
+    </a>
+  </p>
+ </div>
+<!-- .post-related-products -->
+     <div class="post-related-qa">
+    <h3>Respuestas</h3>
+        <div class="post-related-content">
+            <ul>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>3</strong>
+                    </div>
+                    <a href="/respuestas/que-mejoras-le-harian-al-software-libre-que-exite-especializado-en-diseno">¿Que mejoras le harian al Software Libre que exite especializado en Diseño ?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2011-05-26T10:36:07Z"></abbr>
+                    </span>            
+                </li>
+                        </ul>
+        </div>
+        <!-- .post-related-content -->
+        <p class="post-related-more">
+            <a href="/respuestas" title="Ver más respuestas relacionados">
+                Ver más respuestas
+                <span class="arrow">»</span>
+            </a>
+        </p>
+</div>
+
+<script type="text/javascript">
+   $(function(){
+      $("abbr.timeago").timeago();
+   });
+</script>
+     </div>
+
+
+  <!-- Comments Section -->
+        <a id="to-comments"></a>
+  <div id="comments" class="section section-comments">
+            <div class="standalone-message">
+            <div class="message aviso"><h3>Los comentarios se han cerrado</h3></div>
+        </div>
+        <!-- #comment-write -->
+            <div id="ad-center2" class="ad ad-segundo-escaparate">
+  <a class="ad-contact" id="div-gpt-cen2-contact" style='display:none'
+  href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-cen2' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen2");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+    <div id="comments-header" class="header-section">
+      <div class="comment-order">
+    	<h3>Ordenar por:</h3>
+      </div>
+      <!-- #comment-order -->
+          	<h2>
+              34 comentarios
+            </h2>
+    </div>
+    <div id="top-section-settings"></div>
+    <ul class="comment-list"></ul>
+        <div class="nav"></div>
+    <div id="bottom-section-settings"></div>
+  </div>
+    <script type="text/javascript">
+      $(function()
+      {
+        var commentList = new AML.Comments.Model.CommentList({},{postId:59399});
+        commentList.resetParsed({"comments":[{"id":"324006","post_id":"59399","date":1293718399,"content_filtered":"<p>Uno de los problemas que le encuentro al software libre es que en ves de unir fuerzas en mejorar un solo proyecto se empe\u00f1an en desarrollar muchos proyectos que intentan resolver el mismo problema y por ello nos encontramos un mont\u00f3n de programa con funciones muy similares pero todos con alguna deficiencia. El software libre deber\u00eda unir fuerzas en un proyectos en ves de diversificarse en muchos proyectos similares.<\/p>","content":"<p>Uno de los problemas que le encuentro al software libre es que en ves de unir fuerzas en mejorar un solo proyecto se empe\u00f1an en desarrollar muchos proyectos que intentan resolver el mismo problema y por ello nos encontramos un mont\u00f3n de programa con funciones muy similares pero todos con alguna deficiencia. El software libre deber\u00eda unir fuerzas en un proyectos en ves de diversificarse en muchos proyectos similares.<\/p>","karma":"105.50","parent":"0","comment_edited_date":"","vote_count":"8","comment_level":2,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"51740","user_id":"51740","author":"","webpage":null,"user_name":"carloshn90","karma_level":"37.00","iseditor":"0","global_id":"193850","facebook_uid":"1598589315","index":2,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1598589315\/picture"},{"id":"324094","post_id":"59399","date":1293750282,"content_filtered":"<p>Yo opino como tu. En Linux, si en vez de tanta distro se centrasen todos de verdad en una o como mucho dos distros, podr\u00eda salir algo BRUTAL de bueno.<\/p>\n\n<p>Linux mola, pero queda mucho camino a\u00fan por recorrer en cuanto a facilitarlo todo a un nivel como el de windows y sin que aparezcan bugs raros cada dos por tres (paquetes rotos que impiden instalar nada m\u00e1s y que no puedes arreglar) y pulir bugs y dotar a todo de una mayor estabilidad como minimo al nivel de Debian.<\/p>\n\n<p>Pero eso no suceder\u00e1... la comunidad sigue empe\u00f1ada en dividir esfuerzos, como si la mejor opci\u00f3n fuese la cantidad en lugar de la calidad.<\/p>\n\n<p>De todos modos y volviendo a Gimp, es un grandisimo software.<\/p>","content":"<p>Yo opino como tu. En Linux, si en vez de tanta distro se centrasen todos de verdad en una o como mucho dos distros, podr\u00eda salir algo BRUTAL de bueno.<\/p>\n\n<p>Linux mola, pero queda mucho camino a\u00fan por recorrer en cuanto a facilitarlo todo a un nivel como el de windows y sin que aparezcan bugs raros cada dos por tres (paquetes rotos que impiden instalar nada m\u00e1s y que no puedes arreglar) y pulir bugs y dotar a todo de una mayor estabilidad como minimo al nivel de Debian.<\/p>\n\n<p>Pero eso no suceder\u00e1... la comunidad sigue empe\u00f1ada en dividir esfuerzos, como si la mejor opci\u00f3n fuese la cantidad en lugar de la calidad.<\/p>\n\n<p>De todos modos y volviendo a Gimp, es un grandisimo software.<\/p>","karma":"32.50","parent":"324006","comment_edited_date":"","vote_count":"4","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"zcullyx","user_id":"64850","author":"zcullyx","webpage":"http:\/\/www.facilware.com","user_name":null,"karma_level":"26.00","iseditor":"0","global_id":"274787","facebook_uid":"702827685","index":17,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/274787_1.png"},{"id":"324129","post_id":"59399","date":1293791266,"content_filtered":"<p>Es lo divertido de usar GNU Linux ... resolver problemas del sistema (por mas estupidos que sean como una libreria instalada en un directorio incorrecto).<\/p>\n\n<p>Pulir bugs -&gt; esta es la tarea de toda persona relacionada al mundo de la programacion, resolver problemas en pocas palabras...<\/p>\n\n<p>Dotar todo de una mayor estabilidad -&gt; De eso encargate tu, si tu instalaste GNU Linux como sistema operativo (osea no venia pre-instalado en tu PC): NADIE tiene por que darte soporte, puedes pedirlo Y PAGAR POR EL \u00f3 buscarlo en las comunidades de software libre, alguna persona debe tener el mismo problema que tu y las comunidades estan para hacerte mas sencillo todo...<\/p>\n\n<p>La comunidad del Software Libre es IGUAL a cualquier comunidad: una comunidad de personas. No puedes hacer pensar a todas las personas de una misma manera, de ser asi todo seria algo que nadie podria controlar a su manera, un \"big brother\" que nos maneja con lo que ellos quieren.<\/p>\n\n<p>Por eso tambien es tan divertido y unico GNU Linux: tu eres el unico que le da sus toques al sistema, nadie mas... no es (asumiendo que usas *buntu) Canonical quien te ayudara a resolver tus problemas con el sistema que ellos desarrollan, si ellos quieren dejan de desarrollarlo tu no les pagas por trabajar a ellos.<\/p>\n\n<p>Y de nuevo con Gimp... yo no le veo ningun problema, solo por que no es igual a Photoshop no significa que no sea bueno, sabiendolo utilizar, puedes hacer grandes cosas con el.<\/p>\n\n<p>Bueno, Saludos a todos.<\/p>","content":"<p>Es lo divertido de usar GNU Linux ... resolver problemas del sistema (por mas estupidos que sean como una libreria instalada en un directorio incorrecto).<\/p>\n\n<p>Pulir bugs -&gt; esta es la tarea de toda persona relacionada al mundo de la programacion, resolver problemas en pocas palabras...<\/p>\n\n<p>Dotar todo de una mayor estabilidad -&gt; De eso encargate tu, si tu instalaste GNU Linux como sistema operativo (osea no venia pre-instalado en tu PC): NADIE tiene por que darte soporte, puedes pedirlo Y PAGAR POR EL \u00f3 buscarlo en las comunidades de software libre, alguna persona debe tener el mismo problema que tu y las comunidades estan para hacerte mas sencillo todo...<\/p>\n\n<p>La comunidad del Software Libre es IGUAL a cualquier comunidad: una comunidad de personas. No puedes hacer pensar a todas las personas de una misma manera, de ser asi todo seria algo que nadie podria controlar a su manera, un \"big brother\" que nos maneja con lo que ellos quieren.<\/p>\n\n<p>Por eso tambien es tan divertido y unico GNU Linux: tu eres el unico que le da sus toques al sistema, nadie mas... no es (asumiendo que usas *buntu) Canonical quien te ayudara a resolver tus problemas con el sistema que ellos desarrollan, si ellos quieren dejan de desarrollarlo tu no les pagas por trabajar a ellos.<\/p>\n\n<p>Y de nuevo con Gimp... yo no le veo ningun problema, solo por que no es igual a Photoshop no significa que no sea bueno, sabiendolo utilizar, puedes hacer grandes cosas con el.<\/p>\n\n<p>Bueno, Saludos a todos.<\/p>","karma":"35.00","parent":"324094","comment_edited_date":"","vote_count":"5","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"Jose Miguel Salcido Aguilar","user_id":"48568","author":"Jose Miguel Salcido Aguilar","webpage":"http:\/\/otfusion.org\/jose152","user_name":"jose152","karma_level":"34.00","iseditor":"0","global_id":"200947","facebook_uid":"903035262","index":24,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/903035262\/picture"},{"id":"324009","post_id":"59399","date":1293718692,"content_filtered":"<p>T\u00fa me dir\u00e1s qu\u00e9 proyecto (de software libre) le hace sombra a Gimp.<\/p>\n\n<p>Respecto a la noticia no me extra\u00f1a que sea inferior a photoshop si cuenta con tan pocos programadores, incluso me parece incre\u00edble que con tan escasos fondos logren hacer una aplicaci\u00f3n de esta calidad.<\/p>","content":"<p>T\u00fa me dir\u00e1s qu\u00e9 proyecto (de software libre) le hace sombra a Gimp.<\/p>\n\n<p>Respecto a la noticia no me extra\u00f1a que sea inferior a photoshop si cuenta con tan pocos programadores, incluso me parece incre\u00edble que con tan escasos fondos logren hacer una aplicaci\u00f3n de esta calidad.<\/p>","karma":"30.00","parent":"324006","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"zanr","user_id":"15059","author":"","webpage":"http:\/\/nadiyama.uni.cc","user_name":"zanr","karma_level":"56.00","iseditor":"0","global_id":"121910","facebook_uid":null,"index":3,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/e992124b1b8c497b25df0d7fa1bbabeb"},{"id":"324011","post_id":"59399","date":1293719357,"content_filtered":"<p>pues un ejemplo es paint.net como ya han mencionado en el primer comentario y no solo me refiero a los programa de dise\u00f1o sino en general.<\/p>","content":"pues un ejemplo es paint.net como ya han mencionado en el primer comentario y no solo me refiero a los programa de dise\u00f1o sino en general.","karma":"8.00","parent":"324009","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"51740","user_id":"51740","author":"","webpage":null,"user_name":"carloshn90","karma_level":"37.00","iseditor":"0","global_id":"193850","facebook_uid":"1598589315","index":5,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1598589315\/picture"},{"id":"324023","post_id":"59399","date":1293722983,"content_filtered":"<p>Krita no le hace sombra, se mea, se rie en su cara, le mira desde lo alto y le dice \"He, mira, todo lo que no tienes t\u00fa, lo tengo yo,...\"<\/p>\n\n<p><a href=\"http:\/\/noesbuenosersincero.blogspot.com\/2010\/12\/krita-o-lo-que-gimp-deberia-ser.html\" rel=\"nofollow\">http:\/\/noesbuenosersincero.blogspot.com\/2010\/12\/krita-o-lo-que-gimp-deberia-ser.html<\/a><\/p>\n\n<p>Hay que aceptarlo, GIMP es un programa desfasado que tuvo su momento de gloria pero que ya sirve para poco o nada.<\/p>","content":"<p>Krita no le hace sombra, se mea, se rie en su cara, le mira desde lo alto y le dice \"He, mira, todo lo que no tienes t\u00fa, lo tengo yo,...\"<\/p>\n\n<p><a href=\"http:\/\/noesbuenosersincero.blogspot.com\/2010\/12\/krita-o-lo-que-gimp-deberia-ser.html\" rel=\"nofollow\">http:\/\/noesbuenosersincero.blogspot.com\/2010\/12\/krita-o-lo-que-gimp-deberia-ser.html<\/a><\/p>\n\n<p>Hay que aceptarlo, GIMP es un programa desfasado que tuvo su momento de gloria pero que ya sirve para poco o nada.<\/p>","karma":"5.50","parent":"324009","comment_edited_date":"","vote_count":"6","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"bulktrasher","user_id":"11506","author":"","webpage":null,"user_name":"bulktrasher","karma_level":"22.00","iseditor":"0","global_id":"97967","facebook_uid":null,"index":6,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/ca914df20791e4477be85bf11c039a49"},{"id":"324029","post_id":"59399","date":1293723640,"content_filtered":"<p>Curioso, pero es para KDE por lo que en Gnome creo que no estar\u00e1 tan bien implementado...<\/p>","content":"<p>Curioso, pero es para KDE por lo que en Gnome creo que no estar\u00e1 tan bien implementado...<\/p>","karma":"7.50","parent":"324023","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"1","comment_author":"zanr","user_id":"15059","author":"","webpage":"http:\/\/nadiyama.uni.cc","user_name":"zanr","karma_level":"56.00","iseditor":"0","global_id":"121910","facebook_uid":null,"index":8,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/e992124b1b8c497b25df0d7fa1bbabeb"},{"id":"324030","post_id":"59399","date":1293723746,"content_filtered":"<p>Lo uso en GNOME, las ventanas tienen otro tema pero por lo dem\u00e1s perfecto.<\/p>","content":"Lo uso en GNOME, las ventanas tienen otro tema pero por lo dem\u00e1s perfecto.","karma":"8.00","parent":"324029","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"4","comment_approved":"1","comment_author":"bulktrasher","user_id":"11506","author":"","webpage":null,"user_name":"bulktrasher","karma_level":"22.00","iseditor":"0","global_id":"97967","facebook_uid":null,"index":9,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/ca914df20791e4477be85bf11c039a49"},{"id":"324026","post_id":"59399","date":1293723145,"content_filtered":"<p>Se me olvidaba, y aunque Krita le da mil vueltas a Linux. No he visto a ning\u00fan fanatico de Linux defendiendolo, eso si, a GIMP todos mentandolo cuando lleva una decada de retraso...<\/p>","content":"<p>Se me olvidaba, y aunque Krita le da mil vueltas a Linux. No he visto a ning\u00fan fanatico de Linux defendiendolo, eso si, a GIMP todos mentandolo cuando lleva una decada de retraso...<\/p>","karma":"3.00","parent":"324009","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"bulktrasher","user_id":"11506","author":"","webpage":null,"user_name":"bulktrasher","karma_level":"22.00","iseditor":"0","global_id":"97967","facebook_uid":null,"index":7,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/ca914df20791e4477be85bf11c039a49"},{"id":"324085","post_id":"59399","date":1293744225,"content_filtered":"<p>\u00bfA en el software privativo las empresas unen fuerzas y no compiten entre ellas?<\/p>\n\n<p>En el software libre los esfuerzos no se desperdician en la medida que tu crees. Los componentes de software pueden ser ampliamente reusables entre diversos proyectos. Por ejemplo, la gente de Gimp tiempo atr\u00e1s creo un toolkit que permite dibujar widgets y frames, asi como recibir y delegar eventos. Ese toolkit se llama GTK, es ahora un proyecto independiente, y muchos (miles) de programas libres lo usan.<\/p>","content":"<p>\u00bfA en el software privativo las empresas unen fuerzas y no compiten entre ellas?<\/p>\n\n<p>En el software libre los esfuerzos no se desperdician en la medida que tu crees. Los componentes de software pueden ser ampliamente reusables entre diversos proyectos. Por ejemplo, la gente de Gimp tiempo atr\u00e1s creo un toolkit que permite dibujar widgets y frames, asi como recibir y delegar eventos. Ese toolkit se llama GTK, es ahora un proyecto independiente, y muchos (miles) de programas libres lo usan.<\/p>","karma":"10.00","parent":"324006","comment_edited_date":"","vote_count":"3","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"atoi","user_id":"66650","author":"","webpage":null,"user_name":"atoi","karma_level":"66.00","iseditor":"0","global_id":"315999","facebook_uid":null,"index":15,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/712204108df99c7d6db4b2f30e05cb66"},{"id":"324122","post_id":"59399","date":1293781690,"content_filtered":"<p>En el software privado pagas a los desarrolladores para que se enfoquen en un proyecto. Puedes hacerlo mientras los recursos (sobre todo econ\u00f3micos) te alcancen.<\/p>","content":"<p>En el software privado pagas a los desarrolladores para que se enfoquen en un proyecto. Puedes hacerlo mientras los recursos (sobre todo econ\u00f3micos) te alcancen.<\/p>","karma":"10.50","parent":"324085","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"xallow","user_id":"9302","author":"","webpage":null,"user_name":"xallow","karma_level":"40.00","iseditor":"0","global_id":"84472","facebook_uid":null,"index":22,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/84472_1.png"},{"id":"324805","post_id":"59399","date":1294389559,"content_filtered":"<p>\u00bfY crees que en el software libre no?\nQuiz\u00e1 no sea el caso de Gimp, pero muchas soluciones libres, como ser Gnome, GTK, Qt, KDE, Linux, Apache, X11, Wine y gcc, por nombrar algunas, tienen programadores que desarrollan durante sus horas de trabajo. De hecho empresas como IBM, Intel, Sony, Apple, Redhat, Nokia, Novel y Google, entre otras, tienen equipos dedicados a los proyectos de software libre.<br \/><\/p>","content":"<p>\u00bfY crees que en el software libre no?\r\nQuiz\u00e1 no sea el caso de Gimp, pero muchas soluciones libres, como ser Gnome, GTK, Qt, KDE, Linux, Apache, X11, Wine y gcc, por nombrar algunas, tienen programadores que desarrollan durante sus horas de trabajo. De hecho empresas como IBM, Intel, Sony, Apple, Redhat, Nokia, Novel y Google, entre otras, tienen equipos dedicados a los proyectos de software libre.<br><\/p>","karma":"5.00","parent":"324122","comment_edited_date":1294389738,"vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"1","comment_author":"atoi","user_id":"66650","author":"","webpage":null,"user_name":"atoi","karma_level":"66.00","iseditor":"0","global_id":"315999","facebook_uid":null,"index":34,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/712204108df99c7d6db4b2f30e05cb66"},{"id":"324010","post_id":"59399","date":1293718881,"content_filtered":"<p><a href=\"http:\/\/www.gimp.org\/donating\/\" rel=\"nofollow\">http:\/\/www.gimp.org\/donating\/<\/a>\nQuien pueda se recomiendan donaciones. Incluso 10$ se considera una buena ayuda, entre todos podemos ^^, sino decirselo a los de <a href=\"http:\/\/www.humblebundle.com\/\" rel=\"nofollow\">http:\/\/www.humblebundle.com\/<\/a><\/p>\n\n<p>La verdad que es un proyecto grande e importante, ya veis lo que se puede hacer con pocos recursos y sin grandes empresas detras, luego os quejais de que es mejor o pero en x caracteristicas \u00ac\u00ac.<\/p>\n\n<p>Para los usuarios domesticos y algunos empresariales es de gran ayuda integrar todo en una unica interfaz, aunque ya otros dise\u00f1adores profesionales saben de la ventaja de trabajar con dual o triple head en temas de dise\u00f1o y la ventajas que Gimp da para ello =D.\nLa verdad que es una caracteristica muy demandada pero que no debe imponerse obligatoriamente claro.<\/p>","content":"<p><a href=\"http:\/\/www.gimp.org\/donating\/\" rel=\"nofollow\">http:\/\/www.gimp.org\/donating\/<\/a>\nQuien pueda se recomiendan donaciones. Incluso 10$ se considera una buena ayuda, entre todos podemos ^^, sino decirselo a los de <a href=\"http:\/\/www.humblebundle.com\/\" rel=\"nofollow\">http:\/\/www.humblebundle.com\/<\/a><\/p>\n\n<p>La verdad que es un proyecto grande e importante, ya veis lo que se puede hacer con pocos recursos y sin grandes empresas detras, luego os quejais de que es mejor o pero en x caracteristicas \u00ac\u00ac.<\/p>\n\n<p>Para los usuarios domesticos y algunos empresariales es de gran ayuda integrar todo en una unica interfaz, aunque ya otros dise\u00f1adores profesionales saben de la ventaja de trabajar con dual o triple head en temas de dise\u00f1o y la ventajas que Gimp da para ello =D.\nLa verdad que es una caracteristica muy demandada pero que no debe imponerse obligatoriamente claro.<\/p>","karma":"40.00","parent":"0","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"0","comment_author":"Blackgem Vindicare","user_id":"48762","author":"Blackgem Vindicare","webpage":"http:\/\/blog.vindicare.es","user_name":"blackgem","karma_level":"39.00","iseditor":"0","global_id":"236104","facebook_uid":null,"index":4,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/236104_1.png"},{"id":"324040","post_id":"59399","date":1293728679,"content_filtered":"<p>Algo as\u00ed estaba por decir.<\/p>\n\n<p>Est\u00e1 bien que la gente hable de sus carencias porque seguro las tendr\u00e1 y decir la verdad no es trampa, pero que no olvide que es un proyecto que trabaja literalmente con las u\u00f1as (como muchos en el software libre), a\u00fan a pesar de su importancia.<\/p>\n\n<p>La gente cree que todo es Ubuntu y Firefox que viven en una burbuja de abundancia, de dinero f\u00e1cil y resultados cojos, y se han acostumbrado a ignorar lo que hay m\u00e1s all\u00e1, un mont\u00f3n de proyectos que casi se mueren de hambre y que sobreviven sin tanto bombo publicitario y mucho menos de derroches fara\u00f3nicos.<\/p>","content":"<p>Algo as\u00ed estaba por decir.<\/p>\n\n<p>Est\u00e1 bien que la gente hable de sus carencias porque seguro las tendr\u00e1 y decir la verdad no es trampa, pero que no olvide que es un proyecto que trabaja literalmente con las u\u00f1as (como muchos en el software libre), a\u00fan a pesar de su importancia.<\/p>\n\n<p>La gente cree que todo es Ubuntu y Firefox que viven en una burbuja de abundancia, de dinero f\u00e1cil y resultados cojos, y se han acostumbrado a ignorar lo que hay m\u00e1s all\u00e1, un mont\u00f3n de proyectos que casi se mueren de hambre y que sobreviven sin tanto bombo publicitario y mucho menos de derroches fara\u00f3nicos.<\/p>","karma":"3.00","parent":"324010","comment_edited_date":1293728769,"vote_count":"3","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"apolon","user_id":"65031","author":"apolon","webpage":"http:\/\/votame.negativo.fanboy.deprimido","user_name":"apolon","karma_level":"40.00","iseditor":"0","global_id":"305242","facebook_uid":null,"index":10,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/305242_2.png"},{"id":"324095","post_id":"59399","date":1293750386,"content_filtered":"<p>GIMP tiene lo necesario para lo que necesito. Al contrario de la mayor\u00eda siempre vuelvo a GIMP antes que a PS, la raz\u00f3n, aprend\u00ed antes a usar GIMP que PS.<\/p>","content":"<p>GIMP tiene lo necesario para lo que necesito. Al contrario de la mayor\u00eda siempre vuelvo a GIMP antes que a PS, la raz\u00f3n, aprend\u00ed antes a usar GIMP que PS.<\/p>","karma":"30.00","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"CBj","user_id":"1356","author":"CBj","webpage":"http:\/\/benja316.shekalug.org","user_name":"benja316","karma_level":"26.00","iseditor":"0","global_id":"38978","facebook_uid":null,"index":18,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/4f4cb4b4a6a4642387157968ba5d6a6b"},{"id":"324103","post_id":"59399","date":1293755490,"content_filtered":"<p>Quizas hace unos a\u00f1os, pero ya estoy mas que acostumbrado a la interfaz que tiene ahora...<\/p>","content":"<p>Quizas hace unos a\u00f1os, pero ya estoy mas que acostumbrado a la interfaz que tiene ahora...<\/p>","karma":"28.00","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"49848","user_id":"49848","author":"","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"198387","facebook_uid":"100000331555476","index":20,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100000331555476\/picture"},{"id":"324002","post_id":"59399","date":1293717395,"content_filtered":"<p>Una l\u00e1stima, porque creo que es lo que le falta a GIMP para despegar, si bien hay partidarios de una y otra interfaz. Personalmente preferir\u00eda una \u00fanica ventana.<\/p>\n\n<p>Si no se dan prisa les puede seguir ganando terreno Paint.NET, con menos funciones, pero lo suficientemente potente como para servir de programa de \"cabecera\" para muchos usuarios.<\/p>","content":"<p>Una l\u00e1stima, porque creo que es lo que le falta a GIMP para despegar, si bien hay partidarios de una y otra interfaz. Personalmente preferir\u00eda una \u00fanica ventana.<\/p>\n\n<p>Si no se dan prisa les puede seguir ganando terreno Paint.NET, con menos funciones, pero lo suficientemente potente como para servir de programa de \"cabecera\" para muchos usuarios.<\/p>","karma":"20.00","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"70717","user_id":"70717","author":"","webpage":null,"user_name":"alvarosm","karma_level":"30.00","iseditor":"0","global_id":"334663","facebook_uid":"1216458593","index":1,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1216458593\/picture"},{"id":"324044","post_id":"59399","date":1293729910,"content_filtered":"<p>ami me gustaban las ventanas separadas... :S<\/p>","content":"<p>ami me gustaban las ventanas separadas... :S<\/p>","karma":"20.00","parent":"0","comment_edited_date":"","vote_count":"3","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"theguillox","user_id":"72045","author":"","webpage":null,"user_name":"theguillox","karma_level":"22.00","iseditor":"0","global_id":"340121","facebook_uid":null,"index":11,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/7e610949f8a8d4e44b9a69d9e7fd7629"},{"id":"324045","post_id":"59399","date":1293729929,"content_filtered":"<p>Heh, cuando me inicie en Ilustracion como la mayoria de los novatos me fui a The GIMP, pero a los d\u00edas le dije adi\u00f3s, desde hace mucho todo lo que necesito para trazar, colorear y componer lo encuentro en Inkcape inkscape.org\/?lang=es , MyPaint mypaint.intilinux.com\/  y Kitra www.koffice.org\/krita\/<\/p>\n\n<p>Sinceramente Inkscape tiene poco o nada que envidiar a CorelDraw o Illustator, que aunque algo m\u00e1s primitivo lo uso para trazar vectores en mi primera opcion, tanto en mi viejo mandriva spring, como en windows xp. Lo mismo con MyPaint, es simple pero completisimo su interfaz no distrae y aunque le falta soporte para formatos mas populares (.ORA que es eso? ;) ) proporciona capacidades que ni el mismo photoshop tiene, mas bien MyPaint es un digno contendiente de CorelPainter X... y en algunos casos mejor, otros no tanto<\/p>\n\n<p>y asi llegamos a la edicion de imagenes... la Iconoclasta \u00a0interfaz de GIMP desanima mucho, pero aun mas su extrema lentitud. por eso Krita, no es perfecto tampoco, pero permite terminar mis garabatos cuando estoy en linux, en windows obviamente es PSCS3. ;)<\/p>\n\n<p>y si...no se necesita un MAC para ser artista... el pinguino ofrece mucho, y de muy buena calidad...es ironico que uno de sus proyectos mas longevos (GIMP) sea poco amigable (aunque es poderoso trabajando por lotes), por lo demas en las otras areas de la ilustracion, otras alternativas Open source son  casi perfectas y no extra\u00f1arias nada si te mudas desde otro OS... y lo digo en serio :)\u00a0<\/p>","content":"<p>Heh, cuando me inicie en Ilustracion como la mayoria de los novatos me fui a The GIMP, pero a los d\u00edas le dije adi\u00f3s, desde hace mucho todo lo que necesito para trazar, colorear y componer lo encuentro en Inkcape inkscape.org\/?lang=es , MyPaint mypaint.intilinux.com\/  y Kitra www.koffice.org\/krita\/<\/p>\n\n<p>Sinceramente Inkscape tiene poco o nada que envidiar a CorelDraw o Illustator, que aunque algo m\u00e1s primitivo lo uso para trazar vectores en mi primera opcion, tanto en mi viejo mandriva spring, como en windows xp. Lo mismo con MyPaint, es simple pero completisimo su interfaz no distrae y aunque le falta soporte para formatos mas populares (.ORA que es eso? ;) ) proporciona capacidades que ni el mismo photoshop tiene, mas bien MyPaint es un digno contendiente de CorelPainter X... y en algunos casos mejor, otros no tanto<\/p>\n\n<p>y asi llegamos a la edicion de imagenes... la Iconoclasta \u00a0interfaz de GIMP desanima mucho, pero aun mas su extrema lentitud. por eso Krita, no es perfecto tampoco, pero permite terminar mis garabatos cuando estoy en linux, en windows obviamente es PSCS3. ;)<\/p>\n\n<p>y si...no se necesita un MAC para ser artista... el pinguino ofrece mucho, y de muy buena calidad...es ironico que uno de sus proyectos mas longevos (GIMP) sea poco amigable (aunque es poderoso trabajando por lotes), por lo demas en las otras areas de la ilustracion, otras alternativas Open source son  casi perfectas y no extra\u00f1arias nada si te mudas desde otro OS... y lo digo en serio :)\u00a0<\/p>","karma":"20.00","parent":"0","comment_edited_date":1293730184,"vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"ccd","user_id":"9298","author":"","webpage":null,"user_name":"ccd","karma_level":"30.00","iseditor":"0","global_id":"84460","facebook_uid":null,"index":12,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/84460_5.png"},{"id":"324075","post_id":"59399","date":1293739091,"content_filtered":"<p>No mames, que capacidades te ofrece MyPaint que no tengas en Photoshop, jajaajaja, digo esta bien defender el soft libre pero tampoco da para decir mentiras tan pelotudas, llevo a\u00f1os trabajando en Photoshop y todavia me segue sorprendiendo con cosas que sigo descubriendo q pude hacer, que \"MyPaint proporciona capacidades que ni el mismo Photoshop tiene\" ??? iluminame porque me gustaria saber cuales son ess capacidades. porfavor lo que hay que leer...<\/p>","content":"<p>No mames, que capacidades te ofrece MyPaint que no tengas en Photoshop, jajaajaja, digo esta bien defender el soft libre pero tampoco da para decir mentiras tan pelotudas, llevo a\u00f1os trabajando en Photoshop y todavia me segue sorprendiendo con cosas que sigo descubriendo q pude hacer, que \"MyPaint proporciona capacidades que ni el mismo Photoshop tiene\" ??? iluminame porque me gustaria saber cuales son ess capacidades. porfavor lo que hay que leer...<\/p>","karma":"2.50","parent":"324045","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"kahlessbk","user_id":"72341","author":"","webpage":null,"user_name":"kahlessbk","karma_level":"25.00","iseditor":"0","global_id":"341597","facebook_uid":null,"index":14,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/341597_1.png"},{"id":"324087","post_id":"59399","date":1293745894,"content_filtered":"<p>Pues aunque no se que se refiere con el t\u00e9rmino \"No mames\", me adhiero de cierta manera al comentario, que capacidades ofrece que CS no?\".<\/p>\n\n<p>Hay que ser justos y honestos, adem\u00e1s de sinceros, yo AMO linux, pero jam\u00e1s dir\u00eda que hay alg\u00fan programa mejor que Photoshop, por que simplemente no existe.<\/p>\n\n<p>Gimp podr\u00e1 ser un estandarte para el soft libre, pero no es alternativa, es m\u00e1s ni competencia a CS.<\/p>\n\n<p>Y esta bien as\u00ed, por que para gustos, colores, pero en mi caso personal, Gimp se me hace inusable, lento, con errores de CYMYK y a veces en saturaciones RGB, es complicado  enviar archivos echos en GIMP para imprentas...me estresa usar ese soft.<\/p>\n\n<p>Saludos.<\/p>","content":"Pues aunque no se que se refiere con el t\u00e9rmino \"No mames\", me adhiero de cierta manera al comentario, que capacidades ofrece que CS no?\".\n\nHay que ser justos y honestos, adem\u00e1s de sinceros, yo AMO linux, pero jam\u00e1s dir\u00eda que hay alg\u00fan programa mejor que Photoshop, por que simplemente no existe.\n\nGimp podr\u00e1 ser un estandarte para el soft libre, pero no es alternativa, es m\u00e1s ni competencia a CS.\n\nY esta bien as\u00ed, por que para gustos, colores, pero en mi caso personal, Gimp se me hace inusable, lento, con errores de CYMYK y a veces en saturaciones RGB, es complicado  enviar archivos echos en GIMP para imprentas...me estresa usar ese soft.\n\nSaludos.","karma":"10.00","parent":"324075","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"last","user_id":"7261","author":"","webpage":"","user_name":"last","karma_level":"32.00","iseditor":"0","global_id":"71514","facebook_uid":null,"index":16,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/71514_1.png"},{"id":"324100","post_id":"59399","date":1293754031,"content_filtered":"<p>Por supuesto, pinceles, y velocidad.  para colorear y dibujar solo necesitas eso y capas. los brushes de PS son digitales y no emulan la sensacion de una pincelada \"real\" por muchos pinceles que bajes de DA... por eso existen programas como Corel Painter X, para llenar ese espacio que PS no cubre...el arte digital.<\/p>\n\n<p>MyPaint es una alternativa libre a Painter X, y estos dos son orientados a la ilistracion y el dibujo no como PS el cual se orienta a la fotocomposicion y manipulacion de imagen QUE NO ES LO MISMO...por extensi\u00f3n los dos primeros possen capacidades innatas que PS no tiene...<\/p>","content":"Por supuesto, pinceles, y velocidad.  para colorear y dibujar solo necesitas eso y capas. los brushes de PS son digitales y no emulan la sensacion de una pincelada \"real\" por muchos pinceles que bajes de DA... por eso existen programas como Corel Painter X, para llenar ese espacio que PS no cubre...el arte digital.\n\nMyPaint es una alternativa libre a Painter X, y estos dos son orientados a la ilistracion y el dibujo no como PS el cual se orienta a la fotocomposicion y manipulacion de imagen QUE NO ES LO MISMO...por extensi\u00f3n los dos primeros possen capacidades innatas que PS no tiene...","karma":"10.00","parent":"324087","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"1","comment_author":"ccd","user_id":"9298","author":"","webpage":null,"user_name":"ccd","karma_level":"30.00","iseditor":"0","global_id":"84460","facebook_uid":null,"index":19,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/84460_5.png"},{"id":"324130","post_id":"59399","date":1293791887,"content_filtered":"<p>Portabilidad, eso te ofrece MyPaint, cosa que PhotoShop solo funciona en OS X y Windows... actualmente.<\/p>\n\n<p>Economia, MyPaint es gratuito!, PhotoShop te cuesta una lana (y si lo tienes crackeado, pues es tu etica no la mia)<\/p>\n\n<p>Yo en Windows prefiero utilizar PhotoShop a MyPaint, no te mentire, pero no trabajo con Windows, si en la escuela trabajo con Windows y prefiero utilizar PhotoShop, pero si puedo hacer algo con MyPaint \u00f3 GIMP, lo hago... prefiero batallar a mi manera a hacerlo siguiendo un tutorial \u00f3 clickeando a lo estupido a que salga algo mejor.<\/p>\n\n<p>Aparte, no compares una suit que lleva a\u00f1os trabajando con imagenes con un proyecto que no data mas aya del 2000...<\/p>\n\n<p>Y despues de eso, si puedes hacer algo con MyPaint mejor \u00f3 parecido a lo que puedes hacer con la suit X (PhotoShop) pues, mejor quedate con la opcion libre, no seas un idiota!<\/p>\n\n<p>Saludos<\/p>","content":"<p>Portabilidad, eso te ofrece MyPaint, cosa que PhotoShop solo funciona en OS X y Windows... actualmente.<\/p>\n\n<p>Economia, MyPaint es gratuito!, PhotoShop te cuesta una lana (y si lo tienes crackeado, pues es tu etica no la mia)<\/p>\n\n<p>Yo en Windows prefiero utilizar PhotoShop a MyPaint, no te mentire, pero no trabajo con Windows, si en la escuela trabajo con Windows y prefiero utilizar PhotoShop, pero si puedo hacer algo con MyPaint \u00f3 GIMP, lo hago... prefiero batallar a mi manera a hacerlo siguiendo un tutorial \u00f3 clickeando a lo estupido a que salga algo mejor.<\/p>\n\n<p>Aparte, no compares una suit que lleva a\u00f1os trabajando con imagenes con un proyecto que no data mas aya del 2000...<\/p>\n\n<p>Y despues de eso, si puedes hacer algo con MyPaint mejor \u00f3 parecido a lo que puedes hacer con la suit X (PhotoShop) pues, mejor quedate con la opcion libre, no seas un idiota!<\/p>\n\n<p>Saludos<\/p>","karma":"-22.50","parent":"324075","comment_edited_date":"","vote_count":"4","comment_level":4,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"Jose Miguel Salcido Aguilar","user_id":"48568","author":"Jose Miguel Salcido Aguilar","webpage":"http:\/\/otfusion.org\/jose152","user_name":"jose152","karma_level":"34.00","iseditor":"0","global_id":"200947","facebook_uid":"903035262","index":25,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/903035262\/picture"},{"id":"324208","post_id":"59399","date":1293916585,"content_filtered":"<p>Dios, estos talibanes del soft libre ya cansan, primero que nadie te insulto, asique m\u00e1s idiota ser\u00e1s tu que te contradices cada 2 oraciones, primero dices que tienes \u00c9tica (ser\u00e1) t\u00fa debes de ser el primero que tiene los programas craqueados y despu\u00e9s sales a tirar mierda a los que lo pagan, despu\u00e9s dices que usas Photoshop en Windows, pero rematas con que no trabajas en Windows, vaya hombre a ver si te pones de acuerdo con tus propias palabras.\nTe parece a ti que los grandes dise\u00f1adores y las grandes editoras y todos los expertos en fotograf\u00eda, mas todos los especialistas de imagen del mundo que saben y est\u00e1n acostumbrados a la calidad del trabajo y de los resultados que brinda Photoshop lo van a tirar todo a la basura por las est\u00fapidas cualidades de siempre de un programita barato de soft libre permanentemente en estado beta por q es 0.0.0.9154.4 beta cuanto ?,  portabilidad ???? Gratuito ???? joder solo a los idiotas del sof libre les importa este tipo de cualidades in\u00fatiles, hombre la gente no pierde su tiempo con las filosof\u00edas de stallman que son muy bonitas pero en la vida real \u2026 Siguen en el 0.93% de uso en el mundo, que Linux es muy buen S.O eso no lo discuto, lastimosamente las aplicaciones que hay para \u00e9l es lo que deja mucho que desear.\nY al tonto que piensa qu\u00e9 Mypaint tiene mejores brushes que Photoshop macho dime que te fumas que te pone muy alto jajajaja, ni Corel Paniter se acerca a lo que Photoshop pude hacer, pero bue si t\u00fa dices que no es as\u00ed, bueno sigue en tu mundo de fantas\u00eda de soft libre. Solo av\u00edsales a las grandes productoras a los artistas digitales y a todos los que trabajan con imagen que esto que dices es as\u00ed porque la \u00faltima vez que vi todos usaban Photoshop y no por no conocer otras opciones, sino porque ninguna le llega a los talones tan siquiera, el que m\u00e1s se le acerca podr\u00eda ser krita no lo niego el mejor programa de retoque e imagen de SoftLibre que probado en Linux, pero all\u00ed sigue peleando para surgir ya dentro de poco conseguir\u00e1 tener las mismas caracter\u00edsticas que Photoshop  7.0 que sali\u00f3 en el 2001.<\/p>","content":"<p>Dios, estos talibanes del soft libre ya cansan, primero que nadie te insulto, asique m\u00e1s idiota ser\u00e1s tu que te contradices cada 2 oraciones, primero dices que tienes \u00c9tica (ser\u00e1) t\u00fa debes de ser el primero que tiene los programas craqueados y despu\u00e9s sales a tirar mierda a los que lo pagan, despu\u00e9s dices que usas Photoshop en Windows, pero rematas con que no trabajas en Windows, vaya hombre a ver si te pones de acuerdo con tus propias palabras.\nTe parece a ti que los grandes dise\u00f1adores y las grandes editoras y todos los expertos en fotograf\u00eda, mas todos los especialistas de imagen del mundo que saben y est\u00e1n acostumbrados a la calidad del trabajo y de los resultados que brinda Photoshop lo van a tirar todo a la basura por las est\u00fapidas cualidades de siempre de un programita barato de soft libre permanentemente en estado beta por q es 0.0.0.9154.4 beta cuanto ?,  portabilidad ???? Gratuito ???? joder solo a los idiotas del sof libre les importa este tipo de cualidades in\u00fatiles, hombre la gente no pierde su tiempo con las filosof\u00edas de stallman que son muy bonitas pero en la vida real \u2026 Siguen en el 0.93% de uso en el mundo, que Linux es muy buen S.O eso no lo discuto, lastimosamente las aplicaciones que hay para \u00e9l es lo que deja mucho que desear.\nY al tonto que piensa qu\u00e9 Mypaint tiene mejores brushes que Photoshop macho dime que te fumas que te pone muy alto jajajaja, ni Corel Paniter se acerca a lo que Photoshop pude hacer, pero bue si t\u00fa dices que no es as\u00ed, bueno sigue en tu mundo de fantas\u00eda de soft libre. Solo av\u00edsales a las grandes productoras a los artistas digitales y a todos los que trabajan con imagen que esto que dices es as\u00ed porque la \u00faltima vez que vi todos usaban Photoshop y no por no conocer otras opciones, sino porque ninguna le llega a los talones tan siquiera, el que m\u00e1s se le acerca podr\u00eda ser krita no lo niego el mejor programa de retoque e imagen de SoftLibre que probado en Linux, pero all\u00ed sigue peleando para surgir ya dentro de poco conseguir\u00e1 tener las mismas caracter\u00edsticas que Photoshop  7.0 que sali\u00f3 en el 2001.<\/p>","karma":"-12.50","parent":"324130","comment_edited_date":"","vote_count":"2","comment_level":4,"comment_deleted_date":"","tree_level":"3","comment_approved":"1","comment_author":"kahlessbk","user_id":"72341","author":"","webpage":null,"user_name":"kahlessbk","karma_level":"25.00","iseditor":"0","global_id":"341597","facebook_uid":null,"index":28,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/341597_1.png"},{"id":"324209","post_id":"59399","date":1293917983,"content_filtered":"<p>Tanta parrafada junta..., si, como quieras..., pero no veo argumentos decentes, metes topicos por doquier y sin saber a que agarrarte.<\/p>\n\n<p>Por cierto, mira las peliculas del Estudio de Blender, otro caso de que con minimos recursos y software libre se hace bastante.<\/p>\n\n<p>Y por cierto..., sabias que seguramente este mismo blog esta basado en Drupal?.\nSabias que los navegadores lideres en el mercado son libres.<\/p>\n\n<p>Sabias que no debes comparar cosas al mismo nivel si en una hay miles de empleados con sueldo de por medio si en otra apenas unos pocos pagados?\nY claro, tampoco sabras que la amyoria de brushes, fuentes, algoritmos y opciones que vienen en Photoshop son libres... pero claro... algunos prefieren no buscar e instalarse 5 DVD de extras XD.<\/p>\n\n<p>Y lo de betas..., bueno..., supongo que tu no sabes ni de cuando datan las ultimas versiones oficiales estables de los programas que tienes instalados, pues desde que hace media decada todo programa que se instala es una beta continua en la mayoria de casos. Unos lo admiten de una forma mas contundente que no busca publicitarse otros lo hacen al estilo Chrome con versiones mayores aun con carencias.\nLuego estan los que no consideraria ni betas, como IE... pero mejor dejar ese tema XD.<\/p>\n\n<p>Lo que no se porque en un tema dedicado para apoyar a un software que se nos ofrece a todos viene otro a quejarse y despotricar contra el resto.<\/p>","content":"<p>Tanta parrafada junta..., si, como quieras..., pero no veo argumentos decentes, metes topicos por doquier y sin saber a que agarrarte.<\/p>\n\n<p>Por cierto, mira las peliculas del Estudio de Blender, otro caso de que con minimos recursos y software libre se hace bastante.<\/p>\n\n<p>Y por cierto..., sabias que seguramente este mismo blog esta basado en Drupal?.\nSabias que los navegadores lideres en el mercado son libres.<\/p>\n\n<p>Sabias que no debes comparar cosas al mismo nivel si en una hay miles de empleados con sueldo de por medio si en otra apenas unos pocos pagados?\nY claro, tampoco sabras que la amyoria de brushes, fuentes, algoritmos y opciones que vienen en Photoshop son libres... pero claro... algunos prefieren no buscar e instalarse 5 DVD de extras XD.<\/p>\n\n<p>Y lo de betas..., bueno..., supongo que tu no sabes ni de cuando datan las ultimas versiones oficiales estables de los programas que tienes instalados, pues desde que hace media decada todo programa que se instala es una beta continua en la mayoria de casos. Unos lo admiten de una forma mas contundente que no busca publicitarse otros lo hacen al estilo Chrome con versiones mayores aun con carencias.\nLuego estan los que no consideraria ni betas, como IE... pero mejor dejar ese tema XD.<\/p>\n\n<p>Lo que no se porque en un tema dedicado para apoyar a un software que se nos ofrece a todos viene otro a quejarse y despotricar contra el resto.<\/p>","karma":"17.50","parent":"324208","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"4","comment_approved":"0","comment_author":"Blackgem Vindicare","user_id":"48762","author":"Blackgem Vindicare","webpage":"http:\/\/blog.vindicare.es","user_name":"blackgem","karma_level":"39.00","iseditor":"0","global_id":"236104","facebook_uid":null,"index":29,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/236104_1.png"},{"id":"324284","post_id":"59399","date":1294019764,"content_filtered":"<p>Mira que de parrafada junta igual de est\u00fapida que la tuya, e igualmente metes tu un mont\u00f3n de argumentos que nada tienen que ver ni con el post ni con mi comentario y menos con el tema en discusi\u00f3n, un troll con todas las letras vamos, yo  por lo menos me eh limitado  a la discusi\u00f3n de entre los programas de imagen que es el t\u00f3pico y la discusi\u00f3n  aqu\u00ed, asique ya me explicas tu qu\u00e9 carajo tienen que ver blender, los navegadores libres y cuanta gilipolles mas dec\u00eds t\u00fa, es est\u00fapido y t\u00edpico de los talibanes que cuando se quedan sin argumentos con que defender sus preciosos programas o preceptos del soft libre te salen a cruce con un mont\u00f3n de pelotudeces que solo les importa a ellos, hombre que es lo siguiente que me dir\u00e1s que  Linux  es el S.O m\u00e1s usado  en el servidor ?? Jajaja si ya te estoy oyendo jajaja  como si eso tuviera algo que ver con el tema en cuesti\u00f3n. Adem\u00e1s de que como si eso le importara a alguien m\u00e1s que a ti.<\/p>\n\n<p>Dime que tiene que ver las pel\u00edculas de blender  ????  Que tiene que ver que este sitio este hecho en drupal que tienen que ver los navegadores ??? es de una incoherencia tal tu comentario que no se a qu\u00e9 demonios te refieres.\nSab\u00edas que yo no compare en ning\u00fan momento los soft, de echo el que los comparo fue la persona que hiso el coment al que respondo, yo me limite a decir que las cosas que puso son todas mentiras, Photoshop fue, es y ser\u00e1, el l\u00edder en arte digital y retoqu\u00e9 de imagen mucho que les pese a ti y a todos los talibanes de la free soft fundation, ya me explicas como  hasta los realizadores de la pel\u00edcula Plum\u00edferos usaron Photoshop para crear texturas para su peli hecha en blender, dicho sea de paso pel\u00edcula supuestamente echa 100% en soft libre que al final tuvieron que terminarla usando un mont\u00f3n de programas propietarios en post producci\u00f3n por no poder terminarla con lo que les ofrec\u00eda tu glorioso soft libre, entre ellos final cut mas privativo y cerrado imposible. Asique que me vienes a hablar de lecciones de moral de soft libre., d\u00e9jate de payasadas y usa la mejor herramienta para cada caso, ya es hora de que dejes la consola majo.\nY si los soft de la comunidad tiene la costumbre de estar en beta permanente, y jamas negu\u00e9 que existan buenos programas de soft  libre, claro que los hay un que muy pocos, pero este no es el caso ni t\u00fa te crees que mypaint supera a Photoshop, asique a ver si dejan de decir pelotudeses de fan\u00e1tico resentido, como lo de 5 DVDs  para Photoshop ?? te parece a ti este un comentario de nivel jajaja joder, ni tu te la crees, y si me ocupa un DVD la suit completa de Adobe Master Collection y tengo todos los mejores programas de dise\u00f1o e imagen que pueda necesitar, mucho problema para ti, bueno sigue persiguiendo ventanas por doquier con Gimp, o probando broshes de p\u00e9sima calidad con mypaint, o compilando 3 n\u00facleos y 3 gigas de c\u00f3digo cada ves que quieras cambiar un puta opci\u00f3n de render en cinelerra. Anda que a la suit de Adobe solo le falta el 3D, pero para eso los amigos de Autodesk, con Maya, Softimage, 3Ds, flame etc, etc, blend\u2026 que ???. Get a live, and a Girlfriend lol.<\/p>","content":"<p>Mira que de parrafada junta igual de est\u00fapida que la tuya, e igualmente metes tu un mont\u00f3n de argumentos que nada tienen que ver ni con el post ni con mi comentario y menos con el tema en discusi\u00f3n, un troll con todas las letras vamos, yo  por lo menos me eh limitado  a la discusi\u00f3n de entre los programas de imagen que es el t\u00f3pico y la discusi\u00f3n  aqu\u00ed, asique ya me explicas tu qu\u00e9 carajo tienen que ver blender, los navegadores libres y cuanta gilipolles mas dec\u00eds t\u00fa, es est\u00fapido y t\u00edpico de los talibanes que cuando se quedan sin argumentos con que defender sus preciosos programas o preceptos del soft libre te salen a cruce con un mont\u00f3n de pelotudeces que solo les importa a ellos, hombre que es lo siguiente que me dir\u00e1s que  Linux  es el S.O m\u00e1s usado  en el servidor ?? Jajaja si ya te estoy oyendo jajaja  como si eso tuviera algo que ver con el tema en cuesti\u00f3n. Adem\u00e1s de que como si eso le importara a alguien m\u00e1s que a ti.<\/p>\n\n<p>Dime que tiene que ver las pel\u00edculas de blender  ????  Que tiene que ver que este sitio este hecho en drupal que tienen que ver los navegadores ??? es de una incoherencia tal tu comentario que no se a qu\u00e9 demonios te refieres.\nSab\u00edas que yo no compare en ning\u00fan momento los soft, de echo el que los comparo fue la persona que hiso el coment al que respondo, yo me limite a decir que las cosas que puso son todas mentiras, Photoshop fue, es y ser\u00e1, el l\u00edder en arte digital y retoqu\u00e9 de imagen mucho que les pese a ti y a todos los talibanes de la free soft fundation, ya me explicas como  hasta los realizadores de la pel\u00edcula Plum\u00edferos usaron Photoshop para crear texturas para su peli hecha en blender, dicho sea de paso pel\u00edcula supuestamente echa 100% en soft libre que al final tuvieron que terminarla usando un mont\u00f3n de programas propietarios en post producci\u00f3n por no poder terminarla con lo que les ofrec\u00eda tu glorioso soft libre, entre ellos final cut mas privativo y cerrado imposible. Asique que me vienes a hablar de lecciones de moral de soft libre., d\u00e9jate de payasadas y usa la mejor herramienta para cada caso, ya es hora de que dejes la consola majo.\nY si los soft de la comunidad tiene la costumbre de estar en beta permanente, y jamas negu\u00e9 que existan buenos programas de soft  libre, claro que los hay un que muy pocos, pero este no es el caso ni t\u00fa te crees que mypaint supera a Photoshop, asique a ver si dejan de decir pelotudeses de fan\u00e1tico resentido, como lo de 5 DVDs  para Photoshop ?? te parece a ti este un comentario de nivel jajaja joder, ni tu te la crees, y si me ocupa un DVD la suit completa de Adobe Master Collection y tengo todos los mejores programas de dise\u00f1o e imagen que pueda necesitar, mucho problema para ti, bueno sigue persiguiendo ventanas por doquier con Gimp, o probando broshes de p\u00e9sima calidad con mypaint, o compilando 3 n\u00facleos y 3 gigas de c\u00f3digo cada ves que quieras cambiar un puta opci\u00f3n de render en cinelerra. Anda que a la suit de Adobe solo le falta el 3D, pero para eso los amigos de Autodesk, con Maya, Softimage, 3Ds, flame etc, etc, blend\u2026 que ???. Get a live, and a Girlfriend lol.<\/p>","karma":"-10.00","parent":"324209","comment_edited_date":"","vote_count":"1","comment_level":4,"comment_deleted_date":"","tree_level":"5","comment_approved":"1","comment_author":"kahlessbk","user_id":"72341","author":"","webpage":null,"user_name":"kahlessbk","karma_level":"25.00","iseditor":"0","global_id":"341597","facebook_uid":null,"index":32,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/341597_1.png"},{"id":"324555","post_id":"59399","date":1294207915,"content_filtered":"<p>Yo no s\u00e9 porqu\u00e9 existe la costumbre de que a la hora de despotricar contra el talibanismo o fanboysmo en el <strike>Software Libre<\/strike> Open Source siempre salta la FSF, GNU o Stallman.<\/p>\n\n<p>Parad\u00f3jicamente esos son los sectores menos fanboys y menos talibanes y los m\u00e1s l\u00f3gicos y sensatos. Esos son los sectores que menos pretenden venderte a \"linux\" a toda costa, porque a ellos no les importa que todo el mundo use linux ni conquistar el mundo, lo que le importa es que a la gente le importe el Software Libre. Si no te importa el Software Libre no les interesa mucho que t\u00fa lo uses.<\/p>\n\n<p>Por ejemplo jam\u00e1s ver\u00e1s a Stallman, a la FSF a GNU decir eso que insin\u00faas, porque ellos no defienden al Software Libre por su calidad sino porque es Libre.<\/p>\n\n<p>El mito muy escuchado de que el <strike>Software Libre<\/strike> Software Open Source es mejor, m\u00e1s completo y m\u00e1s potente que el Software Privativo, es pregonado por el Open Source porque su filosof\u00eda\/mito se basa en que el software es mejor, m\u00e1s potente, m\u00e1s seguro y todo lo dem\u00e1s, siempre por tener el modelo de desarrollo del Open Sorce. \u00c9stas son las personas que te insistir\u00edan en cosas irreales como que el \"editor X\" Abierto es mejor que el Photoshop porque es Abierto y si es Abierto es mejor.<\/p>\n\n<p>La FSF te dice que el Software Libre puede ser bueno o puede ser malo, pero es Libre y ellos lo eligen porque eligen lo Libre, independientemente de la calidad. De hecho hay una frase de Stallman que dice casi literalmente esto, incluso especificando el caso en que es de menor calidad (a prop\u00f3sito lo dijo en el contexto sobre las diferencias entre el Open Sorce y el Software Libre).<\/p>","content":"<p>Yo no s\u00e9 porqu\u00e9 existe la costumbre de que a la hora de despotricar contra el talibanismo o fanboysmo en el <strike>Software Libre<\/strike> Open Source siempre salta la FSF, GNU o Stallman.<\/p>\n\n<p>Parad\u00f3jicamente esos son los sectores menos fanboys y menos talibanes y los m\u00e1s l\u00f3gicos y sensatos. Esos son los sectores que menos pretenden venderte a \"linux\" a toda costa, porque a ellos no les importa que todo el mundo use linux ni conquistar el mundo, lo que le importa es que a la gente le importe el Software Libre. Si no te importa el Software Libre no les interesa mucho que t\u00fa lo uses.<\/p>\n\n<p>Por ejemplo jam\u00e1s ver\u00e1s a Stallman, a la FSF a GNU decir eso que insin\u00faas, porque ellos no defienden al Software Libre por su calidad sino porque es Libre.<\/p>\n\n<p>El mito muy escuchado de que el <strike>Software Libre<\/strike> Software Open Source es mejor, m\u00e1s completo y m\u00e1s potente que el Software Privativo, es pregonado por el Open Source porque su filosof\u00eda\/mito se basa en que el software es mejor, m\u00e1s potente, m\u00e1s seguro y todo lo dem\u00e1s, siempre por tener el modelo de desarrollo del Open Sorce. \u00c9stas son las personas que te insistir\u00edan en cosas irreales como que el \"editor X\" Abierto es mejor que el Photoshop porque es Abierto y si es Abierto es mejor.<\/p>\n\n<p>La FSF te dice que el Software Libre puede ser bueno o puede ser malo, pero es Libre y ellos lo eligen porque eligen lo Libre, independientemente de la calidad. De hecho hay una frase de Stallman que dice casi literalmente esto, incluso especificando el caso en que es de menor calidad (a prop\u00f3sito lo dijo en el contexto sobre las diferencias entre el Open Sorce y el Software Libre).<\/p>","karma":"5.50","parent":"324284","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"6","comment_approved":"1","comment_author":"apolon","user_id":"65031","author":"apolon","webpage":"http:\/\/votame.negativo.fanboy.deprimido","user_name":"apolon","karma_level":"40.00","iseditor":"0","global_id":"305242","facebook_uid":null,"index":33,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/305242_2.png"},{"id":"324123","post_id":"59399","date":1293781987,"content_filtered":"<p>Mas que una unificaci\u00f3n de ventanas yo preferir\u00eda que dejara de depender de X11 y binarios oficiales para mi SO. -.- Lamentablemente veo dif\u00edcil que se logre a corto plazo viendo la lamentable situaci\u00f3n en la que se encuentra el proyecto.<\/p>\n\n<p>Esperemos que les lluevan desarrolladores en el a\u00f1o entrante.<\/p>","content":"Mas que una unificaci\u00f3n de ventanas yo preferir\u00eda que dejara de depender de X11 y binarios oficiales para mi SO. -.- Lamentablemente veo dif\u00edcil que se logre a corto plazo viendo la lamentable situaci\u00f3n en la que se encuentra el proyecto.\n\nEsperemos que les lluevan desarrolladores en el a\u00f1o entrante.","karma":"10.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Spiritua Reborn","user_id":"45697","author":"Eridani","webpage":"http:\/\/eridani.me","user_name":"eridani","karma_level":"56.00","iseditor":"0","global_id":"4418","facebook_uid":null,"index":23,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/065fb23f233a9de1e68d3f57d01adf92"},{"id":"324132","post_id":"59399","date":1293792172,"content_filtered":"<p>Que sistema operativo usas para editar imagenes entonces?<\/p>","content":"Que sistema operativo usas para editar imagenes entonces?","karma":"5.00","parent":"324123","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Jose Miguel Salcido Aguilar","user_id":"48568","author":"Jose Miguel Salcido Aguilar","webpage":"http:\/\/otfusion.org\/jose152","user_name":"jose152","karma_level":"34.00","iseditor":"0","global_id":"200947","facebook_uid":"903035262","index":27,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/903035262\/picture"},{"id":"324065","post_id":"59399","date":1293733837,"content_filtered":"<p>Pues yo no puedo con el gimp, siempre vuelvo al photoshop, y eso que lo quiero usar por el tema del software libre y dem\u00e1s, pero me resulta imposible.<\/p>\n\n<p>En cambio antiguamente usaba el corel draw, y cuando encontr\u00e9 el inkscape no lo dej\u00e9 nunca mas, nada que envidiarle al corel.<\/p>","content":"<p>Pues yo no puedo con el gimp, siempre vuelvo al photoshop, y eso que lo quiero usar por el tema del software libre y dem\u00e1s, pero me resulta imposible.<\/p>\n\n<p>En cambio antiguamente usaba el corel draw, y cuando encontr\u00e9 el inkscape no lo dej\u00e9 nunca mas, nada que envidiarle al corel.<\/p>","karma":"5.00","parent":"0","comment_edited_date":1293733866,"vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"aleramirez1980","user_id":"11808","author":"","webpage":null,"user_name":"aleramirez1980","karma_level":"22.00","iseditor":"0","global_id":"99636","facebook_uid":null,"index":13,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/75212fb71314a916464801ef1a403358"},{"id":"324131","post_id":"59399","date":1293792126,"content_filtered":"<p>No tienes por que usar solamente software libre si no quieres y aun asi defender el software libre...<\/p>\n\n<p>Yo prefiero tambien mil veces a utilizar PhotoShop y soy miembro del proyecto Fedora y partidario del software libre, pero no por eso voy a dejar de utilizar software propietario... Digo, si existiera una opcion libre (creada por mi o por cualquier persona) parecida \u00f3 mejor que PhotoShop obviamente la tomaria pero no la hay (en sentido de uso, por que GIMP SI es una buena opcion, solo es cuestion de aprender a utilizarlo, es distinto el uso de GIMP al de PhotoShop)<\/p>","content":"No tienes por que usar solamente software libre si no quieres y aun asi defender el software libre...\n\nYo prefiero tambien mil veces a utilizar PhotoShop y soy miembro del proyecto Fedora y partidario del software libre, pero no por eso voy a dejar de utilizar software propietario... Digo, si existiera una opcion libre (creada por mi o por cualquier persona) parecida \u00f3 mejor que PhotoShop obviamente la tomaria pero no la hay (en sentido de uso, por que GIMP SI es una buena opcion, solo es cuestion de aprender a utilizarlo, es distinto el uso de GIMP al de PhotoShop)","karma":"5.00","parent":"324065","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Jose Miguel Salcido Aguilar","user_id":"48568","author":"Jose Miguel Salcido Aguilar","webpage":"http:\/\/otfusion.org\/jose152","user_name":"jose152","karma_level":"34.00","iseditor":"0","global_id":"200947","facebook_uid":"903035262","index":26,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/903035262\/picture"},{"id":"324111","post_id":"59399","date":1293768974,"content_filtered":"<p>yo soy un usuario intermendio en lo que a dise\u00f1o grafico se refiere por lo que gimp satisface completamente mis necesidades tando en linux como en window<\/p>","content":"yo soy un usuario intermendio en lo que a dise\u00f1o grafico se refiere por lo que gimp satisface completamente mis necesidades tando en linux como en window","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"65992","user_id":"65992","author":"","webpage":null,"user_name":"arag","karma_level":"22.00","iseditor":"0","global_id":"283897","facebook_uid":"1251917452","index":21,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1251917452\/picture"},{"id":"324214","post_id":"59399","date":1293919089,"content_filtered":"<p>si gimp fuera 100% compatible con psd se usar\u00eda mucho m\u00e1s (y por eso nadie usa krita) <\/p>\n\n<p>lamentablemente las cosas son as\u00ed. psd es un est\u00e1ndar.<\/p>","content":"si gimp fuera 100% compatible con psd se usar\u00eda mucho m\u00e1s (y por eso nadie usa krita) \n\nlamentablemente las cosas son as\u00ed. psd es un est\u00e1ndar.","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"xavi sarrate","user_id":"4028","author":"xavi sarrate","webpage":null,"user_name":"xavier.sarrate","karma_level":"25.00","iseditor":"0","global_id":"40583","facebook_uid":null,"index":30,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/91f2e8df334627d148651273482ddbc9"},{"id":"324230","post_id":"59399","date":1293944504,"content_filtered":"<p>Recuerdo la primera vez que abr\u00ed gimp, tenia yo 10-11 a\u00f1os y queria aprender photoshop y esas cosas. Era traumante cerrar una ventana y no saber como volverla a abrir! Tarde unos 20 minutos en volver al chopo<\/p>","content":"Recuerdo la primera vez que abr\u00ed gimp, tenia yo 10-11 a\u00f1os y queria aprender photoshop y esas cosas. Era traumante cerrar una ventana y no saber como volverla a abrir! Tarde unos 20 minutos en volver al chopo","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"deviroz","user_id":"72508","author":"","webpage":null,"user_name":"deviroz","karma_level":"22.00","iseditor":"0","global_id":"107582","facebook_uid":null,"index":31,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/a2f6128af8f34e6baf9562e7c3958e3b"}],"meta":{"more_records":"false","start":0,"total":34,"order":"valued","totalCount":34},"commentStatus":"closed"});
+
+	window.App = new AML.Comments.Application(59399, commentList);
+	Backbone.history.start();
+      });
+    </script>
+
+  <!-- Comments and Other Stuff -->
+
+  <div id="ad-bottom" class="ad ad-boton">
+  <a class="ad-contact" id="div-gpt-bot-contact" style="display:none" href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-bot' class="ad-box" style='width: 728px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-bot");
+    });
+    </script>
+    </div>
+</div>
+
+  <!-- .ad - boton -->
+  <div class="sidebar-seo-links">
+    <h4>Más en Genbeta</h4>
+    <ul>
+              <li>
+          <a  href="/actualidad/tasa-google-si-tienes-un-blog-tambien-te-afecta-solo-que-otros-la-cobraran-por-ti" class="thumb80">
+            <img title="&quot;Tasa Google&quot;: si tienes un blog también te afecta, solo que otros la cobrarán por ti" src="http://img.genbeta.com/tb/80_80/110973.jpg" alt="&quot;Tasa Google&quot;: si tienes un blog también te afecta, solo que otros la cobrarán por ti">
+          </a>
+          <a  href="/actualidad/tasa-google-si-tienes-un-blog-tambien-te-afecta-solo-que-otros-la-cobraran-por-ti">
+            &quot;Tasa Google&quot;: si tienes un blog también te afecta, solo que otros la cobrarán por ti
+          </a>
+        </li>
+              <li>
+          <a  href="/actualidad/la-hipocresia-de-algunos-medios-tradicionales-la-imagen-de-la-semana" class="thumb80">
+            <img title="La hipocresía de algunos medios tradicionales. La imagen de la semana " src="http://img.genbeta.com/tb/80_80/110972.jpg" alt="La hipocresía de algunos medios tradicionales. La imagen de la semana ">
+          </a>
+          <a  href="/actualidad/la-hipocresia-de-algunos-medios-tradicionales-la-imagen-de-la-semana">
+            La hipocresía de algunos medios tradicionales. La imagen de la semana 
+          </a>
+        </li>
+              <li>
+          <a  href="/actualidad/como-funcionara-la-tasa-google-que-el-gobierno-ha-introducido-en-la-reforma-de-la-lpi" class="thumb80">
+            <img title="¿Cómo funcionará la &quot;tasa Google&quot; que el Gobierno ha introducido en la reforma de la LPI?" src="http://img.genbeta.com/tb/80_80/110963.jpg" alt="¿Cómo funcionará la &quot;tasa Google&quot; que el Gobierno ha introducido en la reforma de la LPI?">
+          </a>
+          <a  href="/actualidad/como-funcionara-la-tasa-google-que-el-gobierno-ha-introducido-en-la-reforma-de-la-lpi">
+            ¿Cómo funcionará la &quot;tasa Google&quot; que el Gobierno ha introducido en la reforma de la LPI?
+          </a>
+        </li>
+              <li>
+          <a  href="/actualidad/silk-road-hackeado-y-saqueado-el-precio-del-bitcoin-mientras-tanto-sigue-cayendo" class="thumb80">
+            <img title="Silk Road, hackeado y saqueado; el precio del Bitcoin, mientras tanto, sigue cayendo " src="http://img.genbeta.com/tb/80_80/110955.jpg" alt="Silk Road, hackeado y saqueado; el precio del Bitcoin, mientras tanto, sigue cayendo ">
+          </a>
+          <a  href="/actualidad/silk-road-hackeado-y-saqueado-el-precio-del-bitcoin-mientras-tanto-sigue-cayendo">
+            Silk Road, hackeado y saqueado; el precio del Bitcoin, mientras tanto, sigue cayendo 
+          </a>
+        </li>
+              <li>
+          <a  href="/actualidad/luz-verde-al-proyecto-de-ley-de-propiedad-intelectual-se-endurecen-las-sanciones" class="thumb80">
+            <img title="Luz verde al proyecto de Ley de Propiedad Intelectual: se endurecen las sanciones y llega la &quot;tasa Google&quot;" src="http://img.genbeta.com/tb/80_80/110944.jpg" alt="Luz verde al proyecto de Ley de Propiedad Intelectual: se endurecen las sanciones y llega la &quot;tasa Google&quot;">
+          </a>
+          <a  href="/actualidad/luz-verde-al-proyecto-de-ley-de-propiedad-intelectual-se-endurecen-las-sanciones">
+            Luz verde al proyecto de Ley de Propiedad Intelectual: se endurecen las sanciones y llega la &quot;tasa Google&quot;
+          </a>
+        </li>
+          </ul>
+</div>
+<!-- related-posts SEO links-->
+       
+    </div>
+  <!-- .container -->
+  </div>
+  <!-- .content-dinamic -->
+
+  <div class= "nav nav-blog">
+  <div class= "container">
+    <h2><strong>&#43;</strong> en Genbeta</h2>
+    <ul>
+      <li class= "blog-section section-lomejor"><a href="/lomejor">Lo mejor</a></li>
+      <li class= "blog-section section-temas"><a href="/archivos">Temas</a></li>
+            <li class= "blog-section section-productos"><a href="/productos">Productos</a></li>
+                  <li class= "blog-section section-respuestas"><a href="/respuestas">Respuestas</a></li>
+            
+            <li class="blog-section section-club"><a href="/club">Club</a></li>
+            <li class= "blog-section section-comunidad"><a href="/comunidad">Comunidad</a></li>
+      <li class="blog-section section-staff"><a href="/quienes-somos">Staff</a></li>
+    </ul>
+  </div>
+</div>
+  
+<div class="footer">
+        <div class="footer-media">
+                <div class="links-category">
+            <h2>Tecnología</h2>
+            <ul>
+                              <li class="tec-xataka"><a href="http://www.xataka.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka<span></span></a></li>
+                              <li class="tec-xatakamovil"><a href="http://www.xatakamovil.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Móvil<span></span></a></li>
+                              <li class="tec-xatakafoto"><a href="http://www.xatakafoto.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Foto<span></span></a></li>
+                              <li class="tec-xatakandroid"><a href="http://www.xatakandroid.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Android<span></span></a></li>
+                              <li class="tec-xatakaon"><a href="http://www.xatakaon.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka On<span></span></a></li>
+                              <li class="tec-xatakahome"><a href="http://www.xatakahome.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Smart Home<span></span></a></li>
+                              <li class="tec-xatakawindows"><a href="http://xatakawindows.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Windows<span></span></a></li>
+                              <li class="tec-xatakaciencia"><a href="http://www.xatakaciencia.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Ciencia<span></span></a></li>
+                              <li class="tec-applesfera"><a href="http://www.applesfera.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Applesfera<span></span></a></li>
+                              <li class="tec-vidaextra"><a href="http://www.vidaextra.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vida Extra<span></span></a></li>
+                              <li class="tec-genbeta"><a href="http://www.genbeta.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Genbeta<span></span></a></li>
+                              <li class="tec-genbetadev"><a href="http://www.genbetadev.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Genbeta Dev<span></span></a></li>
+                          </ul>
+        </div>
+            </div>
+    
+    <div class="footer-links">
+                        <div class="links-category">
+            <h2>Estilos de vida</h2>
+            <ul>
+                              <li><a href="http://www.trendencias.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias</a></li>
+                              <li><a href="http://www.trendenciasbelleza.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Belleza</a></li>
+                              <li><a href="http://www.trendenciashombre.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Hombre</a></li>
+                              <li><a href="http://www.trendenciasshopping.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Shopping</a></li>
+                              <li><a href="http://www.trendenciaslifestyle.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Lifestyle</a></li>
+                              <li><a href="http://www.directoalpaladar.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Directo al Paladar</a></li>
+                              <li><a href="http://www.bebesymas.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bebés y Más</a></li>
+                              <li><a href="http://www.pequesymas.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Peques y Más</a></li>
+                              <li><a href="http://www.vitonica.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vitónica</a></li>
+                              <li><a href="http://www.decoesfera.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Decoesfera</a></li>
+                              <li><a href="http://www.embelezzia.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Embelezzia</a></li>
+                              <li><a href="http://www.ambienteg.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ambiente G</a></li>
+                              <li><a href="http://www.poprosa.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Poprosa</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Motor</h2>
+            <ul>
+                              <li><a href="http://www.motorpasion.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión</a></li>
+                              <li><a href="http://www.motorpasionf1.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión F1</a></li>
+                              <li><a href="http://www.motorpasionmoto.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Moto</a></li>
+                              <li><a href="http://www.motorpasionfuturo.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Futuro</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Ocio</h2>
+            <ul>
+                              <li><a href="http://www.blogdecine.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog de Cine</a></li>
+                              <li><a href="http://www.vayatele.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">¡Vaya Tele!</a></li>
+                              <li><a href="http://www.hipersonica.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Hipersónica</a></li>
+                              <li><a href="http://www.diariodelviajero.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Diario del Viajero</a></li>
+                              <li><a href="http://www.papelenblanco.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Papel en Blanco</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Economía</h2>
+            <ul>
+                              <li><a href="http://www.elblogsalmon.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">El Blog Salmón</a></li>
+                              <li><a href="http://www.pymesyautonomos.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Pymes y Autónomos</a></li>
+                              <li><a href="http://www.tecnologiapyme.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Tecnología Pyme</a></li>
+                              <li><a href="http://www.ahorrodiario.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ahorro Diario</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Latinoamérica</h2>
+            <ul>
+                              <li><a href="http://www.xataka.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Brasil</a></li>
+                              <li><a href="http://www.trendencias.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Brasil</a></li>
+                              <li><a href="http://www.motorpasion.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Brasil</a></li>
+                              <li><a href="http://www.xataka.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka México</a></li>
+                              <li><a href="http://www.motorpasion.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión México</a></li>
+                              <li><a href="http://www.directoalpaladar.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Directo Al Paladar México</a></li>
+                              <li><a href="http://www.xatakandroid.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Android México</a></li>
+                              <li><a href="http://www.vidaextra.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vida Extra México</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Participamos en</h2>
+            <ul>
+                              <li><a href="http://www.ebayers.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">eBayers</a></li>
+                              <li><a href="http://www.circulaseguro.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Circula Seguro</a></li>
+                              <li><a href="http://www.circulaseguro.pt/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Circula Seguro PT</a></li>
+                              <li><a href="http://www.actibva.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Actibva</a></li>
+                              <li><a href="http://www.anexom.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Anexo M</a></li>
+                              <li><a href="http://blog.cocacola.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Happing Magazine</a></li>
+                              <li><a href="http://blog.sage.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog Sage</a></li>
+                              <li><a href="http://www.optimismodigital.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Optimismo Digital</a></li>
+                              <li><a href="http://www.1001experiencias.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">1001 Experiencias</a></li>
+                              <li><a href="http://www.ennaranja.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">En Naranja</a></li>
+                              <li><a href="http://www.essieblog.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Essie Blog</a></li>
+                              <li><a href="http://blogginzenith.zenithmedia.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bloggin Zenith</a></li>
+                              <li><a href="http://www.urbanfire.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Urbanfire</a></li>
+                              <li><a href="http://www.tecnologiadetuatu.elcorteingles.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Tecnología de tú a tú</a></li>
+                              <li><a href="http://www.ciudadano00.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ciudadano 0,0</a></li>
+                              <li><a href="http://blogfanta.cocacola.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog Fanta</a></li>
+                              <li><a href="http://mimundo.philips.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Mi Mundo Philips</a></li>
+                              <li><a href="http://www.bbvacontuempresa.es?utm_source=genbeta&utm_medium=network&utm_campaign=footer">BBVA con tu empresa</a></li>
+                              <li><a href="http://www.perutravelblog.net/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Perú Travel Blog</a></li>
+                              <li><a href="http://bscene.bershka.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bershka Bscene</a></li>
+                              <li><a href="http://www.institutodelafelicidad.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Instituto de la Felicidad</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                    </div>
+</div>
+
+<div class="closure">
+    <div class="container">
+        <div class="weblogssl"><a href="http://www.weblogssl.com">Weblogs SL<span></span></a></div>
+        <ul class="nav">
+            <li><a href="/quienes-somos">¿Quienes somos?</a></li>
+            <li><a href="http://www.weblogssl.com/contenidos">Condiciones de uso</a></li>
+            <li><a href="http://www.weblogssl.com/cookies">Política de cookies</a></li>
+            <li><a href="http://www.weblogssl.com/aviso">Aviso legal</a></li>
+            <li><a title="Publicidad en Genbeta" href="http://www.socialmediasl.com/genbeta.php">Publicidad</a></li>
+            <li><a href="/ayuda-2012">Ayuda</a></li>
+            <li><a href="/contacto">Contacto</a></li>
+        </ul>
+    </div>
+</div>
+
+<div id="cookies-overlay"></div>
+
+  <script type="text/javascript">
+    $(function() {
+      new AML.Auth.View.CookiesOverlayView;
+    });
+  </script>
+
+</div>
+<div id="favicons-list">
+
+    <div class="userbar">
+        <a class="head-shortcut" href="#body" title="Volver arriba">&uarr;</a>
+        <div class="userbox" id="wsl_userbox">
+        </div>
+
+        <div class="favicons" style="width: auto; ">
+
+            <div id="scroll-menu">
+
+                <div class="disabledHotSpotLeft">«</div>
+                <div class="disabledHotSpotRight">»</div>
+                <div class="scrollingHotSpotLeft">«</div>
+                <div class="scrollingHotSpotRight">»</div>
+
+                <div class="scrollWrapper">
+                    <div class="scrollableArea">
+
+                        <ul class="favicroll">
+                            <li id="wsl"><a target="_top" href="http://www.weblogssl.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><em><strong>Blog corporativo</strong></em></a></li>
+
+                            <li><a target="_top" href="http://www.xataka.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b1"><strong>XTK</strong></span> <em><strong>Xataka - Gadgets y electrónica de consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vidaextra.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b2"><strong>VX</strong></span> <em><strong>VidaExtra - Videojuegos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.blogdecine.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b3"><strong>BDC</strong></span> <em><strong>Blog de cine - Cine  y críticas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.elblogsalmon.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b5"><strong>EBS</strong></span> <em><strong>El Blog Salmón - Economía y finanzas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.genbeta.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b6"><strong>GBT</strong></span> <em><strong>Genbeta - Software</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasion.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b7"><strong>MP</strong></span> <em><strong>MotorPasión - Coches y motor</strong></em></a></li>
+                            <li><a target="_top" href="http://www.directoalpaladar.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b8"><strong>DAP</strong></span> <em><strong>Directo al paladar - Gastronomía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.bebesymas.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b9"><strong>BYM</strong></span> <em><strong>Bebés y más - Todo sobre bebés</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vayatele.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b11"><strong>VYT</strong></span> <em><strong>¡Vaya Tele! - Series y televisión</strong></em></a></li>
+                            <li><a target="_top" href="http://www.diariodelviajero.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b12"><strong>DDV</strong></span> <em><strong>Diario del viajero - Viajes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakaciencia.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b13"><strong>XCI</strong></span> <em><strong>Xataka Ciencia - Ciencia</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendencias.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b14"><strong>TRE</strong></span> <em><strong>Trendencias - Moda y tendencias</strong></em></a></li>
+                            <li><a target="_top" href="http://www.hipersonica.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b15"><strong>HIP</strong></span> <em><strong>HiperSónica - Música</strong></em></a></li>
+                            <li><a target="_top" href="http://www.applesfera.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b16"><strong>APP</strong></span> <em><strong>Applesfera - Apple</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasshopping.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b17"><strong>COM</strong></span> <em><strong>Trendencias Shopping - Compras y consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakamovil.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b18"><strong>XTM</strong></span> <em><strong>Xataka Móvil - Móviles</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ambienteg.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b19"><strong>AMG</strong></span> <em><strong>Ambiente G - Gays y lesbianas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionmoto.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b20"><strong>MMO</strong></span> <em><strong>Motorpasión Moto - Motos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.papelenblanco.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b21"><strong>PEB</strong></span> <em><strong>Papel en blanco - Literatura</strong></em></a></li>
+                            <li><a target="_top" href="http://www.decoesfera.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b22"><strong>DEC</strong></span> <em><strong>Decoesfera - Decoración e interiorismo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionf1.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b23"><strong>MF1</strong></span> <em><strong>Motorpasión F1 - Carreras</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vitonica.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b24"><strong>VIT</strong></span> <em><strong>Vitónica - Vida sana</strong></em></a></li>
+                            <li><a target="_top" href="http://www.embelezzia.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b25"><strong>EMB</strong></span> <em><strong>Embelezzia - Lujo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.poprosa.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b26"><strong>POP</strong></span> <em><strong>Poprosa - Famosos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakafoto.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b27"><strong>XTF</strong></span> <em><strong>Xataka Foto - Fotografía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.pymesyautonomos.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b28"><strong>PYA</strong></span> <em><strong>Pymes y autónomos - Pymes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasbelleza.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b30"><strong>TRB</strong></span> <em><strong>Trendencias Belleza - Belleza y cosmética</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.tecnologiapyme.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b34"><strong>TPY</strong></span> <em><strong>Tecnología Pyme - Tecnología para empresas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ahorrodiario.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b35"><strong>AHD</strong></span> <em><strong>Ahorro Diario - Ahorro</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciashombre.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b36"><strong>TRH</strong></span> <em><strong>Trendencias Hombre - Moda y estilo masculino</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.pequesymas.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b37"><strong>PEQ</strong></span> <em><strong>Peques y más - Niños e infancia</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakaon.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b39"><strong>XTO</strong></span> <em><strong>Xataka On - Todo sobre conectividad, ADSL</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakandroid.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b40"><strong>XTA</strong></span> <em><strong>Xataka Android - Android, aplicaciones y dispositivos</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.genbetadev.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b41"><strong>GBD</strong></span> <em><strong>Genbeta Dev - Desarrollo de software</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.motorpasionfuturo.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b42"><strong>MPF</strong></span> <em><strong>Motorpasión Futuro - Innovación y Motor</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakahome.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b44"><strong>XSH</strong></span> <em><strong>Xataka Smart Home - Inteligencia doméstica digital</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakawindows.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b45"><strong>XTW</strong></span> <em><strong>Xataka Windows - Universo Microsoft</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciaslifestyle.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b46"><strong>TLS</strong></span> <em><strong>Trendencias Lifestyle</strong></em></a></li>
+                        </ul>
+
+                    </div>
+                </div>
+                <!-- .scrollWrapper-->
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<div id="wsl_dialog"></div>
+<script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', function() {
+  try {
+    if (window.external.msIsSiteMode()) {
+      window.external.msSiteModeClearJumpList();
+      window.external.msSiteModeCreateJumplist('Mensajes Recientes');
+            window.external.msSiteModeAddJumpListItem('Office\x20para\x20iPad,\x20m\u00E1s\x20pronto\x20que\x20tarde\x3A\x20para\x20la\x20primera\x20mitad\x20de\x202014', 'http://www.genbeta.com/ofimatica/office-para-ipad-mas-pronto-que-tarde-para-la-primera-mitad-de-2014', '');
+            window.external.msSiteModeAddJumpListItem('Bittorrent\x20Live,\x20el\x20streaming\x20P2P,\x20llegar\u00E1\x20pronto\x20a\x20los\x20m\u00F3viles\x20', 'http://www.genbeta.com/multimedia/bittorrent-live-el-streaming-p2p-llegara-pronto-a-los-moviles', '');
+            window.external.msSiteModeAddJumpListItem('La\x20hipocres\u00EDa\x20de\x20algunos\x20medios\x20tradicionales.\x20La\x20imagen\x20de\x20la\x20semana\x20', 'http://www.genbeta.com/actualidad/la-hipocresia-de-algunos-medios-tradicionales-la-imagen-de-la-semana', '');
+            window.external.msSiteModeAddJumpListItem('\x22Tasa\x20Google\x22\x3A\x20si\x20tienes\x20un\x20blog\x20tambi\u00E9n\x20te\x20afecta,\x20solo\x20que\x20otros\x20la\x20cobrar\u00E1n\x20por\x20ti\x20', 'http://www.genbeta.com/actualidad/tasa-google-si-tienes-un-blog-tambien-te-afecta-solo-que-otros-la-cobraran-por-ti', '');
+            window.external.msSiteModeAddJumpListItem('Kickstarter,\x20tras\x20sufrir\x20un\x20ataque,\x20recomienda\x20cambiar\x20contrase\u00F1as\x20', 'http://www.genbeta.com/web/kickstarter-tras-sufrir-un-ataque-recomienda-cambiar-contrasenas', '');
+            window.external.msSiteModeShowJumpList();
+    }
+  } catch (exp) {
+    // do nothing
+  }
+  });
+</script>
+
+
+<script type='text/javascript'>
+    (function() {
+      new ViceVersaLink("http://t.genbeta.com");
+    })();
+</script>
+
+<script type='text/javascript'>
+  window.onerror = function(message, file, line) {
+    var sFormattedMessage = '[' + file + ' (' + line + ')] ' + message;
+    _gaq.push(['_trackEvent', 'Errors', 'Browser', sFormattedMessage, null, true]);
+  }
+    
+</script>
+
+</body>
+</html>

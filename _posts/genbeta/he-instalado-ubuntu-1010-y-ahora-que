@@ -1,0 +1,914 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+                                                                                                                                                                                                                                                                                <title>He instalado Ubuntu 10.10, y ¿ahora qué?</title>
+                  <meta name="description" content="Ubuntu 10.0. Información, consejos e ideas para dejar a tono y dar los primeros pasos con Ubuntu 10.10 (Maverick..." />
+            <meta name="news_keywords" content="Tutoriales Linux"/>
+       
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />    
+    <meta name='robots' content='noodp' />
+    <meta property="fb:admins" content="100000716994885"/>
+    <meta name="application-name" content="Genbeta"/>
+    <meta name="msapplication-tooltip" content="Software y web. Genbeta"/>
+    <meta name="msapplication-starturl" content="http://www.genbeta.com"/>
+    <meta name="msapplication-task" content="name=Lo mejor;action-uri=http://www.genbeta.com/lomejor;icon-uri=http://img.genbeta.com/lp2/v6/images/pin-bg-lomejor-icon.ico" />
+        <meta name="msapplication-task" content="name=Respuestas;action-uri=http://www.genbeta.com/respuestas;icon-uri=http://img.genbeta.com/lp2/v6/images/pin-bg-respuestas-icon.ico" />
+                <!--[if !IE]><!--> <link rel="shortcut icon" href="http://img.genbeta.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if lt IE 9]><!--> <link rel="shortcut icon" href="http://img.genbeta.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if gte IE 9]>
+            <link rel="shortcut icon" type="image/x-icon" href="http://img.genbeta.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+            <link rel=icon type="image/ico" href="http://img.genbeta.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+        <![endif]-->
+    
+    <link rel="apple-touch-icon" href="http://img.genbeta.com/lp2/mobile/images/apple-touch-icon.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-57-precomposed.png">
+
+        <link rel="stylesheet" type="text/css" href="http://img.genbeta.com/lp2/v6/main.css?v=24272">
+        <link rel="publisher" href="http://plus.google.com/106643481235450321345" />
+    <link rel="alternate" type="application/rss+xml" title="" href="/index.xml" />
+    <!--[if lt IE 7]>
+      <link rel="stylesheet" type="text/css" href="http://img.genbeta.com/lp2/v6/ie7.css">
+    <![endif]-->
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', "UA-78515-6"]);
+  _gaq.push(['_setCampaignCookieTimeout', 259200000]);
+  _gaq.push(['_setDomainName', ".genbeta.com"]);
+  _gaq.push(['_setSiteSpeedSampleRate', 5]);
+  _gaq.push(['t2._setAccount', "UA-78515-62"]);
+  _gaq.push(['t2._setCampaignCookieTimeout', 259200000]);
+  _gaq.push(['t2._setDomainName', ".genbeta.com"]);
+  (function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') +       '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  })();
+</script>
+
+ <link rel="canonical" href="http://www.genbeta.com/linux/he-instalado-ubuntu-1010-y-ahora-que" />
+ <link rel="image_src" href="http://img.genbeta.com/resize/75/thumbnails/b/58044.jpg" />
+ <meta property="og:title" content="He instalado Ubuntu 10.10, y ¿ahora qué?">
+ <meta property="og:description" content="Ubuntu 10.0. Información, consejos e ideas para dejar a tono y dar los primeros pasos con Ubuntu 10.10 (Maverick...">
+ <meta property="og:image" content="http://img.genbeta.com/original/58044.jpg">
+    <script>
+    _gaq.push(['t2._setPageGroup', '1', 'post']);
+    _gaq.push(['t2._setPageGroup', '2', "miguel julián"]);
+    _gaq.push(['t2._setPageGroup', '3', "linux"]);
+    _gaq.push(['t2._setPageGroup', '4', "normal"]);
+    _gaq.push(['_setPageGroup', '1', 'post']);
+    _gaq.push(['_setPageGroup', '2', "miguel julián"]);
+    _gaq.push(['_setPageGroup', '3', "linux"]);
+    _gaq.push(['_setPageGroup', '4', "normal"]);
+       </script>
+   </head>
+       <body id="body" class="article-single">
+
+    <script type='text/javascript'>
+    var MAX_source = "";
+    var GPTcats = ["linux"];
+    var GPTtags = ["tutoriales-linux"];
+      </script>
+      <script type='text/javascript'>
+googletag.pubads().setTargeting("origin", "direct").setTargeting("screen", screen.width.toString()).setTargeting("cat", GPTcats).setTargeting("tag", GPTtags);
+if (navigator.userAgent.match(/iPad/i) != null) {
+  googletag.pubads().setTargeting("ua", "ipad");
+} 
+ 
+googletag.defineSlot('/4712/GEB/interior_top', [1000, 40], 'div-gpt-top').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_lateral', [[160, 600], [200,600], [300,600], [300,250]], 'div-gpt-lat').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_central', [[300, 250], [400,400], [1000,250]], 'div-gpt-cen').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_central2', [[300, 250],[400,400],[690, 250]], 'div-gpt-cen2').addService(googletag.pubads());
+googletag.defineSlot('/1018282/GEB-BOT2-interior',[728, 90], 'div-gpt-bot').addService(googletag.pubads());
+googletag.defineSlot('/1018282/GEB-INP', [500, 80], 'div-gpt-inp').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interstitial', [1000, 525], 'div-gpt-int').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().enableSyncRendering();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+</script>
+
+       <script type="text/javascript">
+      WSL2 = {};
+      WSL2.config = {};
+      WSL2.config.fbapikey = "360028941603";
+      WSL2.config.cookieDomain = "";
+      WSL2.config.imagePath = 'http://img.genbeta.com/lp2/v6';
+      WSL2.config.siteName = "Genbeta";
+      window.___gcfg = {lang: 'es'};
+    </script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="http://code.jquery.com/jquery-migrate-1.1.0.js"></script>
+            <script src="http://img.weblogssl.com/LPbackend/prod/v2/js/frontend-758.js"></script>
+          <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _c1 = new WSL2.Cookie;
+      loginStatus = (_c1.hasSession()) ? "yes:" + _c1.loginType() : "no";
+      _gaq.push(['t2._setCustomVar', 4, '.genbeta.com', 'loginstatus:' + loginStatus, 2]);
+      _gaq.push(['_trackPageview']);
+      _gaq.push(['t2._trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); 
+    ga.type = 'text/javascript';
+    ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+  })();
+      var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "11306788" });
+         (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[1]; 
+          s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb": "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+    </script>
+
+    <div id="fb-root"></div>
+  <!-- fb needs this -->
+
+  <script src="//platform.twitter.com/widgets.js" id="tweetjs"></script>
+  <script src="//apis.google.com/js/plusone.js" id="gplus1js"></script>
+  <script src="//connect.facebook.net/es_ES/all.js#xfbml=1" id="fbjssdk"></script>
+  <div class="customize-me">
+  <div class="content-fixed">
+    <div class="container">
+                <!-- .header -->
+            <div class="header header-page">
+        <h1 class="site-logo"><a href="http://www.genbeta.com" title="Ir a la portada">Software y web. Genbeta<span></span></a></h1>
+        <form method="get" action="/busqueda" id="search" class="search" style="top:62px; width:310px; padding: 0;">
+    <p>
+        <input type="hidden" name="cx" value="partner-pub-9977500652563564:0292109475">
+        <input type="text" id="gsearch" name="q" accesskey="4" title="Buscar" placeholder="Busca en Genbeta con Google">
+        <input type="hidden" name="ie" value="UTF-8">
+        <input type="hidden" name="oe" value="UTF-8">
+        <input type="hidden" name="cof" value="FORID:10">
+        <button class="button">Buscar <span class="arrow">&raquo;</span></button>
+    </p>
+</form>
+<script type="text/javascript" src="http://www.google.es/coop/cse/brand?form=cse-search-box&amp;lang=es"></script>
+            <div class="nav nav-main">
+    <ul class="nav-primary">
+        <li class="home-link"><a href="/" title="Volver a portada">Portada</a></li>
+        <li class="respuestas-link"><a href="/respuestas">Respuestas</a></li>
+        <li class="temas-submenu">
+            <ul class="nav-secondary">
+                                   <li><a href="/categoria/actualidad" title="Ir a la categoría Actualidad">Actualidad</a></li>
+                                   <li><a href="/categoria/linux" title="Ir a la categoría Linux">Linux</a></li>
+                                   <li><a href="/categoria/movil" title="Ir a la categoría Móvil">Móvil</a></li>
+                                   <li><a href="/categoria/windows" title="Ir a la categoría Windows">Windows</a></li>
+                                   <li><a href="/categoria/herramientas" title="Ir a la categoría Herramientas">Herramientas</a></li>
+                                <li><a href="/archivos" title="Ver todas las categorías">Más &raquo;</a></li>
+            </ul>
+        </li>
+                  
+            </ul>
+</div>
+
+        <div class="nav nav-tags">
+        <h3>No te pierdas <span class="arrow">&raquo;</span></h3>
+        <ul>
+                        <li><a href="/tag/tasa-google" title="Todo sobre Tasa Google">Tasa Google</a></li>
+                        <li><a href="/tag/ley-lassalle" title="Todo sobre Ley Lassalle">Ley Lassalle</a></li>
+                        <li><a href="/tag/balance-de-windows-8" title="Todo sobre Balance de Windows 8">Balance de Windows 8</a></li>
+                        <li><a href="/tag/cazadores-de-fakes" title="Todo sobre Cazadores de Fakes">Cazadores de Fakes</a></li>
+                        <li><a href="/tag/satya-nadella" title="Todo sobre Satya Nadella">Satya Nadella</a></li>
+                    </ul>
+</div>
+<!-- .nav-tags -->
+
+                    <div class="ad ad-desplegable">
+  <a class="ad-contact" id="div-gpt-top-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+  <div class="ad-box">
+    <div id='div-gpt-top' style='width: 1000px;'>
+    <script type="text/javascript">
+        googletag.cmd.push(function() {
+        googletag.display("div-gpt-top");
+        });
+    </script>
+    </div>
+  </div>
+</div>
+<!-- .ad-box - desplegable -->
+
+  <div class="nav">
+   <ul class="article-nav-controls">
+                              <li><a class="article-control article-previous" href="/web/quickrr-una-sencilla-aplicacion-para-tomar-notas-en-chrome"><span>Quickrr, una sencilla aplicación para tomar notas en Chrome</span></a></li>
+                                             <li><a class="article-control article-next" href="/activismo-online/rodriguez-ibarra-a-teddy-bautista-ganaran-los-ciudadanos-y-perderan-las-discograficas"><span>Rodríguez Ibarra a Teddy Bautista: &quot;ganarán los ciudadanos y perderán las discográficas&quot;</span></a></li>
+                  </ul>
+  </div>
+              </div>
+                   <div class="article article-pre-content">
+  <h1 class="article-header">He instalado Ubuntu 10.10, y ¿ahora qué?</h1>
+  <div class="article-date">20 de octubre de 2010 | 20:34 CET <span id="is_editor"></span></div>
+  <div class="article-author-details">
+  <div class="figure">
+    <a rel='author' href="/autor/miguel-julian">
+      <img src="http://www.gravatar.com/avatar/14216b3a89c997bfc641f9d3abf7bc0b?s=80&amp;d=mm&amp;r=g" alt="miguel-julian">
+    </a>
+  </div>
+  <h2><a rel='author' href="/autor/miguel-julian">Miguel Julián</a></h2>
+      </div>
+<!-- .article-author-details -->
+</div>
+           </div>
+    <!-- .container -->
+  </div>
+  <!-- .content-fixed -->
+
+  <div class="content-dinamic">
+    <div class="container">
+          <script type="text/javascript">
+        $(function()
+        {
+          AML.postVoteView = new AML.Post.View.PostVoteView({postId:"58044", el:".social-sharing" });
+          AML.isEditorView = new AML.Post.View.IsEditorView({postId:"58044", model: WSL2.User });
+        });
+      </script>
+
+    <div class="aside">
+            <div id="ad-lateral" class="ad ad-primer-escaparate">
+  <a class="ad-contact" id="div-gpt-lat-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-lat' class="ad-box" style='width: 300px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-lat");
+    });
+    </script>
+    </div>
+</div>
+<!-- .ad-box - escaparate vertical -->
+
+           <!-- .ad-box - escaparate vertical -->
+            
+                  
+<div class="aside-box aside-subscribe">
+  <h3 class="aside-header">Síguenos</h3>
+  
+          
+  <form id="feedForm" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" >
+    <label for="subscribe-email">Newsletter:</label>  
+      <input type="text" name="email" type="text" id="feedburnermail" placeholder="Correo electrónico"/>
+      <input type="hidden" name="uri" value="genbeta"/>
+      <input type="hidden" name="loc" value="es_ES">
+      <button class="button" type="submit">Suscríbete <span class="arrow">&raquo;</span></button>
+  </form>
+  <ul class="subs-channels">
+    <li class="channel-rss" id="rss"> <a href="/index.xml" rel="nofollow" title="Suscríbete por RSS a las novedades en Genbeta"><span></span>RSS</a></li>
+    <li class="channel-twitter"><a href="http://twitter.com/genbeta" title="Sigue las novedades de Genbeta en Twitter"><span></span>Twitter</a></li>
+    <li class="channel-fb"><a href="http://www.facebook.com/pages/Genbeta/54999640934" title="Conéctate a la página de Genbeta en Facebook"><span></span>Facebook</a></li>
+    <li class="channel-gplus"><a href="https://plus.google.com/109731528328750280665/posts" title="Sigue a Genbeta en Google Plus"><span></span>Google Plus</a></li>
+    <li class="channel-feedly"><a style="margin-right: 0;" title="Suscríbete a Genbeta con Feedly" href='http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fwww.genbeta.com%2Findex.xml'  target='blank'><img id='feedlyFollow' src='http://img.weblogssl.com/g/xataka4/common/m-icon-feedly.png' alt='follow us in feedly' width='32' height='32'></a></li>
+  </ul>
+  <ul class="devices-channels">
+    <li><a title="Versión para móviles" href="http://m.genbeta.com" class="button button-secondary"><img src="http://img.weblogssl.com/g/xataka4/common/mobile.png">Versión móvil</a></li>
+        <li>
+        <a id="tabletViceVersaLink" href="http://t.genbeta.com" class="button button-secondary" title="Versión tablet"><img src="http://img.weblogssl.com/g/xataka4/common/tablet.png"> Versión tablet</a>
+    </li>
+      </ul>
+
+    <script>
+  $(function() {
+      $("#feedForm").submit(function(e) {
+          e.preventDefault();
+          email = $("#feedburnermail").val();
+          emailPattern = /^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$/i
+          if (emailPattern.test(email)) {
+              window.open('http://mailer.weblogssl.com/subscribe_check/' + email +'/genbeta/Genbeta','','width=500,height=500');
+          } else {
+              alert("El correo electrónico introducido no es correcto");
+          }
+      });
+  });
+  </script>
+  
+</div>
+            <!-- .article-promo -->
+    </div>
+
+    <!-- .aside -->
+
+                    
+    <div class="section section-article-single">
+            <div class="article">
+        <div class="article-summary">
+          <p><img id="image58242" src="http://img.genbeta.com/2010/10/ubuntu-10-10-primeros-pasos.jpg" class="centro" alt="Ubuntu 10.10 - Primeros pasos" /></p>
+
+                              <div class="article-metadata">
+            <div class="article-comments" id="postCommentCount">
+              <a href="#comments" title="Ir a comentarios">
+                Comentarios 64
+              </a>
+            </div>
+            <div class="article-links">
+              <div class="social-sharing">
+                <div class="social-sharing-widgets">
+                                    <div class="wsl-favorite">
+                    <button class="button button-small">Me gusta</button>
+                    <span class="wsl-count">10</span>
+                  </div>
+                                    <!-- twitter -->
+                  <a class="twitter-share-button" href="http://twitter.com/share" data-count="horizontal" data-url="http://www.genbeta.com/p/58044" data-counturl="http://www.genbeta.com/linux/he-instalado-ubuntu-1010-y-ahora-que" data-text="He instalado Ubuntu 10.10, y ¿ahora qué?" data-via="genbeta" data-lang="es">Tweet</a>
+                  <!-- g+ -->
+                  <div class="g-plusone" data-size="medium" data-href="http://www.genbeta.com/linux/he-instalado-ubuntu-1010-y-ahora-que" data-callback="gplusClickHandler" ></div>
+                  <!-- facebook like -->
+                  <div href="http://www.genbeta.com/linux/he-instalado-ubuntu-1010-y-ahora-que" class="fb-like" data-send="false" data-layout="button_count" data-show-faces="false"></div>
+                </div>
+              </div>
+              <!-- .social-sharing -->
+            </div>
+            <!-- .article-links -->
+          </div>
+          <!-- .article-metadata -->
+
+
+          	<p></p>
+
+	<p>El primer paso después de instalar nuestro <strong>sistema operativo favorito es personalizarlo y dejarlo a nuestro gusto</strong>. Después de años utilizando nuestras aplicaciones <em>fetiche</em> no podemos dejar pasar la oportunidad y necesitamos tenerlas instaladas lo antes posible. De hecho, la mayoría de nosotros hemos visto pasar la noche y la madrugada enfrascados en tales <em>quehaceres</em>.</p>
+
+	<p>En este caso, después del lanzamiento de la nueva versión de Ubuntu, <strong>Maverick Meerkat</strong> (10.10), aprovechamos para dar unas pinceladas sobre esos <strong>primeros pasos poniendo a tono nuestras aplicaciones favoritas</strong>. Muchos de estos pasos no serán nuevos para vosotros, pero siempre hay alguna sorpresa.<br />
+
+<!--more--><br />
+
+<h2>Primeros pasos</h2><br />
+
+Sigue siendo un fastidio, pero el primer paso para hacer el recorrido un poco más fácil será <strong>abrir la terminal</strong> (se encuentra bajo el menú <em>Aplicaciones > Accesorios</em>). La verdad es que, cuando uno se familiariza con el comando <em>apt-get install</em>, poner a tono nuestro sistema operativo es mucho más rápido y sencillo de lo que parecía en un principio. Empezamos a poner a tono a nuestro <a href="http://www.genbeta.com/productos/sistemas-operativos/ubuntu-maverick-meerkat">Ubuntu Maverick Meerkat</a>.</p>
+
+	<p>Como siempre antes de instalar un paquete, es muy recomendable <strong>actualizar la información de los repositorios</strong> y de los componentes que ya tenemos instalados. Lo primero se consigue mediante la siguiente orden:</p>
+
+<pre style="margin-left:20px;border:thin dotted grey;background-color:#e6e6dc;font-weight:900;text-align:left;padding:10px; white-space:pre; overflow:auto;">sudo apt-get update</pre>
+
+	<p>La actualización de los componentes la tendremos con:<br />
+
+<pre style="margin-left:20px;border:thin dotted grey;background-color:#e6e6dc;font-weight:900;text-align:left;padding:10px; white-space:pre; overflow:auto;">sudo apt-get -y dist-upgrade</pre></p>
+
+	<p><h2>Ubuntu Restricted Extras</h2><br />
+
+Como diría el manual del comando <em>apt-get</em>, es aquí donde el artículo adquiere los <em>Poderes de Súper Vaca</em>. Ya habíamos hablado acerca de las maravillas de los <strong>repositorios de Medibuntu</strong>, de forma que podíamos añadir mediante apt-get algunas de aquellas aplicaciones que no estaban incluidas en los repositorios oficiales.</p>
+
+	<p>Si queremos <strong>quitarnos muchos dolores de cabeza</strong> y unas cuantas más búsquedas en Google, no tenemos más que ejecutar el siguiente comando:</p>
+
+<pre style="margin-left:20px;border:thin dotted grey;background-color:#e6e6dc;font-weight:900;text-align:left;padding:10px; white-space:pre; overflow:auto;">sudo apt-get -y install ubuntu-restricted-extras</pre>
+
+	<p>De esta forma <strong>se instalarán de forma automática</strong> (entre otros) los siguientes componentes: <strong>Adobe Flash Player</strong>, Java Runtime Enviroment <strong>(<span class="caps">JRE</span>)</strong>, una colección de fuentes de Microsoft (las famosas msttcorefonts), diferentes codecs multimedia que acabaremos necesitando tarde o temprano (incluido mp3), el compresor <strong>unrar</strong>, un paquete para decodificación de <span class="caps">DVD</span> y más utilidades audiovisuales.</p>
+
+	<p><h2>Alternativas a los programas pre-instalados</h2><br />
+
+<img id="image58243" src="http://img.genbeta.com/2010/10/ubuntu-10-10-vlc-icon.jpg" class="derecha" alt="VLC icon" />Lo admito, siempre defendía Ubuntu como un sistema operativo que puedes usar en cuanto se instala. Pero siempre escondo mis <strong>manías</strong>, que con el tiempo, me he dado cuenta de que eran <strong>compartidas por bastantes usuarios</strong>.</p>
+
+	<p>Totem no está mal. No es una delicia de reproductor, pero funciona&#8230; (sudo apt-get -y remove totem). Así que las <strong>dos alternativas que suelen tener más adeptos</strong>. En este caso <a href="http://www.genbeta.com/productos/reproductores-video/vlc">VLC</a> y MPlayer son los candidatos perfectos. Fácil y sencillo:<br />
+
+<pre style="margin-left:20px;border:thin dotted grey;background-color:#e6e6dc;font-weight:900;text-align:left;padding:10px; white-space:pre; overflow:auto;">sudo apt-get -y install vlc<br />
+
+sudo apt-get -y install mplayer</pre></p>
+
+	<p>De igual manera cuando empezaba por estos lares Rhythmbox me parecía un gran reproductor de música. Pero podemos deshacernos de él, fácilmente con el <em>sudo apt-get -y remove rythmbox</em>.</p>
+
+	<p>En esta ocasión personalmente <strong>siempre me decantaba por Exaile</strong>:<br />
+
+<pre style="margin-left:20px;border:thin dotted grey;background-color:#e6e6dc;font-weight:900;text-align:left;padding:10px; white-space:pre; overflow:auto;">sudo apt-get -y install exaile</pre><br />
+
+</p>
+
+	<p><img id="image58244" src="http://img.genbeta.com/2010/10/ubuntu-10-10-banshee-icon.jpg" class="izquierda" alt="Banshee icon" />Pero últimamente me estoy viendo arrastrado al lado oscuro de <strong><a href="http://www.genbeta.com/productos/reproductores-audio/banshee">Banshee</a> ya que me resulta más intuitivo y con mejores plugins</strong>:<br />
+
+<pre style="margin-left:20px;border:thin dotted grey;background-color:#e6e6dc;font-weight:900;text-align:left;padding:10px; white-space:pre; overflow:auto;">sudo apt-get -y install banshee</pre><br />
+
+</p>
+
+	<p><h2>Imprescindibles: Gráficos y descargas</h2><br />
+
+En el territorio de la edición y creación de gráficos no pueden faltar <strong>dos estandartes de los proyectos de código libre</strong>. Hablamos de <a href="http://www.genbeta.com/productos/editores-fotograficos/gimp">Gimp</a> e <a href="http://www.genbeta.com/imagen-digital/ya-esta-disponible-un-nuevo-inkscape-el-048">Inkscape</a>:</p>
+
+	<p><pre style="margin-left:20px;border:thin dotted grey;background-color:#e6e6dc;font-weight:900;text-align:left;padding:10px; white-space:pre; overflow:auto;">sudo apt-get -y install gimp</pre></p>
+
+	<p>sudo add-apt-repository ppa:ricotz/ppa<br />
+
+sudo apt-get update<br />
+
+sudo apt-get install inkscape</p>
+
+	<p>Si con esto <strong>creemos que hemos acabado</strong>, la siguiente vez que vayas a arrancar tu ordenador e intentes abrir tu programa de descargas favorito, habrás detectado <strong>un pequeño olvido</strong>. Hay bastantes alternativas pero aquí va mi selección personal para que no haya que buscar por ningún lado:</p>
+
+	<p>Descarga directa: <a href="http://www.genbeta.com/linux/tucan-gestor-de-descargas-de-megaupload-y-rapidshare-en-gnulinux">Tucan</a><br />
+
+<pre style="margin-left:20px;border:thin dotted grey;background-color:#e6e6dc;font-weight:900;text-align:left;padding:10px; white-space:pre; overflow:auto;">sudo apt-get -y install tucan</pre></p>
+
+	<p><img id="image58245" src="http://img.genbeta.com/2010/10/ubuntu-10-10-vuze-icon.jpg" class="derecha" alt="Vuze icon" />Cliente de BitTorrent: <a href="http://www.genbeta.com/multimedia/vuze-40-otra-vuelta-de-tuerca-sobre-el-viejo-azureus">Vuze</a> (<span class="caps">AKA</span> Azureus de otros tiempos)<br />
+
+<pre style="margin-left:20px;border:thin dotted grey;background-color:#e6e6dc;font-weight:900;text-align:left;padding:10px; white-space:pre; overflow:auto;">sudo apt-get -y install vuze</pre></p>
+
+	<p>Usando <em>la mula</em> en Linux: <a href="http://www.genbeta.com/a-fondo/de-burros-mulas-y-elefantes">aMule</a><br />
+
+<pre style="margin-left:20px;border:thin dotted grey;background-color:#e6e6dc;font-weight:900;text-align:left;padding:10px; white-space:pre; overflow:auto;">sudo apt-get -y install amule</pre></p>
+
+	<p><h2>Lo último, tu toque personal</h2><br />
+
+Si la elección de los programas anteriores ya es personal, más o menos, la mayoría de los usuarios están de acuerdo en elegir esas aplicaciones como las mejores. Así que ahora es cuando ya <strong>faltan los últimos retoques</strong>, para acabar de aliñar la ensalada al gusto, aquí dejo algunos de los que nunca se me olvidan para cerrar el artículo.</p>
+
+	<p>Para <strong>ejecutar aplicaciones Windows</strong>, <a href="http://www.genbeta.com/productos/virtualizacion/wine">Wine</a>:<br />
+
+<pre style="margin-left:20px;border:thin dotted grey;background-color:#e6e6dc;font-weight:900;text-align:left;padding:10px; white-space:pre; overflow:auto;">sudo apt-get -y install wine1.2</pre></p>
+
+	<p>Capturas de pantalla a medida, <a href="http://www.genbeta.com/productos/redes-sociales/shutter">Shutter</a>:<br />
+
+<pre style="margin-left:20px;border:thin dotted grey;background-color:#e6e6dc;font-weight:900;text-align:left;padding:10px; white-space:pre; overflow:auto;">sudo apt-get -y install shutter</pre></p>
+
+	<p><img id="image58246" src="http://img.genbeta.com/2010/10/ubuntu-10-10-awn-icon.jpg" class="derecha" alt="Avant Window Navigator icon" />Un lanzador de aplicaciones,<strong> un <em>dock</em></strong>, <a href="http://www.genbeta.com/herramientas/avant-window-navigator-un-poderoso-y-hermoso-dock-para-gnulinux-screencast">Avant Window Navigator</a>:<br />
+
+<pre style="margin-left:20px;border:thin dotted grey;background-color:#e6e6dc;font-weight:900;text-align:left;padding:10px; white-space:pre; overflow:auto;">sudo apt-get -y install avant-window-navigator</pre></p>
+
+	<p><h2>Últimas reflexiones</h2><br />
+
+Desde mi punto de vista la mayoría de las distribuciones GNU/Linux, y en este caso en concreto Ubuntu, incorporan una multitud de aplicaciones que hacen que <strong>se pueda utilizar el sistema operativo desde el primer minuto</strong>. En este aspecto sólo se puede encontrar un paralelismo con los entornos OS X.</p>
+
+	<p>La existencia y proliferación de este tipo de manuales por internet es debida principalmente al perfil de usuarios que instalan Ubuntu en sus ordenadores. Normalmente <strong>usuarios con un perfil de conocimientos informáticos altos</strong>, que exigen muchas aplicaciones y, cómo no, también tienen sus <strong>manías</strong> adquiridas a lo largo de los años.</p>
+
+	<p>Es por ello que, si bien son actuaciones recomendables, creo que es <strong>reseñable el hecho de encontrar un sistema operativo tan completo</strong> y preparado para su uso desde el minuto cero, donde todo está basado entorno a la filosofía del software libre. Espero que el lanzamiento del Ubuntu Software Centre acabe de asentarse y se pueda ver como una especie de iTunes Store o Android Market en cuanto a aplicaciones se refiere.</p>
+
+	<p>Es una pena que, como se ve con el paquete <em>Ubuntu Restricted Extras</em>, no se de un impulso a nivel global a las iniciativas open source. De forma que no haya <strong>diferencias entre unos países y otros</strong>, aspecto que, a día de hoy, es una <strong>cortapisa</strong> importante en cuanto al desarrollo y proliferación de entornos libres en las computadoras domésticas.</p>
+
+	<p>Vía | <a href="http://sliceoflinux.com/2010/10/13/que-hacer-despues-de-instalar-ubuntu-10-10-maverick-meerkat-paso-a-paso/">Slice of Linux</a><br />
+
+En Genbeta | <a href="http://www.genbeta.com/linux/medibuntu-porque-la-vida-puede-ser-maravillosa">Medibuntu, porque la vida puede ser maravillosa</a></p>                  </div>
+
+                        
+        <div class="ad links-ad-inpost">
+    <div id='div-gpt-inp' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-inp");
+    });
+    </script>
+    </div>
+</div>
+
+
+        
+        <div class="article-taxonomy">
+                      <div class="nav article-tags article-categories">
+  <h2>Categorías</h2>
+    <ul>
+                      
+      <li><a href="/categoria/linux">Linux</a></li>
+        </ul>
+</div>
+            <div class="nav article-tags">
+  <h2>Tags</h2>
+  <ul>
+                                             
+      <li><a href="/tag/tutoriales-linux">Tutoriales Linux</a></li>
+          
+  </ul>
+</div>
+                  </div>
+        <!-- .article-metadata -->
+      </div>
+      <!-- .article -->
+    </div>
+    <!-- .section-articles -->
+            <div id="ad-center" class="ad ad-escaparate-medio">
+  <a class="ad-contact" id="div-gpt-cen-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-cen' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+
+        
+        
+    <div class="section section-related">
+               <div id="outBrainVerticalWidget" class="post-related-posts related-double">
+  <h3>Artículos recomendados</h3>
+  <div class="post-related-content">
+   
+    <div class="OUTBRAIN" data-src="http://www.genbeta.com/linux/he-instalado-ubuntu-1010-y-ahora-que" data-widget-id="AR_2" data-ob-template="genbeta" >
+    </div>
+    <script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js">
+    </script>
+  </div>
+  <!-- .post-related-content -->
+  <p class="post-related-more">
+    <a href="/categoria/linux" title="Ver más artículos relacionados">
+    Ver más artículos <span class="arrow">»</span>    
+    </a>
+    </p>
+</div>     
+      <div class="post-related-products">
+   <h3>Productos</h3>
+   <div id="post-related-products" class="post-related-content">
+                <script type="text/javascript">
+        $(function()
+        {
+          WSL2.config.imageUrl = "http://img.genbeta.com"
+          WSL2.config.Products = {}
+          WSL2.config.Products.iwishihave = {}
+          WSL2.config.Products.iwishihave.buttonOne = "ME GUSTA"
+          WSL2.config.Products.iwishihave.buttonTwo = "LO ODIO"
+
+          var product = new AML.Products.Model.Product({"id":"25902","nicename":"ubuntu-maverick-meerkat","name":"Ubuntu Maverick Meerkat","photo_post_id":"60081","users_votes_sum":"83","users_votes_count":"9","ihave_count":"64","iwish_count":"4","category_nicename":"sistemas-operativos","cat_id":"428","category_type":"1","adspot_price":"0"}, {"pageUrlPrefix":"productos"});
+          AML.productView = new AML.Products.View.ProductView({model:product, userModel: WSL2.User});
+        });
+      </script>
+        </div>
+  <p class="post-related-more">
+    <a href="/productos/sistemas-operativos/ubuntu-maverick-meerkat" title="Ver más productos relacionados">
+      Ver más productos <span class="arrow">»</span>
+    </a>
+  </p>
+ </div>
+<!-- .post-related-products -->
+          </div>
+
+
+  <!-- Comments Section -->
+        <a id="to-comments"></a>
+  <div id="comments" class="section section-comments">
+            <div class="standalone-message">
+            <div class="message aviso"><h3>Los comentarios se han cerrado</h3></div>
+        </div>
+        <!-- #comment-write -->
+            <div id="ad-center2" class="ad ad-segundo-escaparate">
+  <a class="ad-contact" id="div-gpt-cen2-contact" style='display:none'
+  href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-cen2' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen2");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+    <div id="comments-header" class="header-section">
+      <div class="comment-order">
+    	<h3>Ordenar por:</h3>
+      </div>
+      <!-- #comment-order -->
+          	<h2>
+              50 comentarios
+            </h2>
+    </div>
+    <div id="top-section-settings"></div>
+    <ul class="comment-list"></ul>
+        <div class="nav"></div>
+    <div id="bottom-section-settings"></div>
+  </div>
+    <script type="text/javascript">
+      $(function()
+      {
+        var commentList = new AML.Comments.Model.CommentList({},{postId:58044});
+        commentList.resetParsed({"comments":[{"id":"314949","post_id":"58044","date":1287607857,"content_filtered":"<p>si te parece un fastidio abrir la terminal no la abras, si el centro de software hace lo mismo. en vez de poner \"sudo apt-get install loquesea\" en la terminal, abres el centro de soft., escribes el paquete \"loquesea\" en el buscador y lo instalas.<\/p>","content":"<p>si te parece un fastidio abrir la terminal no la abras, si el centro de software hace lo mismo. en vez de poner \"sudo apt-get install loquesea\" en la terminal, abres el centro de soft., escribes el paquete \"loquesea\" en el buscador y lo instalas.<\/p>","karma":"97.50","parent":"0","comment_edited_date":1287607888,"vote_count":"10","comment_level":2,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"santiago","user_id":"43067","author":"asp95","webpage":null,"user_name":"santiago_95","karma_level":"27.00","iseditor":"0","global_id":"211015","facebook_uid":null,"index":2,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/211015_6.png"},{"id":"314958","post_id":"58044","date":1287610785,"content_filtered":"<p>Aunque exista el centro de software, todo linuxero \"sabe bien sabido\" que nunca dejar\u00e1s de usar la terminal por mas que no quieras usarla. En el centro de soft. no se dispone de todas las aplicaciones existentes, y si no est\u00e1, adivina: agrega el repositorio por la terminal!!!!! Y no es solo con aplicaciones, es con todo lo que se te cruce. Nunca v\u00ed un post\/entrada de un \"despu\u00e9s de instalaci\u00f3n\" de una distro de linux, donde NO hay que utilizar la terminal, siempre termino viendo las lineas que ya me paspan. Y m\u00e1s en estos tiempos, 2010!!! el tiempo es oro, andar escribiendo en una terminal para hacer algo sencillo y b\u00e1sico me parece un atraso. Hoy en d\u00eda la terminal deber\u00eda ser solo para ocaciones espec\u00edficas en acciones mas avanzadas, pero no para hacer cosas sencillisimas donde en otros SO se hace todo visualmente ahorrando tiempo y bronca.\n\"Complica lo f\u00e1cil\". La terminal es un fastidio.<\/p>","content":"<p>Aunque exista el centro de software, todo linuxero \"sabe bien sabido\" que nunca dejar\u00e1s de usar la terminal por mas que no quieras usarla. En el centro de soft. no se dispone de todas las aplicaciones existentes, y si no est\u00e1, adivina: agrega el repositorio por la terminal!!!!! Y no es solo con aplicaciones, es con todo lo que se te cruce. Nunca v\u00ed un post\/entrada de un \"despu\u00e9s de instalaci\u00f3n\" de una distro de linux, donde NO hay que utilizar la terminal, siempre termino viendo las lineas que ya me paspan. Y m\u00e1s en estos tiempos, 2010!!! el tiempo es oro, andar escribiendo en una terminal para hacer algo sencillo y b\u00e1sico me parece un atraso. Hoy en d\u00eda la terminal deber\u00eda ser solo para ocaciones espec\u00edficas en acciones mas avanzadas, pero no para hacer cosas sencillisimas donde en otros SO se hace todo visualmente ahorrando tiempo y bronca.\n\"Complica lo f\u00e1cil\". La terminal es un fastidio.<\/p>","karma":"58.00","parent":"314949","comment_edited_date":"","vote_count":"9","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"pante","user_id":"7492","author":"","webpage":"http:\/\/www.pante.uy","user_name":"pante","karma_level":"44.00","iseditor":"0","global_id":"73376","facebook_uid":null,"index":11,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/73376_9.png"},{"id":"314968","post_id":"58044","date":1287613148,"content_filtered":"<p>yo no estoy en contra de que se quiera usar la terminal, estoy en contra de que la primera acci\u00f3n que le hagan hacer a un novato de ubuntu sea abrir la terminal por cosas que no tienen sentido abrirlas, ya que eso hace ver mal a ubuntu para cualquier persona que se quiera pasar, hace pensar que tiene una GUI muy incompleta.<\/p>\n\n<p><\/p>\n\n<p>para la instalaci\u00f3n de programas est\u00e1 el centro de soft, y para agregar PPA's existe \"or\u00edgenes de software\"<\/p>\n\n<p><\/p>\n\n<p>(ya s\u00e9 que me van a llover votos negativos)<\/p>","content":"<p>yo no estoy en contra de que se quiera usar la terminal, estoy en contra de que la primera acci\u00f3n que le hagan hacer a un novato de ubuntu sea abrir la terminal por cosas que no tienen sentido abrirlas, ya que eso hace ver mal a ubuntu para cualquier persona que se quiera pasar, hace pensar que tiene una GUI muy incompleta.<\/p>\n\n<p><\/p>\n\n<p>para la instalaci\u00f3n de programas est\u00e1 el centro de soft, y para agregar PPA's existe \"or\u00edgenes de software\"<\/p>\n\n<p><\/p>\n\n<p>(ya s\u00e9 que me van a llover votos negativos)<\/p>","karma":"162.50","parent":"314958","comment_edited_date":1287613193,"vote_count":"14","comment_level":1,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"santiago","user_id":"43067","author":"asp95","webpage":null,"user_name":"santiago_95","karma_level":"27.00","iseditor":"0","global_id":"211015","facebook_uid":null,"index":21,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/211015_6.png"},{"id":"314969","post_id":"58044","date":1287613372,"content_filtered":"<p>@\"ya s\u00e9 que me van a llover votos negativos\" \n\u00bfPor qu\u00e9?, no somos can\u00edbales, de hecho, somos muy cari\u00f1osos (me refiero a los usuarios de linux).<\/p>","content":"<p>@\"ya s\u00e9 que me van a llover votos negativos\" \n\u00bfPor qu\u00e9?, no somos can\u00edbales, de hecho, somos muy cari\u00f1osos (me refiero a los usuarios de linux).<\/p>","karma":"63.00","parent":"314968","comment_edited_date":"","vote_count":"7","comment_level":2,"comment_deleted_date":"","tree_level":"3","comment_approved":"1","comment_author":"windowslinux","user_id":"21281","author":"","webpage":null,"user_name":"windowslinux","karma_level":"25.00","iseditor":"0","global_id":"145493","facebook_uid":null,"index":22,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/145493_1.png"},{"id":"315060","post_id":"58044","date":1287671453,"content_filtered":"<p>Eso es simple y pura paranoia al terminal xD<\/p>","content":"Eso es simple y pura paranoia al terminal xD","karma":"10.00","parent":"314968","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"1","comment_author":"37619","user_id":"37619","author":"","webpage":null,"user_name":"ikkipower1984","karma_level":"50.00","iseditor":"0","global_id":"194300","facebook_uid":"1512726905","index":53,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1512726905\/picture"},{"id":"315072","post_id":"58044","date":1287675711,"content_filtered":"<p>si la terminal asusta al principio. pero apoyo la idea.Una distribucion como ubuntu, pensada en el usuario deberia evitar usar la terminal de primerazo.\nLa terminal es importante, como desarrollador lo s\u00e9, pero espero algun dia ver una distro que tenga como nicho los usuarios finales, sin conocimientos de informatica.\nPara tareas mas avanzadas existen otras distros y pues la novia de siempre: terminal.xD<\/p>","content":"si la terminal asusta al principio. pero apoyo la idea.Una distribucion como ubuntu, pensada en el usuario deberia evitar usar la terminal de primerazo.\nLa terminal es importante, como desarrollador lo s\u00e9, pero espero algun dia ver una distro que tenga como nicho los usuarios finales, sin conocimientos de informatica.\nPara tareas mas avanzadas existen otras distros y pues la novia de siempre: terminal.xD","karma":"8.00","parent":"315060","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"4","comment_approved":"1","comment_author":"39556","user_id":"39556","author":"","webpage":null,"user_name":"carlostheone","karma_level":"22.00","iseditor":"0","global_id":"201050","facebook_uid":"569353387","index":54,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/569353387\/picture"},{"id":"315016","post_id":"58044","date":1287626139,"content_filtered":"<p>Pues yo creo que lo mismo que tardas en navegar de web en web buscando los programas que quieres instalar (que b\u00e1sicamente son los mencionados arriba) es lo que tardas (si no menos) en encontrar un post como este, que hacen que te des cuenta que no es tan complicado usar el terminal y que adem\u00e1s te facilitan incre\u00edblemente el trabajo de instalaci\u00f3n. \u00bfPuede haber algo m\u00e1s sencillo que abrir el terminal, copiar y pegar el comando y que se instale el programa? \u00bfY olvidarse de navegar de web en web para ir descargando programa por programa e instalarlos uno a uno?<\/p>\n\n<p>Saludos!<\/p>","content":"<p>Pues yo creo que lo mismo que tardas en navegar de web en web buscando los programas que quieres instalar (que b\u00e1sicamente son los mencionados arriba) es lo que tardas (si no menos) en encontrar un post como este, que hacen que te des cuenta que no es tan complicado usar el terminal y que adem\u00e1s te facilitan incre\u00edblemente el trabajo de instalaci\u00f3n. \u00bfPuede haber algo m\u00e1s sencillo que abrir el terminal, copiar y pegar el comando y que se instale el programa? \u00bfY olvidarse de navegar de web en web para ir descargando programa por programa e instalarlos uno a uno?<\/p>\n\n<p>Saludos!<\/p>","karma":"-7.50","parent":"314968","comment_edited_date":"","vote_count":"3","comment_level":4,"comment_deleted_date":"","tree_level":"3","comment_approved":"1","comment_author":"s128k","user_id":"65623","author":"","webpage":null,"user_name":"s128k","karma_level":"25.00","iseditor":"0","global_id":"286981","facebook_uid":null,"index":47,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/286981_1.png"},{"id":"314980","post_id":"58044","date":1287615723,"content_filtered":"<p>Creo que nadie est\u00e1 negando que en GNU\/Linux para algunas tareas se tiene que utilizar el terminal (tambi\u00e9n es verdad que muchos recurrimos al terminal por costumbre y\/o rapidez, pones el comando y no tienes que ir buscando entre iconos y menus). Lo que se est\u00e1 \"denunciando\" aqu\u00ed es que se est\u00e1 explicando la manera mas dif\u00edcil o quiz\u00e1s menos atractiva de instalar, precisamente, unos programas que seguramente est\u00e1n en el interfaz de instalaci\u00f3n de programas de Ubuntu. <\/p>\n\n<p>Que alguien lo confirme o es que soy muy incr\u00e9dulo pero me cuesta creer que en los repositorios que te vienen por defecto no est\u00e9n ni el VLC ni el Banshee (acabo de ver que Banshee est\u00e1 en los repositorios de Ubuntu y hasta hay un acceso directo en la pagina de Banshee.fm: <a href=\"http:\/\/banshee.fm\/download\/\" rel=\"nofollow\">http:\/\/banshee.fm\/download\/<\/a>).<\/p>","content":"<p>Creo que nadie est\u00e1 negando que en GNU\/Linux para algunas tareas se tiene que utilizar el terminal (tambi\u00e9n es verdad que muchos recurrimos al terminal por costumbre y\/o rapidez, pones el comando y no tienes que ir buscando entre iconos y menus). Lo que se est\u00e1 \"denunciando\" aqu\u00ed es que se est\u00e1 explicando la manera mas dif\u00edcil o quiz\u00e1s menos atractiva de instalar, precisamente, unos programas que seguramente est\u00e1n en el interfaz de instalaci\u00f3n de programas de Ubuntu. <\/p>\n\n<p>Que alguien lo confirme o es que soy muy incr\u00e9dulo pero me cuesta creer que en los repositorios que te vienen por defecto no est\u00e9n ni el VLC ni el Banshee (acabo de ver que Banshee est\u00e1 en los repositorios de Ubuntu y hasta hay un acceso directo en la pagina de Banshee.fm: <a href=\"http:\/\/banshee.fm\/download\/\" rel=\"nofollow\">http:\/\/banshee.fm\/download\/<\/a>).<\/p>","karma":"28.00","parent":"314958","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"Jordi Mercader","user_id":"5311","author":"Jordi Mercader","webpage":null,"user_name":"jordimercader","karma_level":"35.00","iseditor":"0","global_id":"2768","facebook_uid":null,"index":29,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/2768_1.png"},{"id":"314967","post_id":"58044","date":1287612802,"content_filtered":"<p>Es el precio a pagar por el alto nivel de configurabilidad, adem\u00e1s, una vez que te acostumbras, ya no puedes vivir sin la terminal<\/p>","content":"<p>Es el precio a pagar por el alto nivel de configurabilidad, adem\u00e1s, una vez que te acostumbras, ya no puedes vivir sin la terminal<\/p>","karma":"20.50","parent":"314958","comment_edited_date":"","vote_count":"4","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"windowslinux","user_id":"21281","author":"","webpage":null,"user_name":"windowslinux","karma_level":"25.00","iseditor":"0","global_id":"145493","facebook_uid":null,"index":20,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/145493_1.png"},{"id":"314971","post_id":"58044","date":1287613502,"content_filtered":"<p>pues no escribas en la terminal, copia y pega, que es mas rapido XD\nen serio, yo practicamente no he escrito nada en la terminal y la he usado para instalar pcasi todos los programas que tengo<\/p>","content":"<p>pues no escribas en la terminal, copia y pega, que es mas rapido XD\nen serio, yo practicamente no he escrito nada en la terminal y la he usado para instalar pcasi todos los programas que tengo<\/p>","karma":"18.00","parent":"314958","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"Adri","user_id":"58559","author":"Adri","webpage":"http:\/\/elvampirochupabits.blogspot.com\/","user_name":"randomguy","karma_level":"43.00","iseditor":"0","global_id":"270662","facebook_uid":null,"index":23,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/270662_3.png"},{"id":"314977","post_id":"58044","date":1287614989,"content_filtered":"<p>Es obvio que no se puede dejar de usar la terminal pero esto no tiene porque ser malo.\nLas interfaces graficas son para los que les da \"miedo\" la terminal y para los que piensan que es mas rapido y facil asi, esto es  totalmente falso ya que tienes que hacer demasiados clicks para el hacer lo que deseas mientras que con la terminal puedes modificar cualquier parte del sistema sin moverte por tontas ventanas y clicks innecesarios, <\/p>\n\n<p><\/p>\n\n<p>Por esto inventar\u00f3n google instant para ahorrar UN click y ubuntu server que no posee interfaz grafica porque es claro que asi es mas RAPIDO y mas eficiente y con muchos menos errores ya que empleas toda la atencion a una sola actividad la terminal, y no andar abriendo ochocientos mil ventanas buscando cual de todas tiene la opcion que necesitas!!<\/p>","content":"<p>Es obvio que no se puede dejar de usar la terminal pero esto no tiene porque ser malo.\nLas interfaces graficas son para los que les da \"miedo\" la terminal y para los que piensan que es mas rapido y facil asi, esto es  totalmente falso ya que tienes que hacer demasiados clicks para el hacer lo que deseas mientras que con la terminal puedes modificar cualquier parte del sistema sin moverte por tontas ventanas y clicks innecesarios, <\/p>\n\n<p><\/p>\n\n<p>Por esto inventar\u00f3n google instant para ahorrar UN click y ubuntu server que no posee interfaz grafica porque es claro que asi es mas RAPIDO y mas eficiente y con muchos menos errores ya que empleas toda la atencion a una sola actividad la terminal, y no andar abriendo ochocientos mil ventanas buscando cual de todas tiene la opcion que necesitas!!<\/p>","karma":"8.00","parent":"314958","comment_edited_date":1287615784,"vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"Marco","user_id":"64406","author":"Marco","webpage":null,"user_name":"mrccnj","karma_level":"25.00","iseditor":"0","global_id":"301635","facebook_uid":"100000711170670","index":28,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/301635_1.png"},{"id":"315017","post_id":"58044","date":1287626177,"content_filtered":"<p>Admirar mortales!!, la IGNORANCIA en su maximo esplendor<\/p>","content":"Admirar mortales!!, la IGNORANCIA en su maximo esplendor","karma":"8.00","parent":"314958","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"angel3071","user_id":"22165","author":"","webpage":null,"user_name":"angel3071","karma_level":"35.00","iseditor":"0","global_id":"148462","facebook_uid":null,"index":48,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/148462_1.png"},{"id":"315150","post_id":"58044","date":1287711439,"content_filtered":"<p>\u00bfpero como hacer un post sobre ubuntu sin hablar de la terminal?, as\u00ed no se ve geek y aunque uses ubuntu hay que parecer linuxero ante todo.<\/p>","content":"\u00bfpero como hacer un post sobre ubuntu sin hablar de la terminal?, as\u00ed no se ve geek y aunque uses ubuntu hay que parecer linuxero ante todo.","karma":"8.00","parent":"314949","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"apolon","user_id":"65031","author":"apolon","webpage":"http:\/\/votame.negativo.fanboy.deprimido","user_name":"apolon","karma_level":"40.00","iseditor":"0","global_id":"305242","facebook_uid":null,"index":59,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/305242_2.png"},{"id":"314960","post_id":"58044","date":1287610929,"content_filtered":"<p>Gracial Migue, voy a volver a darle una oportunidad a Ubuntu e instalarlo en mi portable.<\/p>\n\n<p>Ahora, y sin animos de trollear, eso de:<\/p>\n\n<p>\"incorporan una multitud de aplicaciones que hacen que se pueda utilizar el sistema operativo desde el primer minuto. En este aspecto s\u00f3lo se puede encontrar un paralelismo con los entornos OS X.\"<\/p>\n\n<p>No creo que sea muy exacto ... y de hecho tu art\u00edculo contradice lo que confirm\u00e1s al tener necesidad de instalar codecs y otras aplicaciones una vez instalado el sistema operativo.<\/p>\n\n<p>Windows, por ejemplo, reproduce archivos MP3 y muchos (no todos) tipos de video desde el vamos sin necesidad de nada extra, aunque si hay que recurrir a codecs extras para algunos tipos de archivos en particular.<\/p>\n\n<p>Lo mismo con el Paint (creo se llama as\u00ed) que si bien es super b\u00e1sico y sirve para poco, al menos ya viene instalado y no hay necesidad de hacer nada mas (solo no usarlo, je)<\/p>\n\n<p>No estoy diciendo que Windows sea un mejor o peor sistema operativo, simplemente me parece exagerada la afirmaci\u00f3n a la que hago referencia mas arriba.<\/p>\n\n<p>Gracias por el art\u00edculo.<\/p>","content":"<p>Gracial Migue, voy a volver a darle una oportunidad a Ubuntu e instalarlo en mi portable.<\/p>\n\n<p>Ahora, y sin animos de trollear, eso de:<\/p>\n\n<p>\"incorporan una multitud de aplicaciones que hacen que se pueda utilizar el sistema operativo desde el primer minuto. En este aspecto s\u00f3lo se puede encontrar un paralelismo con los entornos OS X.\"<\/p>\n\n<p>No creo que sea muy exacto ... y de hecho tu art\u00edculo contradice lo que confirm\u00e1s al tener necesidad de instalar codecs y otras aplicaciones una vez instalado el sistema operativo.<\/p>\n\n<p>Windows, por ejemplo, reproduce archivos MP3 y muchos (no todos) tipos de video desde el vamos sin necesidad de nada extra, aunque si hay que recurrir a codecs extras para algunos tipos de archivos en particular.<\/p>\n\n<p>Lo mismo con el Paint (creo se llama as\u00ed) que si bien es super b\u00e1sico y sirve para poco, al menos ya viene instalado y no hay necesidad de hacer nada mas (solo no usarlo, je)<\/p>\n\n<p>No estoy diciendo que Windows sea un mejor o peor sistema operativo, simplemente me parece exagerada la afirmaci\u00f3n a la que hago referencia mas arriba.<\/p>\n\n<p>Gracias por el art\u00edculo.<\/p>","karma":"40.00","parent":"0","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"The Gringo","user_id":"65599","author":"The Gringo","webpage":null,"user_name":"the_gringo","karma_level":"25.00","iseditor":"0","global_id":"59403","facebook_uid":null,"index":13,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/59403_1.png"},{"id":"314965","post_id":"58044","date":1287612602,"content_filtered":"<p>conoces Kolourpaint??? parece que nos queremos encerrar en gnome cuando existen buen\u00edsimas propuestas de KDE (aunque a m\u00ed KDE personalmente me parezca est\u00e9ticamente horrendo). Kolourpaint es una magn\u00edfica propuesta que tendr\u00edan que <b>portar inmediatamente<\/b> desde Qt a GTk, en vez de hacer un desarrollo propio. Pero claro, no se pueden hacer 4 clicks (los he contado) e instalar Kolourpaint... hay que quejarse.... \ny una cosa hay que tener clara Windows puede que en conjunto no puedas decir se es \"mejor o peor\" pero est\u00e1 claro que las aplicaciones por defecto que trae el sistema operativo en s\u00ed son <b>muy malas<\/b>.\nSaludos<\/p>","content":"conoces Kolourpaint??? parece que nos queremos encerrar en gnome cuando existen buen\u00edsimas propuestas de KDE (aunque a m\u00ed KDE personalmente me parezca est\u00e9ticamente horrendo). Kolourpaint es una magn\u00edfica propuesta que tendr\u00edan que <b>portar inmediatamente<\/b> desde Qt a GTk, en vez de hacer un desarrollo propio. Pero claro, no se pueden hacer 4 clicks (los he contado) e instalar Kolourpaint... hay que quejarse.... \ny una cosa hay que tener clara Windows puede que en conjunto no puedas decir se es \"mejor o peor\" pero est\u00e1 claro que las aplicaciones por defecto que trae el sistema operativo en s\u00ed son <b>muy malas<\/b>.\nSaludos","karma":"5.00","parent":"314960","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"42836","user_id":"42836","author":"","webpage":null,"user_name":null,"karma_level":"29.00","iseditor":"0","global_id":"210312","facebook_uid":"555123991","index":18,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/555123991\/picture"},{"id":"315187","post_id":"58044","date":1287725314,"content_filtered":"<p>yo creo que #The Gringo se refiere a que no solo MacOX viene listo para usar desde que lo sacas de la caja, sino que Windows tambien y no deja de tener razon. Y si bien es cierto que las aplicaciones tal vez no son las mejores si son las necesarias en la mayoria de los casos para cubrir las necesidades basicas de un usuario promedio.<\/p>\n\n<p>En todo caso y respondiendole esta vez a #The Gringo, el nuevo ubuntu maverick meerkat (10.10) en el momento de instalarlo viene con una opcion para habilitar todos los codecs y cosas necesarias para reproducir videos, mp3, dvds y la mayoria de los archivos asi que instalalo sin miedo, en mi opinion ubuntu es un muy buen SO.<\/p>\n\n<p>Saludos!<\/p>","content":"yo creo que #The Gringo se refiere a que no solo MacOX viene listo para usar desde que lo sacas de la caja, sino que Windows tambien y no deja de tener razon. Y si bien es cierto que las aplicaciones tal vez no son las mejores si son las necesarias en la mayoria de los casos para cubrir las necesidades basicas de un usuario promedio.\n\nEn todo caso y respondiendole esta vez a #The Gringo, el nuevo ubuntu maverick meerkat (10.10) en el momento de instalarlo viene con una opcion para habilitar todos los codecs y cosas necesarias para reproducir videos, mp3, dvds y la mayoria de los archivos asi que instalalo sin miedo, en mi opinion ubuntu es un muy buen SO.\n\nSaludos!","karma":"8.00","parent":"314965","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"abelnico","user_id":"53911","author":"","webpage":null,"user_name":"abelnico","karma_level":"26.00","iseditor":"0","global_id":"213249","facebook_uid":null,"index":60,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/213249_2.png"},{"id":"314951","post_id":"58044","date":1287608182,"content_filtered":"<p>Con animo de ser una opini\u00f3n constructiva y no destructiva creo que en este articulo se hace demasiado hincapi\u00e9 en el terminal cuando, precisamente Ubuntu, es de las distribuciones de GNU\/Linux que tienen mejor resuelta esta faceta. Yo utilizo openSUSE y lo \u00fanico que hecho en falta es el interfaz que tiene Ubuntu para instalar aplicaciones. \nEste carisma que se aplica a este articulo hace pensar a algunos lo que otros que no conocen GNU\/Linux piensan: \"vaya, como el MS-DOS\".\nQue el articulo est\u00e1 bien. Considero que dar publicidad a estas propuestas de c\u00f3digo libre siempre ser\u00e1n positivas pero no creo que esta sea la mejor manera.<\/p>","content":"<p>Con animo de ser una opini\u00f3n constructiva y no destructiva creo que en este articulo se hace demasiado hincapi\u00e9 en el terminal cuando, precisamente Ubuntu, es de las distribuciones de GNU\/Linux que tienen mejor resuelta esta faceta. Yo utilizo openSUSE y lo \u00fanico que hecho en falta es el interfaz que tiene Ubuntu para instalar aplicaciones. \nEste carisma que se aplica a este articulo hace pensar a algunos lo que otros que no conocen GNU\/Linux piensan: \"vaya, como el MS-DOS\".\nQue el articulo est\u00e1 bien. Considero que dar publicidad a estas propuestas de c\u00f3digo libre siempre ser\u00e1n positivas pero no creo que esta sea la mejor manera.<\/p>","karma":"38.00","parent":"0","comment_edited_date":"","vote_count":"5","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Jordi Mercader","user_id":"5311","author":"Jordi Mercader","webpage":null,"user_name":"jordimercader","karma_level":"35.00","iseditor":"0","global_id":"2768","facebook_uid":null,"index":4,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/2768_1.png"},{"id":"314962","post_id":"58044","date":1287611143,"content_filtered":"<p>desde todos lados recomiendan no usar apt-get install, y usar en vez de eso aptitude install.\nigual ven\u00eda bien cambiarlo para que la gente coja el h\u00e1bito...<\/p>\n\n<p>un saludo<\/p>","content":"<p>desde todos lados recomiendan no usar apt-get install, y usar en vez de eso aptitude install.\nigual ven\u00eda bien cambiarlo para que la gente coja el h\u00e1bito...<\/p>\n\n<p>un saludo<\/p>","karma":"20.00","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"mendorro","user_id":"19697","author":"mendorro","webpage":null,"user_name":null,"karma_level":"25.00","iseditor":"0","global_id":"140336","facebook_uid":null,"index":15,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/140336_1.png"},{"id":"314988","post_id":"58044","date":1287617390,"content_filtered":"<p>Misteriosamente dejan de incluir de f\u00e1brica el aptitude, por lo que hay que instalarlo ya sea con apt-get o con el USS<\/p>","content":"Misteriosamente dejan de incluir de f\u00e1brica el aptitude, por lo que hay que instalarlo ya sea con apt-get o con el USS","karma":"5.00","parent":"314962","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"49944","user_id":"49944","author":"","webpage":null,"user_name":null,"karma_level":"30.00","iseditor":"0","global_id":"219280","facebook_uid":"1112396607","index":32,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1112396607\/picture"},{"id":"314959","post_id":"58044","date":1287610787,"content_filtered":"<p>Yo me instal\u00e9 el 10.10 Netbook Edition en mi netbook (HP mini 210) y no me acab\u00f3 de convencer. Al final, me he vuelto a poner el 10.04 Netbook Edition. El Unity est\u00e1 muy bi\u00e9n para tablets y dem\u00e1s, pero para los netbook prefiero la anterior interfaz (por rapidez, organizaci\u00f3n y aprovechamiento de la pantalla).<\/p>\n\n<p><\/p>\n\n<p>En cambio, en el PC de sobremesa (Dell 580) s\u00ed tengo el Maverick.<\/p>\n\n<p>Edito: lo primero que hice con el Maverick en el PC fue \"sudo apt-get install aptitude\"<\/p>","content":"<p>Yo me instal\u00e9 el 10.10 Netbook Edition en mi netbook (HP mini 210) y no me acab\u00f3 de convencer. Al final, me he vuelto a poner el 10.04 Netbook Edition. El Unity est\u00e1 muy bi\u00e9n para tablets y dem\u00e1s, pero para los netbook prefiero la anterior interfaz (por rapidez, organizaci\u00f3n y aprovechamiento de la pantalla).<\/p>\n\n<p><\/p>\n\n<p>En cambio, en el PC de sobremesa (Dell 580) s\u00ed tengo el Maverick.<\/p>\n\n<p>Edito: lo primero que hice con el Maverick en el PC fue \"sudo apt-get install aptitude\"<\/p>","karma":"15.00","parent":"0","comment_edited_date":1287610892,"vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"CDTI","user_id":"47215","author":"CDTI","webpage":"","user_name":"cdti","karma_level":"29.00","iseditor":"0","global_id":"231022","facebook_uid":"1441607895","index":12,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/231022_1.png"},{"id":"314950","post_id":"58044","date":1287608157,"content_filtered":"<p>Me gustar\u00eda que dijeras como instalar el Jdownloader que yo no fui capaz.<\/p>","content":"Me gustar\u00eda que dijeras como instalar el Jdownloader que yo no fui capaz.","karma":"10.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"catalania ","user_id":"1473","author":"catalania","webpage":null,"user_name":"catalania","karma_level":"39.00","iseditor":"0","global_id":"15276","facebook_uid":null,"index":3,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/15276_2.png"},{"id":"314956","post_id":"58044","date":1287608701,"content_filtered":"<p>Es muy facil de instalar! Aqui te lo dejo:<\/p>\n\n<p>sudo add-apt-repository ppa:jd-team\/jdownloader \nsudo apt-get update \nsudo apt-get install jdownloader<\/p>","content":"<p>Es muy facil de instalar! Aqui te lo dejo:<\/p>\n\n<p>sudo add-apt-repository ppa:jd-team\/jdownloader \nsudo apt-get update \nsudo apt-get install jdownloader<\/p>","karma":"18.00","parent":"314950","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"39548","user_id":"39548","author":"","webpage":null,"user_name":"raugaral","karma_level":"22.00","iseditor":"0","global_id":"201029","facebook_uid":"1325645104","index":9,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1325645104\/picture"},{"id":"314953","post_id":"58044","date":1287608551,"content_filtered":"<p>agrega el repositorio\nsudo add-apt-repository ppa:jd-team\/jdownloader\nsudo apt-get update\nsudo apt-get install jdownloader\narmate de paciencia porque la primera vez tarda mucho en arrancar<\/p>","content":"agrega el repositorio\nsudo add-apt-repository ppa:jd-team\/jdownloader\nsudo apt-get update\nsudo apt-get install jdownloader\narmate de paciencia porque la primera vez tarda mucho en arrancar","karma":"10.00","parent":"314950","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"0","comment_author":"Diego Germ\u00e1n Gonzalez","user_id":"18808","author":"Diego Germ\u00e1n Gonzalez","webpage":null,"user_name":"dggonzalez","karma_level":"32.00","iseditor":"0","global_id":"133442","facebook_uid":null,"index":6,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/963785ed6ba925a47584c60e210417be"},{"id":"315000","post_id":"58044","date":1287618851,"content_filtered":"<p>sudo add-apt-repository ppa:jd-team\/jdownloader\nsudo apt-get update &amp;&amp; sudo apt-get install jdownloader<\/p>\n\n<p>Jdownloader si se instala.<\/p>","content":"sudo add-apt-repository ppa:jd-team\/jdownloader\nsudo apt-get update && sudo apt-get install jdownloader\n\nJdownloader si se instala.","karma":"10.00","parent":"314950","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"hectormacias","user_id":"24210","author":"Hector Macias Ayala","webpage":null,"user_name":"hectormacias","karma_level":"40.00","iseditor":"0","global_id":"155170","facebook_uid":null,"index":37,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/155170_1.png"},{"id":"314952","post_id":"58044","date":1287608308,"content_filtered":"<p>El JDownloader no se instala. Es una aplicaci\u00f3n en Java que se ejecuta. Leete el manual de la aplicaci\u00f3n que lo explica bien.<\/p>","content":"El JDownloader no se instala. Es una aplicaci\u00f3n en Java que se ejecuta. Leete el manual de la aplicaci\u00f3n que lo explica bien.","karma":"8.00","parent":"314950","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Jordi Mercader","user_id":"5311","author":"Jordi Mercader","webpage":null,"user_name":"jordimercader","karma_level":"35.00","iseditor":"0","global_id":"2768","facebook_uid":null,"index":5,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/2768_1.png"},{"id":"314964","post_id":"58044","date":1287611809,"content_filtered":"<p>pues no se, yo lo tengo instalado<\/p>\n\n<p><\/p>\n\n<p>y lo hice desde synaptic<\/p>","content":"<p>pues no se, yo lo tengo instalado<\/p>\n\n<p>y lo hice desde synaptic<\/p>","karma":"8.00","parent":"314952","comment_edited_date":1287611908,"vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"Adri","user_id":"58559","author":"Adri","webpage":"http:\/\/elvampirochupabits.blogspot.com\/","user_name":"randomguy","karma_level":"43.00","iseditor":"0","global_id":"270662","facebook_uid":null,"index":17,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/270662_3.png"},{"id":"315012","post_id":"58044","date":1287622835,"content_filtered":"<p>tiene ppa (que lo que haces es descargarlo, colocarlo y darle un iconos en el menu.\nCosa que de otra forma tendras que hacerlo manualmente.<\/p>\n\n<p><\/p>\n\n<p>sudo add-apt-repository ppa:jd-team\/jdownloader\nsudo apt-get update &amp;&amp; sudo apt-get install jdownloader<\/p>\n\n<p><\/p>\n\n<p>Y si quieres, te metes en el centro de software y pones el ppa y ya esta, pero para mi es mas rapido usar el terminal con mis instalaciones y clientes (en un comando metes los repos, actualizas la lista y el sistema instalando mas de 30 programas sin tener que intervenir para nada mas que pegar XD).<\/p>\n\n<p><br \/><\/p>\n\n<p>EDIT: nota mental, leer las entradas posteriores XD.<\/p>","content":"<p>tiene ppa (que lo que haces es descargarlo, colocarlo y darle un iconos en el menu.\nCosa que de otra forma tendras que hacerlo manualmente.<\/p>\n\n<p>sudo add-apt-repository ppa:jd-team\/jdownloader\nsudo apt-get update && sudo apt-get install jdownloader<\/p>\n\n<p>Y si quieres, te metes en el centro de software y pones el ppa y ya esta, pero para mi es mas rapido usar el terminal con mis instalaciones y clientes (en un comando metes los repos, actualizas la lista y el sistema instalando mas de 30 programas sin tener que intervenir para nada mas que pegar XD).<\/p><p><br><\/p><p>EDIT: nota mental, leer las entradas posteriores XD.<\/p>","karma":"10.00","parent":"314964","comment_edited_date":1287622909,"vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"0","comment_author":"Blackgem Vindicare","user_id":"48762","author":"Blackgem Vindicare","webpage":"http:\/\/blog.vindicare.es","user_name":"blackgem","karma_level":"39.00","iseditor":"0","global_id":"236104","facebook_uid":null,"index":44,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/236104_1.png"},{"id":"314966","post_id":"58044","date":1287612771,"content_filtered":"<p>Launchpad es tu amigo. B\u00fasqueda en google de \"launchpad jdownloader\" te da de primer resultado la p\u00e1gina de launchpad para instalar el repositorio. En terminal:<\/p>\n\n<p><\/p>\n\n<p>sudo add-apt-repository ppa:jd-team\/jdownloader <br \/><\/p>\n\n<p>sudo aptitude update <br \/><\/p>\n\n<p>sudo aptitude install jdownloader<\/p>\n\n<p><\/p>\n\n<p>Es pr\u00e1ctico porque te instala las entradas en el men\u00fa. Por lo dem\u00e1s se actualiza solito al arrancarlo, as\u00ed que no tiene m\u00e1s misterio.<\/p>","content":"<p>Launchpad es tu amigo. B\u00fasqueda en google de \"launchpad jdownloader\" te da de primer resultado la p\u00e1gina de launchpad para instalar el repositorio. En terminal:<\/p>\n\n<p>sudo add-apt-repository ppa:jd-team\/jdownloader <br><\/p><p>sudo aptitude update <br><\/p><p>sudo aptitude install jdownloader<\/p>\n\n<p>Es pr\u00e1ctico porque te instala las entradas en el men\u00fa. Por lo dem\u00e1s se actualiza solito al arrancarlo, as\u00ed que no tiene m\u00e1s misterio.<\/p>","karma":"5.00","parent":"314950","comment_edited_date":1287612811,"vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Zaraka ","user_id":"3695","author":"Zaraka ","webpage":null,"user_name":"zaraka","karma_level":"22.00","iseditor":"0","global_id":"8223","facebook_uid":null,"index":19,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/02533ede77679e7dea573efa39f76321"},{"id":"314974","post_id":"58044","date":1287614056,"content_filtered":"<p>La personalizaci\u00f3n va al gusto de cada uno. Aunque yo voy con Lucid (y aqui me quedo), tambien hice lo propio en su d\u00eda. <\/p>\n\n<p><\/p>\n\n<p>Supongo que servir\u00e1 para Maverick, pero una da las cosas que hice yo fue eliminar los iconos de estado y de sesion. Pero, hay un problema, que es que el icono del volumen del audio va incorporado con estos. \u00bfSolucion? Aqui va:<\/p>\n\n<p><\/p>\n\n<p>- Aplicaciones de inicio; a\u00f1adir; gnome-volume-control-applet\n- Reinicias la sesi\u00f3n y ya puedes a\u00f1adir el applet del volumen a secas.<\/p>\n\n<p><\/p>\n\n<p>Tambien podemos instalar el ailurus o el ubuntu tweak para instalar, configurar, etcetera. El primero me ha sido francamente \u00fatil; el segundo ya no me ha servido. Por cierto, aunque hay otras formas, con el ailurus podremos poner los botones de las ventanas en SU sitio.<\/p>\n\n<p><\/p>\n\n<p>EN cuanto a programas, lo normal y que ya se ha dicho: recuperar a pidgin o el GIMP. Tambien podemos a\u00f1adir el Inkscape, etc\u00e9tera.<\/p>\n\n<p>Y, por cierto. Y desde que conozco el Centro de Programario de Ubuntu que le estoy muy agradecido. Uso el Aptitude y el Synaptic con mucha mas asiduidad.<\/p>\n\n<p>PS: quien vea demasiados problemas para instalar extras restrictivos y similares, siempre tendr\u00e1 a Linux Mint<\/p>","content":"<p>La personalizaci\u00f3n va al gusto de cada uno. Aunque yo voy con Lucid (y aqui me quedo), tambien hice lo propio en su d\u00eda. <\/p>\n\n<p>Supongo que servir\u00e1 para Maverick, pero una da las cosas que hice yo fue eliminar los iconos de estado y de sesion. Pero, hay un problema, que es que el icono del volumen del audio va incorporado con estos. \u00bfSolucion? Aqui va:<\/p>\n\n<p>- Aplicaciones de inicio; a\u00f1adir; gnome-volume-control-applet\n- Reinicias la sesi\u00f3n y ya puedes a\u00f1adir el applet del volumen a secas.<\/p>\n\n<p>Tambien podemos instalar el ailurus o el ubuntu tweak para instalar, configurar, etcetera. El primero me ha sido francamente \u00fatil; el segundo ya no me ha servido. Por cierto, aunque hay otras formas, con el ailurus podremos poner los botones de las ventanas en SU sitio.<\/p>\n\n<p>EN cuanto a programas, lo normal y que ya se ha dicho: recuperar a pidgin o el GIMP. Tambien podemos a\u00f1adir el Inkscape, etc\u00e9tera.<\/p><p>Y, por cierto. Y desde que conozco el Centro de Programario de Ubuntu que le estoy muy agradecido. Uso el Aptitude y el Synaptic con mucha mas asiduidad.<\/p><p>PS: quien vea demasiados problemas para instalar extras restrictivos y similares, siempre tendr\u00e1 a Linux Mint<\/p>","karma":"10.00","parent":"0","comment_edited_date":1287614229,"vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"lordofthecoffee","user_id":"12991","author":"","webpage":null,"user_name":"lordofthecoffee","karma_level":"47.00","iseditor":"0","global_id":"88651","facebook_uid":null,"index":25,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/88651_2.png"},{"id":"314983","post_id":"58044","date":1287615926,"content_filtered":"<p>\"Desde mi punto de vista la mayor\u00eda de las distribuciones GNU\/Linux, y en este caso en concreto Ubuntu, incorporan una multitud de aplicaciones que hacen que se pueda utilizar el sistema operativo desde el primer minuto. En este aspecto s\u00f3lo se puede encontrar un paralelismo con los entornos OS X.\"<\/p>\n\n<p>Que es lo que tienes que configurar en Windows antes de poder navegar por internet, por ejemplo. O escuchar musica?<\/p>","content":"\"Desde mi punto de vista la mayor\u00eda de las distribuciones GNU\/Linux, y en este caso en concreto Ubuntu, incorporan una multitud de aplicaciones que hacen que se pueda utilizar el sistema operativo desde el primer minuto. En este aspecto s\u00f3lo se puede encontrar un paralelismo con los entornos OS X.\"\n\nQue es lo que tienes que configurar en Windows antes de poder navegar por internet, por ejemplo. O escuchar musica?","karma":"10.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"darknast","user_id":"11743","author":"darknast","webpage":null,"user_name":null,"karma_level":"25.00","iseditor":"0","global_id":"25982","facebook_uid":null,"index":30,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/25982_3.png"},{"id":"314990","post_id":"58044","date":1287617547,"content_filtered":"<p>Wifi, Ethernet, un navegador decente... vamos lo t\u00edpico que le tienes que configurar a windows<\/p>","content":"Wifi, Ethernet, un navegador decente... vamos lo t\u00edpico que le tienes que configurar a windows","karma":"5.00","parent":"314983","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"49944","user_id":"49944","author":"","webpage":null,"user_name":null,"karma_level":"30.00","iseditor":"0","global_id":"219280","facebook_uid":"1112396607","index":33,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1112396607\/picture"},{"id":"315565","post_id":"58044","date":1288031205,"content_filtered":"<p>Diria yo que a nivel de drivers est\u00e1 mejor equipado Windows vista y 7 que ubuntu no?<\/p>","content":"Diria yo que a nivel de drivers est\u00e1 mejor equipado Windows vista y 7 que ubuntu no?","karma":"10.00","parent":"314990","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"darknast","user_id":"11743","author":"darknast","webpage":null,"user_name":null,"karma_level":"25.00","iseditor":"0","global_id":"25982","facebook_uid":null,"index":63,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/25982_3.png"},{"id":"315637","post_id":"58044","date":1288043456,"content_filtered":"<p>Ehm..., nop.\nCuenta los drivers que tienes que instalar para Windows y los que necesitas en Linux...\nEn linux necesitas instalar los privativos de nvidia o ati si los necesitas (los libres ya dan aceleracion 3D y los de intel en el kernel).<\/p>\n\n<p>Si eso como he comentado alguna wifi rara (que mas tarde trae soporte de serie) y alguna pantalla tactil tal vez. Y si eso algun modelo raro de impresora.<\/p>\n\n<p>Pero sonido, lectores, pantallas, teclados, ratones, tarjetas de red y la mayoria del resto viene de serie, es mas, solo he necesitado instalar a veces los privativos de la grafica en Linux, nunca he necesitado otra cosa.<\/p>\n\n<p>Eso si, cuando sale un nuevo dispositivo al mercado trae drivers para Windows, para Linux sino los da el fabricante ni hay compatibles se puede tardar una semana o nueva version de kernel en salir (pero si es un caso aislado , sin soporte y demas, tal vez mucho tiempo).<\/p>","content":"Ehm..., nop.\nCuenta los drivers que tienes que instalar para Windows y los que necesitas en Linux...\nEn linux necesitas instalar los privativos de nvidia o ati si los necesitas (los libres ya dan aceleracion 3D y los de intel en el kernel).\n\nSi eso como he comentado alguna wifi rara (que mas tarde trae soporte de serie) y alguna pantalla tactil tal vez. Y si eso algun modelo raro de impresora.\n\nPero sonido, lectores, pantallas, teclados, ratones, tarjetas de red y la mayoria del resto viene de serie, es mas, solo he necesitado instalar a veces los privativos de la grafica en Linux, nunca he necesitado otra cosa.\n\nEso si, cuando sale un nuevo dispositivo al mercado trae drivers para Windows, para Linux sino los da el fabricante ni hay compatibles se puede tardar una semana o nueva version de kernel en salir (pero si es un caso aislado , sin soporte y demas, tal vez mucho tiempo).","karma":"10.00","parent":"315565","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"0","comment_author":"Blackgem Vindicare","user_id":"48762","author":"Blackgem Vindicare","webpage":"http:\/\/blog.vindicare.es","user_name":"blackgem","karma_level":"39.00","iseditor":"0","global_id":"236104","facebook_uid":null,"index":64,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/236104_1.png"},{"id":"315111","post_id":"58044","date":1287697727,"content_filtered":"<p>mmm por lo menos en win7, lo \u00fanico seria el navegador decente :P, wifi, ethernet los detecta autom\u00e1ticamente al igual que el audio y el v\u00eddeo, aunque vamos estos son mas bien controladores no aplicaciones en si.<\/p>","content":"mmm por lo menos en win7, lo \u00fanico seria el navegador decente :P, wifi, ethernet los detecta autom\u00e1ticamente al igual que el audio y el v\u00eddeo, aunque vamos estos son mas bien controladores no aplicaciones en si.","karma":"5.00","parent":"314990","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"superook1e","user_id":"61246","author":"Diego Padilla Gutierrez","webpage":"http:\/\/codigoconalgomas.blogspot.mx","user_name":"superook1e","karma_level":"28.00","iseditor":"0","global_id":"284748","facebook_uid":"603418927","index":57,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/603418927\/picture"},{"id":"315025","post_id":"58044","date":1287633647,"content_filtered":"<p>perd\u00f3n si me confund\u00ed pero puede ser que haya desaparecido el post de la portada de genbeta?<\/p>","content":"perd\u00f3n si me confund\u00ed pero puede ser que haya desaparecido el post de la portada de genbeta?","karma":"10.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"santiago","user_id":"43067","author":"asp95","webpage":null,"user_name":"santiago_95","karma_level":"27.00","iseditor":"0","global_id":"211015","facebook_uid":null,"index":50,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/211015_6.png"},{"id":"315030","post_id":"58044","date":1287645868,"content_filtered":"<p>A la lista de sugerencias sumo Ailurus para mostrarme variada informaci\u00f3n de forma gr\u00e1fica, y el repositorio de <a href=\"http:\/\/hacktolive.org\/repo\/lucid\/dists\/lucid\/main\/binary-amd64\/Packages\" rel=\"nofollow\">Super OS<\/a>, en donde encontrar\u00e9is <a href=\"http:\/\/hacktolive.org\/wiki\/Super_OS_repository\" rel=\"nofollow\">estos paquetes<\/a>.<\/p>","content":"A la lista de sugerencias sumo Ailurus para mostrarme variada informaci\u00f3n de forma gr\u00e1fica, y el repositorio de <a href=\"http:\/\/hacktolive.org\/repo\/lucid\/dists\/lucid\/main\/binary-amd64\/Packages\">Super OS<\/a>, en donde encontrar\u00e9is <a href=\"http:\/\/hacktolive.org\/wiki\/Super_OS_repository\">estos paquetes<\/a>.","karma":"10.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"noctuido ","user_id":"2894","author":"noctuido ","webpage":"http:\/\/noctuido.wordpress.com","user_name":"noctuido","karma_level":"34.00","iseditor":"0","global_id":"39930","facebook_uid":"100003107111573","index":51,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100003107111573\/picture"},{"id":"314954","post_id":"58044","date":1287608607,"content_filtered":"<p>Es muy facil de instalar!\nAqui te lo dejo:<\/p>\n\n<p><\/p>\n\n<p>sudo add-apt-repository ppa:jd-team\/jdownloader<\/p>\n\n<p>\u00a0sudo apt-get update<\/p>\n\n<p>\u00a0sudo apt-get install jdownloader<\/p>","content":"<p>Es muy facil de instalar!\nAqui te lo dejo:<\/p>\n\n<p>sudo add-apt-repository ppa:jd-team\/jdownloader<\/p><p>\u00a0sudo apt-get update<\/p><p>\u00a0sudo apt-get install jdownloader<\/p>","karma":"8.00","parent":"0","comment_edited_date":1287608768,"vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"39548","user_id":"39548","author":"","webpage":null,"user_name":"raugaral","karma_level":"22.00","iseditor":"0","global_id":"201029","facebook_uid":"1325645104","index":7,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1325645104\/picture"},{"id":"314963","post_id":"58044","date":1287611611,"content_filtered":"<p>He instalado Ubuntu 10.10, y \u00bfahora qu\u00e9?\nVolver a la 10.04 y esperar hasta que haya parches para que la version 10.10 sea estable<\/p>\n\n<p>al menos yo, desde que instale la 10.10 de kubuntu me aparecen problemas por todos lados y que nunca he tenido con la 9.10 y la 10.04<\/p>","content":"He instalado Ubuntu 10.10, y \u00bfahora qu\u00e9?\nVolver a la 10.04 y esperar hasta que haya parches para que la version 10.10 sea estable\n\nal menos yo, desde que instale la 10.10 de kubuntu me aparecen problemas por todos lados y que nunca he tenido con la 9.10 y la 10.04","karma":"8.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Adri","user_id":"58559","author":"Adri","webpage":"http:\/\/elvampirochupabits.blogspot.com\/","user_name":"randomguy","karma_level":"43.00","iseditor":"0","global_id":"270662","facebook_uid":null,"index":16,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/270662_3.png"},{"id":"314972","post_id":"58044","date":1287613717,"content_filtered":"<p>Curioso, porque yo la 10.04 la he saltado completamente y la 10.10 me parece la mejor hasta ahora... de Ubuntu (sin k). La anterior para ser una LTS me pareci\u00f3 un fraude, con cambios y pruebas incomprensibles y un soporte de drivers que dejaba bastante que desear (claro que esto cada uno lo lleva diferente seg\u00fan el equipo que tenga). <\/p>\n\n<p>Ahora bien, tambi\u00e9n es verdad que he hecho una actualizaci\u00f3n y lo mismo si instalo desde cero me hace una chapuza.<\/p>","content":"Curioso, porque yo la 10.04 la he saltado completamente y la 10.10 me parece la mejor hasta ahora... de Ubuntu (sin k). La anterior para ser una LTS me pareci\u00f3 un fraude, con cambios y pruebas incomprensibles y un soporte de drivers que dejaba bastante que desear (claro que esto cada uno lo lleva diferente seg\u00fan el equipo que tenga). \n\nAhora bien, tambi\u00e9n es verdad que he hecho una actualizaci\u00f3n y lo mismo si instalo desde cero me hace una chapuza.","karma":"5.00","parent":"314963","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Zaraka ","user_id":"3695","author":"Zaraka ","webpage":null,"user_name":"zaraka","karma_level":"22.00","iseditor":"0","global_id":"8223","facebook_uid":null,"index":24,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/02533ede77679e7dea573efa39f76321"},{"id":"315002","post_id":"58044","date":1287619048,"content_filtered":"<p>\"porque yo la 10.04 la he saltado completamente y la 10.10 me parece la mejor hasta ahora\"<\/p>\n\n<p>Eres bueno con las incoherencias, si nunca la probaste como ibas a saber que es mejor la otra?<\/p>\n\n<p>Por cierto que a mi me fucion\u00f3 mejor 10.04.1 x64 que la asquerosa Suricata, al d\u00eda siguiente me regres\u00e9 al LTS.<\/p>","content":"<p>\"porque yo la 10.04 la he saltado completamente y la 10.10 me parece la mejor hasta ahora\"<\/p>\n\n<p>Eres bueno con las incoherencias, si nunca la probaste como ibas a saber que es mejor la otra?<\/p>\n\n<p>Por cierto que a mi me fucion\u00f3 mejor 10.04.1 x64 que la asquerosa Suricata, al d\u00eda siguiente me regres\u00e9 al LTS.<\/p>","karma":"25.00","parent":"314972","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"hectormacias","user_id":"24210","author":"Hector Macias Ayala","webpage":null,"user_name":"hectormacias","karma_level":"40.00","iseditor":"0","global_id":"155170","facebook_uid":null,"index":39,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/155170_1.png"},{"id":"314975","post_id":"58044","date":1287614452,"content_filtered":"<p>pues yo me estoy planteando dejar de lado kubuntu (el mio si tiene K, XP) y probar en el sobremesa Mint (con GNOME) o PClinuxOS (con E-17) que estos dos los probe en el portatil y me gustaron bastante<\/p>\n\n<p><\/p>\n\n<p>\nPD relacion de problemas <br \/><\/p>\n\n<p>-Inkscape no funciona <br \/><\/p>\n\n<p>-Dolphin y firefox se cuelgan constantemente <br \/><\/p>\n\n<p>-El sistema ya no reconoce las tildes, ahora aparece el simbolo \ufffd <br \/><\/p>\n\n<p>-los archivos que en su nombre lleven tildes no se pueden usar ni borrar<\/p>","content":"<p>pues yo me estoy planteando dejar de lado kubuntu (el mio si tiene K, XP) y probar en el sobremesa Mint (con GNOME) o PClinuxOS (con E-17) que estos dos los probe en el portatil y me gustaron bastante<\/p>\n\n<p>\nPD relacion de problemas <br><\/p><p>-Inkscape no funciona <br><\/p><p>-Dolphin y firefox se cuelgan constantemente <br><\/p><p>-El sistema ya no reconoce las tildes, ahora aparece el simbolo \ufffd <br><\/p><p>-los archivos que en su nombre lleven tildes no se pueden usar ni borrar<\/p>","karma":"8.00","parent":"314972","comment_edited_date":1287614476,"vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"Adri","user_id":"58559","author":"Adri","webpage":"http:\/\/elvampirochupabits.blogspot.com\/","user_name":"randomguy","karma_level":"43.00","iseditor":"0","global_id":"270662","facebook_uid":null,"index":26,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/270662_3.png"},{"id":"315013","post_id":"58044","date":1287623266,"content_filtered":"<p>lo tuyo son problemas con las locales, tal vez te falten paquetes de idiomas o a saber, y si tienes experiencia, usa Debian mejor, dejate de refritos XD. Y \"no funcionar\" no es excusa ademas ^^.<\/p>\n\n<p>KDE en Ubuntu no esta NADA pulido ademas XD<\/p>","content":"lo tuyo son problemas con las locales, tal vez te falten paquetes de idiomas o a saber, y si tienes experiencia, usa Debian mejor, dejate de refritos XD. Y \"no funcionar\" no es excusa ademas ^^.\n\nKDE en Ubuntu no esta NADA pulido ademas XD","karma":"10.00","parent":"314975","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"0","comment_author":"Blackgem Vindicare","user_id":"48762","author":"Blackgem Vindicare","webpage":"http:\/\/blog.vindicare.es","user_name":"blackgem","karma_level":"39.00","iseditor":"0","global_id":"236104","facebook_uid":null,"index":45,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/236104_1.png"},{"id":"314985","post_id":"58044","date":1287616767,"content_filtered":"<p>El paso cero es instalar el GParted, sin duda el mejor programa de Linux<\/p>","content":"El paso cero es instalar el GParted, sin duda el mejor programa de Linux","karma":"8.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"stranno","user_id":"36909","author":"stranno","webpage":null,"user_name":"stranno1","karma_level":"27.00","iseditor":"0","global_id":"187682","facebook_uid":"1034597960","index":31,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/187682_1.png"},{"id":"314993","post_id":"58044","date":1287617750,"content_filtered":"<p>Joder... para? Creo que el GParted lo utilizamos los 4 que estamos todo el d\u00eda que si moviendo particiones, comprobando, etc... pero de ah\u00ed a decir que sea la mejor aplicaci\u00f3n de Linux...\nPuestos a decir aplicaciones yo digo otra: powertop (optimiza el consumo de energ\u00eda en un port\u00e1til).<\/p>","content":"Joder... para? Creo que el GParted lo utilizamos los 4 que estamos todo el d\u00eda que si moviendo particiones, comprobando, etc... pero de ah\u00ed a decir que sea la mejor aplicaci\u00f3n de Linux...\nPuestos a decir aplicaciones yo digo otra: powertop (optimiza el consumo de energ\u00eda en un port\u00e1til).","karma":"8.00","parent":"314985","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Jordi Mercader","user_id":"5311","author":"Jordi Mercader","webpage":null,"user_name":"jordimercader","karma_level":"35.00","iseditor":"0","global_id":"2768","facebook_uid":null,"index":34,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/2768_1.png"},{"id":"315010","post_id":"58044","date":1287621136,"content_filtered":"<p>No digo que sea la m\u00e1s usada, digo que es la mejor<\/p>\n\n<p><\/p>\n\n<p>En Windows hay aplicaciones para suplir cualquier programa de Linux, pero comparar el particionador de Windows o Partition Magic o Ease (como se diga) con GParted es como comparar una Paulander con una Budweiser<\/p>\n\n<p>Que el particionador de Windows ni tan siquiera particione algo que no sea un disco duro (un USB por ejemplo) es lamentable. Y llegar\u00e1 el Windows 52 1\/3 y estaremos igual<br \/><\/p>","content":"<p>No digo que sea la m\u00e1s usada, digo que es la mejor<\/p>\n\n<p>En Windows hay aplicaciones para suplir cualquier programa de Linux, pero comparar el particionador de Windows o Partition Magic o Ease (como se diga) con GParted es como comparar una Paulander con una Budweiser<\/p><p>Que el particionador de Windows ni tan siquiera particione algo que no sea un disco duro (un USB por ejemplo) es lamentable. Y llegar\u00e1 el Windows 52 1\/3 y estaremos igual<br><\/p>","karma":"8.00","parent":"314993","comment_edited_date":1287621228,"vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"stranno","user_id":"36909","author":"stranno","webpage":null,"user_name":"stranno1","karma_level":"27.00","iseditor":"0","global_id":"187682","facebook_uid":"1034597960","index":42,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/187682_1.png"},{"id":"314995","post_id":"58044","date":1287617867,"content_filtered":"<p>Soy usuario de Linux desde hace muchos a\u00f1os, pero tenemos que ser realistas en algunos aspectos. Cuando @30 dice: Que es lo que tienes que configurar en Windows antes de poder navegar por internet, por ejemplo. O escuchar musica?. Tienes practicamente tod en windows 7.\nQue funcione mejor o peor es otra cuesti\u00f3n. Pero cuando te ponen un pc con W7 tienes para catalogar y manejar las fotografias, navegar, grabar, escuchar musica, ver peliculas...\nSigo prefiriendo linux por otras cualidades, pero no seamos antiwindows por que lo diga la mayoria. Nos estamos volciendo unos borregos en ese tema.<\/p>\n\n<p>Usa el sistema operativo que te venga en gana hasta que te olvides de que estas usando y disfruta del trabajo, juegos o entrenimiento que tengas entre manos.\nPorque si piensas unicamente en el sistema operativo, algo mal tiene que estar pasando para que no puedas disfrutar de lo que estes haciendo.<\/p>","content":"Soy usuario de Linux desde hace muchos a\u00f1os, pero tenemos que ser realistas en algunos aspectos. Cuando @30 dice: Que es lo que tienes que configurar en Windows antes de poder navegar por internet, por ejemplo. O escuchar musica?. Tienes practicamente tod en windows 7.\nQue funcione mejor o peor es otra cuesti\u00f3n. Pero cuando te ponen un pc con W7 tienes para catalogar y manejar las fotografias, navegar, grabar, escuchar musica, ver peliculas...\nSigo prefiriendo linux por otras cualidades, pero no seamos antiwindows por que lo diga la mayoria. Nos estamos volciendo unos borregos en ese tema.\n\nUsa el sistema operativo que te venga en gana hasta que te olvides de que estas usando y disfruta del trabajo, juegos o entrenimiento que tengas entre manos.\nPorque si piensas unicamente en el sistema operativo, algo mal tiene que estar pasando para que no puedas disfrutar de lo que estes haciendo.","karma":"8.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Mtraker","user_id":"1072","author":"Mtraker","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"2857","facebook_uid":null,"index":35,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/f2b5bd6952ffc59df7da2cf881221c5b"},{"id":"314998","post_id":"58044","date":1287618373,"content_filtered":"<p>Discrepo con tu opini\u00f3n. Un GNU\/Linux, ya en su versi\u00f3n \"LiveCD\" es plenamente \u00fatil. Te viene el sistema operativo, programas varios y se configurar autom\u00e1ticamente con tu conexi\u00f3n a Internet. Se podr\u00eda decir que un GNU\/Linux sale de fabrica \"full-equip\", en cambio, en un Windows, si quieres tener aplicaciones hay que instalarlas. Y si, hay que instalarlas, por ejemplo, lo primero, el antivirus. En GNU\/Linux y Ubuntu concretamente instalas y si no tienes problemas con el hardware de tu equipo ya tienes un equipo plenamente funcional.\nY cr\u00e9eme, no soy anti-Windows aunque si me gustar\u00eda que hubiera mas GNU\/Linux y menos Windows pero por el simple hecho de que estoy convencido de que GNU\/Linux es una opci\u00f3n real, no una alternativa.<\/p>","content":"Discrepo con tu opini\u00f3n. Un GNU\/Linux, ya en su versi\u00f3n \"LiveCD\" es plenamente \u00fatil. Te viene el sistema operativo, programas varios y se configurar autom\u00e1ticamente con tu conexi\u00f3n a Internet. Se podr\u00eda decir que un GNU\/Linux sale de fabrica \"full-equip\", en cambio, en un Windows, si quieres tener aplicaciones hay que instalarlas. Y si, hay que instalarlas, por ejemplo, lo primero, el antivirus. En GNU\/Linux y Ubuntu concretamente instalas y si no tienes problemas con el hardware de tu equipo ya tienes un equipo plenamente funcional.\nY cr\u00e9eme, no soy anti-Windows aunque si me gustar\u00eda que hubiera mas GNU\/Linux y menos Windows pero por el simple hecho de que estoy convencido de que GNU\/Linux es una opci\u00f3n real, no una alternativa.","karma":"8.00","parent":"314995","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Jordi Mercader","user_id":"5311","author":"Jordi Mercader","webpage":null,"user_name":"jordimercader","karma_level":"35.00","iseditor":"0","global_id":"2768","facebook_uid":null,"index":36,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/2768_1.png"},{"id":"315004","post_id":"58044","date":1287619351,"content_filtered":"<p>Yo no he dicho que GNU-Linux no sea completa, he dicho que windows es util y full equip tambien, teniendo en cuenta que muchos programas a\u00f1adidos se puede bajar de su site oficial, mas incomodo, pero al igual que el apt o aptitude en GNU-linux y si me apuras le pones winget y tienes casi las mismas opciones que en GNU-linux.\nDe hecho sigo usando gimp, digikam, ufraw y firefox en los tres sistemas mayoritarios.<\/p>","content":"Yo no he dicho que GNU-Linux no sea completa, he dicho que windows es util y full equip tambien, teniendo en cuenta que muchos programas a\u00f1adidos se puede bajar de su site oficial, mas incomodo, pero al igual que el apt o aptitude en GNU-linux y si me apuras le pones winget y tienes casi las mismas opciones que en GNU-linux.\nDe hecho sigo usando gimp, digikam, ufraw y firefox en los tres sistemas mayoritarios.","karma":"8.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Mtraker","user_id":"1072","author":"Mtraker","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"2857","facebook_uid":null,"index":40,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/f2b5bd6952ffc59df7da2cf881221c5b"},{"id":"315006","post_id":"58044","date":1287619821,"content_filtered":"<p>eso de que windows es full equip, no se, no se,\nen el portatil me las he visto y deseado para instalar los drivers en windows, el mismo portatil con linux no he instalado un solo driver y me ha funcionado todo, el sonido, la tarjeta de red\/wi-fi, la lectora de CD...<\/p>","content":"<p>eso de que windows es full equip, no se, no se,\nen el portatil me las he visto y deseado para instalar los drivers en windows, el mismo portatil con linux no he instalado un solo driver y me ha funcionado todo, el sonido, la tarjeta de red\/wi-fi, la lectora de CD...<\/p>","karma":"8.00","parent":"315004","comment_edited_date":1287619839,"vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Adri","user_id":"58559","author":"Adri","webpage":"http:\/\/elvampirochupabits.blogspot.com\/","user_name":"randomguy","karma_level":"43.00","iseditor":"0","global_id":"270662","facebook_uid":null,"index":41,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/270662_3.png"},{"id":"315055","post_id":"58044","date":1287667738,"content_filtered":"<p>Excelente ^_^<\/p>","content":"Excelente ^_^","karma":"8.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"55500","user_id":"55500","author":"","webpage":null,"user_name":"electron222","karma_level":"22.00","iseditor":"0","global_id":"259256","facebook_uid":"100000818820464","index":52,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100000818820464\/picture"}],"meta":{"more_records":"true","start":0,"total":50,"order":"valued","totalCount":64},"commentStatus":"closed"});
+
+	window.App = new AML.Comments.Application(58044, commentList);
+	Backbone.history.start();
+      });
+    </script>
+
+  <!-- Comments and Other Stuff -->
+
+  <div id="ad-bottom" class="ad ad-boton">
+  <a class="ad-contact" id="div-gpt-bot-contact" style="display:none" href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-bot' class="ad-box" style='width: 728px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-bot");
+    });
+    </script>
+    </div>
+</div>
+
+  <!-- .ad - boton -->
+  <div class="sidebar-seo-links">
+    <h4>Más en Genbeta</h4>
+    <ul>
+              <li>
+          <a  href="/linux/canonical-acata-la-decision-de-debian-y-ubuntu-abrazara-systemd" class="thumb80">
+            <img title="Canonical acata la decisión de Debian y Ubuntu abrazará SystemD" src="http://img.genbeta.com/tb/80_80/110953.jpg" alt="Canonical acata la decisión de Debian y Ubuntu abrazará SystemD">
+          </a>
+          <a  href="/linux/canonical-acata-la-decision-de-debian-y-ubuntu-abrazara-systemd">
+            Canonical acata la decisión de Debian y Ubuntu abrazará SystemD
+          </a>
+        </li>
+              <li>
+          <a  href="/linux/mir-ejecutara-de-forma-nativa-los-mejores-juegos-para-linux" class="thumb80">
+            <img title="Mir ejecutará de forma nativa los mejores juegos para Linux" src="http://img.genbeta.com/tb/80_80/110741.jpg" alt="Mir ejecutará de forma nativa los mejores juegos para Linux">
+          </a>
+          <a  href="/linux/mir-ejecutara-de-forma-nativa-los-mejores-juegos-para-linux">
+            Mir ejecutará de forma nativa los mejores juegos para Linux
+          </a>
+        </li>
+              <li>
+          <a  href="/linux/nautilus-puede-ser-reemplazo-en-ubuntu-por-un-gestor-de-archivos-propio" class="thumb80">
+            <img title="Nautilus puede ser sustituido en Ubuntu por un gestor de archivos propio" src="http://img.genbeta.com/tb/80_80/110624.jpg" alt="Nautilus puede ser sustituido en Ubuntu por un gestor de archivos propio">
+          </a>
+          <a  href="/linux/nautilus-puede-ser-reemplazo-en-ubuntu-por-un-gestor-de-archivos-propio">
+            Nautilus puede ser sustituido en Ubuntu por un gestor de archivos propio
+          </a>
+        </li>
+              <li>
+          <a  href="/actualidad/tasa-google-si-tienes-un-blog-tambien-te-afecta-solo-que-otros-la-cobraran-por-ti" class="thumb80">
+            <img title="&quot;Tasa Google&quot;: si tienes un blog también te afecta, solo que otros la cobrarán por ti " src="http://img.genbeta.com/tb/80_80/110973.jpg" alt="&quot;Tasa Google&quot;: si tienes un blog también te afecta, solo que otros la cobrarán por ti ">
+          </a>
+          <a  href="/actualidad/tasa-google-si-tienes-un-blog-tambien-te-afecta-solo-que-otros-la-cobraran-por-ti">
+            &quot;Tasa Google&quot;: si tienes un blog también te afecta, solo que otros la cobrarán por ti 
+          </a>
+        </li>
+              <li>
+          <a  href="/actualidad/la-hipocresia-de-algunos-medios-tradicionales-la-imagen-de-la-semana" class="thumb80">
+            <img title="La hipocresía de algunos medios tradicionales. La imagen de la semana " src="http://img.genbeta.com/tb/80_80/110972.jpg" alt="La hipocresía de algunos medios tradicionales. La imagen de la semana ">
+          </a>
+          <a  href="/actualidad/la-hipocresia-de-algunos-medios-tradicionales-la-imagen-de-la-semana">
+            La hipocresía de algunos medios tradicionales. La imagen de la semana 
+          </a>
+        </li>
+          </ul>
+</div>
+<!-- related-posts SEO links-->
+       
+    </div>
+  <!-- .container -->
+  </div>
+  <!-- .content-dinamic -->
+
+  <div class= "nav nav-blog">
+  <div class= "container">
+    <h2><strong>&#43;</strong> en Genbeta</h2>
+    <ul>
+      <li class= "blog-section section-lomejor"><a href="/lomejor">Lo mejor</a></li>
+      <li class= "blog-section section-temas"><a href="/archivos">Temas</a></li>
+            <li class= "blog-section section-productos"><a href="/productos">Productos</a></li>
+                  <li class= "blog-section section-respuestas"><a href="/respuestas">Respuestas</a></li>
+            
+            <li class="blog-section section-club"><a href="/club">Club</a></li>
+            <li class= "blog-section section-comunidad"><a href="/comunidad">Comunidad</a></li>
+      <li class="blog-section section-staff"><a href="/quienes-somos">Staff</a></li>
+    </ul>
+  </div>
+</div>
+  
+<div class="footer">
+        <div class="footer-media">
+                <div class="links-category">
+            <h2>Tecnología</h2>
+            <ul>
+                              <li class="tec-xataka"><a href="http://www.xataka.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka<span></span></a></li>
+                              <li class="tec-xatakamovil"><a href="http://www.xatakamovil.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Móvil<span></span></a></li>
+                              <li class="tec-xatakafoto"><a href="http://www.xatakafoto.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Foto<span></span></a></li>
+                              <li class="tec-xatakandroid"><a href="http://www.xatakandroid.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Android<span></span></a></li>
+                              <li class="tec-xatakaon"><a href="http://www.xatakaon.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka On<span></span></a></li>
+                              <li class="tec-xatakahome"><a href="http://www.xatakahome.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Smart Home<span></span></a></li>
+                              <li class="tec-xatakawindows"><a href="http://xatakawindows.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Windows<span></span></a></li>
+                              <li class="tec-xatakaciencia"><a href="http://www.xatakaciencia.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Ciencia<span></span></a></li>
+                              <li class="tec-applesfera"><a href="http://www.applesfera.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Applesfera<span></span></a></li>
+                              <li class="tec-vidaextra"><a href="http://www.vidaextra.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vida Extra<span></span></a></li>
+                              <li class="tec-genbeta"><a href="http://www.genbeta.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Genbeta<span></span></a></li>
+                              <li class="tec-genbetadev"><a href="http://www.genbetadev.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Genbeta Dev<span></span></a></li>
+                          </ul>
+        </div>
+            </div>
+    
+    <div class="footer-links">
+                        <div class="links-category">
+            <h2>Estilos de vida</h2>
+            <ul>
+                              <li><a href="http://www.trendencias.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias</a></li>
+                              <li><a href="http://www.trendenciasbelleza.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Belleza</a></li>
+                              <li><a href="http://www.trendenciashombre.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Hombre</a></li>
+                              <li><a href="http://www.trendenciasshopping.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Shopping</a></li>
+                              <li><a href="http://www.trendenciaslifestyle.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Lifestyle</a></li>
+                              <li><a href="http://www.directoalpaladar.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Directo al Paladar</a></li>
+                              <li><a href="http://www.bebesymas.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bebés y Más</a></li>
+                              <li><a href="http://www.pequesymas.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Peques y Más</a></li>
+                              <li><a href="http://www.vitonica.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vitónica</a></li>
+                              <li><a href="http://www.decoesfera.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Decoesfera</a></li>
+                              <li><a href="http://www.embelezzia.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Embelezzia</a></li>
+                              <li><a href="http://www.ambienteg.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ambiente G</a></li>
+                              <li><a href="http://www.poprosa.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Poprosa</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Motor</h2>
+            <ul>
+                              <li><a href="http://www.motorpasion.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión</a></li>
+                              <li><a href="http://www.motorpasionf1.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión F1</a></li>
+                              <li><a href="http://www.motorpasionmoto.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Moto</a></li>
+                              <li><a href="http://www.motorpasionfuturo.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Futuro</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Ocio</h2>
+            <ul>
+                              <li><a href="http://www.blogdecine.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog de Cine</a></li>
+                              <li><a href="http://www.vayatele.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">¡Vaya Tele!</a></li>
+                              <li><a href="http://www.hipersonica.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Hipersónica</a></li>
+                              <li><a href="http://www.diariodelviajero.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Diario del Viajero</a></li>
+                              <li><a href="http://www.papelenblanco.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Papel en Blanco</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Economía</h2>
+            <ul>
+                              <li><a href="http://www.elblogsalmon.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">El Blog Salmón</a></li>
+                              <li><a href="http://www.pymesyautonomos.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Pymes y Autónomos</a></li>
+                              <li><a href="http://www.tecnologiapyme.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Tecnología Pyme</a></li>
+                              <li><a href="http://www.ahorrodiario.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ahorro Diario</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Latinoamérica</h2>
+            <ul>
+                              <li><a href="http://www.xataka.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Brasil</a></li>
+                              <li><a href="http://www.trendencias.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Brasil</a></li>
+                              <li><a href="http://www.motorpasion.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Brasil</a></li>
+                              <li><a href="http://www.xataka.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka México</a></li>
+                              <li><a href="http://www.motorpasion.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión México</a></li>
+                              <li><a href="http://www.directoalpaladar.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Directo Al Paladar México</a></li>
+                              <li><a href="http://www.xatakandroid.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Android México</a></li>
+                              <li><a href="http://www.vidaextra.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vida Extra México</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Participamos en</h2>
+            <ul>
+                              <li><a href="http://www.ebayers.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">eBayers</a></li>
+                              <li><a href="http://www.circulaseguro.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Circula Seguro</a></li>
+                              <li><a href="http://www.circulaseguro.pt/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Circula Seguro PT</a></li>
+                              <li><a href="http://www.actibva.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Actibva</a></li>
+                              <li><a href="http://www.anexom.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Anexo M</a></li>
+                              <li><a href="http://blog.cocacola.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Happing Magazine</a></li>
+                              <li><a href="http://blog.sage.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog Sage</a></li>
+                              <li><a href="http://www.optimismodigital.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Optimismo Digital</a></li>
+                              <li><a href="http://www.1001experiencias.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">1001 Experiencias</a></li>
+                              <li><a href="http://www.ennaranja.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">En Naranja</a></li>
+                              <li><a href="http://www.essieblog.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Essie Blog</a></li>
+                              <li><a href="http://blogginzenith.zenithmedia.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bloggin Zenith</a></li>
+                              <li><a href="http://www.urbanfire.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Urbanfire</a></li>
+                              <li><a href="http://www.tecnologiadetuatu.elcorteingles.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Tecnología de tú a tú</a></li>
+                              <li><a href="http://www.ciudadano00.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ciudadano 0,0</a></li>
+                              <li><a href="http://blogfanta.cocacola.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog Fanta</a></li>
+                              <li><a href="http://mimundo.philips.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Mi Mundo Philips</a></li>
+                              <li><a href="http://www.bbvacontuempresa.es?utm_source=genbeta&utm_medium=network&utm_campaign=footer">BBVA con tu empresa</a></li>
+                              <li><a href="http://www.perutravelblog.net/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Perú Travel Blog</a></li>
+                              <li><a href="http://bscene.bershka.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bershka Bscene</a></li>
+                              <li><a href="http://www.institutodelafelicidad.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Instituto de la Felicidad</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                    </div>
+</div>
+
+<div class="closure">
+    <div class="container">
+        <div class="weblogssl"><a href="http://www.weblogssl.com">Weblogs SL<span></span></a></div>
+        <ul class="nav">
+            <li><a href="/quienes-somos">¿Quienes somos?</a></li>
+            <li><a href="http://www.weblogssl.com/contenidos">Condiciones de uso</a></li>
+            <li><a href="http://www.weblogssl.com/cookies">Política de cookies</a></li>
+            <li><a href="http://www.weblogssl.com/aviso">Aviso legal</a></li>
+            <li><a title="Publicidad en Genbeta" href="http://www.socialmediasl.com/genbeta.php">Publicidad</a></li>
+            <li><a href="/ayuda-2012">Ayuda</a></li>
+            <li><a href="/contacto">Contacto</a></li>
+        </ul>
+    </div>
+</div>
+
+<div id="cookies-overlay"></div>
+
+  <script type="text/javascript">
+    $(function() {
+      new AML.Auth.View.CookiesOverlayView;
+    });
+  </script>
+
+</div>
+<div id="favicons-list">
+
+    <div class="userbar">
+        <a class="head-shortcut" href="#body" title="Volver arriba">&uarr;</a>
+        <div class="userbox" id="wsl_userbox">
+        </div>
+
+        <div class="favicons" style="width: auto; ">
+
+            <div id="scroll-menu">
+
+                <div class="disabledHotSpotLeft">«</div>
+                <div class="disabledHotSpotRight">»</div>
+                <div class="scrollingHotSpotLeft">«</div>
+                <div class="scrollingHotSpotRight">»</div>
+
+                <div class="scrollWrapper">
+                    <div class="scrollableArea">
+
+                        <ul class="favicroll">
+                            <li id="wsl"><a target="_top" href="http://www.weblogssl.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><em><strong>Blog corporativo</strong></em></a></li>
+
+                            <li><a target="_top" href="http://www.xataka.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b1"><strong>XTK</strong></span> <em><strong>Xataka - Gadgets y electrónica de consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vidaextra.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b2"><strong>VX</strong></span> <em><strong>VidaExtra - Videojuegos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.blogdecine.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b3"><strong>BDC</strong></span> <em><strong>Blog de cine - Cine  y críticas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.elblogsalmon.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b5"><strong>EBS</strong></span> <em><strong>El Blog Salmón - Economía y finanzas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.genbeta.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b6"><strong>GBT</strong></span> <em><strong>Genbeta - Software</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasion.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b7"><strong>MP</strong></span> <em><strong>MotorPasión - Coches y motor</strong></em></a></li>
+                            <li><a target="_top" href="http://www.directoalpaladar.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b8"><strong>DAP</strong></span> <em><strong>Directo al paladar - Gastronomía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.bebesymas.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b9"><strong>BYM</strong></span> <em><strong>Bebés y más - Todo sobre bebés</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vayatele.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b11"><strong>VYT</strong></span> <em><strong>¡Vaya Tele! - Series y televisión</strong></em></a></li>
+                            <li><a target="_top" href="http://www.diariodelviajero.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b12"><strong>DDV</strong></span> <em><strong>Diario del viajero - Viajes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakaciencia.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b13"><strong>XCI</strong></span> <em><strong>Xataka Ciencia - Ciencia</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendencias.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b14"><strong>TRE</strong></span> <em><strong>Trendencias - Moda y tendencias</strong></em></a></li>
+                            <li><a target="_top" href="http://www.hipersonica.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b15"><strong>HIP</strong></span> <em><strong>HiperSónica - Música</strong></em></a></li>
+                            <li><a target="_top" href="http://www.applesfera.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b16"><strong>APP</strong></span> <em><strong>Applesfera - Apple</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasshopping.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b17"><strong>COM</strong></span> <em><strong>Trendencias Shopping - Compras y consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakamovil.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b18"><strong>XTM</strong></span> <em><strong>Xataka Móvil - Móviles</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ambienteg.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b19"><strong>AMG</strong></span> <em><strong>Ambiente G - Gays y lesbianas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionmoto.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b20"><strong>MMO</strong></span> <em><strong>Motorpasión Moto - Motos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.papelenblanco.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b21"><strong>PEB</strong></span> <em><strong>Papel en blanco - Literatura</strong></em></a></li>
+                            <li><a target="_top" href="http://www.decoesfera.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b22"><strong>DEC</strong></span> <em><strong>Decoesfera - Decoración e interiorismo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionf1.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b23"><strong>MF1</strong></span> <em><strong>Motorpasión F1 - Carreras</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vitonica.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b24"><strong>VIT</strong></span> <em><strong>Vitónica - Vida sana</strong></em></a></li>
+                            <li><a target="_top" href="http://www.embelezzia.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b25"><strong>EMB</strong></span> <em><strong>Embelezzia - Lujo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.poprosa.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b26"><strong>POP</strong></span> <em><strong>Poprosa - Famosos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakafoto.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b27"><strong>XTF</strong></span> <em><strong>Xataka Foto - Fotografía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.pymesyautonomos.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b28"><strong>PYA</strong></span> <em><strong>Pymes y autónomos - Pymes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasbelleza.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b30"><strong>TRB</strong></span> <em><strong>Trendencias Belleza - Belleza y cosmética</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.tecnologiapyme.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b34"><strong>TPY</strong></span> <em><strong>Tecnología Pyme - Tecnología para empresas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ahorrodiario.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b35"><strong>AHD</strong></span> <em><strong>Ahorro Diario - Ahorro</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciashombre.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b36"><strong>TRH</strong></span> <em><strong>Trendencias Hombre - Moda y estilo masculino</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.pequesymas.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b37"><strong>PEQ</strong></span> <em><strong>Peques y más - Niños e infancia</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakaon.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b39"><strong>XTO</strong></span> <em><strong>Xataka On - Todo sobre conectividad, ADSL</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakandroid.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b40"><strong>XTA</strong></span> <em><strong>Xataka Android - Android, aplicaciones y dispositivos</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.genbetadev.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b41"><strong>GBD</strong></span> <em><strong>Genbeta Dev - Desarrollo de software</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.motorpasionfuturo.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b42"><strong>MPF</strong></span> <em><strong>Motorpasión Futuro - Innovación y Motor</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakahome.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b44"><strong>XSH</strong></span> <em><strong>Xataka Smart Home - Inteligencia doméstica digital</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakawindows.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b45"><strong>XTW</strong></span> <em><strong>Xataka Windows - Universo Microsoft</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciaslifestyle.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b46"><strong>TLS</strong></span> <em><strong>Trendencias Lifestyle</strong></em></a></li>
+                        </ul>
+
+                    </div>
+                </div>
+                <!-- .scrollWrapper-->
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<div id="wsl_dialog"></div>
+<script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', function() {
+  try {
+    if (window.external.msIsSiteMode()) {
+      window.external.msSiteModeClearJumpList();
+      window.external.msSiteModeCreateJumplist('Mensajes Recientes');
+            window.external.msSiteModeAddJumpListItem('Office\x20para\x20iPad,\x20m\u00E1s\x20pronto\x20que\x20tarde\x3A\x20para\x20la\x20primera\x20mitad\x20de\x202014', 'http://www.genbeta.com/ofimatica/office-para-ipad-mas-pronto-que-tarde-para-la-primera-mitad-de-2014', '');
+            window.external.msSiteModeAddJumpListItem('Bittorrent\x20Live,\x20el\x20streaming\x20P2P,\x20llegar\u00E1\x20pronto\x20a\x20los\x20m\u00F3viles\x20', 'http://www.genbeta.com/multimedia/bittorrent-live-el-streaming-p2p-llegara-pronto-a-los-moviles', '');
+            window.external.msSiteModeAddJumpListItem('La\x20hipocres\u00EDa\x20de\x20algunos\x20medios\x20tradicionales.\x20La\x20imagen\x20de\x20la\x20semana\x20', 'http://www.genbeta.com/actualidad/la-hipocresia-de-algunos-medios-tradicionales-la-imagen-de-la-semana', '');
+            window.external.msSiteModeAddJumpListItem('\x22Tasa\x20Google\x22\x3A\x20si\x20tienes\x20un\x20blog\x20tambi\u00E9n\x20te\x20afecta,\x20solo\x20que\x20otros\x20la\x20cobrar\u00E1n\x20por\x20ti\x20', 'http://www.genbeta.com/actualidad/tasa-google-si-tienes-un-blog-tambien-te-afecta-solo-que-otros-la-cobraran-por-ti', '');
+            window.external.msSiteModeAddJumpListItem('Kickstarter,\x20tras\x20sufrir\x20un\x20ataque,\x20recomienda\x20cambiar\x20contrase\u00F1as\x20', 'http://www.genbeta.com/web/kickstarter-tras-sufrir-un-ataque-recomienda-cambiar-contrasenas', '');
+            window.external.msSiteModeShowJumpList();
+    }
+  } catch (exp) {
+    // do nothing
+  }
+  });
+</script>
+
+
+<script type='text/javascript'>
+    (function() {
+      new ViceVersaLink("http://t.genbeta.com");
+    })();
+</script>
+
+<script type='text/javascript'>
+  window.onerror = function(message, file, line) {
+    var sFormattedMessage = '[' + file + ' (' + line + ')] ' + message;
+    _gaq.push(['_trackEvent', 'Errors', 'Browser', sFormattedMessage, null, true]);
+  }
+    
+</script>
+
+</body>
+</html>

@@ -1,0 +1,888 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+                                                                                                                                                                                                                                                                                <title>Microsoft Safety Scanner, un antivirus portable para emergencias</title>
+                  <meta name="description" content="No se si alguno de vosotros acostumbra a llevar un antivirus portable en ese USB que va recorriendo el mundo salvando vidas, desde luego parece..." />
+            <meta name="news_keywords" content="Antivirus, gratuito, Portable"/>
+       
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />    
+    <meta name='robots' content='noodp' />
+    <meta property="fb:admins" content="100000716994885"/>
+    <meta name="application-name" content="Genbeta"/>
+    <meta name="msapplication-tooltip" content="Software y web. Genbeta"/>
+    <meta name="msapplication-starturl" content="http://www.genbeta.com"/>
+    <meta name="msapplication-task" content="name=Lo mejor;action-uri=http://www.genbeta.com/lomejor;icon-uri=http://img.genbeta.com/lp2/v6/images/pin-bg-lomejor-icon.ico" />
+        <meta name="msapplication-task" content="name=Respuestas;action-uri=http://www.genbeta.com/respuestas;icon-uri=http://img.genbeta.com/lp2/v6/images/pin-bg-respuestas-icon.ico" />
+                <!--[if !IE]><!--> <link rel="shortcut icon" href="http://img.genbeta.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if lt IE 9]><!--> <link rel="shortcut icon" href="http://img.genbeta.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if gte IE 9]>
+            <link rel="shortcut icon" type="image/x-icon" href="http://img.genbeta.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+            <link rel=icon type="image/ico" href="http://img.genbeta.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+        <![endif]-->
+    
+    <link rel="apple-touch-icon" href="http://img.genbeta.com/lp2/mobile/images/apple-touch-icon.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-57-precomposed.png">
+
+        <link rel="stylesheet" type="text/css" href="http://img.genbeta.com/lp2/v6/main.css?v=24272">
+        <link rel="publisher" href="http://plus.google.com/106643481235450321345" />
+    <link rel="alternate" type="application/rss+xml" title="" href="/index.xml" />
+    <!--[if lt IE 7]>
+      <link rel="stylesheet" type="text/css" href="http://img.genbeta.com/lp2/v6/ie7.css">
+    <![endif]-->
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', "UA-78515-6"]);
+  _gaq.push(['_setCampaignCookieTimeout', 259200000]);
+  _gaq.push(['_setDomainName', ".genbeta.com"]);
+  _gaq.push(['_setSiteSpeedSampleRate', 5]);
+  _gaq.push(['t2._setAccount', "UA-78515-62"]);
+  _gaq.push(['t2._setCampaignCookieTimeout', 259200000]);
+  _gaq.push(['t2._setDomainName', ".genbeta.com"]);
+  (function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') +       '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  })();
+</script>
+
+ <link rel="canonical" href="http://www.genbeta.com/seguridad/microsoft-safety-scanner-un-antivirus-portable-para-emergencias" />
+ <link rel="image_src" href="http://img.genbeta.com/resize/75/thumbnails/b/65218.jpg" />
+ <meta property="og:title" content="Microsoft Safety Scanner, un antivirus portable para emergencias">
+ <meta property="og:description" content="No se si alguno de vosotros acostumbra a llevar un antivirus portable en ese USB que va recorriendo el mundo salvando vidas, desde luego parece...">
+ <meta property="og:image" content="http://img.genbeta.com/original/65218.jpg">
+    <script>
+    _gaq.push(['t2._setPageGroup', '1', 'post']);
+    _gaq.push(['t2._setPageGroup', '2', "miguel julián"]);
+    _gaq.push(['t2._setPageGroup', '3', "seguridad"]);
+    _gaq.push(['t2._setPageGroup', '4', "normal"]);
+    _gaq.push(['_setPageGroup', '1', 'post']);
+    _gaq.push(['_setPageGroup', '2', "miguel julián"]);
+    _gaq.push(['_setPageGroup', '3', "seguridad"]);
+    _gaq.push(['_setPageGroup', '4', "normal"]);
+       </script>
+   </head>
+       <body id="body" class="article-single">
+
+    <script type='text/javascript'>
+    var MAX_source = "";
+    var GPTcats = ["windows", "seguridad"];
+    var GPTtags = ["antivirus", "gratuito", "portable"];
+      </script>
+      <script type='text/javascript'>
+googletag.pubads().setTargeting("origin", "googlesearch").setTargeting("screen", screen.width.toString()).setTargeting("cat", GPTcats).setTargeting("tag", GPTtags);
+if (navigator.userAgent.match(/iPad/i) != null) {
+  googletag.pubads().setTargeting("ua", "ipad");
+} 
+ 
+googletag.defineSlot('/4712/GEB/interior_top', [1000, 40], 'div-gpt-top').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_lateral', [[160, 600], [200,600], [300,600], [300,250]], 'div-gpt-lat').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_central', [[300, 250], [400,400], [1000,250]], 'div-gpt-cen').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_central2', [[300, 250],[400,400],[690, 250]], 'div-gpt-cen2').addService(googletag.pubads());
+googletag.defineSlot('/1018282/GEB-BOT2-interior',[728, 90], 'div-gpt-bot').addService(googletag.pubads());
+googletag.defineSlot('/1018282/GEB-INP', [500, 80], 'div-gpt-inp').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interstitial', [1000, 525], 'div-gpt-int').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().enableSyncRendering();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+</script>
+
+       <script type="text/javascript">
+      WSL2 = {};
+      WSL2.config = {};
+      WSL2.config.fbapikey = "360028941603";
+      WSL2.config.cookieDomain = "";
+      WSL2.config.imagePath = 'http://img.genbeta.com/lp2/v6';
+      WSL2.config.siteName = "Genbeta";
+      window.___gcfg = {lang: 'es'};
+    </script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="http://code.jquery.com/jquery-migrate-1.1.0.js"></script>
+            <script src="http://img.weblogssl.com/LPbackend/prod/v2/js/frontend-758.js"></script>
+          <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _c1 = new WSL2.Cookie;
+      loginStatus = (_c1.hasSession()) ? "yes:" + _c1.loginType() : "no";
+      _gaq.push(['t2._setCustomVar', 4, '.genbeta.com', 'loginstatus:' + loginStatus, 2]);
+      _gaq.push(['_trackPageview']);
+      _gaq.push(['t2._trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); 
+    ga.type = 'text/javascript';
+    ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+  })();
+      var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "11306788" });
+         (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[1]; 
+          s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb": "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+    </script>
+
+    <div id="fb-root"></div>
+  <!-- fb needs this -->
+
+  <script src="//platform.twitter.com/widgets.js" id="tweetjs"></script>
+  <script src="//apis.google.com/js/plusone.js" id="gplus1js"></script>
+  <script src="//connect.facebook.net/es_ES/all.js#xfbml=1" id="fbjssdk"></script>
+  <div class="customize-me">
+  <div class="content-fixed">
+    <div class="container">
+                <!-- .header -->
+            <div class="header header-page">
+        <h1 class="site-logo"><a href="http://www.genbeta.com" title="Ir a la portada">Software y web. Genbeta<span></span></a></h1>
+        <form method="get" action="/busqueda" id="search" class="search" style="top:62px; width:310px; padding: 0;">
+    <p>
+        <input type="hidden" name="cx" value="partner-pub-9977500652563564:0292109475">
+        <input type="text" id="gsearch" name="q" accesskey="4" title="Buscar" placeholder="Busca en Genbeta con Google">
+        <input type="hidden" name="ie" value="UTF-8">
+        <input type="hidden" name="oe" value="UTF-8">
+        <input type="hidden" name="cof" value="FORID:10">
+        <button class="button">Buscar <span class="arrow">&raquo;</span></button>
+    </p>
+</form>
+<script type="text/javascript" src="http://www.google.es/coop/cse/brand?form=cse-search-box&amp;lang=es"></script>
+            <div class="nav nav-main">
+    <ul class="nav-primary">
+        <li class="home-link"><a href="/" title="Volver a portada">Portada</a></li>
+        <li class="respuestas-link"><a href="/respuestas">Respuestas</a></li>
+        <li class="temas-submenu">
+            <ul class="nav-secondary">
+                                   <li><a href="/categoria/actualidad" title="Ir a la categoría Actualidad">Actualidad</a></li>
+                                   <li><a href="/categoria/linux" title="Ir a la categoría Linux">Linux</a></li>
+                                   <li><a href="/categoria/movil" title="Ir a la categoría Móvil">Móvil</a></li>
+                                   <li><a href="/categoria/windows" title="Ir a la categoría Windows">Windows</a></li>
+                                   <li><a href="/categoria/herramientas" title="Ir a la categoría Herramientas">Herramientas</a></li>
+                                <li><a href="/archivos" title="Ver todas las categorías">Más &raquo;</a></li>
+            </ul>
+        </li>
+                  
+            </ul>
+</div>
+
+        <div class="nav nav-tags">
+        <h3>No te pierdas <span class="arrow">&raquo;</span></h3>
+        <ul>
+                        <li><a href="/tag/tasa-google" title="Todo sobre Tasa Google">Tasa Google</a></li>
+                        <li><a href="/tag/ley-lassalle" title="Todo sobre Ley Lassalle">Ley Lassalle</a></li>
+                        <li><a href="/tag/balance-de-windows-8" title="Todo sobre Balance de Windows 8">Balance de Windows 8</a></li>
+                        <li><a href="/tag/cazadores-de-fakes" title="Todo sobre Cazadores de Fakes">Cazadores de Fakes</a></li>
+                        <li><a href="/tag/satya-nadella" title="Todo sobre Satya Nadella">Satya Nadella</a></li>
+                    </ul>
+</div>
+<!-- .nav-tags -->
+
+                    <div class="ad ad-desplegable">
+  <a class="ad-contact" id="div-gpt-top-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+  <div class="ad-box">
+    <div id='div-gpt-top' style='width: 1000px;'>
+    <script type="text/javascript">
+        googletag.cmd.push(function() {
+        googletag.display("div-gpt-top");
+        });
+    </script>
+    </div>
+  </div>
+</div>
+<!-- .ad-box - desplegable -->
+
+  <div class="nav">
+   <ul class="article-nav-controls">
+                              <li><a class="article-control article-previous" href="/multimedia/mediamonkey-lanza-su-version-40-con-soporte-para-colecciones-de-video"><span>MediaMonkey lanza su versión 4.0 con soporte para colecciones de vídeo</span></a></li>
+                                             <li><a class="article-control article-next" href="/bitacoras/wordpresscom-ya-cuenta-con-menus-flotantes-y-subida-de-imagenes-mediante-arrastrar-y-soltar"><span>WordPress.com ya cuenta con menús flotantes y subida de imágenes mediante arrastrar y soltar</span></a></li>
+                  </ul>
+  </div>
+              </div>
+                   <div class="article article-pre-content">
+  <h1 class="article-header">Microsoft Safety Scanner, un antivirus portable para emergencias</h1>
+  <div class="article-date">18 de noviembre de 2011 | 08:02 CET <span id="is_editor"></span></div>
+  <div class="article-author-details">
+  <div class="figure">
+    <a rel='author' href="/autor/miguel-julian">
+      <img src="http://www.gravatar.com/avatar/14216b3a89c997bfc641f9d3abf7bc0b?s=80&amp;d=mm&amp;r=g" alt="miguel-julian">
+    </a>
+  </div>
+  <h2><a rel='author' href="/autor/miguel-julian">Miguel Julián</a></h2>
+      </div>
+<!-- .article-author-details -->
+</div>
+           </div>
+    <!-- .container -->
+  </div>
+  <!-- .content-fixed -->
+
+  <div class="content-dinamic">
+    <div class="container">
+          <script type="text/javascript">
+        $(function()
+        {
+          AML.postVoteView = new AML.Post.View.PostVoteView({postId:"65218", el:".social-sharing" });
+          AML.isEditorView = new AML.Post.View.IsEditorView({postId:"65218", model: WSL2.User });
+        });
+      </script>
+
+    <div class="aside">
+            <div id="ad-lateral" class="ad ad-primer-escaparate">
+  <a class="ad-contact" id="div-gpt-lat-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-lat' class="ad-box" style='width: 300px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-lat");
+    });
+    </script>
+    </div>
+</div>
+<!-- .ad-box - escaparate vertical -->
+
+           <!-- .ad-box - escaparate vertical -->
+            
+                  
+<div class="aside-box aside-subscribe">
+  <h3 class="aside-header">Síguenos</h3>
+  
+          
+  <form id="feedForm" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" >
+    <label for="subscribe-email">Newsletter:</label>  
+      <input type="text" name="email" type="text" id="feedburnermail" placeholder="Correo electrónico"/>
+      <input type="hidden" name="uri" value="genbeta"/>
+      <input type="hidden" name="loc" value="es_ES">
+      <button class="button" type="submit">Suscríbete <span class="arrow">&raquo;</span></button>
+  </form>
+  <ul class="subs-channels">
+    <li class="channel-rss" id="rss"> <a href="/index.xml" rel="nofollow" title="Suscríbete por RSS a las novedades en Genbeta"><span></span>RSS</a></li>
+    <li class="channel-twitter"><a href="http://twitter.com/genbeta" title="Sigue las novedades de Genbeta en Twitter"><span></span>Twitter</a></li>
+    <li class="channel-fb"><a href="http://www.facebook.com/pages/Genbeta/54999640934" title="Conéctate a la página de Genbeta en Facebook"><span></span>Facebook</a></li>
+    <li class="channel-gplus"><a href="https://plus.google.com/109731528328750280665/posts" title="Sigue a Genbeta en Google Plus"><span></span>Google Plus</a></li>
+    <li class="channel-feedly"><a style="margin-right: 0;" title="Suscríbete a Genbeta con Feedly" href='http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fwww.genbeta.com%2Findex.xml'  target='blank'><img id='feedlyFollow' src='http://img.weblogssl.com/g/xataka4/common/m-icon-feedly.png' alt='follow us in feedly' width='32' height='32'></a></li>
+  </ul>
+  <ul class="devices-channels">
+    <li><a title="Versión para móviles" href="http://m.genbeta.com" class="button button-secondary"><img src="http://img.weblogssl.com/g/xataka4/common/mobile.png">Versión móvil</a></li>
+        <li>
+        <a id="tabletViceVersaLink" href="http://t.genbeta.com" class="button button-secondary" title="Versión tablet"><img src="http://img.weblogssl.com/g/xataka4/common/tablet.png"> Versión tablet</a>
+    </li>
+      </ul>
+
+    <script>
+  $(function() {
+      $("#feedForm").submit(function(e) {
+          e.preventDefault();
+          email = $("#feedburnermail").val();
+          emailPattern = /^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$/i
+          if (emailPattern.test(email)) {
+              window.open('http://mailer.weblogssl.com/subscribe_check/' + email +'/genbeta/Genbeta','','width=500,height=500');
+          } else {
+              alert("El correo electrónico introducido no es correcto");
+          }
+      });
+  });
+  </script>
+  
+</div>
+            <!-- .article-promo -->
+    </div>
+
+    <!-- .aside -->
+
+                    
+    <div class="section section-article-single">
+            <div class="article">
+        <div class="article-summary">
+          <p><img id="image65221" src="http://img.genbeta.com/2011/11/microsoft-safety-scanner-resultado-sin-malware.jpg" class="centro_sinmarco" alt="Microsoft Safety Scanner: Antivirus portable de la mano de Microsoft" /></p>
+
+                              <div class="article-metadata">
+            <div class="article-comments" id="postCommentCount">
+              <a href="#comments" title="Ir a comentarios">
+                Comentarios 16
+              </a>
+            </div>
+            <div class="article-links">
+              <div class="social-sharing">
+                <div class="social-sharing-widgets">
+                                    <div class="wsl-favorite">
+                    <button class="button button-small">Me gusta</button>
+                    <span class="wsl-count">4</span>
+                  </div>
+                                    <!-- twitter -->
+                  <a class="twitter-share-button" href="http://twitter.com/share" data-count="horizontal" data-url="http://www.genbeta.com/p/65218" data-counturl="http://www.genbeta.com/seguridad/microsoft-safety-scanner-un-antivirus-portable-para-emergencias" data-text="Microsoft Safety Scanner, un antivirus portable para emergencias" data-via="genbeta" data-lang="es">Tweet</a>
+                  <!-- g+ -->
+                  <div class="g-plusone" data-size="medium" data-href="http://www.genbeta.com/seguridad/microsoft-safety-scanner-un-antivirus-portable-para-emergencias" data-callback="gplusClickHandler" ></div>
+                  <!-- facebook like -->
+                  <div href="http://www.genbeta.com/seguridad/microsoft-safety-scanner-un-antivirus-portable-para-emergencias" class="fb-like" data-send="false" data-layout="button_count" data-show-faces="false"></div>
+                </div>
+              </div>
+              <!-- .social-sharing -->
+            </div>
+            <!-- .article-links -->
+          </div>
+          <!-- .article-metadata -->
+
+
+          	<p></p>
+
+	<p>No se si alguno de vosotros acostumbra a llevar <strong>un antivirus portable en ese USB</strong> que va recorriendo el mundo <em>salvando vidas</em>, desde luego parece una herramienta imprescindible si aparece un software que impide que se actualice la lista de definiones de nuestro antivirus o las propias actualizaciones de seguridad del propio Windows.</p>
+
+	<p>Y como parece que la gente de Microsoft cada día se preocupa un poco más por sus usuarios ahí tenemos, de forma gratuita, un<strong> antivirus portable que caduca a los diez días que han llamado Microsoft Safety Scanner</strong> que parece el compañero perfecto de Microsoft Security Essentials, que tan buena acogida ha tenido.<br />
+<!--more--><br />
+<h2>Microsoft Safety Scanner caduca a los diez días, ¿eso es un problema?</h2><br />
+<img id="image65222" src="http://img.genbeta.com/2011/11/microsoft-safety-scanner-advertencia.jpg" class="centro" alt="Microsoft Safety Scanner: Advertencia sobre uso" /></p>
+
+	<p>La idea de Microsoft con este antivirus no es la de tener un programa portable que siempre lleves a todos los lados todos los días, sino ofrecer una <strong>herramienta que vas a utilizar de propio y de manera puntual</strong> para resolver un problema determinado. </p>
+
+	<p>Es cierto que caduca a los diez días de haberlo instalado, pero puedes volver a descargarlo e instalarlo siempre que quieras, y lo más importante, cada vez que lo hagas estará automáticamente actualizado, con lo que no tendrás que esperar a que se actualice. Simplemente,<strong> cuando lo necesitas, lo descargas y lo usas</strong>.</p>
+
+	<p><strong>Funciona perfectamente aunque tengas otro antivirus instalado</strong> y uno de sus puntos fuertes es su facilidad de uso. Además, al contrario de lo que se puede leer si buscas más información, sí que analiza las unidades de red que tengas conectadas a tu ordenador. </p>
+
+	<p><h2>Usando Miscrosoft Safety Scanner</h2><br />
+<img id="image65223" src="http://img.genbeta.com/2011/11/microsoft-safety-scanner-tipos-de-analisis.jpg" class="centro" alt="Microsoft Safety Scanner: Tres tipos diferentes de análisis" /></p>
+
+	<p>Si en la sección anterior comentaba que su punto fuerte es la facilidad de uso, veamos porqué. El primer paso es descargarlo (tiene versión de 32 bits y de 64 bits) y es el proceso más costoso, porque <strong>el ejecutable a día de hoy pesa 73,7 MB</strong>. Pero una vez que lo descargas se acaban los problemas.</p>
+
+	<p>Y es que, pese a ser un programa portable, <strong>no necesita instalarse en ninguna carpeta</strong> (como sí que lo necesitan otros portables que seguro que has probado). Lo arrancas y como si fuera un proceso de instalación empieza a analizar nuestro ordenador. Primero aceptas el contrato de licencia, pasas una ventana de introducción donde se nos avisa que Miscrosoft Safety Scanner no sustituye a un software de antivirus y el último paso es decidir qué tipo de análisis queremos.</p>
+
+	<p>Nos ofrecerá tres tipos de análisis:
+	<ul>
+		<li>Un <strong>análisis rápido</strong> que analiza aquellas carpetas del sistema donde normalmente se alojan los virus y programas no deseados. En mi caso el análisis rápido ha tardado <strong>un poco menos de tres minutos</strong> (Intel i5, 4GB <span class="caps">RAM</span>, Windows 7 sin <span class="caps">SSD</span>).</li>
+		<li>Un <strong>análisis completo</strong>, que realiza un barrido completo de nuestro ordenador en busca de virus y amenazas. Que como bien se advierte en el programa puede (y de hecho lo hace) tardar horas en acabar.</li>
+	</ul>
+	<ul>
+		<li>La tercera opción realiza un análisis rápido y además ofrece la posibilidad de <strong>acotar el análisis completo a una única carpeta</strong> para que tarde menos la exploración.</li>
+	</ul></p>
+
+	<p>El último paso es ver el resultado del análisis y cerrar el programa, así de fácil. Sin actualizaciones, sin ninguna espera. <strong>Se descarga, se ejecuta y ordenador limpio</strong>. Tal vez el mayor problema aparece si quieres analizar varias carpetas que están separadas, ya que tendrás que hacerlo de una a una, ejecutando el Safety Scanner para cada una de ellas.</p>
+
+	<p>Enlace | <a href="http://www.microsoft.com/security/scanner/es-es/default.aspx">Microsoft Safety Scanner</a><br />
+En Genbeta | <a href="http://www.genbeta.com/seguridad/antivirus-gratuitos-especial-en-genbeta">Antivirus gratuitos, especial en Genbeta</a></p>                  </div>
+
+                        
+        <div class="ad links-ad-inpost">
+    <div id='div-gpt-inp' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-inp");
+    });
+    </script>
+    </div>
+</div>
+
+
+        
+        <div class="article-taxonomy">
+                      <div class="nav article-tags article-categories">
+  <h2>Categorías</h2>
+    <ul>
+                      
+      <li><a href="/categoria/windows">Windows</a></li>
+                      
+      <li><a href="/categoria/seguridad">Seguridad</a></li>
+        </ul>
+</div>
+            <div class="nav article-tags">
+  <h2>Tags</h2>
+  <ul>
+                                             
+      <li><a href="/tag/antivirus">Antivirus</a></li>
+                                             
+      <li><a href="/tag/gratuito">gratuito</a></li>
+                                             
+      <li><a href="/tag/portable">Portable</a></li>
+          
+  </ul>
+</div>
+                  </div>
+        <!-- .article-metadata -->
+      </div>
+      <!-- .article -->
+    </div>
+    <!-- .section-articles -->
+            <div id="ad-center" class="ad ad-escaparate-medio">
+  <a class="ad-contact" id="div-gpt-cen-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-cen' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+
+        
+        
+    <div class="section section-related">
+               <div id="outBrainVerticalWidget" class="post-related-posts related-double">
+  <h3>Artículos recomendados</h3>
+  <div class="post-related-content">
+   
+    <div class="OUTBRAIN" data-src="http://www.genbeta.com/seguridad/microsoft-safety-scanner-un-antivirus-portable-para-emergencias" data-widget-id="AR_2" data-ob-template="genbeta" >
+    </div>
+    <script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js">
+    </script>
+  </div>
+  <!-- .post-related-content -->
+  <p class="post-related-more">
+    <a href="/categoria/seguridad" title="Ver más artículos relacionados">
+    Ver más artículos <span class="arrow">»</span>    
+    </a>
+    </p>
+</div>     
+     <!-- .post-related-products -->
+     <div class="post-related-qa">
+    <h3>Respuestas</h3>
+        <div class="post-related-content">
+            <ul>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>10</strong>
+                    </div>
+                    <a href="/respuestas/cual-es-el-mejor-antivirus-de-pago-para-pc">¿Cuál es el mejor antivirus de pago para PC?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2013-12-28T07:19:16Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number hot-topic">
+                        <strong>18</strong>
+                    </div>
+                    <a href="/respuestas/que-sistemas-de-seguridad-utilizas-para-proteger-tus-equipos">¿Qué sistemas de seguridad utilizas para proteger tus equipos?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2013-07-22T12:42:10Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number hot-topic">
+                        <strong>13</strong>
+                    </div>
+                    <a href="/respuestas/hola-megustaria-saber-que-antivirus-puedo-poner-gratuito-gracias">Me gustaría saber qué antivirus puedo poner gratuito, gracias</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2013-01-29T14:38:02Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number hot-topic">
+                        <strong>13</strong>
+                    </div>
+                    <a href="/respuestas/hola-megustaria-saber-que-antivirus-puedo-poner-gratuito-gracias">Me gustaría saber qué antivirus puedo poner gratuito, gracias</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2013-01-29T14:38:02Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>9</strong>
+                    </div>
+                    <a href="/respuestas/existe-algun-antivirus-online-para-ubuntu">¿Existe algún antivirus online para ubuntu?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2012-12-07T01:44:49Z"></abbr>
+                    </span>            
+                </li>
+                        </ul>
+        </div>
+        <!-- .post-related-content -->
+        <p class="post-related-more">
+            <a href="/respuestas" title="Ver más respuestas relacionados">
+                Ver más respuestas
+                <span class="arrow">»</span>
+            </a>
+        </p>
+</div>
+
+<script type="text/javascript">
+   $(function(){
+      $("abbr.timeago").timeago();
+   });
+</script>
+     </div>
+
+
+  <!-- Comments Section -->
+        <a id="to-comments"></a>
+  <div id="comments" class="section section-comments">
+            <div class="standalone-message">
+            <div class="message aviso"><h3>Los comentarios se han cerrado</h3></div>
+        </div>
+        <!-- #comment-write -->
+            <div id="ad-center2" class="ad ad-segundo-escaparate">
+  <a class="ad-contact" id="div-gpt-cen2-contact" style='display:none'
+  href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-cen2' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen2");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+    <div id="comments-header" class="header-section">
+      <div class="comment-order">
+    	<h3>Ordenar por:</h3>
+      </div>
+      <!-- #comment-order -->
+          	<h2>
+              16 comentarios
+            </h2>
+    </div>
+    <div id="top-section-settings"></div>
+    <ul class="comment-list"></ul>
+        <div class="nav"></div>
+    <div id="bottom-section-settings"></div>
+  </div>
+    <script type="text/javascript">
+      $(function()
+      {
+        var commentList = new AML.Comments.Model.CommentList({},{postId:65218});
+        commentList.resetParsed({"comments":[{"id":"371956","post_id":"65218","date":1321619769,"content_filtered":"<p>Uso en todos los PCS  que instalo el MSE con un ejecutable de 10 mb aprox y unas actualizaciones offline de unos 65 ya sea de 32 o 64  bits que descargo d\u00eda a d\u00eda <\/p>\n\n<p><a href=\"http:\/\/www.microsoft.com\/security\/portal\/Definitions\/ADL.aspx\" rel=\"nofollow\">http:\/\/www.microsoft.com\/security\/portal\/Definitions\/ADL.aspx<\/a><\/p>\n\n<p>Esto en raz\u00f3n a que es la \u00fanica pega (en mi opini\u00f3n)del MSE que el update del instalable es muy lento, pero lo voy a probar aunque ...... en antivirus es un riesgo por unas horas y m\u00e1s en d\u00edas  pueden molestar el SO en la maquina   <\/p>\n\n<p>\nBuen dato de todas formas ... aunque poc\u00f3n de portables en mi caso<\/p>","content":"<p>Uso en todos los PCS  que instalo el MSE con un ejecutable de 10 mb aprox y unas actualizaciones offline de unos 65 ya sea de 32 o 64  bits que descargo d\u00eda a d\u00eda <\/p>\n\n<p><a href=\"http:\/\/www.microsoft.com\/security\/portal\/Definitions\/ADL.aspx\" rel=\"nofollow\">http:\/\/www.microsoft.com\/security\/portal\/Definitions\/ADL.aspx<\/a><\/p>\n\n<p>Esto en raz\u00f3n a que es la \u00fanica pega (en mi opini\u00f3n)del MSE que el update del instalable es muy lento, pero lo voy a probar aunque ...... en antivirus es un riesgo por unas horas y m\u00e1s en d\u00edas  pueden molestar el SO en la maquina   <\/p>\n\n<p>\nBuen dato de todas formas ... aunque poc\u00f3n de portables en mi caso<\/p>","karma":"5.50","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"0","comment_author":"pablos2005","user_id":"66530","author":"","webpage":null,"user_name":"pablos2005","karma_level":"36.00","iseditor":"0","global_id":"315050","facebook_uid":null,"index":9,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/315050_1.png"},{"id":"372471","post_id":"65218","date":1321969853,"content_filtered":"<p>Es lo m\u00e1s rid\u00edculo y tedioso que he visto, para ello mejor preparo uno de mis antivirus favoritos y lo hago portable y cada cierto tiempo lo voy actualizando. Testeado y rechazado.<\/p>","content":"Es lo m\u00e1s rid\u00edculo y tedioso que he visto, para ello mejor preparo uno de mis antivirus favoritos y lo hago portable y cada cierto tiempo lo voy actualizando. Testeado y rechazado.","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"98626","user_id":"98626","author":"","webpage":null,"user_name":null,"karma_level":"17.00","iseditor":"0","global_id":"479104","facebook_uid":"1069090214","index":14,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1069090214\/picture"},{"id":"376085","post_id":"65218","date":1324567341,"content_filtered":"<p>Yo suelo llevar el avira en el pendrive, actualizado cada vez que lo tengo que usar.<\/p>","content":"Yo suelo llevar el avira en el pendrive, actualizado cada vez que lo tengo que usar.","karma":"5.00","parent":"372471","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Cesar","user_id":"99016","author":"Cesar","webpage":"http:\/\/www.iamfortuju.com\/pages\/view\/17508\/curso-de-salsa-en-teatinos-malaga","user_name":"caleto","karma_level":"20.00","iseditor":"0","global_id":"481961","facebook_uid":null,"index":16,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/481961_1.png"},{"id":"375800","post_id":"65218","date":1324400529,"content_filtered":"<p>\u00bfY cu\u00e1l es la novedad? Esto se llam\u00f3 \"MS malicious sofware removal tool\" y no s\u00e9 desde cu\u00e1ndo existe, desde que empece a usar vista existe. Se descargaba todos los meses por WinUpdate y se ejecutaba en segundo plano. Si encontraba algo te avisaba que iba a reiniciar la PC para eliminarlo (no, nunca te dio la opci\u00f3n de \"es un archivo que quiero, no lo elimines\"). No es ni un antivirus, ni nada por el estilo. Es un ejecutable que dice que elimina malware y eso es lo que hace. No entiendo el porqu\u00e9 de las cr\u00edticas, por supuesto que comparado con el peor antivirus cae en desventaja. Adem\u00e1s MS hace cosas para personas a los cuales no les interesa nada m\u00e1s que su PC funcione como esperan, si a ellos les das un producto con mil opciones apagan la PC y la llevan a un t\u00e9cnico (y por supuesto, despu\u00e9s dicen que windows es una mierda con los virus, pero es harina de otro costal)...<\/p>","content":"\u00bfY cu\u00e1l es la novedad? Esto se llam\u00f3 \"MS malicious sofware removal tool\" y no s\u00e9 desde cu\u00e1ndo existe, desde que empece a usar vista existe. Se descargaba todos los meses por WinUpdate y se ejecutaba en segundo plano. Si encontraba algo te avisaba que iba a reiniciar la PC para eliminarlo (no, nunca te dio la opci\u00f3n de \"es un archivo que quiero, no lo elimines\"). No es ni un antivirus, ni nada por el estilo. Es un ejecutable que dice que elimina malware y eso es lo que hace. No entiendo el porqu\u00e9 de las cr\u00edticas, por supuesto que comparado con el peor antivirus cae en desventaja. Adem\u00e1s MS hace cosas para personas a los cuales no les interesa nada m\u00e1s que su PC funcione como esperan, si a ellos les das un producto con mil opciones apagan la PC y la llevan a un t\u00e9cnico (y por supuesto, despu\u00e9s dicen que windows es una mierda con los virus, pero es harina de otro costal)...","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"82585","user_id":"82585","author":"","webpage":null,"user_name":"pixwoosh","karma_level":"17.00","iseditor":"0","global_id":"216764","facebook_uid":"1214051051","index":15,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1214051051\/picture"},{"id":"371949","post_id":"65218","date":1321614917,"content_filtered":"<p>Pesa m\u00e1s que el instalador de MSE aunque con la ventaja que mencionas que no requiere esperar a que se actualice para hacer el primer an\u00e1lisis. De cualquier forma habr\u00e1 que probarlo y para esos casos de emergencia vendr\u00e1 muy bien<\/p>\n\n<p>Por cierto, se fue una \"s\" aqu\u00ed: \n...introducci\u00f3n donde se nos avisa que Miscrosoft Safety Scanner no....<\/p>\n\n<p>Gracias por la informaci\u00f3n :)<\/p>","content":"<p>Pesa m\u00e1s que el instalador de MSE aunque con la ventaja que mencionas que no requiere esperar a que se actualice para hacer el primer an\u00e1lisis. De cualquier forma habr\u00e1 que probarlo y para esos casos de emergencia vendr\u00e1 muy bien<\/p>\n\n<p>Por cierto, se fue una \"s\" aqu\u00ed: \n...introducci\u00f3n donde se nos avisa que Miscrosoft Safety Scanner no....<\/p>\n\n<p>Gracias por la informaci\u00f3n :)<\/p>","karma":"2.50","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"jmsr","user_id":"92777","author":"","webpage":null,"user_name":"jmsr","karma_level":"17.00","iseditor":"0","global_id":"433500","facebook_uid":null,"index":7,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/6fafbb75a53e4fc240027ac216ef6c3a"},{"id":"371943","post_id":"65218","date":1321610435,"content_filtered":"<p>Estaba pensando que hace 10 a\u00f1os iba con una caja de diskettes a todos lados, hace 5 fueron cd's, hace dos pendrives y ahora con servicios como Dropbox o similares no llevo nada. Como sea no  me termina de convencer eso de andar descargando 80 mb cada 10 d\u00edas. Supongo (no lo s\u00e9 y deber\u00eda comprobarlo) que otros antivirus portables te actualizan la definici\u00f3n de virus cuando los conectas.<\/p>\n\n<p>Edito<\/p>\n\n<p>ClamAntivirus portable actualiza la base de datos<\/p><p><a href=\"http:\/\/portableapps.com\/apps\/utilities\/clamwin_portable\" rel=\"nofollow\">http:\/\/portableapps.com\/apps\/utilities\/clamwin_portable<\/a><\/p>","content":"<p>Estaba pensando que hace 10 a\u00f1os iba con una caja de diskettes a todos lados, hace 5 fueron cd's, hace dos pendrives y ahora con servicios como Dropbox o similares no llevo nada. Como sea no  me termina de convencer eso de andar descargando 80 mb cada 10 d\u00edas. Supongo (no lo s\u00e9 y deber\u00eda comprobarlo) que otros antivirus portables te actualizan la definici\u00f3n de virus cuando los conectas.<\/p>\n\n<p>Edito<\/p>\n\n<p>ClamAntivirus portable actualiza la base de datos<\/p><p><a href=\"http:\/\/portableapps.com\/apps\/utilities\/clamwin_portable\" rel=\"nofollow\">http:\/\/portableapps.com\/apps\/utilities\/clamwin_portable<\/a><\/p>","karma":"-20.00","parent":"0","comment_edited_date":1321610580,"vote_count":"5","comment_level":4,"comment_deleted_date":"","tree_level":"0","comment_approved":"0","comment_author":"Diego Germ\u00e1n Gonzalez","user_id":"18808","author":"Diego Germ\u00e1n Gonzalez","webpage":null,"user_name":"dggonzalez","karma_level":"32.00","iseditor":"0","global_id":"133442","facebook_uid":null,"index":5,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/963785ed6ba925a47584c60e210417be"},{"id":"371948","post_id":"65218","date":1321614313,"content_filtered":"<p>Desde mi punto de vista lo que intenta el equipo de MS es que el scanner sea siempre fiable por eso fuerza la  descarga cada 10 dias, si vas a un ordenador \"contaminado\" no es muy aconsejable ir a tu dropbox ni acceder a ningun servicio online, ya que seguramente comprometeras todas tus claves... Y si el ordenador esta fallando seguramente la conexion a internet no sera lo mejor ni funcione adecuadamente, luego la integridad solo te lo da \"algo\" generado en otro PC y actualizado.<\/p>\n\n<p>Saludos!<\/p>","content":"<p>Desde mi punto de vista lo que intenta el equipo de MS es que el scanner sea siempre fiable por eso fuerza la  descarga cada 10 dias, si vas a un ordenador \"contaminado\" no es muy aconsejable ir a tu dropbox ni acceder a ningun servicio online, ya que seguramente comprometeras todas tus claves... Y si el ordenador esta fallando seguramente la conexion a internet no sera lo mejor ni funcione adecuadamente, luego la integridad solo te lo da \"algo\" generado en otro PC y actualizado.<\/p>\n\n<p>Saludos!<\/p>","karma":"87.50","parent":"371943","comment_edited_date":"","vote_count":"7","comment_level":2,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"matt2dd","user_id":"98397","author":"","webpage":null,"user_name":"matt2dd","karma_level":"17.00","iseditor":"0","global_id":"477508","facebook_uid":null,"index":6,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/9fd40766abc118b435f8dea4a9e4b1f9"},{"id":"371951","post_id":"65218","date":1321615139,"content_filtered":"<p>La actualizaci\u00f3n del antivirus tambi\u00e9n puedes hacerla en otro pc. Y los servicios como Dropbox tienen una opci\u00f3n de compartir archivos por lo que no tengo que poner mi clave para nada<\/p>","content":"La actualizaci\u00f3n del antivirus tambi\u00e9n puedes hacerla en otro pc. Y los servicios como Dropbox tienen una opci\u00f3n de compartir archivos por lo que no tengo que poner mi clave para nada","karma":"10.00","parent":"371948","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"0","comment_author":"Diego Germ\u00e1n Gonzalez","user_id":"18808","author":"Diego Germ\u00e1n Gonzalez","webpage":null,"user_name":"dggonzalez","karma_level":"32.00","iseditor":"0","global_id":"133442","facebook_uid":null,"index":8,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/963785ed6ba925a47584c60e210417be"},{"id":"371958","post_id":"65218","date":1321626644,"content_filtered":"<p>Si, alternativas mil... (yo prefioro otra de MS o varias libres que son livecd o usb boot) pero salvo que el dropbox funcione mejor de lo que yo pienso (y me refiero a sin red), si tienes un equipo con virus\/malware... dificilmente podras descargarte nada...<\/p>\n\n<p>Creo que esta opcion de MS es buena, que tapa  unas necesidades que otras no hacen, a su vez tiene otras carencias que otras tapan....<\/p>","content":"<p>Si, alternativas mil... (yo prefioro otra de MS o varias libres que son livecd o usb boot) pero salvo que el dropbox funcione mejor de lo que yo pienso (y me refiero a sin red), si tienes un equipo con virus\/malware... dificilmente podras descargarte nada...<\/p>\n\n<p>Creo que esta opcion de MS es buena, que tapa  unas necesidades que otras no hacen, a su vez tiene otras carencias que otras tapan....<\/p>","karma":"30.00","parent":"371951","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"3","comment_approved":"1","comment_author":"matt2dd","user_id":"98397","author":"","webpage":null,"user_name":"matt2dd","karma_level":"17.00","iseditor":"0","global_id":"477508","facebook_uid":null,"index":10,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/9fd40766abc118b435f8dea4a9e4b1f9"},{"id":"371960","post_id":"65218","date":1321627060,"content_filtered":"<p>\"Creo que esta opcion de MS es buena, que tapa unas necesidades que otras no hacen, a su vez tiene otras carencias que otras tapan....\"\nAcabas de definir la industria del software<\/p>","content":"\"Creo que esta opcion de MS es buena, que tapa unas necesidades que otras no hacen, a su vez tiene otras carencias que otras tapan....\"\nAcabas de definir la industria del software","karma":"10.00","parent":"371958","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"4","comment_approved":"0","comment_author":"Diego Germ\u00e1n Gonzalez","user_id":"18808","author":"Diego Germ\u00e1n Gonzalez","webpage":null,"user_name":"dggonzalez","karma_level":"32.00","iseditor":"0","global_id":"133442","facebook_uid":null,"index":11,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/963785ed6ba925a47584c60e210417be"},{"id":"371935","post_id":"65218","date":1321603935,"content_filtered":"<p>Y mientras analizas, de paso se instala el WAT<\/p>","content":"<p>Y mientras analizas, de paso se instala el WAT<\/p>","karma":"-57.50","parent":"0","comment_edited_date":"","vote_count":"6","comment_level":4,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"88923","user_id":"88923","author":"","webpage":null,"user_name":"danisenses","karma_level":"17.00","iseditor":"0","global_id":"323128","facebook_uid":"100001537192505","index":1,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100001537192505\/picture"},{"id":"371936","post_id":"65218","date":1321604835,"content_filtered":"<p>Si te preocupa el WAT no creo que quieras pagar Windows por ende te recomiendo otros S.O que son gratuitos, tenemos varios! ;).<\/p>","content":"<p>Si te preocupa el WAT no creo que quieras pagar Windows por ende te recomiendo otros S.O que son gratuitos, tenemos varios! ;).<\/p>","karma":"70.50","parent":"371935","comment_edited_date":"","vote_count":"10","comment_level":2,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Rodrigo Moreno","user_id":"36697","author":"Rodrigo Moreno","webpage":null,"user_name":"babyrodri","karma_level":"25.00","iseditor":"0","global_id":"190638","facebook_uid":"1386891371","index":2,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/190638_2.png"},{"id":"371938","post_id":"65218","date":1321607522,"content_filtered":"<p>Realmente eres bien ingenuo para tomarte el comentario del Dani ese en serio. No se necesita ser un genio para tener Windows, con WAT, sin pagar y encima con una linda etiqueta de \"original\" en la pantalla de Propiedades del Sistema. As\u00ed que si Danito est\u00e1 preocupado por el WAT es que <strong>poco sabe o <a rel=\"nofollow\">mucho miente.<\/a><\/strong><\/p>","content":"<p>Realmente eres bien ingenuo para tomarte el comentario del Dani ese en serio. No se necesita ser un genio para tener Windows, con WAT, sin pagar y encima con una linda etiqueta de \"original\" en la pantalla de Propiedades del Sistema. As\u00ed que si Danito est\u00e1 preocupado por el WAT es que <strong>poco sabe o <a rel=\"nofollow\">mucho miente.<\/a><\/strong><\/p>","karma":"-2.50","parent":"371936","comment_edited_date":"","vote_count":"7","comment_level":4,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"Jos\u00e9 Manuel","user_id":"57610","author":"Jos\u00e9 Manuel","webpage":null,"user_name":"josemanuelperez","karma_level":"25.00","iseditor":"0","global_id":"266613","facebook_uid":null,"index":3,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/266613_1.png"},{"id":"371939","post_id":"65218","date":1321608099,"content_filtered":"<p>Realmente eres bien ingenuo para tomarte el comentario del Dani ese en serio. Empezando porque no se necesita ser un genio para obtener Windows con WAT, gratis y encima con la palabrita \"Original\" en las Propiedades del Sistema. Linux es una gran alternativa pero m\u00e9tete esto bien en la cabeza, hay que difundir sus ventajas no andar arrojando falsedades por donde vamos.<\/p>\n\n<p>As\u00ed que si el Danito est\u00e1 preocupado por el WAT es que <strong>poco sabe o <a href=\"http:\/\/es.wikipedia.org\/wiki\/Fear,_uncertainty_and_doubt\" rel=\"nofollow\">mucho miente.<\/a><\/strong><\/p>","content":"<p>Realmente eres bien ingenuo para tomarte el comentario del Dani ese en serio. Empezando porque no se necesita ser un genio para obtener Windows con WAT, gratis y encima con la palabrita \"Original\" en las Propiedades del Sistema. Linux es una gran alternativa pero m\u00e9tete esto bien en la cabeza, hay que difundir sus ventajas no andar arrojando falsedades por donde vamos.<\/p>\n\n<p>As\u00ed que si el Danito est\u00e1 preocupado por el WAT es que <strong>poco sabe o <a href=\"http:\/\/es.wikipedia.org\/wiki\/Fear,_uncertainty_and_doubt\" rel=\"nofollow\">mucho miente.<\/a><\/strong><\/p>","karma":"-27.50","parent":"371936","comment_edited_date":"","vote_count":"8","comment_level":4,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"Jos\u00e9 Manuel","user_id":"57610","author":"Jos\u00e9 Manuel","webpage":null,"user_name":"josemanuelperez","karma_level":"25.00","iseditor":"0","global_id":"266613","facebook_uid":null,"index":4,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/266613_1.png"},{"id":"372073","post_id":"65218","date":1321712545,"content_filtered":"<p>L\u00f3gicamente era una co\u00f1a, pero se ve que en Genbeta la gente no sabe bromear, al fin y al cabo lo que queria decir era que windows es una mierda, pero eso en Genbeta es blasfemia<\/p>","content":"<p>L\u00f3gicamente era una co\u00f1a, pero se ve que en Genbeta la gente no sabe bromear, al fin y al cabo lo que queria decir era que windows es una mierda, pero eso en Genbeta es blasfemia<\/p>","karma":"-10.00","parent":"371939","comment_edited_date":"","vote_count":"1","comment_level":4,"comment_deleted_date":"","tree_level":"3","comment_approved":"1","comment_author":"88923","user_id":"88923","author":"","webpage":null,"user_name":"danisenses","karma_level":"17.00","iseditor":"0","global_id":"323128","facebook_uid":"100001537192505","index":12,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100001537192505\/picture"},{"id":"372114","post_id":"65218","date":1321726513,"content_filtered":"<p>Co\u00f1a es hacer una broma ocasional, pero leyendo los otros comentarios que est\u00e1s haciendo en Genbeta se te nota el plumero mijo. Tu odio a Microsoft es enfermo, te quejas hasta del MSE, que es un excelente antivirus.<\/p>\n\n<p>Y mira que yo no uso MSE sino el Panda Cloud.<\/p>","content":"<p>Co\u00f1a es hacer una broma ocasional, pero leyendo los otros comentarios que est\u00e1s haciendo en Genbeta se te nota el plumero mijo. Tu odio a Microsoft es enfermo, te quejas hasta del MSE, que es un excelente antivirus.<\/p>\n\n<p>Y mira que yo no uso MSE sino el Panda Cloud.<\/p>","karma":"35.00","parent":"372073","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"4","comment_approved":"1","comment_author":"Jos\u00e9 Manuel","user_id":"57610","author":"Jos\u00e9 Manuel","webpage":null,"user_name":"josemanuelperez","karma_level":"25.00","iseditor":"0","global_id":"266613","facebook_uid":null,"index":13,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/266613_1.png"}],"meta":{"more_records":"false","start":0,"total":16,"order":"valued","totalCount":16},"commentStatus":"closed"});
+
+	window.App = new AML.Comments.Application(65218, commentList);
+	Backbone.history.start();
+      });
+    </script>
+
+  <!-- Comments and Other Stuff -->
+
+  <div id="ad-bottom" class="ad ad-boton">
+  <a class="ad-contact" id="div-gpt-bot-contact" style="display:none" href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-bot' class="ad-box" style='width: 728px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-bot");
+    });
+    </script>
+    </div>
+</div>
+
+  <!-- .ad - boton -->
+  <div class="sidebar-seo-links">
+    <h4>Más en Genbeta</h4>
+    <ul>
+              <li>
+          <a  href="/seguridad/apple-quiere-combatir-el-spam-enganandolo-con-cuentas-de-correo-desechables" class="thumb80">
+            <img title="Apple quiere combatir el spam engañándolo con cuentas de correo desechables" src="http://img.genbeta.com/tb/80_80/110942.jpg" alt="Apple quiere combatir el spam engañándolo con cuentas de correo desechables">
+          </a>
+          <a  href="/seguridad/apple-quiere-combatir-el-spam-enganandolo-con-cuentas-de-correo-desechables">
+            Apple quiere combatir el spam engañándolo con cuentas de correo desechables
+          </a>
+        </li>
+              <li>
+          <a  href="/windows/windows-8-alcanza-los-200-millones-de-licencias-vendidas" class="thumb80">
+            <img title="Windows 8 alcanza los 200 millones de licencias vendidas" src="http://img.genbeta.com/tb/80_80/110927.jpg" alt="Windows 8 alcanza los 200 millones de licencias vendidas">
+          </a>
+          <a  href="/windows/windows-8-alcanza-los-200-millones-de-licencias-vendidas">
+            Windows 8 alcanza los 200 millones de licencias vendidas
+          </a>
+        </li>
+              <li>
+          <a  href="/seguridad/telefonica-y-kibo-ventures-invierten-2-5-millones-de-euros-en-la-startup-espanola-de-seguridad-blueliv" class="thumb80">
+            <img title="Telefónica y Kibo Ventures invierten 2,5 millones de euros en la startup española de seguridad Blueliv" src="http://img.genbeta.com/tb/80_80/110916.jpg" alt="Telefónica y Kibo Ventures invierten 2,5 millones de euros en la startup española de seguridad Blueliv">
+          </a>
+          <a  href="/seguridad/telefonica-y-kibo-ventures-invierten-2-5-millones-de-euros-en-la-startup-espanola-de-seguridad-blueliv">
+            Telefónica y Kibo Ventures invierten 2,5 millones de euros en la startup española de seguridad Blueliv
+          </a>
+        </li>
+              <li>
+          <a  href="/seguridad/careto-un-malware-muy-sofisticado-y-probablemente-con-origen-espanol" class="thumb80">
+            <img title="Careto: un malware muy sofisticado y (probablemente) con origen español" src="http://img.genbeta.com/tb/80_80/110867.jpg" alt="Careto: un malware muy sofisticado y (probablemente) con origen español">
+          </a>
+          <a  href="/seguridad/careto-un-malware-muy-sofisticado-y-probablemente-con-origen-espanol">
+            Careto: un malware muy sofisticado y (probablemente) con origen español
+          </a>
+        </li>
+              <li>
+          <a  href="/windows/microsoft-a-los-usuarios-avanzados-ayudadnos-a-hacer-desaparecer-windows-xp" class="thumb80">
+            <img title="Microsoft a los usuarios avanzados: ayudadnos a hacer desaparecer Windows XP" src="http://img.genbeta.com/tb/80_80/110816.jpg" alt="Microsoft a los usuarios avanzados: ayudadnos a hacer desaparecer Windows XP">
+          </a>
+          <a  href="/windows/microsoft-a-los-usuarios-avanzados-ayudadnos-a-hacer-desaparecer-windows-xp">
+            Microsoft a los usuarios avanzados: ayudadnos a hacer desaparecer Windows XP
+          </a>
+        </li>
+          </ul>
+</div>
+<!-- related-posts SEO links-->
+       
+    </div>
+  <!-- .container -->
+  </div>
+  <!-- .content-dinamic -->
+
+  <div class= "nav nav-blog">
+  <div class= "container">
+    <h2><strong>&#43;</strong> en Genbeta</h2>
+    <ul>
+      <li class= "blog-section section-lomejor"><a href="/lomejor">Lo mejor</a></li>
+      <li class= "blog-section section-temas"><a href="/archivos">Temas</a></li>
+            <li class= "blog-section section-productos"><a href="/productos">Productos</a></li>
+                  <li class= "blog-section section-respuestas"><a href="/respuestas">Respuestas</a></li>
+            
+            <li class="blog-section section-club"><a href="/club">Club</a></li>
+            <li class= "blog-section section-comunidad"><a href="/comunidad">Comunidad</a></li>
+      <li class="blog-section section-staff"><a href="/quienes-somos">Staff</a></li>
+    </ul>
+  </div>
+</div>
+  
+<div class="footer">
+        <div class="footer-media">
+                <div class="links-category">
+            <h2>Tecnología</h2>
+            <ul>
+                              <li class="tec-xataka"><a href="http://www.xataka.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka<span></span></a></li>
+                              <li class="tec-xatakamovil"><a href="http://www.xatakamovil.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Móvil<span></span></a></li>
+                              <li class="tec-xatakafoto"><a href="http://www.xatakafoto.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Foto<span></span></a></li>
+                              <li class="tec-xatakandroid"><a href="http://www.xatakandroid.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Android<span></span></a></li>
+                              <li class="tec-xatakaon"><a href="http://www.xatakaon.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka On<span></span></a></li>
+                              <li class="tec-xatakahome"><a href="http://www.xatakahome.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Smart Home<span></span></a></li>
+                              <li class="tec-xatakawindows"><a href="http://xatakawindows.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Windows<span></span></a></li>
+                              <li class="tec-xatakaciencia"><a href="http://www.xatakaciencia.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Ciencia<span></span></a></li>
+                              <li class="tec-applesfera"><a href="http://www.applesfera.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Applesfera<span></span></a></li>
+                              <li class="tec-vidaextra"><a href="http://www.vidaextra.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vida Extra<span></span></a></li>
+                              <li class="tec-genbeta"><a href="http://www.genbeta.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Genbeta<span></span></a></li>
+                              <li class="tec-genbetadev"><a href="http://www.genbetadev.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Genbeta Dev<span></span></a></li>
+                          </ul>
+        </div>
+            </div>
+    
+    <div class="footer-links">
+                        <div class="links-category">
+            <h2>Estilos de vida</h2>
+            <ul>
+                              <li><a href="http://www.trendencias.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias</a></li>
+                              <li><a href="http://www.trendenciasbelleza.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Belleza</a></li>
+                              <li><a href="http://www.trendenciashombre.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Hombre</a></li>
+                              <li><a href="http://www.trendenciasshopping.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Shopping</a></li>
+                              <li><a href="http://www.trendenciaslifestyle.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Lifestyle</a></li>
+                              <li><a href="http://www.directoalpaladar.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Directo al Paladar</a></li>
+                              <li><a href="http://www.bebesymas.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bebés y Más</a></li>
+                              <li><a href="http://www.pequesymas.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Peques y Más</a></li>
+                              <li><a href="http://www.vitonica.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vitónica</a></li>
+                              <li><a href="http://www.decoesfera.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Decoesfera</a></li>
+                              <li><a href="http://www.embelezzia.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Embelezzia</a></li>
+                              <li><a href="http://www.ambienteg.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ambiente G</a></li>
+                              <li><a href="http://www.poprosa.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Poprosa</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Motor</h2>
+            <ul>
+                              <li><a href="http://www.motorpasion.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión</a></li>
+                              <li><a href="http://www.motorpasionf1.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión F1</a></li>
+                              <li><a href="http://www.motorpasionmoto.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Moto</a></li>
+                              <li><a href="http://www.motorpasionfuturo.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Futuro</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Ocio</h2>
+            <ul>
+                              <li><a href="http://www.blogdecine.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog de Cine</a></li>
+                              <li><a href="http://www.vayatele.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">¡Vaya Tele!</a></li>
+                              <li><a href="http://www.hipersonica.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Hipersónica</a></li>
+                              <li><a href="http://www.diariodelviajero.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Diario del Viajero</a></li>
+                              <li><a href="http://www.papelenblanco.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Papel en Blanco</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Economía</h2>
+            <ul>
+                              <li><a href="http://www.elblogsalmon.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">El Blog Salmón</a></li>
+                              <li><a href="http://www.pymesyautonomos.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Pymes y Autónomos</a></li>
+                              <li><a href="http://www.tecnologiapyme.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Tecnología Pyme</a></li>
+                              <li><a href="http://www.ahorrodiario.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ahorro Diario</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Latinoamérica</h2>
+            <ul>
+                              <li><a href="http://www.xataka.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Brasil</a></li>
+                              <li><a href="http://www.trendencias.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Brasil</a></li>
+                              <li><a href="http://www.motorpasion.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Brasil</a></li>
+                              <li><a href="http://www.xataka.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka México</a></li>
+                              <li><a href="http://www.motorpasion.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión México</a></li>
+                              <li><a href="http://www.directoalpaladar.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Directo Al Paladar México</a></li>
+                              <li><a href="http://www.xatakandroid.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Android México</a></li>
+                              <li><a href="http://www.vidaextra.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vida Extra México</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Participamos en</h2>
+            <ul>
+                              <li><a href="http://www.ebayers.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">eBayers</a></li>
+                              <li><a href="http://www.circulaseguro.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Circula Seguro</a></li>
+                              <li><a href="http://www.circulaseguro.pt/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Circula Seguro PT</a></li>
+                              <li><a href="http://www.actibva.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Actibva</a></li>
+                              <li><a href="http://www.anexom.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Anexo M</a></li>
+                              <li><a href="http://blog.cocacola.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Happing Magazine</a></li>
+                              <li><a href="http://blog.sage.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog Sage</a></li>
+                              <li><a href="http://www.optimismodigital.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Optimismo Digital</a></li>
+                              <li><a href="http://www.1001experiencias.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">1001 Experiencias</a></li>
+                              <li><a href="http://www.ennaranja.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">En Naranja</a></li>
+                              <li><a href="http://www.essieblog.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Essie Blog</a></li>
+                              <li><a href="http://blogginzenith.zenithmedia.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bloggin Zenith</a></li>
+                              <li><a href="http://www.urbanfire.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Urbanfire</a></li>
+                              <li><a href="http://www.tecnologiadetuatu.elcorteingles.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Tecnología de tú a tú</a></li>
+                              <li><a href="http://www.ciudadano00.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ciudadano 0,0</a></li>
+                              <li><a href="http://blogfanta.cocacola.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog Fanta</a></li>
+                              <li><a href="http://mimundo.philips.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Mi Mundo Philips</a></li>
+                              <li><a href="http://www.bbvacontuempresa.es?utm_source=genbeta&utm_medium=network&utm_campaign=footer">BBVA con tu empresa</a></li>
+                              <li><a href="http://www.perutravelblog.net/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Perú Travel Blog</a></li>
+                              <li><a href="http://bscene.bershka.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bershka Bscene</a></li>
+                              <li><a href="http://www.institutodelafelicidad.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Instituto de la Felicidad</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                    </div>
+</div>
+
+<div class="closure">
+    <div class="container">
+        <div class="weblogssl"><a href="http://www.weblogssl.com">Weblogs SL<span></span></a></div>
+        <ul class="nav">
+            <li><a href="/quienes-somos">¿Quienes somos?</a></li>
+            <li><a href="http://www.weblogssl.com/contenidos">Condiciones de uso</a></li>
+            <li><a href="http://www.weblogssl.com/cookies">Política de cookies</a></li>
+            <li><a href="http://www.weblogssl.com/aviso">Aviso legal</a></li>
+            <li><a title="Publicidad en Genbeta" href="http://www.socialmediasl.com/genbeta.php">Publicidad</a></li>
+            <li><a href="/ayuda-2012">Ayuda</a></li>
+            <li><a href="/contacto">Contacto</a></li>
+        </ul>
+    </div>
+</div>
+
+<div id="cookies-overlay"></div>
+
+  <script type="text/javascript">
+    $(function() {
+      new AML.Auth.View.CookiesOverlayView;
+    });
+  </script>
+
+</div>
+<div id="favicons-list">
+
+    <div class="userbar">
+        <a class="head-shortcut" href="#body" title="Volver arriba">&uarr;</a>
+        <div class="userbox" id="wsl_userbox">
+        </div>
+
+        <div class="favicons" style="width: auto; ">
+
+            <div id="scroll-menu">
+
+                <div class="disabledHotSpotLeft">«</div>
+                <div class="disabledHotSpotRight">»</div>
+                <div class="scrollingHotSpotLeft">«</div>
+                <div class="scrollingHotSpotRight">»</div>
+
+                <div class="scrollWrapper">
+                    <div class="scrollableArea">
+
+                        <ul class="favicroll">
+                            <li id="wsl"><a target="_top" href="http://www.weblogssl.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><em><strong>Blog corporativo</strong></em></a></li>
+
+                            <li><a target="_top" href="http://www.xataka.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b1"><strong>XTK</strong></span> <em><strong>Xataka - Gadgets y electrónica de consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vidaextra.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b2"><strong>VX</strong></span> <em><strong>VidaExtra - Videojuegos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.blogdecine.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b3"><strong>BDC</strong></span> <em><strong>Blog de cine - Cine  y críticas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.elblogsalmon.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b5"><strong>EBS</strong></span> <em><strong>El Blog Salmón - Economía y finanzas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.genbeta.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b6"><strong>GBT</strong></span> <em><strong>Genbeta - Software</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasion.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b7"><strong>MP</strong></span> <em><strong>MotorPasión - Coches y motor</strong></em></a></li>
+                            <li><a target="_top" href="http://www.directoalpaladar.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b8"><strong>DAP</strong></span> <em><strong>Directo al paladar - Gastronomía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.bebesymas.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b9"><strong>BYM</strong></span> <em><strong>Bebés y más - Todo sobre bebés</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vayatele.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b11"><strong>VYT</strong></span> <em><strong>¡Vaya Tele! - Series y televisión</strong></em></a></li>
+                            <li><a target="_top" href="http://www.diariodelviajero.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b12"><strong>DDV</strong></span> <em><strong>Diario del viajero - Viajes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakaciencia.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b13"><strong>XCI</strong></span> <em><strong>Xataka Ciencia - Ciencia</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendencias.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b14"><strong>TRE</strong></span> <em><strong>Trendencias - Moda y tendencias</strong></em></a></li>
+                            <li><a target="_top" href="http://www.hipersonica.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b15"><strong>HIP</strong></span> <em><strong>HiperSónica - Música</strong></em></a></li>
+                            <li><a target="_top" href="http://www.applesfera.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b16"><strong>APP</strong></span> <em><strong>Applesfera - Apple</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasshopping.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b17"><strong>COM</strong></span> <em><strong>Trendencias Shopping - Compras y consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakamovil.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b18"><strong>XTM</strong></span> <em><strong>Xataka Móvil - Móviles</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ambienteg.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b19"><strong>AMG</strong></span> <em><strong>Ambiente G - Gays y lesbianas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionmoto.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b20"><strong>MMO</strong></span> <em><strong>Motorpasión Moto - Motos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.papelenblanco.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b21"><strong>PEB</strong></span> <em><strong>Papel en blanco - Literatura</strong></em></a></li>
+                            <li><a target="_top" href="http://www.decoesfera.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b22"><strong>DEC</strong></span> <em><strong>Decoesfera - Decoración e interiorismo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionf1.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b23"><strong>MF1</strong></span> <em><strong>Motorpasión F1 - Carreras</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vitonica.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b24"><strong>VIT</strong></span> <em><strong>Vitónica - Vida sana</strong></em></a></li>
+                            <li><a target="_top" href="http://www.embelezzia.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b25"><strong>EMB</strong></span> <em><strong>Embelezzia - Lujo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.poprosa.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b26"><strong>POP</strong></span> <em><strong>Poprosa - Famosos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakafoto.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b27"><strong>XTF</strong></span> <em><strong>Xataka Foto - Fotografía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.pymesyautonomos.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b28"><strong>PYA</strong></span> <em><strong>Pymes y autónomos - Pymes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasbelleza.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b30"><strong>TRB</strong></span> <em><strong>Trendencias Belleza - Belleza y cosmética</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.tecnologiapyme.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b34"><strong>TPY</strong></span> <em><strong>Tecnología Pyme - Tecnología para empresas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ahorrodiario.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b35"><strong>AHD</strong></span> <em><strong>Ahorro Diario - Ahorro</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciashombre.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b36"><strong>TRH</strong></span> <em><strong>Trendencias Hombre - Moda y estilo masculino</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.pequesymas.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b37"><strong>PEQ</strong></span> <em><strong>Peques y más - Niños e infancia</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakaon.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b39"><strong>XTO</strong></span> <em><strong>Xataka On - Todo sobre conectividad, ADSL</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakandroid.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b40"><strong>XTA</strong></span> <em><strong>Xataka Android - Android, aplicaciones y dispositivos</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.genbetadev.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b41"><strong>GBD</strong></span> <em><strong>Genbeta Dev - Desarrollo de software</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.motorpasionfuturo.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b42"><strong>MPF</strong></span> <em><strong>Motorpasión Futuro - Innovación y Motor</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakahome.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b44"><strong>XSH</strong></span> <em><strong>Xataka Smart Home - Inteligencia doméstica digital</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakawindows.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b45"><strong>XTW</strong></span> <em><strong>Xataka Windows - Universo Microsoft</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciaslifestyle.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b46"><strong>TLS</strong></span> <em><strong>Trendencias Lifestyle</strong></em></a></li>
+                        </ul>
+
+                    </div>
+                </div>
+                <!-- .scrollWrapper-->
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<div id="wsl_dialog"></div>
+<script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', function() {
+  try {
+    if (window.external.msIsSiteMode()) {
+      window.external.msSiteModeClearJumpList();
+      window.external.msSiteModeCreateJumplist('Mensajes Recientes');
+            window.external.msSiteModeAddJumpListItem('Office\x20para\x20iPad,\x20m\u00E1s\x20pronto\x20que\x20tarde\x3A\x20para\x20la\x20primera\x20mitad\x20de\x202014', 'http://www.genbeta.com/ofimatica/office-para-ipad-mas-pronto-que-tarde-para-la-primera-mitad-de-2014', '');
+            window.external.msSiteModeAddJumpListItem('Bittorrent\x20Live,\x20el\x20streaming\x20P2P,\x20llegar\u00E1\x20pronto\x20a\x20los\x20m\u00F3viles\x20', 'http://www.genbeta.com/multimedia/bittorrent-live-el-streaming-p2p-llegara-pronto-a-los-moviles', '');
+            window.external.msSiteModeAddJumpListItem('La\x20hipocres\u00EDa\x20de\x20algunos\x20medios\x20tradicionales.\x20La\x20imagen\x20de\x20la\x20semana\x20', 'http://www.genbeta.com/actualidad/la-hipocresia-de-algunos-medios-tradicionales-la-imagen-de-la-semana', '');
+            window.external.msSiteModeAddJumpListItem('\x22Tasa\x20Google\x22\x3A\x20si\x20tienes\x20un\x20blog\x20tambi\u00E9n\x20te\x20afecta,\x20solo\x20que\x20otros\x20la\x20cobrar\u00E1n\x20por\x20ti\x20', 'http://www.genbeta.com/actualidad/tasa-google-si-tienes-un-blog-tambien-te-afecta-solo-que-otros-la-cobraran-por-ti', '');
+            window.external.msSiteModeAddJumpListItem('Kickstarter,\x20tras\x20sufrir\x20un\x20ataque,\x20recomienda\x20cambiar\x20contrase\u00F1as\x20', 'http://www.genbeta.com/web/kickstarter-tras-sufrir-un-ataque-recomienda-cambiar-contrasenas', '');
+            window.external.msSiteModeShowJumpList();
+    }
+  } catch (exp) {
+    // do nothing
+  }
+  });
+</script>
+
+
+<script type='text/javascript'>
+    (function() {
+      new ViceVersaLink("http://t.genbeta.com");
+    })();
+</script>
+
+<script type='text/javascript'>
+  window.onerror = function(message, file, line) {
+    var sFormattedMessage = '[' + file + ' (' + line + ')] ' + message;
+    _gaq.push(['_trackEvent', 'Errors', 'Browser', sFormattedMessage, null, true]);
+  }
+    
+</script>
+
+</body>
+</html>

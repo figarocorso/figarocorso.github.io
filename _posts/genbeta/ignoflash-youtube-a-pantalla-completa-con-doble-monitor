@@ -1,0 +1,893 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+                                                                                                                                                                                                                                                                                <title>IgnoFlash, Youtube a pantalla completa con doble monitor</title>
+                  <meta name="description" content="Uno de los grandes usos para los que tenemos varios monitores es tener una película o vídeo de Youtube en el monitor secundario. Lo sé, en..." />
+            <meta name="news_keywords" content="Internet Explorer, Flash, chrome, Doble monitor"/>
+       
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />    
+    <meta name='robots' content='noodp' />
+    <meta property="fb:admins" content="100000716994885"/>
+    <meta name="application-name" content="Genbeta"/>
+    <meta name="msapplication-tooltip" content="Software y web. Genbeta"/>
+    <meta name="msapplication-starturl" content="http://www.genbeta.com"/>
+    <meta name="msapplication-task" content="name=Lo mejor;action-uri=http://www.genbeta.com/lomejor;icon-uri=http://img.genbeta.com/lp2/v6/images/pin-bg-lomejor-icon.ico" />
+        <meta name="msapplication-task" content="name=Respuestas;action-uri=http://www.genbeta.com/respuestas;icon-uri=http://img.genbeta.com/lp2/v6/images/pin-bg-respuestas-icon.ico" />
+                <!--[if !IE]><!--> <link rel="shortcut icon" href="http://img.genbeta.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if lt IE 9]><!--> <link rel="shortcut icon" href="http://img.genbeta.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if gte IE 9]>
+            <link rel="shortcut icon" type="image/x-icon" href="http://img.genbeta.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+            <link rel=icon type="image/ico" href="http://img.genbeta.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+        <![endif]-->
+    
+    <link rel="apple-touch-icon" href="http://img.genbeta.com/lp2/mobile/images/apple-touch-icon.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-57-precomposed.png">
+
+        <link rel="stylesheet" type="text/css" href="http://img.genbeta.com/lp2/v6/main.css?v=24272">
+        <link rel="publisher" href="http://plus.google.com/106643481235450321345" />
+    <link rel="alternate" type="application/rss+xml" title="" href="/index.xml" />
+    <!--[if lt IE 7]>
+      <link rel="stylesheet" type="text/css" href="http://img.genbeta.com/lp2/v6/ie7.css">
+    <![endif]-->
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', "UA-78515-6"]);
+  _gaq.push(['_setCampaignCookieTimeout', 259200000]);
+  _gaq.push(['_setDomainName', ".genbeta.com"]);
+  _gaq.push(['_setSiteSpeedSampleRate', 5]);
+  _gaq.push(['t2._setAccount', "UA-78515-62"]);
+  _gaq.push(['t2._setCampaignCookieTimeout', 259200000]);
+  _gaq.push(['t2._setDomainName', ".genbeta.com"]);
+  (function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') +       '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  })();
+</script>
+
+ <link rel="canonical" href="http://www.genbeta.com/multimedia/ignoflash-youtube-a-pantalla-completa-con-doble-monitor" />
+ <link rel="image_src" href="http://img.genbeta.com/resize/75/thumbnails/b/59055.jpg" />
+ <meta property="og:title" content="IgnoFlash, Youtube a pantalla completa con doble monitor">
+ <meta property="og:description" content="Uno de los grandes usos para los que tenemos varios monitores es tener una película o vídeo de Youtube en el monitor secundario. Lo sé, en...">
+ <meta property="og:image" content="http://img.genbeta.com/original/59055.jpg">
+    <script>
+    _gaq.push(['t2._setPageGroup', '1', 'post']);
+    _gaq.push(['t2._setPageGroup', '2', "miguel julián"]);
+    _gaq.push(['t2._setPageGroup', '3', "multimedia"]);
+    _gaq.push(['t2._setPageGroup', '4', "normal"]);
+    _gaq.push(['_setPageGroup', '1', 'post']);
+    _gaq.push(['_setPageGroup', '2', "miguel julián"]);
+    _gaq.push(['_setPageGroup', '3', "multimedia"]);
+    _gaq.push(['_setPageGroup', '4', "normal"]);
+       </script>
+   </head>
+       <body id="body" class="article-single">
+
+    <script type='text/javascript'>
+    var MAX_source = "";
+    var GPTcats = ["multimedia", "truco"];
+    var GPTtags = ["internet-explorer", "flash", "chrome", "doble-monitor"];
+      </script>
+      <script type='text/javascript'>
+googletag.pubads().setTargeting("origin", "direct").setTargeting("screen", screen.width.toString()).setTargeting("cat", GPTcats).setTargeting("tag", GPTtags);
+if (navigator.userAgent.match(/iPad/i) != null) {
+  googletag.pubads().setTargeting("ua", "ipad");
+} 
+ 
+googletag.defineSlot('/4712/GEB/interior_top', [1000, 40], 'div-gpt-top').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_lateral', [[160, 600], [200,600], [300,600], [300,250]], 'div-gpt-lat').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_central', [[300, 250], [400,400], [1000,250]], 'div-gpt-cen').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_central2', [[300, 250],[400,400],[690, 250]], 'div-gpt-cen2').addService(googletag.pubads());
+googletag.defineSlot('/1018282/GEB-BOT2-interior',[728, 90], 'div-gpt-bot').addService(googletag.pubads());
+googletag.defineSlot('/1018282/GEB-INP', [500, 80], 'div-gpt-inp').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interstitial', [1000, 525], 'div-gpt-int').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().enableSyncRendering();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+</script>
+
+       <script type="text/javascript">
+      WSL2 = {};
+      WSL2.config = {};
+      WSL2.config.fbapikey = "360028941603";
+      WSL2.config.cookieDomain = "";
+      WSL2.config.imagePath = 'http://img.genbeta.com/lp2/v6';
+      WSL2.config.siteName = "Genbeta";
+      window.___gcfg = {lang: 'es'};
+    </script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="http://code.jquery.com/jquery-migrate-1.1.0.js"></script>
+            <script src="http://img.weblogssl.com/LPbackend/prod/v2/js/frontend-758.js"></script>
+          <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _c1 = new WSL2.Cookie;
+      loginStatus = (_c1.hasSession()) ? "yes:" + _c1.loginType() : "no";
+      _gaq.push(['t2._setCustomVar', 4, '.genbeta.com', 'loginstatus:' + loginStatus, 2]);
+      _gaq.push(['_trackPageview']);
+      _gaq.push(['t2._trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); 
+    ga.type = 'text/javascript';
+    ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+  })();
+      var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "11306788" });
+         (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[1]; 
+          s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb": "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+    </script>
+
+    <div id="fb-root"></div>
+  <!-- fb needs this -->
+
+  <script src="//platform.twitter.com/widgets.js" id="tweetjs"></script>
+  <script src="//apis.google.com/js/plusone.js" id="gplus1js"></script>
+  <script src="//connect.facebook.net/es_ES/all.js#xfbml=1" id="fbjssdk"></script>
+  <div class="customize-me">
+  <div class="content-fixed">
+    <div class="container">
+                <!-- .header -->
+            <div class="header header-page">
+        <h1 class="site-logo"><a href="http://www.genbeta.com" title="Ir a la portada">Software y web. Genbeta<span></span></a></h1>
+        <form method="get" action="/busqueda" id="search" class="search" style="top:62px; width:310px; padding: 0;">
+    <p>
+        <input type="hidden" name="cx" value="partner-pub-9977500652563564:0292109475">
+        <input type="text" id="gsearch" name="q" accesskey="4" title="Buscar" placeholder="Busca en Genbeta con Google">
+        <input type="hidden" name="ie" value="UTF-8">
+        <input type="hidden" name="oe" value="UTF-8">
+        <input type="hidden" name="cof" value="FORID:10">
+        <button class="button">Buscar <span class="arrow">&raquo;</span></button>
+    </p>
+</form>
+<script type="text/javascript" src="http://www.google.es/coop/cse/brand?form=cse-search-box&amp;lang=es"></script>
+            <div class="nav nav-main">
+    <ul class="nav-primary">
+        <li class="home-link"><a href="/" title="Volver a portada">Portada</a></li>
+        <li class="respuestas-link"><a href="/respuestas">Respuestas</a></li>
+        <li class="temas-submenu">
+            <ul class="nav-secondary">
+                                   <li><a href="/categoria/actualidad" title="Ir a la categoría Actualidad">Actualidad</a></li>
+                                   <li><a href="/categoria/linux" title="Ir a la categoría Linux">Linux</a></li>
+                                   <li><a href="/categoria/movil" title="Ir a la categoría Móvil">Móvil</a></li>
+                                   <li><a href="/categoria/windows" title="Ir a la categoría Windows">Windows</a></li>
+                                   <li><a href="/categoria/herramientas" title="Ir a la categoría Herramientas">Herramientas</a></li>
+                                <li><a href="/archivos" title="Ver todas las categorías">Más &raquo;</a></li>
+            </ul>
+        </li>
+                  
+            </ul>
+</div>
+
+        <div class="nav nav-tags">
+        <h3>No te pierdas <span class="arrow">&raquo;</span></h3>
+        <ul>
+                        <li><a href="/tag/tasa-google" title="Todo sobre Tasa Google">Tasa Google</a></li>
+                        <li><a href="/tag/ley-lassalle" title="Todo sobre Ley Lassalle">Ley Lassalle</a></li>
+                        <li><a href="/tag/balance-de-windows-8" title="Todo sobre Balance de Windows 8">Balance de Windows 8</a></li>
+                        <li><a href="/tag/cazadores-de-fakes" title="Todo sobre Cazadores de Fakes">Cazadores de Fakes</a></li>
+                        <li><a href="/tag/satya-nadella" title="Todo sobre Satya Nadella">Satya Nadella</a></li>
+                    </ul>
+</div>
+<!-- .nav-tags -->
+
+                    <div class="ad ad-desplegable">
+  <a class="ad-contact" id="div-gpt-top-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+  <div class="ad-box">
+    <div id='div-gpt-top' style='width: 1000px;'>
+    <script type="text/javascript">
+        googletag.cmd.push(function() {
+        googletag.display("div-gpt-top");
+        });
+    </script>
+    </div>
+  </div>
+</div>
+<!-- .ad-box - desplegable -->
+
+  <div class="nav">
+   <ul class="article-nav-controls">
+                              <li><a class="article-control article-previous" href="/actualidad/el-copypaste-de-windows-phone-7-se-deja-ver-en-un-video"><span>El copy/paste de Windows Phone 7 se deja ver en un vídeo</span></a></li>
+                                             <li><a class="article-control article-next" href="/actualidad/la-wikipedia-comercial-patrocinada-por-amazon"><span>La Wikipedia comercial, patrocinada por Amazon</span></a></li>
+                  </ul>
+  </div>
+              </div>
+                   <div class="article article-pre-content">
+  <h1 class="article-header">IgnoFlash, Youtube a pantalla completa con doble monitor</h1>
+  <div class="article-date">06 de diciembre de 2010 | 22:02 CET <span id="is_editor"></span></div>
+  <div class="article-author-details">
+  <div class="figure">
+    <a rel='author' href="/autor/miguel-julian">
+      <img src="http://www.gravatar.com/avatar/14216b3a89c997bfc641f9d3abf7bc0b?s=80&amp;d=mm&amp;r=g" alt="miguel-julian">
+    </a>
+  </div>
+  <h2><a rel='author' href="/autor/miguel-julian">Miguel Julián</a></h2>
+      </div>
+<!-- .article-author-details -->
+</div>
+           </div>
+    <!-- .container -->
+  </div>
+  <!-- .content-fixed -->
+
+  <div class="content-dinamic">
+    <div class="container">
+          <script type="text/javascript">
+        $(function()
+        {
+          AML.postVoteView = new AML.Post.View.PostVoteView({postId:"59055", el:".social-sharing" });
+          AML.isEditorView = new AML.Post.View.IsEditorView({postId:"59055", model: WSL2.User });
+        });
+      </script>
+
+    <div class="aside">
+            <div id="ad-lateral" class="ad ad-primer-escaparate">
+  <a class="ad-contact" id="div-gpt-lat-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-lat' class="ad-box" style='width: 300px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-lat");
+    });
+    </script>
+    </div>
+</div>
+<!-- .ad-box - escaparate vertical -->
+
+           <!-- .ad-box - escaparate vertical -->
+            
+                  
+<div class="aside-box aside-subscribe">
+  <h3 class="aside-header">Síguenos</h3>
+  
+          
+  <form id="feedForm" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" >
+    <label for="subscribe-email">Newsletter:</label>  
+      <input type="text" name="email" type="text" id="feedburnermail" placeholder="Correo electrónico"/>
+      <input type="hidden" name="uri" value="genbeta"/>
+      <input type="hidden" name="loc" value="es_ES">
+      <button class="button" type="submit">Suscríbete <span class="arrow">&raquo;</span></button>
+  </form>
+  <ul class="subs-channels">
+    <li class="channel-rss" id="rss"> <a href="/index.xml" rel="nofollow" title="Suscríbete por RSS a las novedades en Genbeta"><span></span>RSS</a></li>
+    <li class="channel-twitter"><a href="http://twitter.com/genbeta" title="Sigue las novedades de Genbeta en Twitter"><span></span>Twitter</a></li>
+    <li class="channel-fb"><a href="http://www.facebook.com/pages/Genbeta/54999640934" title="Conéctate a la página de Genbeta en Facebook"><span></span>Facebook</a></li>
+    <li class="channel-gplus"><a href="https://plus.google.com/109731528328750280665/posts" title="Sigue a Genbeta en Google Plus"><span></span>Google Plus</a></li>
+    <li class="channel-feedly"><a style="margin-right: 0;" title="Suscríbete a Genbeta con Feedly" href='http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fwww.genbeta.com%2Findex.xml'  target='blank'><img id='feedlyFollow' src='http://img.weblogssl.com/g/xataka4/common/m-icon-feedly.png' alt='follow us in feedly' width='32' height='32'></a></li>
+  </ul>
+  <ul class="devices-channels">
+    <li><a title="Versión para móviles" href="http://m.genbeta.com" class="button button-secondary"><img src="http://img.weblogssl.com/g/xataka4/common/mobile.png">Versión móvil</a></li>
+        <li>
+        <a id="tabletViceVersaLink" href="http://t.genbeta.com" class="button button-secondary" title="Versión tablet"><img src="http://img.weblogssl.com/g/xataka4/common/tablet.png"> Versión tablet</a>
+    </li>
+      </ul>
+
+    <script>
+  $(function() {
+      $("#feedForm").submit(function(e) {
+          e.preventDefault();
+          email = $("#feedburnermail").val();
+          emailPattern = /^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$/i
+          if (emailPattern.test(email)) {
+              window.open('http://mailer.weblogssl.com/subscribe_check/' + email +'/genbeta/Genbeta','','width=500,height=500');
+          } else {
+              alert("El correo electrónico introducido no es correcto");
+          }
+      });
+  });
+  </script>
+  
+</div>
+            <!-- .article-promo -->
+    </div>
+
+    <!-- .aside -->
+
+                    
+    <div class="section section-article-single">
+            <div class="article">
+        <div class="article-summary">
+          <p><img id="image59056" src="http://img.genbeta.com/2010/12/ignoflash2.jpg" class="centro_sinmarco" alt="Ignoflash: Vídeos de youtube a pantalla completa en el monitor secundario" /></p>
+
+                              <div class="article-metadata">
+            <div class="article-comments" id="postCommentCount">
+              <a href="#comments" title="Ir a comentarios">
+                Comentarios 20
+              </a>
+            </div>
+            <div class="article-links">
+              <div class="social-sharing">
+                <div class="social-sharing-widgets">
+                                    <div class="wsl-favorite">
+                    <button class="button button-small">Me gusta</button>
+                    <span class="wsl-count">6</span>
+                  </div>
+                                    <!-- twitter -->
+                  <a class="twitter-share-button" href="http://twitter.com/share" data-count="horizontal" data-url="http://www.genbeta.com/p/59055" data-counturl="http://www.genbeta.com/multimedia/ignoflash-youtube-a-pantalla-completa-con-doble-monitor" data-text="IgnoFlash, Youtube a pantalla completa con doble monitor" data-via="genbeta" data-lang="es">Tweet</a>
+                  <!-- g+ -->
+                  <div class="g-plusone" data-size="medium" data-href="http://www.genbeta.com/multimedia/ignoflash-youtube-a-pantalla-completa-con-doble-monitor" data-callback="gplusClickHandler" ></div>
+                  <!-- facebook like -->
+                  <div href="http://www.genbeta.com/multimedia/ignoflash-youtube-a-pantalla-completa-con-doble-monitor" class="fb-like" data-send="false" data-layout="button_count" data-show-faces="false"></div>
+                </div>
+              </div>
+              <!-- .social-sharing -->
+            </div>
+            <!-- .article-links -->
+          </div>
+          <!-- .article-metadata -->
+
+
+          	<p></p>
+
+	<p>Uno de los grandes usos para los que tenemos <strong>varios monitores</strong> es tener una <strong>película o vídeo de Youtube en el monitor secundario</strong>. Lo sé, en ningún caso eso va a aumentar nuestra productividad delante del ordenador, pero la verdad es que las tareas repetitivas resultan más cómodas.</p>
+
+	<p>Problema: Le das a un <strong>vídeo de Youtube, lo pones en pantalla completa</strong> y cuando haces clic en tu monitor principal&#8230;.¡pluf!... <strong>el vídeo deja de estar a pantalla completa</strong> cuando el navegador pierde el foco. Pues la solución en Windows es fácil, aplicar un parche a las librerías flash, y esto se hace con IgnoFlash.</p>
+
+	<p>El procedimiento es sencillo, te descargas el parche, lo descomprimes y ejecutas. En <em>source file</em> seleccionas las librerías Flash y le das a <em>Apply</em>. Y ya está. <strong>Funciona en Firefox e Internet Explorer</strong>, incluso a algunos usuarios (a mí también) les ha<strong> funcionado sin problemas en Chrome</strong>.</p>
+
+	<p>Vía | <a href="http://www.addictivetips.com/internet-tips/keep-flash-videos-in-full-screen-on-dual-monitor-when-focus-is-lost/">AdictiveTips</a><br />
+
+Descarga | <a href="http://deve.loping.net/projects/ignoflash/">IgnoFlash</a></p>                  </div>
+
+                        
+        <div class="ad links-ad-inpost">
+    <div id='div-gpt-inp' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-inp");
+    });
+    </script>
+    </div>
+</div>
+
+
+        
+        <div class="article-taxonomy">
+                      <div class="nav article-tags article-categories">
+  <h2>Categorías</h2>
+    <ul>
+                      
+      <li><a href="/categoria/multimedia">Multimedia</a></li>
+                      
+      <li><a href="/categoria/truco">Truco</a></li>
+        </ul>
+</div>
+            <div class="nav article-tags">
+  <h2>Tags</h2>
+  <ul>
+                                             
+      <li><a href="/tag/internet-explorer">Internet Explorer</a></li>
+                                             
+      <li><a href="/tag/flash">Flash</a></li>
+                                             
+      <li><a href="/tag/chrome">chrome</a></li>
+                                             
+      <li><a href="/tag/doble-monitor">Doble monitor</a></li>
+          
+  </ul>
+</div>
+                  </div>
+        <!-- .article-metadata -->
+      </div>
+      <!-- .article -->
+    </div>
+    <!-- .section-articles -->
+            <div id="ad-center" class="ad ad-escaparate-medio">
+  <a class="ad-contact" id="div-gpt-cen-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-cen' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+
+        
+        
+    <div class="section section-related">
+               <div id="outBrainVerticalWidget" class="post-related-posts ">
+  <h3>Artículos recomendados</h3>
+  <div class="post-related-content">
+   
+    <div class="OUTBRAIN" data-src="http://www.genbeta.com/multimedia/ignoflash-youtube-a-pantalla-completa-con-doble-monitor" data-widget-id="AR_2" data-ob-template="genbeta" >
+    </div>
+    <script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js">
+    </script>
+  </div>
+  <!-- .post-related-content -->
+  <p class="post-related-more">
+    <a href="/categoria/multimedia" title="Ver más artículos relacionados">
+    Ver más artículos <span class="arrow">»</span>    
+    </a>
+    </p>
+</div>     
+      <div class="post-related-products">
+   <h3>Productos</h3>
+   <div id="post-related-products" class="post-related-content">
+          <ul class="product-list">
+            <li>
+         <a href="/productos/reproductores-video/youtube">
+           <img src="http://img.genbeta.com/thumbnails/73143.jpg" alt="YouTube"><span>YouTube</span>
+         </a>
+       </li>
+            <li>
+         <a href="/productos/navegadores/internet-explorer">
+           <img src="http://img.genbeta.com/thumbnails/57005.jpg" alt="Internet Explorer"><span>Internet Explorer</span>
+         </a>
+       </li>
+            <li>
+         <a href="/productos/navegadores/firefox">
+           <img src="http://img.genbeta.com/thumbnails/72904.jpg" alt="Firefox"><span>Firefox</span>
+         </a>
+       </li>
+          </ul>
+        </div>
+  <p class="post-related-more">
+    <a href="/productos//" title="Ver más productos relacionados">
+      Ver más productos <span class="arrow">»</span>
+    </a>
+  </p>
+ </div>
+<!-- .post-related-products -->
+     <div class="post-related-qa">
+    <h3>Respuestas</h3>
+        <div class="post-related-content">
+            <ul>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>2</strong>
+                    </div>
+                    <a href="/respuestas/programa-o-extension-para-ver-videos-flotantes-de-youtube-en-windows">¿Programa o extensión para ver videos flotantes de YouTube en windows?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2013-12-30T02:19:55Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>4</strong>
+                    </div>
+                    <a href="/respuestas/hay-forma-de-poner-los-marcadores-en-el-lateral-en-chrome">¿Hay forma de poner los marcadores en el lateral en Chrome?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2013-05-31T21:02:27Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>2</strong>
+                    </div>
+                    <a href="/respuestas/que-paso-con-chrome">Que paso con Chrome?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2013-05-22T05:55:59Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>1</strong>
+                    </div>
+                    <a href="/respuestas/cuando-hago-el-test-de-html5com-en-ie10-me-detecta-chrome-en-vez-de-ie">Cuándo hago el test de html5.com en IE10 me detecta Chrome en vez de IE</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2013-05-16T17:26:06Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>4</strong>
+                    </div>
+                    <a href="/respuestas/genbeta-imposible-de-abrir-con-adobe-flash-11">Genbeta imposible de abrir con Adobe Flash 11</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2013-03-30T03:22:54Z"></abbr>
+                    </span>            
+                </li>
+                        </ul>
+        </div>
+        <!-- .post-related-content -->
+        <p class="post-related-more">
+            <a href="/respuestas" title="Ver más respuestas relacionados">
+                Ver más respuestas
+                <span class="arrow">»</span>
+            </a>
+        </p>
+</div>
+
+<script type="text/javascript">
+   $(function(){
+      $("abbr.timeago").timeago();
+   });
+</script>
+     </div>
+
+
+  <!-- Comments Section -->
+        <a id="to-comments"></a>
+  <div id="comments" class="section section-comments">
+            <div class="standalone-message">
+            <div class="message aviso"><h3>Los comentarios se han cerrado</h3></div>
+        </div>
+        <!-- #comment-write -->
+            <div id="ad-center2" class="ad ad-segundo-escaparate">
+  <a class="ad-contact" id="div-gpt-cen2-contact" style='display:none'
+  href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-cen2' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen2");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+    <div id="comments-header" class="header-section">
+      <div class="comment-order">
+    	<h3>Ordenar por:</h3>
+      </div>
+      <!-- #comment-order -->
+          	<h2>
+              20 comentarios
+            </h2>
+    </div>
+    <div id="top-section-settings"></div>
+    <ul class="comment-list"></ul>
+        <div class="nav"></div>
+    <div id="bottom-section-settings"></div>
+  </div>
+    <script type="text/javascript">
+      $(function()
+      {
+        var commentList = new AML.Comments.Model.CommentList({},{postId:59055});
+        commentList.resetParsed({"comments":[{"id":"321187","post_id":"59055","date":1291694002,"content_filtered":"<p>Me registre unicamente para decir que en Linux hace mucho tiempo esto lo tenemos activado por defecto para los que nos gusta dos monitores...<\/p>\n\n<p>\nIgualmente ahora q me registre dejare siempre comentarios<\/p>","content":"<p>Me registre unicamente para decir que en Linux hace mucho tiempo esto lo tenemos activado por defecto para los que nos gusta dos monitores...<\/p>\n\n<p>\nIgualmente ahora q me registre dejare siempre comentarios<\/p>","karma":"35.00","parent":"0","comment_edited_date":"","vote_count":"4","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"lucascordobes","user_id":"70097","author":"","webpage":"http:\/\/www.linuxarg.com.ar","user_name":"lucascordobes","karma_level":"27.00","iseditor":"0","global_id":"331853","facebook_uid":null,"index":10,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/331853_1.png"},{"id":"321172","post_id":"59055","date":1291678110,"content_filtered":"<p>Es curioso...<\/p>\n\n<p>5 a\u00f1os usando dual-head (dos CRT de 17), sufriendo del problema que se describe en la entrada, y justo ahora que me compro un monitor grande (Led, FullHD y toda la vaina), van y sacan un parche para subsanarlo :D<\/p>\n\n<p>De todos modos me consuelan dos cosas. \nPrimero, que existen ciertos trucos para que igualmente se pueda ver youtube a pantalla completa sin usar parches (siempre en GNU\/Linux). \nSegundo, que de todos modos este parche no me servir\u00eda (no exista para la plataforma que utilizo).<\/p>\n\n<p>A ver si los de Adobe se ponen las pilas y van corrigiendo esa chapuza de reproductor...<\/p>\n\n<p>PD: A pesar de la humorada, tener dos monitores si aumenta bastante la productividad, partiendo de la mayor facilidad para trabajar sin estar maximizando\/minimizando cosas. Si alg\u00fan d\u00eda tengo la pasta para comprar otra pantalla como la que tengo ahora, volver\u00e9 al dual-head (aunque los que saben dicen que el punto dulce es el triple-head).<\/p>","content":"Es curioso...\n\n5 a\u00f1os usando dual-head (dos CRT de 17), sufriendo del problema que se describe en la entrada, y justo ahora que me compro un monitor grande (Led, FullHD y toda la vaina), van y sacan un parche para subsanarlo :D\n\nDe todos modos me consuelan dos cosas. \nPrimero, que existen ciertos trucos para que igualmente se pueda ver youtube a pantalla completa sin usar parches (siempre en GNU\/Linux). \nSegundo, que de todos modos este parche no me servir\u00eda (no exista para la plataforma que utilizo).\n\nA ver si los de Adobe se ponen las pilas y van corrigiendo esa chapuza de reproductor...\n\nPD: A pesar de la humorada, tener dos monitores si aumenta bastante la productividad, partiendo de la mayor facilidad para trabajar sin estar maximizando\/minimizando cosas. Si alg\u00fan d\u00eda tengo la pasta para comprar otra pantalla como la que tengo ahora, volver\u00e9 al dual-head (aunque los que saben dicen que el punto dulce es el triple-head).","karma":"10.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"gsardou","user_id":"5374","author":"gsardou","webpage":null,"user_name":null,"karma_level":"40.00","iseditor":"0","global_id":"41549","facebook_uid":null,"index":5,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/41549_1.png"},{"id":"321190","post_id":"59055","date":1291696408,"content_filtered":"<p>\u00bfAlg\u00fan software para PC (Win. O Linux, Que funcione) que te permita jugar\/ver pel\u00edculas con 2 Monitores simult\u00e1neamente? <\/p>\n\n<p>Me refiero a lo siguiente. Abres el (Reproductor), lo pones en pantalla completa y el video se reproduce de forma dividida entre las pantallas. Lo mismo para los juegos. <\/p>\n\n<p>Espero alguien sepa de algo as\u00ed... seria de gran ayuda!<\/p>","content":"\u00bfAlg\u00fan software para PC (Win. O Linux, Que funcione) que te permita jugar\/ver pel\u00edculas con 2 Monitores simult\u00e1neamente? \n\nMe refiero a lo siguiente. Abres el (Reproductor), lo pones en pantalla completa y el video se reproduce de forma dividida entre las pantallas. Lo mismo para los juegos. \n\nEspero alguien sepa de algo as\u00ed... seria de gran ayuda!","karma":"10.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"c_sar007","user_id":"19251","author":"","webpage":null,"user_name":"c_sar007","karma_level":"34.00","iseditor":"0","global_id":"138634","facebook_uid":null,"index":11,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/138634_1.png"},{"id":"321239","post_id":"59055","date":1291758275,"content_filtered":"<p>En Linux lo puedes hacer, yo lo tengo configurado de esa manera y as\u00ed puedo mover ventanas entre monitores, con <code>xrandr<\/code> (primitive command line interface to RandR extension).<\/p>","content":"<p>En Linux lo puedes hacer, yo lo tengo configurado de esa manera y as\u00ed puedo mover ventanas entre monitores, con <code>xrandr<\/code> (primitive command line interface to RandR extension).<\/p>","karma":"20.00","parent":"321190","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Sanva","user_id":"8362","author":"Sanva","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"69310","facebook_uid":null,"index":13,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/6ba1f31e3e79fa43285ded82252b4e5f"},{"id":"322817","post_id":"59055","date":1292634240,"content_filtered":"<p>Una pregunta muy noob... \u00bfQu\u00e9 librer\u00edas flash? No se a qu\u00e9 te refieres con eso... a ver se que las librer\u00edas son .dll  pero... de qu\u00e9 directorio?<\/p>","content":"Una pregunta muy noob... \u00bfQu\u00e9 librer\u00edas flash? No se a qu\u00e9 te refieres con eso... a ver se que las librer\u00edas son .dll  pero... de qu\u00e9 directorio?","karma":"10.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"El Negro Vikingo","user_id":"1801","author":"El Negro Vikingo","webpage":"http:\/\/www.flickr.com\/runestomymemory\/","user_name":"elnegrovikingo","karma_level":"37.00","iseditor":"0","global_id":"118075","facebook_uid":"1474698305","index":15,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/118075_3.png"},{"id":"322818","post_id":"59055","date":1292634550,"content_filtered":"<p>Dejadlo, no he dicho nada xD<\/p>","content":"Dejadlo, no he dicho nada xD","karma":"10.00","parent":"322817","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"El Negro Vikingo","user_id":"1801","author":"El Negro Vikingo","webpage":"http:\/\/www.flickr.com\/runestomymemory\/","user_name":"elnegrovikingo","karma_level":"37.00","iseditor":"0","global_id":"118075","facebook_uid":"1474698305","index":16,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/118075_3.png"},{"id":"323106","post_id":"59055","date":1292951426,"content_filtered":"<p>Pues yo sigo teniendo esta pregunta... :(<\/p>","content":"Pues yo sigo teniendo esta pregunta... :(","karma":"5.00","parent":"322818","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"71503","user_id":"71503","author":"","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"324680","facebook_uid":"569210057","index":17,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/569210057\/picture"},{"id":"321158","post_id":"59055","date":1291674453,"content_filtered":"<p>Hey, que tambi\u00e9n funciona perfecto en Opera.<\/p>","content":"Hey, que tambi\u00e9n funciona perfecto en Opera.","karma":"8.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"zukdeen","user_id":"13731","author":"","webpage":"http:\/\/pokelegacy.cz.cc","user_name":"zukdeen","karma_level":"31.00","iseditor":"0","global_id":"113488","facebook_uid":null,"index":1,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/113488_1.png"},{"id":"321167","post_id":"59055","date":1291677302,"content_filtered":"<p>\u00bfMonitor \"sencundario\"? Mirad a ver si pod\u00e9is corregir esa errata.<\/p>","content":"\u00bfMonitor \"sencundario\"? Mirad a ver si pod\u00e9is corregir esa errata.","karma":"8.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"K1ll1ng M4ch1n3","user_id":"39074","author":"K1ll1ng M4ch1n3","webpage":"","user_name":"k1ll1ngm4ch1n3","karma_level":"27.00","iseditor":"0","global_id":"199411","facebook_uid":null,"index":3,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/600979c88144bd43d96085df90330891"},{"id":"321180","post_id":"59055","date":1291680629,"content_filtered":"<p>Gracias.<\/p>","content":"Gracias.","karma":"8.00","parent":"321167","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Miguel Juli\u00e1n","user_id":"64242","author":"Miguel Juli\u00e1n","webpage":null,"user_name":null,"karma_level":"27.00","iseditor":"0","global_id":"300660","facebook_uid":null,"index":9,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/300660_1.png"},{"id":"321165","post_id":"59055","date":1291676749,"content_filtered":"<p>Yo llevo unos meses utilizando IgnoFlash y salvo que con la \u00faltima actualizaci\u00f3n de flash no va, por lo dem\u00e1s tira bastante bien.<\/p>\n\n<p>Alternativa sin extras: abrir el video de YouTube en una ventana nueva (con el bot\u00f3n Pop Out del reproductor, o desacoplar o algo as\u00ed), luego esa nueva pesta\u00f1a\/ventana (depende del navegador) la maximizas o pones el navegador a pantalla completa y listo. Para mayor comodidad puedes abrir varias instancias del navegador o lo que sea. Esto con YouTube, con Vimeo u otros reproductores\/aplicaciones flash ya no me mojo.<\/p>\n\n<p>Un saludo.<\/p>","content":"<p>Yo llevo unos meses utilizando IgnoFlash y salvo que con la \u00faltima actualizaci\u00f3n de flash no va, por lo dem\u00e1s tira bastante bien.<\/p>\r\n\r\n<p>Alternativa sin extras: abrir el video de YouTube en una ventana nueva (con el bot\u00f3n Pop Out del reproductor, o desacoplar o algo as\u00ed), luego esa nueva pesta\u00f1a\/ventana (depende del navegador) la maximizas o pones el navegador a pantalla completa y listo. Para mayor comodidad puedes abrir varias instancias del navegador o lo que sea. Esto con YouTube, con Vimeo u otros reproductores\/aplicaciones flash ya no me mojo.<\/p>\r\n\r\n<p>Un saludo.<\/p>","karma":"5.00","parent":"0","comment_edited_date":1291676773,"vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"0","comment_author":"ksisha","user_id":"48006","author":"","webpage":"ksishame.at.yahoo.com","user_name":"ksisha","karma_level":"27.00","iseditor":"0","global_id":"186372","facebook_uid":null,"index":2,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/186372_3.png"},{"id":"321171","post_id":"59055","date":1291678106,"content_filtered":"<p>\u00a1\u00a1Muchas gracias!! , precisamente tengo ese problema y pens\u00e9 que no ten\u00eda soluci\u00f3n :D<\/p>","content":"\u00a1\u00a1Muchas gracias!! , precisamente tengo ese problema y pens\u00e9 que no ten\u00eda soluci\u00f3n :D","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"70062","user_id":"70062","author":"","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"331770","facebook_uid":"698728795","index":4,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/698728795\/picture"},{"id":"321174","post_id":"59055","date":1291678292,"content_filtered":"<p>Pregunta: Y si se quisiera desinstalar, por el motivo que fuera... \u00bfes f\u00e1cil de quitar?<\/p>\n\n<p>Gracias por la ayuda. Me gusta la idea de este \"programa\".<\/p>","content":"Pregunta: Y si se quisiera desinstalar, por el motivo que fuera... \u00bfes f\u00e1cil de quitar?\n\nGracias por la ayuda. Me gusta la idea de este \"programa\".","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"69105","user_id":"69105","author":"","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"327729","facebook_uid":"786373468","index":6,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/786373468\/picture"},{"id":"321177","post_id":"59055","date":1291678749,"content_filtered":"<p>S\u00ed, tiene un bot\u00f3n \"restore\" que devuelve la librer\u00eda a su estado inicial.<\/p>","content":"<p>S\u00ed, tiene un bot\u00f3n \"restore\" que devuelve la librer\u00eda a su estado inicial.<\/p>","karma":"18.00","parent":"321174","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Miguel Juli\u00e1n","user_id":"64242","author":"Miguel Juli\u00e1n","webpage":null,"user_name":null,"karma_level":"27.00","iseditor":"0","global_id":"300660","facebook_uid":null,"index":7,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/300660_1.png"},{"id":"321178","post_id":"59055","date":1291678826,"content_filtered":"<p>Muchas gracias. Ahora mismo lo pruebo<\/p>","content":"Muchas gracias. Ahora mismo lo pruebo","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"69105","user_id":"69105","author":"","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"327729","facebook_uid":"786373468","index":8,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/786373468\/picture"},{"id":"321191","post_id":"59055","date":1291698330,"content_filtered":"<p>Ya han arreglado este problema en la \u00faltima beta del Flash Player 10.2.151.49. Sin embargo es buena opci\u00f3n para hacerlo en la versi\u00f3n estable que s\u00ed no tiene esa funcionalidad.<\/p>","content":"Ya han arreglado este problema en la \u00faltima beta del Flash Player 10.2.151.49. Sin embargo es buena opci\u00f3n para hacerlo en la versi\u00f3n estable que s\u00ed no tiene esa funcionalidad.","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"68747","user_id":"68747","author":"","webpage":null,"user_name":null,"karma_level":"30.00","iseditor":"0","global_id":"326066","facebook_uid":"616778021","index":12,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/616778021\/picture"},{"id":"329161","post_id":"59055","date":1297221337,"content_filtered":"<p>He bajado la ultima versi\u00f3n de Flash (10.2.152) y no veo cambio alguno. \u00bfen qu\u00e9 parte tiene esa funci\u00f3n?<\/p>\n\n<p>Saludos<\/p>","content":"He bajado la ultima versi\u00f3n de Flash (10.2.152) y no veo cambio alguno. \u00bfen qu\u00e9 parte tiene esa funci\u00f3n?\n\nSaludos","karma":"5.00","parent":"321191","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"76676","user_id":"76676","author":"","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"302703","facebook_uid":"602566805","index":18,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/602566805\/picture"},{"id":"329165","post_id":"59055","date":1297222696,"content_filtered":"<p>Olvida la pregunta, con Chrome ya me ha funcionado :) gracias!<\/p>","content":"Olvida la pregunta, con Chrome ya me ha funcionado :) gracias!","karma":"5.00","parent":"321191","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"76676","user_id":"76676","author":"","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"302703","facebook_uid":"602566805","index":19,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/602566805\/picture"},{"id":"322148","post_id":"59055","date":1292288532,"content_filtered":"<p>Existe algo as\u00ed para Mac?<\/p>","content":"Existe algo as\u00ed para Mac?","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"48693","user_id":"48693","author":"","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"235903","facebook_uid":"657956130","index":14,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/657956130\/picture"},{"id":"329166","post_id":"59055","date":1297223063,"content_filtered":"<p>Como dice el buen Juan Santiago, baja la ultima version de flash para mac, y usa el chrome! con eso ya funciona genial!<\/p>","content":"Como dice el buen Juan Santiago, baja la ultima version de flash para mac, y usa el chrome! con eso ya funciona genial!","karma":"5.00","parent":"322148","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"76676","user_id":"76676","author":"","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"302703","facebook_uid":"602566805","index":20,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/602566805\/picture"}],"meta":{"more_records":"false","start":0,"total":20,"order":"valued","totalCount":20},"commentStatus":"closed"});
+
+	window.App = new AML.Comments.Application(59055, commentList);
+	Backbone.history.start();
+      });
+    </script>
+
+  <!-- Comments and Other Stuff -->
+
+  <div id="ad-bottom" class="ad ad-boton">
+  <a class="ad-contact" id="div-gpt-bot-contact" style="display:none" href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-bot' class="ad-box" style='width: 728px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-bot");
+    });
+    </script>
+    </div>
+</div>
+
+  <!-- .ad - boton -->
+  <div class="sidebar-seo-links">
+    <h4>Más en Genbeta</h4>
+    <ul>
+              <li>
+          <a  href="/navegadores/mozilla-mostrara-anuncios-en-su-pagina-de-nueva-pestana" class="thumb80">
+            <img title="Mozilla mostrará anuncios en su página de nueva pestaña " src="http://img.genbeta.com/tb/80_80/110874.jpg" alt="Mozilla mostrará anuncios en su página de nueva pestaña ">
+          </a>
+          <a  href="/navegadores/mozilla-mostrara-anuncios-en-su-pagina-de-nueva-pestana">
+            Mozilla mostrará anuncios en su página de nueva pestaña 
+          </a>
+        </li>
+              <li>
+          <a  href="/multimedia/youtube-ha-pagado-hasta-la-fecha-mil-millones-de-dolares-a-la-industria-musical" class="thumb80">
+            <img title="YouTube ha pagado hasta la fecha mil millones de dólares a la industria musical " src="http://img.genbeta.com/tb/80_80/110669.jpg" alt="YouTube ha pagado hasta la fecha mil millones de dólares a la industria musical ">
+          </a>
+          <a  href="/multimedia/youtube-ha-pagado-hasta-la-fecha-mil-millones-de-dolares-a-la-industria-musical">
+            YouTube ha pagado hasta la fecha mil millones de dólares a la industria musical 
+          </a>
+        </li>
+              <li>
+          <a  href="/multimedia/telecinco-pierde-una-demanda-que-libra-a-youtube-de-supervisar-activamente-los-videos-de-sus-usuarios" class="thumb80">
+            <img title="Telecinco pierde una demanda que libra a YouTube de supervisar activamente los vídeos de sus usuarios " src="http://img.genbeta.com/tb/80_80/110659.jpg" alt="Telecinco pierde una demanda que libra a YouTube de supervisar activamente los vídeos de sus usuarios ">
+          </a>
+          <a  href="/multimedia/telecinco-pierde-una-demanda-que-libra-a-youtube-de-supervisar-activamente-los-videos-de-sus-usuarios">
+            Telecinco pierde una demanda que libra a YouTube de supervisar activamente los vídeos de sus usuarios 
+          </a>
+        </li>
+              <li>
+          <a  href="/web/google-ahora-nos-permite-jugar-a-lego-sin-cerrar-el-navegador" class="thumb80">
+            <img title="Google ahora nos ofrece jugar a LEGO sin cerrar el navegador" src="http://img.genbeta.com/tb/80_80/110557.jpg" alt="Google ahora nos ofrece jugar a LEGO sin cerrar el navegador">
+          </a>
+          <a  href="/web/google-ahora-nos-permite-jugar-a-lego-sin-cerrar-el-navegador">
+            Google ahora nos ofrece jugar a LEGO sin cerrar el navegador
+          </a>
+        </li>
+              <li>
+          <a  href="/navegadores/chrome-elimina-las-extensiones-que-alguien-habia-comprado-para-distribuir-malware" class="thumb80">
+            <img title="Chrome elimina las extensiones que alguien había comprado para distribuir malware " src="http://img.genbeta.com/tb/80_80/110369.jpg" alt="Chrome elimina las extensiones que alguien había comprado para distribuir malware ">
+          </a>
+          <a  href="/navegadores/chrome-elimina-las-extensiones-que-alguien-habia-comprado-para-distribuir-malware">
+            Chrome elimina las extensiones que alguien había comprado para distribuir malware 
+          </a>
+        </li>
+          </ul>
+</div>
+<!-- related-posts SEO links-->
+       
+    </div>
+  <!-- .container -->
+  </div>
+  <!-- .content-dinamic -->
+
+  <div class= "nav nav-blog">
+  <div class= "container">
+    <h2><strong>&#43;</strong> en Genbeta</h2>
+    <ul>
+      <li class= "blog-section section-lomejor"><a href="/lomejor">Lo mejor</a></li>
+      <li class= "blog-section section-temas"><a href="/archivos">Temas</a></li>
+            <li class= "blog-section section-productos"><a href="/productos">Productos</a></li>
+                  <li class= "blog-section section-respuestas"><a href="/respuestas">Respuestas</a></li>
+            
+            <li class="blog-section section-club"><a href="/club">Club</a></li>
+            <li class= "blog-section section-comunidad"><a href="/comunidad">Comunidad</a></li>
+      <li class="blog-section section-staff"><a href="/quienes-somos">Staff</a></li>
+    </ul>
+  </div>
+</div>
+  
+<div class="footer">
+        <div class="footer-media">
+                <div class="links-category">
+            <h2>Tecnología</h2>
+            <ul>
+                              <li class="tec-xataka"><a href="http://www.xataka.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka<span></span></a></li>
+                              <li class="tec-xatakamovil"><a href="http://www.xatakamovil.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Móvil<span></span></a></li>
+                              <li class="tec-xatakafoto"><a href="http://www.xatakafoto.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Foto<span></span></a></li>
+                              <li class="tec-xatakandroid"><a href="http://www.xatakandroid.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Android<span></span></a></li>
+                              <li class="tec-xatakaon"><a href="http://www.xatakaon.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka On<span></span></a></li>
+                              <li class="tec-xatakahome"><a href="http://www.xatakahome.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Smart Home<span></span></a></li>
+                              <li class="tec-xatakawindows"><a href="http://xatakawindows.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Windows<span></span></a></li>
+                              <li class="tec-xatakaciencia"><a href="http://www.xatakaciencia.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Ciencia<span></span></a></li>
+                              <li class="tec-applesfera"><a href="http://www.applesfera.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Applesfera<span></span></a></li>
+                              <li class="tec-vidaextra"><a href="http://www.vidaextra.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vida Extra<span></span></a></li>
+                              <li class="tec-genbeta"><a href="http://www.genbeta.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Genbeta<span></span></a></li>
+                              <li class="tec-genbetadev"><a href="http://www.genbetadev.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Genbeta Dev<span></span></a></li>
+                          </ul>
+        </div>
+            </div>
+    
+    <div class="footer-links">
+                        <div class="links-category">
+            <h2>Estilos de vida</h2>
+            <ul>
+                              <li><a href="http://www.trendencias.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias</a></li>
+                              <li><a href="http://www.trendenciasbelleza.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Belleza</a></li>
+                              <li><a href="http://www.trendenciashombre.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Hombre</a></li>
+                              <li><a href="http://www.trendenciasshopping.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Shopping</a></li>
+                              <li><a href="http://www.trendenciaslifestyle.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Lifestyle</a></li>
+                              <li><a href="http://www.directoalpaladar.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Directo al Paladar</a></li>
+                              <li><a href="http://www.bebesymas.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bebés y Más</a></li>
+                              <li><a href="http://www.pequesymas.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Peques y Más</a></li>
+                              <li><a href="http://www.vitonica.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vitónica</a></li>
+                              <li><a href="http://www.decoesfera.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Decoesfera</a></li>
+                              <li><a href="http://www.embelezzia.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Embelezzia</a></li>
+                              <li><a href="http://www.ambienteg.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ambiente G</a></li>
+                              <li><a href="http://www.poprosa.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Poprosa</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Motor</h2>
+            <ul>
+                              <li><a href="http://www.motorpasion.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión</a></li>
+                              <li><a href="http://www.motorpasionf1.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión F1</a></li>
+                              <li><a href="http://www.motorpasionmoto.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Moto</a></li>
+                              <li><a href="http://www.motorpasionfuturo.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Futuro</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Ocio</h2>
+            <ul>
+                              <li><a href="http://www.blogdecine.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog de Cine</a></li>
+                              <li><a href="http://www.vayatele.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">¡Vaya Tele!</a></li>
+                              <li><a href="http://www.hipersonica.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Hipersónica</a></li>
+                              <li><a href="http://www.diariodelviajero.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Diario del Viajero</a></li>
+                              <li><a href="http://www.papelenblanco.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Papel en Blanco</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Economía</h2>
+            <ul>
+                              <li><a href="http://www.elblogsalmon.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">El Blog Salmón</a></li>
+                              <li><a href="http://www.pymesyautonomos.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Pymes y Autónomos</a></li>
+                              <li><a href="http://www.tecnologiapyme.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Tecnología Pyme</a></li>
+                              <li><a href="http://www.ahorrodiario.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ahorro Diario</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Latinoamérica</h2>
+            <ul>
+                              <li><a href="http://www.xataka.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Brasil</a></li>
+                              <li><a href="http://www.trendencias.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Brasil</a></li>
+                              <li><a href="http://www.motorpasion.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Brasil</a></li>
+                              <li><a href="http://www.xataka.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka México</a></li>
+                              <li><a href="http://www.motorpasion.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión México</a></li>
+                              <li><a href="http://www.directoalpaladar.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Directo Al Paladar México</a></li>
+                              <li><a href="http://www.xatakandroid.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Android México</a></li>
+                              <li><a href="http://www.vidaextra.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vida Extra México</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Participamos en</h2>
+            <ul>
+                              <li><a href="http://www.ebayers.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">eBayers</a></li>
+                              <li><a href="http://www.circulaseguro.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Circula Seguro</a></li>
+                              <li><a href="http://www.circulaseguro.pt/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Circula Seguro PT</a></li>
+                              <li><a href="http://www.actibva.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Actibva</a></li>
+                              <li><a href="http://www.anexom.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Anexo M</a></li>
+                              <li><a href="http://blog.cocacola.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Happing Magazine</a></li>
+                              <li><a href="http://blog.sage.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog Sage</a></li>
+                              <li><a href="http://www.optimismodigital.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Optimismo Digital</a></li>
+                              <li><a href="http://www.1001experiencias.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">1001 Experiencias</a></li>
+                              <li><a href="http://www.ennaranja.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">En Naranja</a></li>
+                              <li><a href="http://www.essieblog.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Essie Blog</a></li>
+                              <li><a href="http://blogginzenith.zenithmedia.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bloggin Zenith</a></li>
+                              <li><a href="http://www.urbanfire.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Urbanfire</a></li>
+                              <li><a href="http://www.tecnologiadetuatu.elcorteingles.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Tecnología de tú a tú</a></li>
+                              <li><a href="http://www.ciudadano00.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ciudadano 0,0</a></li>
+                              <li><a href="http://blogfanta.cocacola.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog Fanta</a></li>
+                              <li><a href="http://mimundo.philips.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Mi Mundo Philips</a></li>
+                              <li><a href="http://www.bbvacontuempresa.es?utm_source=genbeta&utm_medium=network&utm_campaign=footer">BBVA con tu empresa</a></li>
+                              <li><a href="http://www.perutravelblog.net/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Perú Travel Blog</a></li>
+                              <li><a href="http://bscene.bershka.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bershka Bscene</a></li>
+                              <li><a href="http://www.institutodelafelicidad.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Instituto de la Felicidad</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                    </div>
+</div>
+
+<div class="closure">
+    <div class="container">
+        <div class="weblogssl"><a href="http://www.weblogssl.com">Weblogs SL<span></span></a></div>
+        <ul class="nav">
+            <li><a href="/quienes-somos">¿Quienes somos?</a></li>
+            <li><a href="http://www.weblogssl.com/contenidos">Condiciones de uso</a></li>
+            <li><a href="http://www.weblogssl.com/cookies">Política de cookies</a></li>
+            <li><a href="http://www.weblogssl.com/aviso">Aviso legal</a></li>
+            <li><a title="Publicidad en Genbeta" href="http://www.socialmediasl.com/genbeta.php">Publicidad</a></li>
+            <li><a href="/ayuda-2012">Ayuda</a></li>
+            <li><a href="/contacto">Contacto</a></li>
+        </ul>
+    </div>
+</div>
+
+<div id="cookies-overlay"></div>
+
+  <script type="text/javascript">
+    $(function() {
+      new AML.Auth.View.CookiesOverlayView;
+    });
+  </script>
+
+</div>
+<div id="favicons-list">
+
+    <div class="userbar">
+        <a class="head-shortcut" href="#body" title="Volver arriba">&uarr;</a>
+        <div class="userbox" id="wsl_userbox">
+        </div>
+
+        <div class="favicons" style="width: auto; ">
+
+            <div id="scroll-menu">
+
+                <div class="disabledHotSpotLeft">«</div>
+                <div class="disabledHotSpotRight">»</div>
+                <div class="scrollingHotSpotLeft">«</div>
+                <div class="scrollingHotSpotRight">»</div>
+
+                <div class="scrollWrapper">
+                    <div class="scrollableArea">
+
+                        <ul class="favicroll">
+                            <li id="wsl"><a target="_top" href="http://www.weblogssl.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><em><strong>Blog corporativo</strong></em></a></li>
+
+                            <li><a target="_top" href="http://www.xataka.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b1"><strong>XTK</strong></span> <em><strong>Xataka - Gadgets y electrónica de consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vidaextra.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b2"><strong>VX</strong></span> <em><strong>VidaExtra - Videojuegos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.blogdecine.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b3"><strong>BDC</strong></span> <em><strong>Blog de cine - Cine  y críticas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.elblogsalmon.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b5"><strong>EBS</strong></span> <em><strong>El Blog Salmón - Economía y finanzas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.genbeta.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b6"><strong>GBT</strong></span> <em><strong>Genbeta - Software</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasion.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b7"><strong>MP</strong></span> <em><strong>MotorPasión - Coches y motor</strong></em></a></li>
+                            <li><a target="_top" href="http://www.directoalpaladar.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b8"><strong>DAP</strong></span> <em><strong>Directo al paladar - Gastronomía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.bebesymas.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b9"><strong>BYM</strong></span> <em><strong>Bebés y más - Todo sobre bebés</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vayatele.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b11"><strong>VYT</strong></span> <em><strong>¡Vaya Tele! - Series y televisión</strong></em></a></li>
+                            <li><a target="_top" href="http://www.diariodelviajero.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b12"><strong>DDV</strong></span> <em><strong>Diario del viajero - Viajes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakaciencia.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b13"><strong>XCI</strong></span> <em><strong>Xataka Ciencia - Ciencia</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendencias.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b14"><strong>TRE</strong></span> <em><strong>Trendencias - Moda y tendencias</strong></em></a></li>
+                            <li><a target="_top" href="http://www.hipersonica.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b15"><strong>HIP</strong></span> <em><strong>HiperSónica - Música</strong></em></a></li>
+                            <li><a target="_top" href="http://www.applesfera.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b16"><strong>APP</strong></span> <em><strong>Applesfera - Apple</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasshopping.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b17"><strong>COM</strong></span> <em><strong>Trendencias Shopping - Compras y consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakamovil.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b18"><strong>XTM</strong></span> <em><strong>Xataka Móvil - Móviles</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ambienteg.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b19"><strong>AMG</strong></span> <em><strong>Ambiente G - Gays y lesbianas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionmoto.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b20"><strong>MMO</strong></span> <em><strong>Motorpasión Moto - Motos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.papelenblanco.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b21"><strong>PEB</strong></span> <em><strong>Papel en blanco - Literatura</strong></em></a></li>
+                            <li><a target="_top" href="http://www.decoesfera.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b22"><strong>DEC</strong></span> <em><strong>Decoesfera - Decoración e interiorismo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionf1.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b23"><strong>MF1</strong></span> <em><strong>Motorpasión F1 - Carreras</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vitonica.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b24"><strong>VIT</strong></span> <em><strong>Vitónica - Vida sana</strong></em></a></li>
+                            <li><a target="_top" href="http://www.embelezzia.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b25"><strong>EMB</strong></span> <em><strong>Embelezzia - Lujo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.poprosa.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b26"><strong>POP</strong></span> <em><strong>Poprosa - Famosos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakafoto.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b27"><strong>XTF</strong></span> <em><strong>Xataka Foto - Fotografía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.pymesyautonomos.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b28"><strong>PYA</strong></span> <em><strong>Pymes y autónomos - Pymes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasbelleza.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b30"><strong>TRB</strong></span> <em><strong>Trendencias Belleza - Belleza y cosmética</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.tecnologiapyme.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b34"><strong>TPY</strong></span> <em><strong>Tecnología Pyme - Tecnología para empresas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ahorrodiario.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b35"><strong>AHD</strong></span> <em><strong>Ahorro Diario - Ahorro</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciashombre.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b36"><strong>TRH</strong></span> <em><strong>Trendencias Hombre - Moda y estilo masculino</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.pequesymas.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b37"><strong>PEQ</strong></span> <em><strong>Peques y más - Niños e infancia</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakaon.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b39"><strong>XTO</strong></span> <em><strong>Xataka On - Todo sobre conectividad, ADSL</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakandroid.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b40"><strong>XTA</strong></span> <em><strong>Xataka Android - Android, aplicaciones y dispositivos</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.genbetadev.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b41"><strong>GBD</strong></span> <em><strong>Genbeta Dev - Desarrollo de software</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.motorpasionfuturo.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b42"><strong>MPF</strong></span> <em><strong>Motorpasión Futuro - Innovación y Motor</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakahome.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b44"><strong>XSH</strong></span> <em><strong>Xataka Smart Home - Inteligencia doméstica digital</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakawindows.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b45"><strong>XTW</strong></span> <em><strong>Xataka Windows - Universo Microsoft</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciaslifestyle.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b46"><strong>TLS</strong></span> <em><strong>Trendencias Lifestyle</strong></em></a></li>
+                        </ul>
+
+                    </div>
+                </div>
+                <!-- .scrollWrapper-->
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<div id="wsl_dialog"></div>
+<script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', function() {
+  try {
+    if (window.external.msIsSiteMode()) {
+      window.external.msSiteModeClearJumpList();
+      window.external.msSiteModeCreateJumplist('Mensajes Recientes');
+            window.external.msSiteModeAddJumpListItem('Office\x20para\x20iPad,\x20m\u00E1s\x20pronto\x20que\x20tarde\x3A\x20para\x20la\x20primera\x20mitad\x20de\x202014', 'http://www.genbeta.com/ofimatica/office-para-ipad-mas-pronto-que-tarde-para-la-primera-mitad-de-2014', '');
+            window.external.msSiteModeAddJumpListItem('Bittorrent\x20Live,\x20el\x20streaming\x20P2P,\x20llegar\u00E1\x20pronto\x20a\x20los\x20m\u00F3viles\x20', 'http://www.genbeta.com/multimedia/bittorrent-live-el-streaming-p2p-llegara-pronto-a-los-moviles', '');
+            window.external.msSiteModeAddJumpListItem('La\x20hipocres\u00EDa\x20de\x20algunos\x20medios\x20tradicionales.\x20La\x20imagen\x20de\x20la\x20semana\x20', 'http://www.genbeta.com/actualidad/la-hipocresia-de-algunos-medios-tradicionales-la-imagen-de-la-semana', '');
+            window.external.msSiteModeAddJumpListItem('\x22Tasa\x20Google\x22\x3A\x20si\x20tienes\x20un\x20blog\x20tambi\u00E9n\x20te\x20afecta,\x20solo\x20que\x20otros\x20la\x20cobrar\u00E1n\x20por\x20ti\x20', 'http://www.genbeta.com/actualidad/tasa-google-si-tienes-un-blog-tambien-te-afecta-solo-que-otros-la-cobraran-por-ti', '');
+            window.external.msSiteModeAddJumpListItem('Kickstarter,\x20tras\x20sufrir\x20un\x20ataque,\x20recomienda\x20cambiar\x20contrase\u00F1as\x20', 'http://www.genbeta.com/web/kickstarter-tras-sufrir-un-ataque-recomienda-cambiar-contrasenas', '');
+            window.external.msSiteModeShowJumpList();
+    }
+  } catch (exp) {
+    // do nothing
+  }
+  });
+</script>
+
+
+<script type='text/javascript'>
+    (function() {
+      new ViceVersaLink("http://t.genbeta.com");
+    })();
+</script>
+
+<script type='text/javascript'>
+  window.onerror = function(message, file, line) {
+    var sFormattedMessage = '[' + file + ' (' + line + ')] ' + message;
+    _gaq.push(['_trackEvent', 'Errors', 'Browser', sFormattedMessage, null, true]);
+  }
+    
+</script>
+
+</body>
+</html>

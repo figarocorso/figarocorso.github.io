@@ -1,0 +1,946 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+                                                                                                                                                                                                                                                                                <title>Buscar en Google es de débiles</title>
+                  <meta name="description" content="Hace un tiempo, en una charla que estaba dando, propiciado por un ambiente relajado, agradable y distendido; unas palabras salieron de mi boca:..." />
+            <meta name="news_keywords" content="Google, busquedas, genbeta"/>
+       
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />    
+    <meta name='robots' content='noodp' />
+    <meta property="fb:admins" content="100000716994885"/>
+    <meta name="application-name" content="Genbeta"/>
+    <meta name="msapplication-tooltip" content="Software y web. Genbeta"/>
+    <meta name="msapplication-starturl" content="http://www.genbeta.com"/>
+    <meta name="msapplication-task" content="name=Lo mejor;action-uri=http://www.genbeta.com/lomejor;icon-uri=http://img.genbeta.com/lp2/v6/images/pin-bg-lomejor-icon.ico" />
+        <meta name="msapplication-task" content="name=Respuestas;action-uri=http://www.genbeta.com/respuestas;icon-uri=http://img.genbeta.com/lp2/v6/images/pin-bg-respuestas-icon.ico" />
+                <!--[if !IE]><!--> <link rel="shortcut icon" href="http://img.genbeta.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if lt IE 9]><!--> <link rel="shortcut icon" href="http://img.genbeta.com/lp2/v6/images/favicon.ico" type="image/ico" /> <!--<![endif]-->
+        <!--[if gte IE 9]>
+            <link rel="shortcut icon" type="image/x-icon" href="http://img.genbeta.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+            <link rel=icon type="image/ico" href="http://img.genbeta.com/lp2/v6/images/pin-bg-home-icon.ico"/>
+        <![endif]-->
+    
+    <link rel="apple-touch-icon" href="http://img.genbeta.com/lp2/mobile/images/apple-touch-icon.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="http://img.genbeta.com/lp2/m/images/apple-touch-icon-57-precomposed.png">
+
+        <link rel="stylesheet" type="text/css" href="http://img.genbeta.com/lp2/v6/main.css?v=24272">
+        <link rel="publisher" href="http://plus.google.com/106643481235450321345" />
+    <link rel="alternate" type="application/rss+xml" title="" href="/index.xml" />
+    <!--[if lt IE 7]>
+      <link rel="stylesheet" type="text/css" href="http://img.genbeta.com/lp2/v6/ie7.css">
+    <![endif]-->
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', "UA-78515-6"]);
+  _gaq.push(['_setCampaignCookieTimeout', 259200000]);
+  _gaq.push(['_setDomainName', ".genbeta.com"]);
+  _gaq.push(['_setSiteSpeedSampleRate', 5]);
+  _gaq.push(['t2._setAccount', "UA-78515-62"]);
+  _gaq.push(['t2._setCampaignCookieTimeout', 259200000]);
+  _gaq.push(['t2._setDomainName', ".genbeta.com"]);
+  (function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') +       '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  })();
+</script>
+
+ <link rel="canonical" href="http://www.genbeta.com/herramientas/buscar-en-google-es-de-debiles" />
+ <link rel="image_src" href="http://img.genbeta.com/resize/75/thumbnails/b/58594.jpg" />
+ <meta property="og:title" content="Buscar en Google es de débiles">
+ <meta property="og:description" content="Hace un tiempo, en una charla que estaba dando, propiciado por un ambiente relajado, agradable y distendido; unas palabras salieron de mi boca:...">
+ <meta property="og:image" content="http://img.genbeta.com/original/58594.jpg">
+    <script>
+    _gaq.push(['t2._setPageGroup', '1', 'post']);
+    _gaq.push(['t2._setPageGroup', '2', "miguel julián"]);
+    _gaq.push(['t2._setPageGroup', '3', "herramientas"]);
+    _gaq.push(['t2._setPageGroup', '4', "normal"]);
+    _gaq.push(['_setPageGroup', '1', 'post']);
+    _gaq.push(['_setPageGroup', '2', "miguel julián"]);
+    _gaq.push(['_setPageGroup', '3', "herramientas"]);
+    _gaq.push(['_setPageGroup', '4', "normal"]);
+       </script>
+   </head>
+       <body id="body" class="article-single">
+
+    <script type='text/javascript'>
+    var MAX_source = "";
+    var GPTcats = ["herramientas"];
+    var GPTtags = ["google", "busquedas", "genbeta"];
+      </script>
+      <script type='text/javascript'>
+googletag.pubads().setTargeting("origin", "direct").setTargeting("screen", screen.width.toString()).setTargeting("cat", GPTcats).setTargeting("tag", GPTtags);
+if (navigator.userAgent.match(/iPad/i) != null) {
+  googletag.pubads().setTargeting("ua", "ipad");
+} 
+ 
+googletag.defineSlot('/4712/GEB/interior_top', [1000, 40], 'div-gpt-top').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_lateral', [[160, 600], [200,600], [300,600], [300,250]], 'div-gpt-lat').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_central', [[300, 250], [400,400], [1000,250]], 'div-gpt-cen').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interior_central2', [[300, 250],[400,400],[690, 250]], 'div-gpt-cen2').addService(googletag.pubads());
+googletag.defineSlot('/1018282/GEB-BOT2-interior',[728, 90], 'div-gpt-bot').addService(googletag.pubads());
+googletag.defineSlot('/1018282/GEB-INP', [500, 80], 'div-gpt-inp').addService(googletag.pubads());
+googletag.defineSlot('/4712/GEB/interstitial', [1000, 525], 'div-gpt-int').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().enableSyncRendering();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+</script>
+
+       <script type="text/javascript">
+      WSL2 = {};
+      WSL2.config = {};
+      WSL2.config.fbapikey = "360028941603";
+      WSL2.config.cookieDomain = "";
+      WSL2.config.imagePath = 'http://img.genbeta.com/lp2/v6';
+      WSL2.config.siteName = "Genbeta";
+      window.___gcfg = {lang: 'es'};
+    </script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="http://code.jquery.com/jquery-migrate-1.1.0.js"></script>
+            <script src="http://img.weblogssl.com/LPbackend/prod/v2/js/frontend-758.js"></script>
+          <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _c1 = new WSL2.Cookie;
+      loginStatus = (_c1.hasSession()) ? "yes:" + _c1.loginType() : "no";
+      _gaq.push(['t2._setCustomVar', 4, '.genbeta.com', 'loginstatus:' + loginStatus, 2]);
+      _gaq.push(['_trackPageview']);
+      _gaq.push(['t2._trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); 
+    ga.type = 'text/javascript';
+    ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+  })();
+      var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "11306788" });
+         (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[1]; 
+          s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb": "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+    </script>
+
+    <div id="fb-root"></div>
+  <!-- fb needs this -->
+
+  <script src="//platform.twitter.com/widgets.js" id="tweetjs"></script>
+  <script src="//apis.google.com/js/plusone.js" id="gplus1js"></script>
+  <script src="//connect.facebook.net/es_ES/all.js#xfbml=1" id="fbjssdk"></script>
+  <div class="customize-me">
+  <div class="content-fixed">
+    <div class="container">
+                <!-- .header -->
+            <div class="header header-page">
+        <h1 class="site-logo"><a href="http://www.genbeta.com" title="Ir a la portada">Software y web. Genbeta<span></span></a></h1>
+        <form method="get" action="/busqueda" id="search" class="search" style="top:62px; width:310px; padding: 0;">
+    <p>
+        <input type="hidden" name="cx" value="partner-pub-9977500652563564:0292109475">
+        <input type="text" id="gsearch" name="q" accesskey="4" title="Buscar" placeholder="Busca en Genbeta con Google">
+        <input type="hidden" name="ie" value="UTF-8">
+        <input type="hidden" name="oe" value="UTF-8">
+        <input type="hidden" name="cof" value="FORID:10">
+        <button class="button">Buscar <span class="arrow">&raquo;</span></button>
+    </p>
+</form>
+<script type="text/javascript" src="http://www.google.es/coop/cse/brand?form=cse-search-box&amp;lang=es"></script>
+            <div class="nav nav-main">
+    <ul class="nav-primary">
+        <li class="home-link"><a href="/" title="Volver a portada">Portada</a></li>
+        <li class="respuestas-link"><a href="/respuestas">Respuestas</a></li>
+        <li class="temas-submenu">
+            <ul class="nav-secondary">
+                                   <li><a href="/categoria/actualidad" title="Ir a la categoría Actualidad">Actualidad</a></li>
+                                   <li><a href="/categoria/linux" title="Ir a la categoría Linux">Linux</a></li>
+                                   <li><a href="/categoria/movil" title="Ir a la categoría Móvil">Móvil</a></li>
+                                   <li><a href="/categoria/windows" title="Ir a la categoría Windows">Windows</a></li>
+                                   <li><a href="/categoria/herramientas" title="Ir a la categoría Herramientas">Herramientas</a></li>
+                                <li><a href="/archivos" title="Ver todas las categorías">Más &raquo;</a></li>
+            </ul>
+        </li>
+                  
+            </ul>
+</div>
+
+        <div class="nav nav-tags">
+        <h3>No te pierdas <span class="arrow">&raquo;</span></h3>
+        <ul>
+                        <li><a href="/tag/tasa-google" title="Todo sobre Tasa Google">Tasa Google</a></li>
+                        <li><a href="/tag/ley-lassalle" title="Todo sobre Ley Lassalle">Ley Lassalle</a></li>
+                        <li><a href="/tag/balance-de-windows-8" title="Todo sobre Balance de Windows 8">Balance de Windows 8</a></li>
+                        <li><a href="/tag/cazadores-de-fakes" title="Todo sobre Cazadores de Fakes">Cazadores de Fakes</a></li>
+                        <li><a href="/tag/satya-nadella" title="Todo sobre Satya Nadella">Satya Nadella</a></li>
+                    </ul>
+</div>
+<!-- .nav-tags -->
+
+                    <div class="ad ad-desplegable">
+  <a class="ad-contact" id="div-gpt-top-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+  <div class="ad-box">
+    <div id='div-gpt-top' style='width: 1000px;'>
+    <script type="text/javascript">
+        googletag.cmd.push(function() {
+        googletag.display("div-gpt-top");
+        });
+    </script>
+    </div>
+  </div>
+</div>
+<!-- .ad-box - desplegable -->
+
+  <div class="nav">
+   <ul class="article-nav-controls">
+                              <li><a class="article-control article-previous" href="/activismo-online/javier-couso-el-gobierno-del-psoe-ha-conspirado-con-una-potencia-extranjera-para-impedir-que-se-haga-justicia"><span>Javier Couso: &quot;El Gobierno del PSOE ha conspirado con una potencia extranjera para impedir que se haga justicia&quot;</span></a></li>
+                                             <li><a class="article-control article-next" href="/multimedia/qwiki-un-buscador-capaz-de-explicarnos-los-resultados-de-busqueda"><span>Qwiki, un buscador capaz de explicarnos los resultados de búsqueda</span></a></li>
+                  </ul>
+  </div>
+              </div>
+                   <div class="article article-pre-content">
+  <h1 class="article-header">Buscar en Google es de débiles</h1>
+  <div class="article-date">30 de noviembre de 2010 | 22:15 CET <span id="is_editor"></span></div>
+  <div class="article-author-details">
+  <div class="figure">
+    <a rel='author' href="/autor/miguel-julian">
+      <img src="http://www.gravatar.com/avatar/14216b3a89c997bfc641f9d3abf7bc0b?s=80&amp;d=mm&amp;r=g" alt="miguel-julian">
+    </a>
+  </div>
+  <h2><a rel='author' href="/autor/miguel-julian">Miguel Julián</a></h2>
+      </div>
+<!-- .article-author-details -->
+</div>
+           </div>
+    <!-- .container -->
+  </div>
+  <!-- .content-fixed -->
+
+  <div class="content-dinamic">
+    <div class="container">
+          <script type="text/javascript">
+        $(function()
+        {
+          AML.postVoteView = new AML.Post.View.PostVoteView({postId:"58594", el:".social-sharing" });
+          AML.isEditorView = new AML.Post.View.IsEditorView({postId:"58594", model: WSL2.User });
+        });
+      </script>
+
+    <div class="aside">
+            <div id="ad-lateral" class="ad ad-primer-escaparate">
+  <a class="ad-contact" id="div-gpt-lat-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-lat' class="ad-box" style='width: 300px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-lat");
+    });
+    </script>
+    </div>
+</div>
+<!-- .ad-box - escaparate vertical -->
+
+           <!-- .ad-box - escaparate vertical -->
+            
+                  
+<div class="aside-box aside-subscribe">
+  <h3 class="aside-header">Síguenos</h3>
+  
+          
+  <form id="feedForm" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" >
+    <label for="subscribe-email">Newsletter:</label>  
+      <input type="text" name="email" type="text" id="feedburnermail" placeholder="Correo electrónico"/>
+      <input type="hidden" name="uri" value="genbeta"/>
+      <input type="hidden" name="loc" value="es_ES">
+      <button class="button" type="submit">Suscríbete <span class="arrow">&raquo;</span></button>
+  </form>
+  <ul class="subs-channels">
+    <li class="channel-rss" id="rss"> <a href="/index.xml" rel="nofollow" title="Suscríbete por RSS a las novedades en Genbeta"><span></span>RSS</a></li>
+    <li class="channel-twitter"><a href="http://twitter.com/genbeta" title="Sigue las novedades de Genbeta en Twitter"><span></span>Twitter</a></li>
+    <li class="channel-fb"><a href="http://www.facebook.com/pages/Genbeta/54999640934" title="Conéctate a la página de Genbeta en Facebook"><span></span>Facebook</a></li>
+    <li class="channel-gplus"><a href="https://plus.google.com/109731528328750280665/posts" title="Sigue a Genbeta en Google Plus"><span></span>Google Plus</a></li>
+    <li class="channel-feedly"><a style="margin-right: 0;" title="Suscríbete a Genbeta con Feedly" href='http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fwww.genbeta.com%2Findex.xml'  target='blank'><img id='feedlyFollow' src='http://img.weblogssl.com/g/xataka4/common/m-icon-feedly.png' alt='follow us in feedly' width='32' height='32'></a></li>
+  </ul>
+  <ul class="devices-channels">
+    <li><a title="Versión para móviles" href="http://m.genbeta.com" class="button button-secondary"><img src="http://img.weblogssl.com/g/xataka4/common/mobile.png">Versión móvil</a></li>
+        <li>
+        <a id="tabletViceVersaLink" href="http://t.genbeta.com" class="button button-secondary" title="Versión tablet"><img src="http://img.weblogssl.com/g/xataka4/common/tablet.png"> Versión tablet</a>
+    </li>
+      </ul>
+
+    <script>
+  $(function() {
+      $("#feedForm").submit(function(e) {
+          e.preventDefault();
+          email = $("#feedburnermail").val();
+          emailPattern = /^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$/i
+          if (emailPattern.test(email)) {
+              window.open('http://mailer.weblogssl.com/subscribe_check/' + email +'/genbeta/Genbeta','','width=500,height=500');
+          } else {
+              alert("El correo electrónico introducido no es correcto");
+          }
+      });
+  });
+  </script>
+  
+</div>
+            <!-- .article-promo -->
+    </div>
+
+    <!-- .aside -->
+
+                    
+    <div class="section section-article-single">
+            <div class="article">
+        <div class="article-summary">
+          <p><img id="image58954" src="http://img.genbeta.com/2010/11/buscar-en-google-es-de-debiles.jpg" class="centro_sinmarco" alt="Buscar en Google es de débiles" /></p>
+
+                              <div class="article-metadata">
+            <div class="article-comments" id="postCommentCount">
+              <a href="#comments" title="Ir a comentarios">
+                Comentarios 74
+              </a>
+            </div>
+            <div class="article-links">
+              <div class="social-sharing">
+                <div class="social-sharing-widgets">
+                                    <div class="wsl-favorite">
+                    <button class="button button-small">Me gusta</button>
+                    <span class="wsl-count">8</span>
+                  </div>
+                                    <!-- twitter -->
+                  <a class="twitter-share-button" href="http://twitter.com/share" data-count="horizontal" data-url="http://www.genbeta.com/p/58594" data-counturl="http://www.genbeta.com/herramientas/buscar-en-google-es-de-debiles" data-text="Buscar en Google es de débiles" data-via="genbeta" data-lang="es">Tweet</a>
+                  <!-- g+ -->
+                  <div class="g-plusone" data-size="medium" data-href="http://www.genbeta.com/herramientas/buscar-en-google-es-de-debiles" data-callback="gplusClickHandler" ></div>
+                  <!-- facebook like -->
+                  <div href="http://www.genbeta.com/herramientas/buscar-en-google-es-de-debiles" class="fb-like" data-send="false" data-layout="button_count" data-show-faces="false"></div>
+                </div>
+              </div>
+              <!-- .social-sharing -->
+            </div>
+            <!-- .article-links -->
+          </div>
+          <!-- .article-metadata -->
+
+
+          	<p></p>
+
+	<p>Hace un tiempo, en una charla que estaba dando, propiciado por un <strong>ambiente relajado, agradable y distendido</strong>; unas palabras salieron de mi boca:</p>
+
+<blockquote>Buscar en Google es de débiles</blockquote>
+
+	<p>Sorprendieron a propios y a extraños, incluso a mí mismo. Pero según se desarrollan nuevas aplicaciones en la web y se perfeccionan los diferentes servicios, <strong>una búsqueda en Google puede ser menos precisa de lo que esperas</strong>. Y lo que es más probable, hay otros servicios que te proporcionarán más información, o al menos, lo harán de forma más directa.</p>
+
+	<p>En este artículo <del>descubriré</del> repasaré alguno de ellos, no como una recomendación, sino como un mero recordatorio<del> o recomendación</del>. Pero antes de empezar, con cada búsqueda que pretendamos hacer hay que plantearse una pregunta: <strong>¿Qué estoy buscando?</strong><br />
+
+<!--more--><br />
+
+<h2>¿Qué estoy buscando?</h2><br />
+
+Antes de lanzarnos ávidamente a realizar una búsqueda (dónde sea), creo que lo primero que hay que pensar es qué es exactamente lo que estoy buscando. O aún mejor, <strong>qué es lo que espero encontrar</strong>. Tampoco estaría de más preguntarse ¿dónde voy a utilizar la información encontrada?.</p>
+
+	<p>Dependiendo de las respuestas que nos demos a nosotros mismos tendremos que decidirnos por un servicio u otro. Incluso tendremos que ponernos el <em>disfraz de débil</em> y buscar en <strong>Google</strong>, porque para qué engañarnos, <strong>sigue siendo rápido y eficaz</strong>.</p>
+
+	<p><h2>Youtube</h2><br />
+
+Google podrá ser <em>de débiles</em>, pero los productos de la empresa californiana no dejan de ser herramientas útiles y versátiles. <a href="http://www.genbeta.com/productos/reproductores-video/youtube">Youtube</a> parece un sitio destinado únicamente al ocio y entretenimiento. Normalmente esos <em>otros usos</em> los encontramos con vídeos incrustados en otros sitios web. Pero hay <strong>una inmensidad de búsquedas en las que Youtube nos dará muy buenos resultados</strong>.</p>
+
+	<p>Uno de sus grandes fuertes está a la hora de encontrar <strong>tutoriales y videocasts</strong> sobre aplicaciones de informática. Una búsqueda &#8220;copias de seguridad en Windows 7&#8221; no devuelve muchos resultados, y bastante útiles. Si necesitas un ejemplo práctico, o quieres exponerlo, en Youtube tienes muchísimos. Para <strong>recetas de cocina</strong>, para tener un <strong>karaoke rápido de una canción</strong> o para saber cómo hacer un truco en un juego. ¿Alguien da más?</p>
+
+	<p><img id="image58955" src="http://img.genbeta.com/2010/11/youtube-copias-seguridad.jpg" class="centro" alt="Youtube" /></p>
+
+	<p>No todo es un camino de rosas. Uno de los grandes problemas con los resultados que nos muestra Youtube es que, <strong>para ver si un resultado es lo que esperábamos encontrar, tendremos que perder tiempo visualizando el vídeo</strong>, lo que no es, ni de lejos, más rápido que una lectura diagonal. Además, en dispositivos móviles, nuestra tarifa de datos se resiente.</p>
+
+	<p><h2>Wikipedia</h2><br />
+
+Hay gente que dice &#8220;Yo no me fío de <a href="http://www.genbeta.com/productos/redes-sociales/wikipedia">Wikipedia</a>, ahí escribe cualquiera&#8221;. Y es cierto que no podemos creernos todo lo que leemos en esa enciclopedia social, pero hay <strong>infinidad de veces que buscamos en Google, cuando lo que queríamos era buscar en una enciclopedia</strong>.</p>
+
+	<p>A mi me gusta <em>retar a la estadística</em>, y pensar que de la cantidad ingente de verdades que hay en Wikipedia, malo será que me encuentre con un dato falso&#8230; Si andas en busca de la <strong>población de una ciudad,  biografías, discografías, datos concretos acerca de un evento histórico</strong>, o simplemente quieres información de la ciudad a la que se está dirigiendo tu tren. Wikipedia será de gran ayuda.</p>
+
+	<p>Y es que con sus más de <a href="http://es.wikipedia.org/wiki/Especial:Estad%C3%ADsticas">676.000 artículos</a> en español es difícil que, si buscas una <strong>información elaborada y que puedas emplear en cualquier lado</strong> (siempre citando) no la encuentres en Wikipedia. ¿Cuántos premios ha ganado la serie Lost? ¿Cuánto pesa un Ferrari F430?</p>
+
+	<p><img id="image58956" src="http://img.genbeta.com/2010/11/wikipedia-busqueda.jpg" class="centro" alt="Búsqueda en Wikipedia" /></p>
+
+	<p><h2>Delicious</h2><br />
+
+Aún hay gente que sólo encuentra en <a href="http://www.genbeta.com/productos/acortadores-de-urls/delicious">Delicious</a> como su almacén organizado de favoritos. Pero a mi me gusta verlo desde otro punto de vista. <strong>Tenemos los resultados de Google, pero que alguien, antes, nos ha filtrado para darnos los mejores</strong>.</p>
+
+	<p>Piénsalo. <strong>¿Qué páginas te guardas en tus favoritos/marcadores/...</strong> de todas las que ves a lo largo del día? Eso es, sólo nos guardamos lo mejor, lo que usamos a diario, lo que nos guardamos como un recurso muy interesante. Ahí es donde <strong>Delicious da en el clavo como &#8220;Buscador de recursos&#8221;</strong>.</p>
+
+	<p><img id="image58957" src="http://img.genbeta.com/2010/11/delicious-busqueda.jpg" class="centro" alt="Búsqueda en Delicious" /></p>
+
+	<p>Si eres un usuario convencido de Twitter o Spotify (por ejemplo), ¿has probado a buscar esas palabras en Delicious? Seguro que descubres algo interesante. Ahora <strong>prueba a hacer la misma búsqueda en Google</strong>; puede ser interesante, pero creo que se aprecian las diferencias.</p>
+
+	<p><h2>Genbeta</h2><br />
+
+Suena redundante y altivo. Pero es una realidad. Si buscas algo relacionado con el software y los servicios web, te aseguro que darse una vuelta por el buscador de Genbeta nunca es una mala opción. Desde luego que hay alternativas, y muy válidas.</p>
+
+	<p>Pero <strong>cuando buscas un programa para capturar la pantalla en Windows 7, ¿por qué lo haces en Google?</strong>. De nuevo, al igual que ocurría con Delicious, realizar una búsqueda en <strong>una página especializada te filtra los resultados</strong>, y no sólo eso, sino que también <strong>te da una opinión y una descripción</strong> de las características de las alternativas.</p>
+
+	<p><img id="image58958" src="http://img.genbeta.com/2010/11/busqueda-genbeta.jpg" class="centro" alt="Búsqueda en Genbeta" /></p>
+
+	<p><h2>¿Desterramos a Google?</h2><br />
+
+Pese al título pretencioso de la entrada, desde luego parece imposible desterrar a nuestro amigo. Pero si algo está claro es que muchas personas tendrían que pensar un poquito más antes de lanzarse a la búsqueda impulsiva. Tal vez <strong>la solución no sea dejar de usar Google para obtener mejores resultados, sino aprender a hacer búsquedas diferentes</strong>.</p>
+
+	<p>Para buscar en algunos de los servicios que se han descrito antes, basta con hacer <strong>una búsqueda en Google y poner un pequeño apellido</strong>, para encontrar mejores resultados: <strong>&#8220;captura pantalla genbeta&#8221;</strong>, &#8220;copia seguridad windows 7 youtube&#8221; o &#8220;larra wiki&#8221; son algunos de los ejemplos.</p>
+
+	<p>Por cierto, como curiosidad, <strong>una búsqueda literal en Google nos puede dar resultados sorprendentes</strong>. Me gusta utilizarla en viajes y hacer preguntas como (esta vez con comillas): &#8220;tienda barata en Barcelona&#8221;, &#8220;la mejor heladería de Málaga&#8221; o &#8220;no te puedes perder en Valencia&#8221;. Esto sí que son búsquedas arriesgadas.</p>                  </div>
+
+                        
+        <div class="ad links-ad-inpost">
+    <div id='div-gpt-inp' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-inp");
+    });
+    </script>
+    </div>
+</div>
+
+
+        
+        <div class="article-taxonomy">
+                      <div class="nav article-tags article-categories">
+  <h2>Categorías</h2>
+    <ul>
+                      
+      <li><a href="/categoria/herramientas">Herramientas</a></li>
+        </ul>
+</div>
+            <div class="nav article-tags">
+  <h2>Tags</h2>
+  <ul>
+                                             
+      <li><a href="/tag/google">Google</a></li>
+                                             
+      <li><a href="/tag/busquedas">busquedas</a></li>
+                                             
+      <li><a href="/tag/genbeta">genbeta</a></li>
+          
+  </ul>
+</div>
+                  </div>
+        <!-- .article-metadata -->
+      </div>
+      <!-- .article -->
+    </div>
+    <!-- .section-articles -->
+            <div id="ad-center" class="ad ad-escaparate-medio">
+  <a class="ad-contact" id="div-gpt-cen-contact" style='display:none' href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-cen' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+
+        
+        
+    <div class="section section-related">
+               <div id="outBrainVerticalWidget" class="post-related-posts ">
+  <h3>Artículos recomendados</h3>
+  <div class="post-related-content">
+   
+    <div class="OUTBRAIN" data-src="http://www.genbeta.com/herramientas/buscar-en-google-es-de-debiles" data-widget-id="AR_2" data-ob-template="genbeta" >
+    </div>
+    <script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js">
+    </script>
+  </div>
+  <!-- .post-related-content -->
+  <p class="post-related-more">
+    <a href="/categoria/herramientas" title="Ver más artículos relacionados">
+    Ver más artículos <span class="arrow">»</span>    
+    </a>
+    </p>
+</div>     
+      <div class="post-related-products">
+   <h3>Productos</h3>
+   <div id="post-related-products" class="post-related-content">
+          <ul class="product-list">
+            <li>
+         <a href="/productos/redes-sociales/google">
+           <img src="http://img.genbeta.com/thumbnails/63034.jpg" alt="Google"><span>Google</span>
+         </a>
+       </li>
+            <li>
+         <a href="/productos/reproductores-video/youtube">
+           <img src="http://img.genbeta.com/thumbnails/73143.jpg" alt="YouTube"><span>YouTube</span>
+         </a>
+       </li>
+            <li>
+         <a href="/productos/redes-sociales/wikipedia">
+           <img src="http://img.genbeta.com/thumbnails/66391.jpg" alt="Wikipedia"><span>Wikipedia</span>
+         </a>
+       </li>
+            <li>
+         <a href="/productos/acortadores-de-urls/delicious">
+           <img src="http://img.genbeta.com/thumbnails/65733.jpg" alt="delicious"><span>delicious</span>
+         </a>
+       </li>
+          </ul>
+        </div>
+  <p class="post-related-more">
+    <a href="/productos//" title="Ver más productos relacionados">
+      Ver más productos <span class="arrow">»</span>
+    </a>
+  </p>
+ </div>
+<!-- .post-related-products -->
+     <div class="post-related-qa">
+    <h3>Respuestas</h3>
+        <div class="post-related-content">
+            <ul>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>1</strong>
+                    </div>
+                    <a href="/respuestas/por-que-deje-de-recibir-genbeta-en-mi-correo-sin-dar-de-baja-mi-suscripcion">¿Por que dejé de recibir Genbeta en mi correo sin dar de baja mi suscripción?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2014-01-10T21:35:11Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>1</strong>
+                    </div>
+                    <a href="/respuestas/como-subo-un-archivo-a-genbeta">como subo un archivo a genbeta</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2013-11-15T11:52:00Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>4</strong>
+                    </div>
+                    <a href="/respuestas/debate-esconde-algo-google-con-el-cierre-de-igoogle">Debate: ¿Esconde algo Google con el cierre de iGoogle?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2013-10-30T18:18:47Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number ">
+                        <strong>4</strong>
+                    </div>
+                    <a href="/respuestas/hay-alternativas-a-la-altura-de-google">¿ hay alternativas a la altura de google ?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2013-09-21T18:35:23Z"></abbr>
+                    </span>            
+                </li>
+                            <li>
+                    <div class="answer-number hot-topic">
+                        <strong>16</strong>
+                    </div>
+                    <a href="/respuestas/cuales-son-tus-aplicaciones-favoritas-para-la-vuelta-al-cole">¿Cuáles son tus aplicaciones favoritas para la vuelta al cole?</a>
+                    <span id="telefonos" class="date">
+                        <abbr class="timeago" title="2013-09-04T01:41:17Z"></abbr>
+                    </span>            
+                </li>
+                        </ul>
+        </div>
+        <!-- .post-related-content -->
+        <p class="post-related-more">
+            <a href="/respuestas" title="Ver más respuestas relacionados">
+                Ver más respuestas
+                <span class="arrow">»</span>
+            </a>
+        </p>
+</div>
+
+<script type="text/javascript">
+   $(function(){
+      $("abbr.timeago").timeago();
+   });
+</script>
+     </div>
+
+
+  <!-- Comments Section -->
+        <a id="to-comments"></a>
+  <div id="comments" class="section section-comments">
+            <div class="standalone-message">
+            <div class="message aviso"><h3>Los comentarios se han cerrado</h3></div>
+        </div>
+        <!-- #comment-write -->
+            <div id="ad-center2" class="ad ad-segundo-escaparate">
+  <a class="ad-contact" id="div-gpt-cen2-contact" style='display:none'
+  href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-cen2' class="ad-box">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-cen2");
+    });
+    </script>
+    </div>
+</div>
+
+         <!-- .ad-box - escaparate grande -->
+    <div id="comments-header" class="header-section">
+      <div class="comment-order">
+    	<h3>Ordenar por:</h3>
+      </div>
+      <!-- #comment-order -->
+          	<h2>
+              50 comentarios
+            </h2>
+    </div>
+    <div id="top-section-settings"></div>
+    <ul class="comment-list"></ul>
+        <div class="nav"></div>
+    <div id="bottom-section-settings"></div>
+  </div>
+    <script type="text/javascript">
+      $(function()
+      {
+        var commentList = new AML.Comments.Model.CommentList({},{postId:58594});
+        commentList.resetParsed({"comments":[{"id":"320456","post_id":"58594","date":1291157046,"content_filtered":"<p>Duda planteada por un vago federado: \u00bfPara que buscar algo en 4 sitios diferentes si en uno solo puedo encontrarlo todo y que adem\u00e1s de que es m\u00e1s r\u00e1pido te permite descubrir nuevas paginas webs quiz\u00e1s mejores y m\u00e1s \u00fatiles para lo que quieres hacer que alguna de esas cuatro?<\/p>","content":"<p>Duda planteada por un vago federado: \u00bfPara que buscar algo en 4 sitios diferentes si en uno solo puedo encontrarlo todo y que adem\u00e1s de que es m\u00e1s r\u00e1pido te permite descubrir nuevas paginas webs quiz\u00e1s mejores y m\u00e1s \u00fatiles para lo que quieres hacer que alguna de esas cuatro?<\/p>","karma":"325.00","parent":"0","comment_edited_date":"","vote_count":"27","comment_level":1,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"tovkal","user_id":"33763","author":"","webpage":"","user_name":"tovkal","karma_level":"25.00","iseditor":"0","global_id":"153365","facebook_uid":null,"index":2,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/153365_1.png"},{"id":"320467","post_id":"58594","date":1291159600,"content_filtered":"<p>absolutamente de acuerdo.<\/p>\n\n<p>Un post rid\u00edculo, google de debiles? as\u00ed que hacer algo sencillo, r\u00e1pido y eficaz es de d\u00e9biles? con gente como tu la vida se habr\u00eda extinguido xD<\/p>","content":"<p>absolutamente de acuerdo.<\/p>\n\n<p>Un post rid\u00edculo, google de debiles? as\u00ed que hacer algo sencillo, r\u00e1pido y eficaz es de d\u00e9biles? con gente como tu la vida se habr\u00eda extinguido xD<\/p>","karma":"145.00","parent":"320456","comment_edited_date":"","vote_count":"12","comment_level":1,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"69415","user_id":"69415","author":"","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"295188","facebook_uid":"633827277","index":12,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/633827277\/picture"},{"id":"320533","post_id":"58594","date":1291204011,"content_filtered":"<p>Es lo m\u00e1s potente, r\u00e1pido, concreto, eficaz... que hay. Sobre tu oferta (al autor del post le digo), solo dos palabras: selecci\u00f3n natural. A ver qu\u00e9 m\u00e9todo prospera, si el tuyo o el de Google.<\/p>","content":"<p>Es lo m\u00e1s potente, r\u00e1pido, concreto, eficaz... que hay. Sobre tu oferta (al autor del post le digo), solo dos palabras: selecci\u00f3n natural. A ver qu\u00e9 m\u00e9todo prospera, si el tuyo o el de Google.<\/p>","karma":"7.50","parent":"320467","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"2","comment_approved":"1","comment_author":"aama-88","user_id":"1279","author":"aama-88","webpage":null,"user_name":null,"karma_level":"32.00","iseditor":"0","global_id":"18956","facebook_uid":null,"index":49,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/9da78b6495aab75ddc9a8f7ed64510d4"},{"id":"320468","post_id":"58594","date":1291159615,"content_filtered":"<p>Me quitaste las palabras del teclado<\/p>","content":"<p>Me quitaste las palabras del teclado<\/p>","karma":"5.00","parent":"320456","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"0","comment_author":"Diego Germ\u00e1n Gonzalez","user_id":"18808","author":"Diego Germ\u00e1n Gonzalez","webpage":null,"user_name":"dggonzalez","karma_level":"32.00","iseditor":"0","global_id":"133442","facebook_uid":null,"index":13,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/963785ed6ba925a47584c60e210417be"},{"id":"320501","post_id":"58594","date":1291175072,"content_filtered":"<p>Lo mismo digo. Me parece un post de autobombo completamente innecesario.<\/p>","content":"<p>Lo mismo digo. Me parece un post de autobombo completamente innecesario.<\/p>","karma":"5.00","parent":"320456","comment_edited_date":1291175107,"vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"66531","user_id":"66531","author":"","webpage":null,"user_name":"guananjelo","karma_level":"24.00","iseditor":"0","global_id":"314621","facebook_uid":"624382809","index":30,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/624382809\/picture"},{"id":"320740","post_id":"58594","date":1291310842,"content_filtered":"<p>- Genbeta es una fuente de desinformaci\u00f3n, los que escriben aqu\u00ed no saben ni por d\u00f3nde les da el aire. Si te gusta la inform\u00e1tica, acude a sitios web especializados como ZDNet.<\/p>","content":"- Genbeta es una fuente de desinformaci\u00f3n, los que escriben aqu\u00ed no saben ni por d\u00f3nde les da el aire. Si te gusta la inform\u00e1tica, acude a sitios web especializados como ZDNet.","karma":"5.00","parent":"320456","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"lost-perdidos ","user_id":"2600","author":"lost-perdidos ","webpage":null,"user_name":"lost-perdidos","karma_level":"34.00","iseditor":"0","global_id":"39752","facebook_uid":null,"index":63,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/39752_1.png"},{"id":"320464","post_id":"58594","date":1291158422,"content_filtered":"<p>El FTP est\u00e1 muerto, las redes sociales van a jubilar al email y ahora buscar en Google es de d\u00e9biles. \u00bfQu\u00e9 fum\u00e1is en Genbeta? \u00bfO es que est\u00e1is jugando a ver qui\u00e9n es m\u00e1s gur\u00fa?<\/p>","content":"<p>El FTP est\u00e1 muerto, las redes sociales van a jubilar al email y ahora buscar en Google es de d\u00e9biles. \u00bfQu\u00e9 fum\u00e1is en Genbeta? \u00bfO es que est\u00e1is jugando a ver qui\u00e9n es m\u00e1s gur\u00fa?<\/p>","karma":"293.00","parent":"0","comment_edited_date":"","vote_count":"24","comment_level":1,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Grojnak","user_id":"2059","author":"Grojnak","webpage":null,"user_name":"grojnak","karma_level":"36.00","iseditor":"0","global_id":"4819","facebook_uid":null,"index":10,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/4819_3.png"},{"id":"320486","post_id":"58594","date":1291163335,"content_filtered":"<p>Jajajajaja, esa estaba buena, pero no todos se echan hiervas, p al menos no en todos los posts.<\/p>","content":"<p>Jajajajaja, esa estaba buena, pero no todos se echan hiervas, p al menos no en todos los posts.<\/p>","karma":"20.00","parent":"320464","comment_edited_date":"","vote_count":"3","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"66801","user_id":"66801","author":"","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"317067","facebook_uid":"100001620731340","index":24,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100001620731340\/picture"},{"id":"321139","post_id":"58594","date":1291661982,"content_filtered":"<p>Hay que comprender que esto es GenBeta, se  pueden presentar errores. Tal vez cuando liberen una RC... :D<\/p>","content":"<p>Hay que comprender que esto es GenBeta, se  pueden presentar errores. Tal vez cuando liberen una RC... :D<\/p>","karma":"18.00","parent":"320464","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Jhonny L\u00f3pez","user_id":"59547","author":"Jhonny L\u00f3pez","webpage":"http:\/\/calamitatum.wordpress.com","user_name":"calamitatum","karma_level":"38.00","iseditor":"0","global_id":"276416","facebook_uid":null,"index":68,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/276416_3.png"},{"id":"320738","post_id":"58594","date":1291310724,"content_filtered":"<p>Genbeta es una fuente de desinformaci\u00f3n, los que escriben aqu\u00ed no saben ni por d\u00f3nde les da el aire. Si te gusta la inform\u00e1tica, acude a sitios web especializados como ZDNet.<\/p>","content":"<p>Genbeta es una fuente de desinformaci\u00f3n, los que escriben aqu\u00ed no saben ni por d\u00f3nde les da el aire. Si te gusta la inform\u00e1tica, acude a sitios web especializados como ZDNet.<\/p>","karma":"-10.00","parent":"320464","comment_edited_date":"","vote_count":"1","comment_level":4,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"lost-perdidos ","user_id":"2600","author":"lost-perdidos ","webpage":null,"user_name":"lost-perdidos","karma_level":"34.00","iseditor":"0","global_id":"39752","facebook_uid":null,"index":62,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/39752_1.png"},{"id":"320458","post_id":"58594","date":1291157561,"content_filtered":"<p>Genbeta no es una opci\u00f3n valida, ya que el buscador que tienen es de google, y terminan usando google de todas formas :p<\/p>","content":"<p>Genbeta no es una opci\u00f3n valida, ya que el buscador que tienen es de google, y terminan usando google de todas formas :p<\/p>","karma":"195.50","parent":"0","comment_edited_date":"","vote_count":"15","comment_level":1,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"45933","user_id":"45933","author":"","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"223852","facebook_uid":"1355728080","index":4,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1355728080\/picture"},{"id":"320463","post_id":"58594","date":1291158320,"content_filtered":"<p>si, pero a lo que se refiere el autor, es que los resultados que te salen estan filtrados de forma que solo salgan articulos de genbeta, con lo que si buscas software ya ta filtrado\nPero claro eso ta chulo, si en genbeta se ha hablado de todo software existente, y eso es muy dificil xD<\/p>","content":"<p>si, pero a lo que se refiere el autor, es que los resultados que te salen estan filtrados de forma que solo salgan articulos de genbeta, con lo que si buscas software ya ta filtrado\nPero claro eso ta chulo, si en genbeta se ha hablado de todo software existente, y eso es muy dificil xD<\/p>","karma":"-12.50","parent":"320458","comment_edited_date":"","vote_count":"2","comment_level":4,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Ignacio Molina Cuquerella","user_id":"2151","author":"Ignacio Molina Cuquerella","webpage":null,"user_name":"neldan","karma_level":"22.00","iseditor":"0","global_id":"187466","facebook_uid":"1344802642","index":9,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1344802642\/picture"},{"id":"320459","post_id":"58594","date":1291157795,"content_filtered":"<p>falta citar el genial Wolfram Alpha!<\/p>","content":"<p>falta citar el genial Wolfram Alpha!<\/p>","karma":"145.00","parent":"0","comment_edited_date":"","vote_count":"12","comment_level":1,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"ps3","user_id":"68538","author":"","webpage":null,"user_name":"ps3","karma_level":"22.00","iseditor":"0","global_id":"324832","facebook_uid":null,"index":5,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/2dfa2ec8634b4df8525400a152b34b9c"},{"id":"320461","post_id":"58594","date":1291157835,"content_filtered":"<p>Ese s\u00ed es un buscador.<\/p>","content":"Ese s\u00ed es un buscador.","karma":"8.00","parent":"320459","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Jhonny L\u00f3pez","user_id":"59547","author":"Jhonny L\u00f3pez","webpage":"http:\/\/calamitatum.wordpress.com","user_name":"calamitatum","karma_level":"38.00","iseditor":"0","global_id":"276416","facebook_uid":null,"index":7,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/276416_3.png"},{"id":"320477","post_id":"58594","date":1291160738,"content_filtered":"<p>Faltan muchos. Y desde luego, WA est\u00e1 entre mis favoritos. Al menos como proyecto...<\/p>","content":"Faltan muchos. Y desde luego, WA est\u00e1 entre mis favoritos. Al menos como proyecto...","karma":"8.00","parent":"320459","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Miguel Juli\u00e1n","user_id":"64242","author":"Miguel Juli\u00e1n","webpage":null,"user_name":null,"karma_level":"27.00","iseditor":"0","global_id":"300660","facebook_uid":null,"index":20,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/300660_1.png"},{"id":"320455","post_id":"58594","date":1291156462,"content_filtered":"<blockquote>...repasar\u00e9 alguno de ellos, no como una recomendaci\u00f3n, sino como un mero recordatorio o recomendaci\u00f3n... <\/blockquote>\n\n<p>No como recomendaci\u00f3n sino como recomendaci\u00f3n. \u00c9pico.<\/p>","content":"<blockquote>...repasar\u00e9 alguno de ellos, no como una recomendaci\u00f3n, sino como un mero recordatorio o recomendaci\u00f3n... <\/blockquote>\n\n<p>No como recomendaci\u00f3n sino como recomendaci\u00f3n. \u00c9pico.<\/p>","karma":"128.00","parent":"0","comment_edited_date":"","vote_count":"15","comment_level":2,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Jhonny L\u00f3pez","user_id":"59547","author":"Jhonny L\u00f3pez","webpage":"http:\/\/calamitatum.wordpress.com","user_name":"calamitatum","karma_level":"38.00","iseditor":"0","global_id":"276416","facebook_uid":null,"index":1,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/276416_3.png"},{"id":"320457","post_id":"58594","date":1291157277,"content_filtered":"<p>Te juro que no entiendo lo del t\u00edtulo ni el sentido en s\u00ed del art\u00edculo. Cualquiera puede citar webs m\u00e1s o menos decentes que dan resultados en b\u00fasquedas, pero con Google pasa que buscas y encuentras en los primeros 2 \u00f3 3 enlaces. Por lo menos en mi caso es as\u00ed y no me siento d\u00e9bil. Es m\u00e1s, me siento un Ninja cuando hago una b\u00fasqueda tan refinada que me puedo dar el lujo de cliquear en \"Voy a tener suerte\". Eso s\u00ed es ser un valiente.<\/p>","content":"<p>Te juro que no entiendo lo del t\u00edtulo ni el sentido en s\u00ed del art\u00edculo. Cualquiera puede citar webs m\u00e1s o menos decentes que dan resultados en b\u00fasquedas, pero con Google pasa que buscas y encuentras en los primeros 2 \u00f3 3 enlaces. Por lo menos en mi caso es as\u00ed y no me siento d\u00e9bil. Es m\u00e1s, me siento un Ninja cuando hago una b\u00fasqueda tan refinada que me puedo dar el lujo de cliquear en \"Voy a tener suerte\". Eso s\u00ed es ser un valiente.<\/p>","karma":"93.00","parent":"0","comment_edited_date":1291157320,"vote_count":"9","comment_level":2,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Jhonny L\u00f3pez","user_id":"59547","author":"Jhonny L\u00f3pez","webpage":"http:\/\/calamitatum.wordpress.com","user_name":"calamitatum","karma_level":"38.00","iseditor":"0","global_id":"276416","facebook_uid":null,"index":3,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/276416_3.png"},{"id":"320472","post_id":"58594","date":1291160175,"content_filtered":"<p>los 5 minutos peor invertidos de mi vida... T-T<\/p>","content":"<p>los 5 minutos peor invertidos de mi vida... T-T<\/p>","karma":"85.50","parent":"0","comment_edited_date":"","vote_count":"10","comment_level":2,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"37695","user_id":"37695","author":"Nahuel Siviero","webpage":"","user_name":null,"karma_level":"27.00","iseditor":"0","global_id":"193537","facebook_uid":"1581834688","index":17,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/193537_2.png"},{"id":"320513","post_id":"58594","date":1291191609,"content_filtered":"<p>\u00bfOs cre\u00e9is al nivel de Youtube, la Wikipedia o Delicious ? xDD<\/p>\n\n<p>WebblogSL se lo tiene demasiado creido \u00ac\u00ac<\/p>","content":"<p>\u00bfOs cre\u00e9is al nivel de Youtube, la Wikipedia o Delicious ? xDD<\/p>\n\n<p>WebblogSL se lo tiene demasiado creido \u00ac\u00ac<\/p>","karma":"68.00","parent":"0","comment_edited_date":"","vote_count":"6","comment_level":2,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"62896","user_id":"62896","author":"","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"187414","facebook_uid":"1013267864","index":37,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1013267864\/picture"},{"id":"320508","post_id":"58594","date":1291184398,"content_filtered":"<p>Pues hombre una buena raz\u00f3n para no buscar en genbeta es por que te topas con post como estos en la b\u00fasqueda....<\/p>\n\n<p>No es por nada, pero este un post suena tipo \"ah se me ocurri\u00f3 una frase la pondre  a ver cuanta gente la usa\"<\/p>\n\n<p>Para empezar ni youtube es el \u00fanico portal de v\u00eddeos, ni est\u00e1n todos los que se buscan como erroneamente se cree, ni wikipedia es siempre la fuente m\u00e1s completa, ser\u00e1 la que tiene m\u00e1s art\u00edculos pero para cosas especificas hay muchos otros mejores donde ver.<\/p>\n\n<p>Y lo de buscar en genbeta me parece un chiste malo, sin ofender, podr\u00eda ser una alternativa si de verdad fuera un blog de software, pero en realidad es un blog donde se p\u00fabica cualquier cosa que le de su gana al autor,  y este es el ejemplo perfecto de a que me refiero.<\/p>\n\n<p>Por otro lado si no buscara en google ni hubiera conocido wikipedia, ni genbeta, ni Delicious, ni youtube, dedicarse a buscar contenidos dentro de una sola p\u00e1gina te impide el poder conocer nuevos portales que pueden ser mucho mejores.<\/p>","content":"<p>Pues hombre una buena raz\u00f3n para no buscar en genbeta es por que te topas con post como estos en la b\u00fasqueda....<\/p>\n\n<p>No es por nada, pero este un post suena tipo \"ah se me ocurri\u00f3 una frase la pondre  a ver cuanta gente la usa\"<\/p>\n\n<p>Para empezar ni youtube es el \u00fanico portal de v\u00eddeos, ni est\u00e1n todos los que se buscan como erroneamente se cree, ni wikipedia es siempre la fuente m\u00e1s completa, ser\u00e1 la que tiene m\u00e1s art\u00edculos pero para cosas especificas hay muchos otros mejores donde ver.<\/p>\n\n<p>Y lo de buscar en genbeta me parece un chiste malo, sin ofender, podr\u00eda ser una alternativa si de verdad fuera un blog de software, pero en realidad es un blog donde se p\u00fabica cualquier cosa que le de su gana al autor,  y este es el ejemplo perfecto de a que me refiero.<\/p>\n\n<p>Por otro lado si no buscara en google ni hubiera conocido wikipedia, ni genbeta, ni Delicious, ni youtube, dedicarse a buscar contenidos dentro de una sola p\u00e1gina te impide el poder conocer nuevos portales que pueden ser mucho mejores.<\/p>","karma":"58.00","parent":"0","comment_edited_date":"","vote_count":"3","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"dnl","user_id":"1721","author":"Refresco Fanta","webpage":"","user_name":"dnl","karma_level":"32.00","iseditor":"0","global_id":"4164","facebook_uid":null,"index":35,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/4164_1.png"},{"id":"320524","post_id":"58594","date":1291197344,"content_filtered":"<p>pero es que google tambi\u00e9n busca dentro de esas p\u00e1ginas. Y si el contenido de esas p\u00e1ginas es el adecuado a lo que buscas, te aparecer\u00e1 de las primeras. No entiendo el art\u00edculo.<\/p>","content":"<p>pero es que google tambi\u00e9n busca dentro de esas p\u00e1ginas. Y si el contenido de esas p\u00e1ginas es el adecuado a lo que buscas, te aparecer\u00e1 de las primeras. No entiendo el art\u00edculo.<\/p>","karma":"58.00","parent":"0","comment_edited_date":"","vote_count":"3","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Syntetyc","user_id":"3423","author":"Gatobus","webpage":null,"user_name":"syntetyc","karma_level":"62.00","iseditor":"0","global_id":"30918","facebook_uid":null,"index":45,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/30918_2.png"},{"id":"320465","post_id":"58594","date":1291158945,"content_filtered":"<p>A mi lo que me parece curioso es que la gente usa a Google para todo, me explico:<br \/>\n1 - En lugar de escribir www.genbeta.com, usan el campo de b\u00fasqueda de Google, y seleccionan el primer resultado. <br \/>2 - El mismo ejemplo pero mas vestia (si con v para que quede mas fea la palabra): en lugar de escribir amazon.com.uk, escriben en Google Amazon co uk, para probarlo simplemente escribir eso en Google y ver\u00e9is como aparece como sugerencia.<br \/> 3 - Aun peor, buscan a Google en Google. <br \/><br \/>\nOtra cosa interesante es saber que es lo mas buscado usando ciertos t\u00e9rminos. Por ejemplo, basta escribir \"Como \" y aparecen ciertas sugerencias:\n<i>Como hackear facebook, como saber si estoy embarazada, como besar.<br \/><\/i><br \/>\nGoogle saca todo su potencial cuando aprendes a usarlo de verdad. En lugar de buscar en el buscador de genbeta, prefiero simplemente escribir junto a las palabras site:www.genbeta.com, y <i>voil\u00e0<\/i>, o hacer b\u00fasquedas literales usando wildcards, por ejemplo <a href=\"http:\/\/tinyurl.com\/25ygbrl\" rel=\"nofollow\">\"El * mas * del mundo\"<\/a><\/p>","content":"<p>A mi lo que me parece curioso es que la gente usa a Google para todo, me explico:<br \/>\n1 - En lugar de escribir www.genbeta.com, usan el campo de b\u00fasqueda de Google, y seleccionan el primer resultado. <br \/>2 - El mismo ejemplo pero mas vestia (si con v para que quede mas fea la palabra): en lugar de escribir amazon.com.uk, escriben en Google Amazon co uk, para probarlo simplemente escribir eso en Google y ver\u00e9is como aparece como sugerencia.<br \/> 3 - Aun peor, buscan a Google en Google. <br \/><br \/>\nOtra cosa interesante es saber que es lo mas buscado usando ciertos t\u00e9rminos. Por ejemplo, basta escribir \"Como \" y aparecen ciertas sugerencias:\n<i>Como hackear facebook, como saber si estoy embarazada, como besar.<br \/><\/i><br \/>\nGoogle saca todo su potencial cuando aprendes a usarlo de verdad. En lugar de buscar en el buscador de genbeta, prefiero simplemente escribir junto a las palabras site:www.genbeta.com, y <i>voil\u00e0<\/i>, o hacer b\u00fasquedas literales usando wildcards, por ejemplo <a href=\"http:\/\/tinyurl.com\/25ygbrl\" rel=\"nofollow\">\"El * mas * del mundo\"<\/a><\/p>","karma":"35.50","parent":"0","comment_edited_date":1291158990,"vote_count":"3","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"black_ice ","user_id":"2194","author":"black_ice","webpage":null,"user_name":"ivan","karma_level":"48.00","iseditor":"0","global_id":"157","facebook_uid":null,"index":11,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/785560e33daf6f5644f75da55bfeea38"},{"id":"320470","post_id":"58594","date":1291159743,"content_filtered":"<p><a href=\"http:\/\/www.vistoenfb.com\/fotos\/google-tambien-cree-que-la-generacion-de-1998-va-de-mal-en-peor\" rel=\"nofollow\">Por ejemplo.<\/a><\/p>","content":"<a href=\"http:\/\/www.vistoenfb.com\/fotos\/google-tambien-cree-que-la-generacion-de-1998-va-de-mal-en-peor\">Por ejemplo.<\/a>","karma":"8.00","parent":"320465","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Jhonny L\u00f3pez","user_id":"59547","author":"Jhonny L\u00f3pez","webpage":"http:\/\/calamitatum.wordpress.com","user_name":"calamitatum","karma_level":"38.00","iseditor":"0","global_id":"276416","facebook_uid":null,"index":15,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/276416_3.png"},{"id":"320566","post_id":"58594","date":1291220338,"content_filtered":"<p>Ni que llevarais acciones en google, si no se alaba a google a la hoguera.<\/p>\n\n<p>El titulo del articulo quiz\u00e1 sea algo desafortunado, pero al margen de eso el tema del articulo habla del filtrado no del motor de b\u00fasqueda en s\u00ed, el motor de google nos ha dejado claro que es de lo mejor que hay, y todos los buscadores internos de cada pagina deber\u00edan usarlo, ahora bien si un usuario est\u00e1 buscando directamente desde google.es (por ejemplo) un articulo de genbeta est\u00e1 haciendo un mal uso, lo que el art\u00edculo nos dice es que en este punto deber\u00edamos usar el buscador de la pagina de genbeta (que usa el motor de google) pero con un filtrado previo mostrando  resultados solo de sus art\u00edculos.<\/p>\n\n<p>Estoy de acuerdo con el autor en que no hacer filtrados de informaci\u00f3n cuando es posible es una perdida de tiempo y energ\u00eda, aunque como dije al principio el t\u00edtulo y algunos comentarios sean desafortunados.<\/p>","content":"<p>Ni que llevarais acciones en google, si no se alaba a google a la hoguera.<\/p>\n\n<p>El titulo del articulo quiz\u00e1 sea algo desafortunado, pero al margen de eso el tema del articulo habla del filtrado no del motor de b\u00fasqueda en s\u00ed, el motor de google nos ha dejado claro que es de lo mejor que hay, y todos los buscadores internos de cada pagina deber\u00edan usarlo, ahora bien si un usuario est\u00e1 buscando directamente desde google.es (por ejemplo) un articulo de genbeta est\u00e1 haciendo un mal uso, lo que el art\u00edculo nos dice es que en este punto deber\u00edamos usar el buscador de la pagina de genbeta (que usa el motor de google) pero con un filtrado previo mostrando  resultados solo de sus art\u00edculos.<\/p>\n\n<p>Estoy de acuerdo con el autor en que no hacer filtrados de informaci\u00f3n cuando es posible es una perdida de tiempo y energ\u00eda, aunque como dije al principio el t\u00edtulo y algunos comentarios sean desafortunados.<\/p>","karma":"35.00","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"leo1981987","user_id":"69487","author":"","webpage":"http:\/\/fflush.tumblr.com\/","user_name":"leo1981987","karma_level":"22.00","iseditor":"0","global_id":"329463","facebook_uid":null,"index":54,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/33a1e8321682974aecd7fc06215411d1"},{"id":"320460","post_id":"58594","date":1291157811,"content_filtered":"<p>La b\u00fasqueda avanzada de Google ayuda mucho para encontrar buenos resultados y con menos \"paja\". \n<a href=\"http:\/\/ing-ware.blogspot.com\/2010\/11\/busqueda-avanzada-de-google.html\" rel=\"nofollow\">Aqu\u00ed intent\u00e9 explicar c\u00f3mo usarla.<\/a> Espero que os sea de ayuda.<\/p>","content":"<p>La b\u00fasqueda avanzada de Google ayuda mucho para encontrar buenos resultados y con menos \"paja\". \n<a href=\"http:\/\/ing-ware.blogspot.com\/2010\/11\/busqueda-avanzada-de-google.html\" rel=\"nofollow\">Aqu\u00ed intent\u00e9 explicar c\u00f3mo usarla.<\/a> Espero que os sea de ayuda.<\/p>","karma":"30.00","parent":"0","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"62161","user_id":"62161","author":"","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"290100","facebook_uid":"100000774202423","index":6,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100000774202423\/picture"},{"id":"325141","post_id":"58594","date":1294511823,"content_filtered":"<p>En esta otra entrada explico c\u00f3mo usar mejor la b\u00fasqueda sencilla: <a href=\"http:\/\/ing-ware.blogspot.com\/2010\/12\/afinar-mas-con-la-busqueda-sencilla-de.html\" rel=\"nofollow\">ENLACE<\/a><\/p>","content":"<p>En esta otra entrada explico c\u00f3mo usar mejor la b\u00fasqueda sencilla: <a href=\"http:\/\/ing-ware.blogspot.com\/2010\/12\/afinar-mas-con-la-busqueda-sencilla-de.html\" rel=\"nofollow\">ENLACE<\/a><\/p>","karma":"-10.00","parent":"320460","comment_edited_date":"","vote_count":"1","comment_level":4,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"62161","user_id":"62161","author":"","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"290100","facebook_uid":"100000774202423","index":70,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100000774202423\/picture"},{"id":"320512","post_id":"58594","date":1291186030,"content_filtered":"<p>En infinidad de ocasiones te encuentras con que google encuentra mejor en una web que el pr\u00f3pio buscador interno... Total que te tienes que ir a google para luego volver.<\/p>","content":"<p>En infinidad de ocasiones te encuentras con que google encuentra mejor en una web que el pr\u00f3pio buscador interno... Total que te tienes que ir a google para luego volver.<\/p>","karma":"30.00","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"freidor3","user_id":"62487","author":"","webpage":null,"user_name":"freidor3","karma_level":"25.00","iseditor":"0","global_id":"291774","facebook_uid":null,"index":36,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/291774_1.png"},{"id":"320582","post_id":"58594","date":1291230780,"content_filtered":"<p>Hay algunos art\u00edculos que solo de leer el t\u00edtulo, ya sabes de qu\u00e9 autor son... bravo Miguel Juli\u00e1n, sigues super\u00e1ndote d\u00eda a d\u00eda.<\/p>","content":"<p>Hay algunos art\u00edculos que solo de leer el t\u00edtulo, ya sabes de qu\u00e9 autor son... bravo Miguel Juli\u00e1n, sigues super\u00e1ndote d\u00eda a d\u00eda.<\/p>","karma":"28.00","parent":"0","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"nekmo","user_id":"17665","author":"","webpage":"http:\/\/nekmo.com","user_name":"nekmo","karma_level":"34.00","iseditor":"0","global_id":"132324","facebook_uid":null,"index":57,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/4a96075832852f152181d573a556d5a9"},{"id":"320529","post_id":"58594","date":1291199439,"content_filtered":"<p>Un post un poco rid\u00edculo y mas cuando google puede hacer busquedas complejas, por ejemplo si quieres saber de alguien no tienes porque ir a buscar a Facebook, basta con poner en google:<\/p>\n\n<p>Facebook Pepito Perez<\/p>\n\n<p>Lo que si ser\u00eda interesante para un post es la correcta busqueda por google. Los operadores que podemos usar para afinar la busqueda, las funciones integradas. Por ejemplo:<\/p>\n\n<p>450 $ TO \u20ac<\/p>\n\n<p>Te convierte la moneda que quieras. <\/p>\n\n<p>El uso de comillas, no es lo mismo buscar Pepe Perez que \"Pepe Perez\".<\/p>\n\n<p>Incluso poniendo un contraejemplo a este post, puedes consultar en google:<\/p>\n\n<p>Buscar en google genbeta<\/p>\n\n<p>Y te lleva a esta pagina.<\/p>","content":"<p>Un post un poco rid\u00edculo y mas cuando google puede hacer busquedas complejas, por ejemplo si quieres saber de alguien no tienes porque ir a buscar a Facebook, basta con poner en google:<\/p>\n\n<p>Facebook Pepito Perez<\/p>\n\n<p>Lo que si ser\u00eda interesante para un post es la correcta busqueda por google. Los operadores que podemos usar para afinar la busqueda, las funciones integradas. Por ejemplo:<\/p>\n\n<p>450 $ TO \u20ac<\/p>\n\n<p>Te convierte la moneda que quieras. <\/p>\n\n<p>El uso de comillas, no es lo mismo buscar Pepe Perez que \"Pepe Perez\".<\/p>\n\n<p>Incluso poniendo un contraejemplo a este post, puedes consultar en google:<\/p>\n\n<p>Buscar en google genbeta<\/p>\n\n<p>Y te lleva a esta pagina.<\/p>","karma":"23.00","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Sivious","user_id":"3363","author":"Sivious","webpage":null,"user_name":"sivious","karma_level":"37.00","iseditor":"0","global_id":"7586","facebook_uid":null,"index":46,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/7586_1.png"},{"id":"320462","post_id":"58594","date":1291158244,"content_filtered":"<p>Un error, Wikipedia en espa\u00f1ol tiene 676.000 art\u00edculos no 476.000 como dices. \nEn referencia al art\u00edculo, es bien cierto que Google no siempre encuantra lo que buscas, pero me encanta lo c\u00f3modo que es para buscar, si adem\u00e1s usas comillas, la calculadora, lo de site:, lo de filetype:, la vista previa, busquedas en un periodo de tiempo ... la busqueda es mucho m\u00e1s precisa. Adem\u00e1s la b\u00fasqueda de im\u00e1genes por color, tama\u00f1o, similares es genial.<\/p>","content":"<p>Un error, Wikipedia en espa\u00f1ol tiene 676.000 art\u00edculos no 476.000 como dices. \nEn referencia al art\u00edculo, es bien cierto que Google no siempre encuantra lo que buscas, pero me encanta lo c\u00f3modo que es para buscar, si adem\u00e1s usas comillas, la calculadora, lo de site:, lo de filetype:, la vista previa, busquedas en un periodo de tiempo ... la busqueda es mucho m\u00e1s precisa. Adem\u00e1s la b\u00fasqueda de im\u00e1genes por color, tama\u00f1o, similares es genial.<\/p>","karma":"20.00","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"jorge5433","user_id":"67181","author":"","webpage":null,"user_name":"jorge5433","karma_level":"25.00","iseditor":"0","global_id":"307234","facebook_uid":null,"index":8,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/307234_2.png"},{"id":"320479","post_id":"58594","date":1291160805,"content_filtered":"<p>Corregido el error. L\u00f3gicamente se me fue la cabeza-dedo mientras pon\u00eda el n\u00famero. Muchas gracias.<\/p>","content":"Corregido el error. L\u00f3gicamente se me fue la cabeza-dedo mientras pon\u00eda el n\u00famero. Muchas gracias.","karma":"8.00","parent":"320462","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Miguel Juli\u00e1n","user_id":"64242","author":"Miguel Juli\u00e1n","webpage":null,"user_name":null,"karma_level":"27.00","iseditor":"0","global_id":"300660","facebook_uid":null,"index":21,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/300660_1.png"},{"id":"320480","post_id":"58594","date":1291161601,"content_filtered":"<p>Como dice otro comentario por ah\u00ed, no entiendo muy bien el articulo en si... Pero bueno...<\/p>\n\n<p>Primero decir que el decir (valga la redundancia) que buscar en Google es de d\u00e9biles es una soberana gilipollez...<\/p>\n\n<p>Se busca en Google porque los resultados que da son casi siempre los que buscabas y ademas de una forma r\u00e1pida y eficaz.<\/p>\n\n<p>Ademas el decir que tenemos que saber lo que buscar antes de buscar... Yo precisamente uso Google cuando ni siquiera se lo que tengo que buscar... es un buscador tan vers\u00e1til y bueno que ni siquiera sabiendo lo que estoy buscando es capaz de resolver todas mis dudas de un plumazo... solo con hacer una b\u00fasqueda al \"tun tun\" para ver que sale...<\/p>\n\n<p>En fin... Como digo no he comprendido muy bien el sentido del articulo, pero lo poco que he entendido la verdad que no me ha gustado mucho... Tal vez porque soy un poco pro-Google, tengo que reconocerlo, pero no creo que sea esa la causa ya que veo que no soy el \u00fanico que lo piensa.<\/p>\n\n<p>Saludos!!!<\/p>","content":"<p>Como dice otro comentario por ah\u00ed, no entiendo muy bien el articulo en si... Pero bueno...<\/p>\n\n<p>Primero decir que el decir (valga la redundancia) que buscar en Google es de d\u00e9biles es una soberana gilipollez...<\/p>\n\n<p>Se busca en Google porque los resultados que da son casi siempre los que buscabas y ademas de una forma r\u00e1pida y eficaz.<\/p>\n\n<p>Ademas el decir que tenemos que saber lo que buscar antes de buscar... Yo precisamente uso Google cuando ni siquiera se lo que tengo que buscar... es un buscador tan vers\u00e1til y bueno que ni siquiera sabiendo lo que estoy buscando es capaz de resolver todas mis dudas de un plumazo... solo con hacer una b\u00fasqueda al \"tun tun\" para ver que sale...<\/p>\n\n<p>En fin... Como digo no he comprendido muy bien el sentido del articulo, pero lo poco que he entendido la verdad que no me ha gustado mucho... Tal vez porque soy un poco pro-Google, tengo que reconocerlo, pero no creo que sea esa la causa ya que veo que no soy el \u00fanico que lo piensa.<\/p>\n\n<p>Saludos!!!<\/p>","karma":"20.00","parent":"0","comment_edited_date":1291161872,"vote_count":"3","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"byhanzo","user_id":"5482","author":"byhanzo","webpage":"https:\/\/byhanzo.wordpress.com","user_name":"byhanzo","karma_level":"30.00","iseditor":"0","global_id":"41630","facebook_uid":null,"index":22,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/41630_7.png"},{"id":"320492","post_id":"58594","date":1291164609,"content_filtered":"<p>Lo pienso yo que no soy muy pro-Google que digamos.<\/p>","content":"Lo pienso yo que no soy muy pro-Google que digamos.","karma":"8.00","parent":"320480","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"Jhonny L\u00f3pez","user_id":"59547","author":"Jhonny L\u00f3pez","webpage":"http:\/\/calamitatum.wordpress.com","user_name":"calamitatum","karma_level":"38.00","iseditor":"0","global_id":"276416","facebook_uid":null,"index":25,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/276416_3.png"},{"id":"320579","post_id":"58594","date":1291229137,"content_filtered":"<p>Yo no estoy seguro de haber entendido y eso que no soy pro-google (no me gusta usar la palabra \"anti\").<\/p>\n\n<p>Creo que hay algo de verdad en la idea aunque el t\u00edtulo y otra serie de cosas est\u00e1 terriblemente mal expresada. Por ejemplo justo ayer o anteayer buscaba enterarme de unos mods de un juego, pens\u00e9 (y de hecho lo hice s\u00f3lo para comprobar) que de buscar en google me topar\u00eda con temas, posts, entradas, etc de sujetos hablando de alg\u00fan mod que se han instalado o que han hecho, a veces sin poner capturas y hasta un post de taringa encontr\u00e9; en su lugar prefer\u00ed irme a youtube y llegu\u00e9 a un video de un sujeto que mostraba casi 50 mods instalados, era justo lo que quer\u00eda y adem\u00e1s hasta pon\u00eda el link para bajar esos y otros Mods (lo cu\u00e1l fue un buen bonus porque para encontrar eso hubiese preferido usar google y de hecho, en mi prueba con google entre los primeros resultados tuve p\u00e1ginas de descarga de Mods).<\/p>\n\n<p>Cuando uno sabe lo que quiere encontrar es claro que puede recurrir a otros sitios pero de ah\u00ed a decir que \"google\" est\u00e1 obsoleto es una tonter\u00eda.<\/p>","content":"Yo no estoy seguro de haber entendido y eso que no soy pro-google (no me gusta usar la palabra \"anti\").\n\nCreo que hay algo de verdad en la idea aunque el t\u00edtulo y otra serie de cosas est\u00e1 terriblemente mal expresada. Por ejemplo justo ayer o anteayer buscaba enterarme de unos mods de un juego, pens\u00e9 (y de hecho lo hice s\u00f3lo para comprobar) que de buscar en google me topar\u00eda con temas, posts, entradas, etc de sujetos hablando de alg\u00fan mod que se han instalado o que han hecho, a veces sin poner capturas y hasta un post de taringa encontr\u00e9; en su lugar prefer\u00ed irme a youtube y llegu\u00e9 a un video de un sujeto que mostraba casi 50 mods instalados, era justo lo que quer\u00eda y adem\u00e1s hasta pon\u00eda el link para bajar esos y otros Mods (lo cu\u00e1l fue un buen bonus porque para encontrar eso hubiese preferido usar google y de hecho, en mi prueba con google entre los primeros resultados tuve p\u00e1ginas de descarga de Mods).\n\nCuando uno sabe lo que quiere encontrar es claro que puede recurrir a otros sitios pero de ah\u00ed a decir que \"google\" est\u00e1 obsoleto es una tonter\u00eda.","karma":"8.00","parent":"320480","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"apolon","user_id":"65031","author":"apolon","webpage":"http:\/\/votame.negativo.fanboy.deprimido","user_name":"apolon","karma_level":"40.00","iseditor":"0","global_id":"305242","facebook_uid":null,"index":55,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/305242_2.png"},{"id":"320669","post_id":"58594","date":1291274695,"content_filtered":"<p>Podria resumirse como:\nGoogle me ayuda a buscar lo que voy a buscar. \nO: \nGoogle me ayuda a saber lo que voy a buscar<\/p>","content":"Podria resumirse como:\nGoogle me ayuda a buscar lo que voy a buscar. \nO: \nGoogle me ayuda a saber lo que voy a buscar","karma":"5.00","parent":"320480","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"0","comment_author":"yayi87","user_id":"63117","author":"","webpage":null,"user_name":"yayi87","karma_level":"25.00","iseditor":"0","global_id":"295120","facebook_uid":null,"index":60,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/295120_1.png"},{"id":"320485","post_id":"58594","date":1291163167,"content_filtered":"<p>Tiene gran sentido, los novatos en la red se van a buscar sea lo que sea en google cuando lo pueden hacer en la pagina donde lo desean encontrar.\nPero para b\u00fasqueda global google es todo, por ejemplo si quieres buscar la definici\u00f3n de algo en varios sitios no te metes a wikipedia o a REA para hacer esa consulta, o para descargar alg\u00fan programa directamente no te metes a buscar en rapidshare ni en megaupload sino a google para ver varias webs con diferentes posts y servidores.\nOtra cosa, acaso los buscadores internos no usan google para sus b\u00fasquedas?\u00bf\nEn fin si sabes donde lo vas a encontrar anda a buscar all\u00e1 directamente, sino dale a Google.<\/p>","content":"<p>Tiene gran sentido, los novatos en la red se van a buscar sea lo que sea en google cuando lo pueden hacer en la pagina donde lo desean encontrar.\nPero para b\u00fasqueda global google es todo, por ejemplo si quieres buscar la definici\u00f3n de algo en varios sitios no te metes a wikipedia o a REA para hacer esa consulta, o para descargar alg\u00fan programa directamente no te metes a buscar en rapidshare ni en megaupload sino a google para ver varias webs con diferentes posts y servidores.\nOtra cosa, acaso los buscadores internos no usan google para sus b\u00fasquedas?\u00bf\nEn fin si sabes donde lo vas a encontrar anda a buscar all\u00e1 directamente, sino dale a Google.<\/p>","karma":"20.00","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"66801","user_id":"66801","author":"","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"317067","facebook_uid":"100001620731340","index":23,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100001620731340\/picture"},{"id":"320495","post_id":"58594","date":1291167697,"content_filtered":"<p>No me parece correcto lo que dicen. Yo uso google para todo incluso para buscar en wikipedia uso google, es mucho m\u00e1s f\u00e1cil que hacerlo desde wikipedia y tambien cuando quiero buscar algo en genbeta uso google. Los buscadores dentro de una p\u00e1gina aun siendo el buscador de google te tiran cualquier cosa en cambio cuando escribes en Google, por ejemplo: \"pdf genbeta\" te tira lo m\u00e1s relevante o al menos lo m\u00e1s relevante para mi.<\/p>\n\n<p>No se ustedes pero a mi no me gustan este tipo de post que vienen haciendo en Genbeta desde hace un muy buen tiempo de que \"uno\" reemplaza al \"otro\" y de que \"tal cosa\" ya pas\u00f3 al olvido.<\/p>","content":"<p>No me parece correcto lo que dicen. Yo uso google para todo incluso para buscar en wikipedia uso google, es mucho m\u00e1s f\u00e1cil que hacerlo desde wikipedia y tambien cuando quiero buscar algo en genbeta uso google. Los buscadores dentro de una p\u00e1gina aun siendo el buscador de google te tiran cualquier cosa en cambio cuando escribes en Google, por ejemplo: \"pdf genbeta\" te tira lo m\u00e1s relevante o al menos lo m\u00e1s relevante para mi.<\/p>\n\n<p>No se ustedes pero a mi no me gustan este tipo de post que vienen haciendo en Genbeta desde hace un muy buen tiempo de que \"uno\" reemplaza al \"otro\" y de que \"tal cosa\" ya pas\u00f3 al olvido.<\/p>","karma":"20.00","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"69430","user_id":"69430","author":"","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"329231","facebook_uid":"100001755549327","index":27,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100001755549327\/picture"},{"id":"320504","post_id":"58594","date":1291177916,"content_filtered":"<p>Respecto al ultimo parrafo:<\/p>\n\n<p>Me gusto mucho la epica batalla de Adobe vs. Apple, con cartas de los CEO y todo. Solo que aqui adobe sabe que tiene las de perder jajajaja. En fin, no nos salgamos del tema.<\/p>","content":"<p>Respecto al ultimo parrafo:<\/p>\n\n<p>Me gusto mucho la epica batalla de Adobe vs. Apple, con cartas de los CEO y todo. Solo que aqui adobe sabe que tiene las de perder jajajaja. En fin, no nos salgamos del tema.<\/p>","karma":"5.50","parent":"320495","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"58513","user_id":"58513","author":"","webpage":"http:\/\/arfotografia.blogspot.com\/","user_name":"aldo.roman","karma_level":"24.00","iseditor":"0","global_id":"270871","facebook_uid":"576128142","index":33,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/576128142\/picture"},{"id":"320653","post_id":"58594","date":1291259685,"content_filtered":"<p>Solo me resta decir: ESTUVO MUY BONITO EL COMERCIAL DE GENBETA FANTASTICO!!! Nunca habia visto un AUTOPROMOCIONAL TAN PADRE, pero mira que comparar a Google con GENBETA eso si fue lo mas divertido que he leido en la vida jajajajajaj!!!<\/p>","content":"<p>Solo me resta decir: ESTUVO MUY BONITO EL COMERCIAL DE GENBETA FANTASTICO!!! Nunca habia visto un AUTOPROMOCIONAL TAN PADRE, pero mira que comparar a Google con GENBETA eso si fue lo mas divertido que he leido en la vida jajajajajaj!!!<\/p>","karma":"15.00","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"ultimateneo","user_id":"21468","author":"","webpage":null,"user_name":"ultimateneo","karma_level":"25.00","iseditor":"0","global_id":"146143","facebook_uid":null,"index":59,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/522edf6e41f78784e9203a2094cb6356"},{"id":"320844","post_id":"58594","date":1291392187,"content_filtered":"<p>Es que no se compara, dice b\u00e1sicamente que es mejor :P<\/p>","content":"Es que no se compara, dice b\u00e1sicamente que es mejor :P","karma":"5.00","parent":"320653","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"58635","user_id":"58635","author":"","webpage":null,"user_name":"pelozo","karma_level":"22.00","iseditor":"0","global_id":"271550","facebook_uid":"1433447065","index":66,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1433447065\/picture"},{"id":"320500","post_id":"58594","date":1291173877,"content_filtered":"<p>Pues mas de una vez he buscado algo en el buscado de la wikipedia y no me ha salido y he puesto lo que quiero buscar mas wikipedia en el google y si que me sale el enlace.Tienes el valor a\u00f1adido que en google te salen las entradas a todos los idiomas de la wikipedia (cuando es una busqueda de algo que no cambia de nombre en ningun idioma obviamente) con lo cual puedes comparar rapidamente.Porque a veces ciertos terminos tecnicos o muy especificos en castellano estan un poco pobres y en ingles estan mas desarrollados<\/p>","content":"Pues mas de una vez he buscado algo en el buscado de la wikipedia y no me ha salido y he puesto lo que quiero buscar mas wikipedia en el google y si que me sale el enlace.Tienes el valor a\u00f1adido que en google te salen las entradas a todos los idiomas de la wikipedia (cuando es una busqueda de algo que no cambia de nombre en ningun idioma obviamente) con lo cual puedes comparar rapidamente.Porque a veces ciertos terminos tecnicos o muy especificos en castellano estan un poco pobres y en ingles estan mas desarrollados","karma":"10.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Fransexy","user_id":"861","author":"Fransexy","webpage":null,"user_name":null,"karma_level":"27.00","iseditor":"0","global_id":"2702","facebook_uid":null,"index":29,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/0b773a8c055d40493ef8faef5ccaa2ed"},{"id":"320518","post_id":"58594","date":1291194134,"content_filtered":"<p>Dame Google y ll\u00e1mame d\u00e9bil<\/p>","content":"<p>Dame Google y ll\u00e1mame d\u00e9bil<\/p>","karma":"10.00","parent":"0","comment_edited_date":1291194151,"vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"chivotario","user_id":"59985","author":"","webpage":null,"user_name":"chivotario","karma_level":"25.00","iseditor":"0","global_id":"277849","facebook_uid":null,"index":41,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/277849_1.png"},{"id":"320520","post_id":"58594","date":1291195084,"content_filtered":"<p>Toma Google, debil<\/p>","content":"<p>Toma Google, debil<\/p>","karma":"-75.00","parent":"320518","comment_edited_date":"","vote_count":"7","comment_level":4,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"River Lap","user_id":"48466","author":"River Lap","webpage":"http:\/\/formula-f.com","user_name":"riverlap","karma_level":"24.00","iseditor":"0","global_id":"235123","facebook_uid":"100001122943941","index":43,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/100001122943941\/picture"},{"id":"320502","post_id":"58594","date":1291177388,"content_filtered":"<p>Hacer una b\u00fasqueda en Internet es como buscar una casa o un auto o una PC: debes saber buscar y debes saber encontrar.<\/p>\n\n<p>Puedes hacerlo con un agente, con una revista, un peri\u00f3dico o lo que desees, pero debes tener un favorito desde el cual guiarte ;) mas NUNCA descartar a los otros. Y, por supuesto, uno SIEMPRE acaba desarrollando habilidades para tener un resultado Bueno, Bonito y Barato (o r\u00e1pido, como se dir\u00eda por ac\u00e1). Por eso surgen gu\u00edas del tipo \"Como buscar en Google\".<\/p>\n\n<p>En fin, saludos y suerte con las busquedas en Genbeta :-)\nAl93<\/p>","content":"Hacer una b\u00fasqueda en Internet es como buscar una casa o un auto o una PC: debes saber buscar y debes saber encontrar.\n\nPuedes hacerlo con un agente, con una revista, un peri\u00f3dico o lo que desees, pero debes tener un favorito desde el cual guiarte ;) mas NUNCA descartar a los otros. Y, por supuesto, uno SIEMPRE acaba desarrollando habilidades para tener un resultado Bueno, Bonito y Barato (o r\u00e1pido, como se dir\u00eda por ac\u00e1). Por eso surgen gu\u00edas del tipo \"Como buscar en Google\".\n\nEn fin, saludos y suerte con las busquedas en Genbeta :-)\nAl93","karma":"8.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"58513","user_id":"58513","author":"","webpage":"http:\/\/arfotografia.blogspot.com\/","user_name":"aldo.roman","karma_level":"24.00","iseditor":"0","global_id":"270871","facebook_uid":"576128142","index":31,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/576128142\/picture"},{"id":"320507","post_id":"58594","date":1291181563,"content_filtered":"<p>Ahora cuando pongo \"Buscar en Google es de debiles\" me sale el articulo de Genbeta o paginas que fiinalmente me acaban redireccionanado aqui,XD<\/p>","content":"<p>Ahora cuando pongo \"Buscar en Google es de debiles\" me sale el articulo de Genbeta o paginas que fiinalmente me acaban redireccionanado aqui,XD<\/p>","karma":"8.00","parent":"0","comment_edited_date":1291181650,"vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Left My Dead","user_id":"46902","author":"Left My Dead","webpage":null,"user_name":"netbookero","karma_level":"27.00","iseditor":"0","global_id":"92133","facebook_uid":null,"index":34,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/92133_2.png"},{"id":"320516","post_id":"58594","date":1291193355,"content_filtered":"<p>El buscador de v\u00eddeos de youtube es una mierda pinch\u00e1 en un palo. Nada m\u00e1s que a\u00f1adir.<\/p>","content":"El buscador de v\u00eddeos de youtube es una mierda pinch\u00e1 en un palo. Nada m\u00e1s que a\u00f1adir.","karma":"8.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Jose Maria Garcia","user_id":"62759","author":"Jose Maria Garcia","webpage":null,"user_name":null,"karma_level":"22.00","iseditor":"0","global_id":"213640","facebook_uid":null,"index":40,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/623cae9b56f4f99e8c76910b3a0f6bcc"},{"id":"320471","post_id":"58594","date":1291160124,"content_filtered":"<p>Pues un consejo, para buscar en cualquier sitio sin necesidad de entrar al sitio en cuesti\u00f3n: \n<strong>YubNub<\/strong>. <\/p>\n\n<p>Ahorra mucho tiempo y es muy vers\u00e1til.\n<a href=\"\" rel=\"nofollow\">http:\/\/yubnub.org\/<\/a><\/p>","content":"Pues un consejo, para buscar en cualquier sitio sin necesidad de entrar al sitio en cuesti\u00f3n: \n<strong>YubNub<\/strong>. \n\nAhorra mucho tiempo y es muy vers\u00e1til.\n<a href>http:\/\/yubnub.org\/","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"64165","user_id":"64165","author":"","webpage":null,"user_name":"carlesba","karma_level":"22.00","iseditor":"0","global_id":"196962","facebook_uid":"1644848101","index":16,"avatar_type":"facebook","avatar_link":"https:\/\/graph.facebook.com\/1644848101\/picture"},{"id":"320473","post_id":"58594","date":1291160252,"content_filtered":"<p>En la parte de \"<em>...o simplemente quieres informaci\u00f3n de la ciudad a la que se es\u00e1 dirigiendo tu tren.<\/em>\" pusiste es\u00e1 en vez de esT\u00e1.<\/p>","content":"En la parte de \"<em>...o simplemente quieres informaci\u00f3n de la ciudad a la que se es\u00e1 dirigiendo tu tren.<\/em>\" pusiste es\u00e1 en vez de esT\u00e1.","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"Brian Cohen","user_id":"69112","author":"Brian Cohen","webpage":"http:\/\/youtube.com\/brianx1207","user_name":"brianx1207","karma_level":"25.00","iseditor":"0","global_id":"327790","facebook_uid":"1503130594","index":18,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/327790_1.png"},{"id":"320476","post_id":"58594","date":1291160715,"content_filtered":"<p>A la pregunta \"la mejor helader\u00eda de M\u00e1laga\" antes de busca, Heladeria Inma, quien no haya tenido el placer de degustar un helado de esta, no sabe lo que son los helados...<\/p>\n\n<p>Curioso cuanto menos la mencion de Miguel<\/p>","content":"A la pregunta \"la mejor helader\u00eda de M\u00e1laga\" antes de busca, Heladeria Inma, quien no haya tenido el placer de degustar un helado de esta, no sabe lo que son los helados...\n\nCurioso cuanto menos la mencion de Miguel","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"k0br4","user_id":"69418","author":"","webpage":null,"user_name":"k0br4","karma_level":"50.00","iseditor":"0","global_id":"305977","facebook_uid":null,"index":19,"avatar_type":"gravatar","avatar_link":"http:\/\/www.gravatar.com\/avatar\/7767fd5039a5b563b55e87cf780cb10f"},{"id":"320580","post_id":"58594","date":1291229848,"content_filtered":"<p>En mi caso puedo utilizar buscadores m\u00e1s espec\u00edficos dependiendo de lo que quiera buscar,  pero no creo que lo importante sea tener que buscar informaci\u00f3n filtrada si puedo acceder mas f\u00e1cil desde google buscando informaci\u00f3n sin filtrar, a veces parecer\u00eda que la eficiencia del sistema es m\u00e1s improtante que la facilidad de uso o la comodidad del usuario, concluyendo: si se te canta usar google, us\u00e1 google que no por eso vas a ser un principiante!!!<\/p>","content":"En mi caso puedo utilizar buscadores m\u00e1s espec\u00edficos dependiendo de lo que quiera buscar,  pero no creo que lo importante sea tener que buscar informaci\u00f3n filtrada si puedo acceder mas f\u00e1cil desde google buscando informaci\u00f3n sin filtrar, a veces parecer\u00eda que la eficiencia del sistema es m\u00e1s improtante que la facilidad de uso o la comodidad del usuario, concluyendo: si se te canta usar google, us\u00e1 google que no por eso vas a ser un principiante!!!","karma":"5.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"jaragues","user_id":"69503","author":"","webpage":null,"user_name":"jaragues","karma_level":"25.00","iseditor":"0","global_id":"309202","facebook_uid":null,"index":56,"avatar_type":"wsl","avatar_link":"http:\/\/img.weblogssl.com\/avatar\/mini\/309202_1.png"}],"meta":{"more_records":"true","start":0,"total":50,"order":"valued","totalCount":73},"commentStatus":"closed"});
+
+	window.App = new AML.Comments.Application(58594, commentList);
+	Backbone.history.start();
+      });
+    </script>
+
+  <!-- Comments and Other Stuff -->
+
+  <div id="ad-bottom" class="ad ad-boton">
+  <a class="ad-contact" id="div-gpt-bot-contact" style="display:none" href="http://socialmediasl.com/genbeta.php">Publicidad</a>
+    <div id='div-gpt-bot' class="ad-box" style='width: 728px;'>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("div-gpt-bot");
+    });
+    </script>
+    </div>
+</div>
+
+  <!-- .ad - boton -->
+  <div class="sidebar-seo-links">
+    <h4>Más en Genbeta</h4>
+    <ul>
+              <li>
+          <a  href="/navegadores/chrome-33-para-windows-solo-permitira-instalar-extensiones-desde-chrome-web-store" class="thumb80">
+            <img title="Chrome 33 para Windows sólo permitirá instalar extensiones desde Chrome Web Store" src="http://img.genbeta.com/tb/80_80/110920.jpg" alt="Chrome 33 para Windows sólo permitirá instalar extensiones desde Chrome Web Store">
+          </a>
+          <a  href="/navegadores/chrome-33-para-windows-solo-permitira-instalar-extensiones-desde-chrome-web-store">
+            Chrome 33 para Windows sólo permitirá instalar extensiones desde Chrome Web Store
+          </a>
+        </li>
+              <li>
+          <a  href="/web/quien-te-ha-visto-y-quien-te-ve-google-la-imagen-de-la-semana" class="thumb80">
+            <img title="Quién te ha visto y quién te ve, Google. La imagen de la semana " src="http://img.genbeta.com/tb/80_80/110803.jpg" alt="Quién te ha visto y quién te ve, Google. La imagen de la semana ">
+          </a>
+          <a  href="/web/quien-te-ha-visto-y-quien-te-ve-google-la-imagen-de-la-semana">
+            Quién te ha visto y quién te ve, Google. La imagen de la semana 
+          </a>
+        </li>
+              <li>
+          <a  href="/actualidad/google-condenado-en-francia-a-verguenza-publica" class="thumb80">
+            <img title="Google condenado en Francia a vergüenza pública " src="http://img.genbeta.com/tb/80_80/110796.jpg" alt="Google condenado en Francia a vergüenza pública ">
+          </a>
+          <a  href="/actualidad/google-condenado-en-francia-a-verguenza-publica">
+            Google condenado en Francia a vergüenza pública 
+          </a>
+        </li>
+              <li>
+          <a  href="/web/cuanto-dinero-da-escoger-el-azul-adecuado-para-los-enlaces-a-google-200-millones" class="thumb80">
+            <img title="¿Cuánto dinero da escoger el azul adecuado para los enlaces? A Google, 200 millones" src="http://img.genbeta.com/tb/80_80/110728.jpg" alt="¿Cuánto dinero da escoger el azul adecuado para los enlaces? A Google, 200 millones">
+          </a>
+          <a  href="/web/cuanto-dinero-da-escoger-el-azul-adecuado-para-los-enlaces-a-google-200-millones">
+            ¿Cuánto dinero da escoger el azul adecuado para los enlaces? A Google, 200 millones
+          </a>
+        </li>
+              <li>
+          <a  href="/multimedia/youtube-ha-pagado-hasta-la-fecha-mil-millones-de-dolares-a-la-industria-musical" class="thumb80">
+            <img title="YouTube ha pagado hasta la fecha mil millones de dólares a la industria musical " src="http://img.genbeta.com/tb/80_80/110669.jpg" alt="YouTube ha pagado hasta la fecha mil millones de dólares a la industria musical ">
+          </a>
+          <a  href="/multimedia/youtube-ha-pagado-hasta-la-fecha-mil-millones-de-dolares-a-la-industria-musical">
+            YouTube ha pagado hasta la fecha mil millones de dólares a la industria musical 
+          </a>
+        </li>
+          </ul>
+</div>
+<!-- related-posts SEO links-->
+       
+    </div>
+  <!-- .container -->
+  </div>
+  <!-- .content-dinamic -->
+
+  <div class= "nav nav-blog">
+  <div class= "container">
+    <h2><strong>&#43;</strong> en Genbeta</h2>
+    <ul>
+      <li class= "blog-section section-lomejor"><a href="/lomejor">Lo mejor</a></li>
+      <li class= "blog-section section-temas"><a href="/archivos">Temas</a></li>
+            <li class= "blog-section section-productos"><a href="/productos">Productos</a></li>
+                  <li class= "blog-section section-respuestas"><a href="/respuestas">Respuestas</a></li>
+            
+            <li class="blog-section section-club"><a href="/club">Club</a></li>
+            <li class= "blog-section section-comunidad"><a href="/comunidad">Comunidad</a></li>
+      <li class="blog-section section-staff"><a href="/quienes-somos">Staff</a></li>
+    </ul>
+  </div>
+</div>
+  
+<div class="footer">
+        <div class="footer-media">
+                <div class="links-category">
+            <h2>Tecnología</h2>
+            <ul>
+                              <li class="tec-xataka"><a href="http://www.xataka.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka<span></span></a></li>
+                              <li class="tec-xatakamovil"><a href="http://www.xatakamovil.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Móvil<span></span></a></li>
+                              <li class="tec-xatakafoto"><a href="http://www.xatakafoto.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Foto<span></span></a></li>
+                              <li class="tec-xatakandroid"><a href="http://www.xatakandroid.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Android<span></span></a></li>
+                              <li class="tec-xatakaon"><a href="http://www.xatakaon.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka On<span></span></a></li>
+                              <li class="tec-xatakahome"><a href="http://www.xatakahome.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Smart Home<span></span></a></li>
+                              <li class="tec-xatakawindows"><a href="http://xatakawindows.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Windows<span></span></a></li>
+                              <li class="tec-xatakaciencia"><a href="http://www.xatakaciencia.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Ciencia<span></span></a></li>
+                              <li class="tec-applesfera"><a href="http://www.applesfera.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Applesfera<span></span></a></li>
+                              <li class="tec-vidaextra"><a href="http://www.vidaextra.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vida Extra<span></span></a></li>
+                              <li class="tec-genbeta"><a href="http://www.genbeta.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Genbeta<span></span></a></li>
+                              <li class="tec-genbetadev"><a href="http://www.genbetadev.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Genbeta Dev<span></span></a></li>
+                          </ul>
+        </div>
+            </div>
+    
+    <div class="footer-links">
+                        <div class="links-category">
+            <h2>Estilos de vida</h2>
+            <ul>
+                              <li><a href="http://www.trendencias.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias</a></li>
+                              <li><a href="http://www.trendenciasbelleza.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Belleza</a></li>
+                              <li><a href="http://www.trendenciashombre.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Hombre</a></li>
+                              <li><a href="http://www.trendenciasshopping.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Shopping</a></li>
+                              <li><a href="http://www.trendenciaslifestyle.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Lifestyle</a></li>
+                              <li><a href="http://www.directoalpaladar.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Directo al Paladar</a></li>
+                              <li><a href="http://www.bebesymas.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bebés y Más</a></li>
+                              <li><a href="http://www.pequesymas.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Peques y Más</a></li>
+                              <li><a href="http://www.vitonica.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vitónica</a></li>
+                              <li><a href="http://www.decoesfera.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Decoesfera</a></li>
+                              <li><a href="http://www.embelezzia.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Embelezzia</a></li>
+                              <li><a href="http://www.ambienteg.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ambiente G</a></li>
+                              <li><a href="http://www.poprosa.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Poprosa</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Motor</h2>
+            <ul>
+                              <li><a href="http://www.motorpasion.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión</a></li>
+                              <li><a href="http://www.motorpasionf1.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión F1</a></li>
+                              <li><a href="http://www.motorpasionmoto.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Moto</a></li>
+                              <li><a href="http://www.motorpasionfuturo.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Futuro</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Ocio</h2>
+            <ul>
+                              <li><a href="http://www.blogdecine.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog de Cine</a></li>
+                              <li><a href="http://www.vayatele.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">¡Vaya Tele!</a></li>
+                              <li><a href="http://www.hipersonica.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Hipersónica</a></li>
+                              <li><a href="http://www.diariodelviajero.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Diario del Viajero</a></li>
+                              <li><a href="http://www.papelenblanco.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Papel en Blanco</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Economía</h2>
+            <ul>
+                              <li><a href="http://www.elblogsalmon.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">El Blog Salmón</a></li>
+                              <li><a href="http://www.pymesyautonomos.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Pymes y Autónomos</a></li>
+                              <li><a href="http://www.tecnologiapyme.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Tecnología Pyme</a></li>
+                              <li><a href="http://www.ahorrodiario.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ahorro Diario</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Latinoamérica</h2>
+            <ul>
+                              <li><a href="http://www.xataka.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Brasil</a></li>
+                              <li><a href="http://www.trendencias.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Trendencias Brasil</a></li>
+                              <li><a href="http://www.motorpasion.com.br/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión Brasil</a></li>
+                              <li><a href="http://www.xataka.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka México</a></li>
+                              <li><a href="http://www.motorpasion.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Motorpasión México</a></li>
+                              <li><a href="http://www.directoalpaladar.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Directo Al Paladar México</a></li>
+                              <li><a href="http://www.xatakandroid.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Xataka Android México</a></li>
+                              <li><a href="http://www.vidaextra.com.mx/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Vida Extra México</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                <div class="links-category">
+            <h2>Participamos en</h2>
+            <ul>
+                              <li><a href="http://www.ebayers.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">eBayers</a></li>
+                              <li><a href="http://www.circulaseguro.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Circula Seguro</a></li>
+                              <li><a href="http://www.circulaseguro.pt/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Circula Seguro PT</a></li>
+                              <li><a href="http://www.actibva.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Actibva</a></li>
+                              <li><a href="http://www.anexom.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Anexo M</a></li>
+                              <li><a href="http://blog.cocacola.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Happing Magazine</a></li>
+                              <li><a href="http://blog.sage.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog Sage</a></li>
+                              <li><a href="http://www.optimismodigital.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Optimismo Digital</a></li>
+                              <li><a href="http://www.1001experiencias.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">1001 Experiencias</a></li>
+                              <li><a href="http://www.ennaranja.com/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">En Naranja</a></li>
+                              <li><a href="http://www.essieblog.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Essie Blog</a></li>
+                              <li><a href="http://blogginzenith.zenithmedia.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bloggin Zenith</a></li>
+                              <li><a href="http://www.urbanfire.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Urbanfire</a></li>
+                              <li><a href="http://www.tecnologiadetuatu.elcorteingles.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Tecnología de tú a tú</a></li>
+                              <li><a href="http://www.ciudadano00.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Ciudadano 0,0</a></li>
+                              <li><a href="http://blogfanta.cocacola.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Blog Fanta</a></li>
+                              <li><a href="http://mimundo.philips.es/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Mi Mundo Philips</a></li>
+                              <li><a href="http://www.bbvacontuempresa.es?utm_source=genbeta&utm_medium=network&utm_campaign=footer">BBVA con tu empresa</a></li>
+                              <li><a href="http://www.perutravelblog.net/?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Perú Travel Blog</a></li>
+                              <li><a href="http://bscene.bershka.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Bershka Bscene</a></li>
+                              <li><a href="http://www.institutodelafelicidad.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer">Instituto de la Felicidad</a></li>
+                              
+            </ul>
+        </div>
+        <!-- .links-category -->
+                    </div>
+</div>
+
+<div class="closure">
+    <div class="container">
+        <div class="weblogssl"><a href="http://www.weblogssl.com">Weblogs SL<span></span></a></div>
+        <ul class="nav">
+            <li><a href="/quienes-somos">¿Quienes somos?</a></li>
+            <li><a href="http://www.weblogssl.com/contenidos">Condiciones de uso</a></li>
+            <li><a href="http://www.weblogssl.com/cookies">Política de cookies</a></li>
+            <li><a href="http://www.weblogssl.com/aviso">Aviso legal</a></li>
+            <li><a title="Publicidad en Genbeta" href="http://www.socialmediasl.com/genbeta.php">Publicidad</a></li>
+            <li><a href="/ayuda-2012">Ayuda</a></li>
+            <li><a href="/contacto">Contacto</a></li>
+        </ul>
+    </div>
+</div>
+
+<div id="cookies-overlay"></div>
+
+  <script type="text/javascript">
+    $(function() {
+      new AML.Auth.View.CookiesOverlayView;
+    });
+  </script>
+
+</div>
+<div id="favicons-list">
+
+    <div class="userbar">
+        <a class="head-shortcut" href="#body" title="Volver arriba">&uarr;</a>
+        <div class="userbox" id="wsl_userbox">
+        </div>
+
+        <div class="favicons" style="width: auto; ">
+
+            <div id="scroll-menu">
+
+                <div class="disabledHotSpotLeft">«</div>
+                <div class="disabledHotSpotRight">»</div>
+                <div class="scrollingHotSpotLeft">«</div>
+                <div class="scrollingHotSpotRight">»</div>
+
+                <div class="scrollWrapper">
+                    <div class="scrollableArea">
+
+                        <ul class="favicroll">
+                            <li id="wsl"><a target="_top" href="http://www.weblogssl.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><em><strong>Blog corporativo</strong></em></a></li>
+
+                            <li><a target="_top" href="http://www.xataka.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b1"><strong>XTK</strong></span> <em><strong>Xataka - Gadgets y electrónica de consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vidaextra.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b2"><strong>VX</strong></span> <em><strong>VidaExtra - Videojuegos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.blogdecine.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b3"><strong>BDC</strong></span> <em><strong>Blog de cine - Cine  y críticas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.elblogsalmon.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b5"><strong>EBS</strong></span> <em><strong>El Blog Salmón - Economía y finanzas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.genbeta.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b6"><strong>GBT</strong></span> <em><strong>Genbeta - Software</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasion.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b7"><strong>MP</strong></span> <em><strong>MotorPasión - Coches y motor</strong></em></a></li>
+                            <li><a target="_top" href="http://www.directoalpaladar.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b8"><strong>DAP</strong></span> <em><strong>Directo al paladar - Gastronomía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.bebesymas.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b9"><strong>BYM</strong></span> <em><strong>Bebés y más - Todo sobre bebés</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vayatele.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b11"><strong>VYT</strong></span> <em><strong>¡Vaya Tele! - Series y televisión</strong></em></a></li>
+                            <li><a target="_top" href="http://www.diariodelviajero.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b12"><strong>DDV</strong></span> <em><strong>Diario del viajero - Viajes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakaciencia.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b13"><strong>XCI</strong></span> <em><strong>Xataka Ciencia - Ciencia</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendencias.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b14"><strong>TRE</strong></span> <em><strong>Trendencias - Moda y tendencias</strong></em></a></li>
+                            <li><a target="_top" href="http://www.hipersonica.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b15"><strong>HIP</strong></span> <em><strong>HiperSónica - Música</strong></em></a></li>
+                            <li><a target="_top" href="http://www.applesfera.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b16"><strong>APP</strong></span> <em><strong>Applesfera - Apple</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasshopping.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b17"><strong>COM</strong></span> <em><strong>Trendencias Shopping - Compras y consumo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakamovil.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b18"><strong>XTM</strong></span> <em><strong>Xataka Móvil - Móviles</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ambienteg.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b19"><strong>AMG</strong></span> <em><strong>Ambiente G - Gays y lesbianas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionmoto.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b20"><strong>MMO</strong></span> <em><strong>Motorpasión Moto - Motos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.papelenblanco.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b21"><strong>PEB</strong></span> <em><strong>Papel en blanco - Literatura</strong></em></a></li>
+                            <li><a target="_top" href="http://www.decoesfera.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b22"><strong>DEC</strong></span> <em><strong>Decoesfera - Decoración e interiorismo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.motorpasionf1.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b23"><strong>MF1</strong></span> <em><strong>Motorpasión F1 - Carreras</strong></em></a></li>
+                            <li><a target="_top" href="http://www.vitonica.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b24"><strong>VIT</strong></span> <em><strong>Vitónica - Vida sana</strong></em></a></li>
+                            <li><a target="_top" href="http://www.embelezzia.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b25"><strong>EMB</strong></span> <em><strong>Embelezzia - Lujo</strong></em></a></li>
+                            <li><a target="_top" href="http://www.poprosa.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b26"><strong>POP</strong></span> <em><strong>Poprosa - Famosos</strong></em></a></li>
+                            <li><a target="_top" href="http://www.xatakafoto.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b27"><strong>XTF</strong></span> <em><strong>Xataka Foto - Fotografía</strong></em></a></li>
+                            <li><a target="_top" href="http://www.pymesyautonomos.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b28"><strong>PYA</strong></span> <em><strong>Pymes y autónomos - Pymes</strong></em></a></li>
+                            <li><a target="_top" href="http://www.trendenciasbelleza.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b30"><strong>TRB</strong></span> <em><strong>Trendencias Belleza - Belleza y cosmética</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.tecnologiapyme.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b34"><strong>TPY</strong></span> <em><strong>Tecnología Pyme - Tecnología para empresas</strong></em></a></li>
+                            <li><a target="_top" href="http://www.ahorrodiario.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b35"><strong>AHD</strong></span> <em><strong>Ahorro Diario - Ahorro</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciashombre.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b36"><strong>TRH</strong></span> <em><strong>Trendencias Hombre - Moda y estilo masculino</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.pequesymas.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b37"><strong>PEQ</strong></span> <em><strong>Peques y más - Niños e infancia</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakaon.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b39"><strong>XTO</strong></span> <em><strong>Xataka On - Todo sobre conectividad, ADSL</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.xatakandroid.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b40"><strong>XTA</strong></span> <em><strong>Xataka Android - Android, aplicaciones y dispositivos</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.genbetadev.com/?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b41"><strong>GBD</strong></span> <em><strong>Genbeta Dev - Desarrollo de software</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.motorpasionfuturo.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b42"><strong>MPF</strong></span> <em><strong>Motorpasión Futuro - Innovación y Motor</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakahome.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b44"><strong>XSH</strong></span> <em><strong>Xataka Smart Home - Inteligencia doméstica digital</strong></em></a></li>
+                            <li class="big end"><a target="_top" href="http://www.xatakawindows.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b45"><strong>XTW</strong></span> <em><strong>Xataka Windows - Universo Microsoft</strong></em></a></li>
+                            <li class="end"><a target="_top" href="http://www.trendenciaslifestyle.com?utm_source=genbeta&amp;utm_medium=network&amp;utm_campaign=favicons"><span id="b46"><strong>TLS</strong></span> <em><strong>Trendencias Lifestyle</strong></em></a></li>
+                        </ul>
+
+                    </div>
+                </div>
+                <!-- .scrollWrapper-->
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<div id="wsl_dialog"></div>
+<script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', function() {
+  try {
+    if (window.external.msIsSiteMode()) {
+      window.external.msSiteModeClearJumpList();
+      window.external.msSiteModeCreateJumplist('Mensajes Recientes');
+            window.external.msSiteModeAddJumpListItem('Office\x20para\x20iPad,\x20m\u00E1s\x20pronto\x20que\x20tarde\x3A\x20para\x20la\x20primera\x20mitad\x20de\x202014', 'http://www.genbeta.com/ofimatica/office-para-ipad-mas-pronto-que-tarde-para-la-primera-mitad-de-2014', '');
+            window.external.msSiteModeAddJumpListItem('Bittorrent\x20Live,\x20el\x20streaming\x20P2P,\x20llegar\u00E1\x20pronto\x20a\x20los\x20m\u00F3viles\x20', 'http://www.genbeta.com/multimedia/bittorrent-live-el-streaming-p2p-llegara-pronto-a-los-moviles', '');
+            window.external.msSiteModeAddJumpListItem('La\x20hipocres\u00EDa\x20de\x20algunos\x20medios\x20tradicionales.\x20La\x20imagen\x20de\x20la\x20semana\x20', 'http://www.genbeta.com/actualidad/la-hipocresia-de-algunos-medios-tradicionales-la-imagen-de-la-semana', '');
+            window.external.msSiteModeAddJumpListItem('\x22Tasa\x20Google\x22\x3A\x20si\x20tienes\x20un\x20blog\x20tambi\u00E9n\x20te\x20afecta,\x20solo\x20que\x20otros\x20la\x20cobrar\u00E1n\x20por\x20ti\x20', 'http://www.genbeta.com/actualidad/tasa-google-si-tienes-un-blog-tambien-te-afecta-solo-que-otros-la-cobraran-por-ti', '');
+            window.external.msSiteModeAddJumpListItem('Kickstarter,\x20tras\x20sufrir\x20un\x20ataque,\x20recomienda\x20cambiar\x20contrase\u00F1as\x20', 'http://www.genbeta.com/web/kickstarter-tras-sufrir-un-ataque-recomienda-cambiar-contrasenas', '');
+            window.external.msSiteModeShowJumpList();
+    }
+  } catch (exp) {
+    // do nothing
+  }
+  });
+</script>
+
+
+<script type='text/javascript'>
+    (function() {
+      new ViceVersaLink("http://t.genbeta.com");
+    })();
+</script>
+
+<script type='text/javascript'>
+  window.onerror = function(message, file, line) {
+    var sFormattedMessage = '[' + file + ' (' + line + ')] ' + message;
+    _gaq.push(['_trackEvent', 'Errors', 'Browser', sFormattedMessage, null, true]);
+  }
+    
+</script>
+
+</body>
+</html>
