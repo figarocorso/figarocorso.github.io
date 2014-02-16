@@ -54,10 +54,8 @@ links:
 
 projects:
     - title: Autofocus blog
-#      url: /blog/
-      url: http://blog.migueljulian.com/
-      description: "Blog personal donde busco automotivarme para no caer en la rutina del día a día. Por ahora es un enlace externo..."
-      external: true
+      url: /blog/
+      description: "Blog personal donde busco automotivarme para no caer en la rutina del día a día."
     - title: Artículos
       url: /articles/
       description: "Artículos que han sido publicados por diversos medios."
