@@ -1,0 +1,67 @@
+---
+author: miky
+comments: true
+date: 2010-02-15 20:30:38+00:00
+layout: post
+slug: yubnub
+title: YubNub
+categories: day-by-day
+---
+
+Un día llegó a mi vida. Y en un [post](http://www.dosidiotas.com/2009/09/mejora-tu-windows/) prometí hacer una review. Podría hacer un post muy largo al estilo de los blogs que me iluminan de vez en cuando. Pero a mi me gustan las cosas trilladas. La gente que me conoce sabe que, cuando algo me gusta e insisto, es que agua lleva. Y este es el caso de Yubnub. La gente lo tiene integrado con Quicksilver, como un Bookmarklet, … Pero yo lo utilizo simplemente remplazando a Google como mi buscador favorito de Firefox.
+
+ 
+
+Los antecedentes son claros. Una lista de sitios en los que una y otra vez hago búsquedas (lo que viene siendo un “¿para qué uso internet?”:
+
+ 
+
+Google, Google Maps, Google Imágenes, Wikipedia (inglesa y española), Flickr, IMDB, taringa/vagos, traducción de textos, el diccionario de la RAE (y poco más).
+
+ 
+
+Para hacer cualquiera de esas cosas excepto la primera, tienes que ir a la web, que cargue y luego hacer la búsqueda (o eso, o tienes Bookmarklets, como yo tenía con Google Images, IMDB o la RAE), pero con Yubnub la cosa sería muy simple. Porque es un buscador que busca en los sitios donde le dices. Voy a buscar información sobre una vaca:
+
+ 
+
+  
+  * g vaca => Googlea.
+   
+  * gim vaca => Google Images de una vaca.
+   
+  * gm vaca => No creo que salga la casa de la madre de las vacas, pero lo busca en gMaps.
+   
+  * imdb vaca => ¿Habrá pelis de vacas? ¿Qué puntuación tendrán?
+   
+  * rae vaca => afortunadamente no dudo con esta palabra.
+   
+  * wpes => la wikipedia española nos dirá todo.
+   
+  * wpen => seguramente la wiki inglesa no nos diga nada.
+   
+  * sp2en vaca => y nos dirá "cow” con wordreference.
+ 
+
+Todo esto (y muchos más) al alcance de un clic, a mi me parece eficaz, rápido y directo. No entiendo como alguien que navegue mucho lo puede probar y no le guste. Es cierto que al principio te equivocas, que no le sacas todo el jugo que tiene (el tema delicious + google + wikipeda puede ser bestial (sobretodo con el comando que veía hoy en [thinkwasabi](http://thinkwasabi.com/2010/02/busca-varias-webs-yubnub/) de “mash2 vaca –cmd g wpes del”.
+
+ 
+
+Puedo decir sin temor a equivocarme que es una herramienta que ha revolucionado mi forma de navegar. Incluso de pensar o de solucionar problemas. Descubriendo infinidad de herramientas (imágenes con cc en flickr “flcc”, “taringa!”).
+
+ 
+
+Como este post tenía que ser rápido:
+
+ 
+
+  
+  * Página de instalación: [Instalación de Yubnub](http://yubnub.org/documentation/describe_installation)
+   
+  * [Agregar al motor de búsqueda de Firefox](http://mycroft.mozdev.org/jsreq.html)
+ 
+
+Por cierto, el comando “ls” busca dentro de yubnub por otros comandos. Es decir “ls flickr” nos dirá qué búsquedas podremos hacer con flickr, muy útil cuando dices “me vendría bien que esto estuviera”. ¡Y está!
+
+ 
+
+Si lo pruebas y no te gusta…te entiendo. Pero si lo pruebas y te gusta…acepto un convite, que ya debo unos cuantos ^_^

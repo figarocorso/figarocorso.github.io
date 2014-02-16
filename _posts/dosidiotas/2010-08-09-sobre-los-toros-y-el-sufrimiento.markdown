@@ -1,0 +1,37 @@
+---
+author: miky
+comments: true
+date: 2010-08-09 20:54:48+00:00
+layout: post
+slug: sobre-los-toros-y-el-sufrimiento
+title: Sobre los toros y el sufrimiento
+categories: day-by-day
+---
+
+Es un tema que creo que tardará unos cuantos años en cerrarse. Y supongo que hoy en día las posturas son irreconciliables.
+
+En contra de las corridas de toros se posicionan con el **sufrimiento del animal por bandera**. Y la verdad es que me parece una razón suficiente como para cerrarse ante esta tradición, fiesta o arte. Por algún lado escuché en alguna conversación que se habían estipulado hace bastantes años una especie de copia de los derechos humanos, pero adaptados para tener una especie de **derechos primates**. Comentas que pegar a un mono es muy divertido y todo el mundo te dice que es inhumano. Y quien no te lo dice...se lleva un punto negativo en su cuenta. ¿Por qué ha de ser diferente? De hecho las expresiones y sentimientos que parecen tener los primates nos conmueven dada nuestra cercanía evolutiva.
+![](http://www.losarchivosdelatierra.com/storage/fotos/Chimps%20mourning.jpg?__SQUARESPACE_CACHEVERSION=1257255577090)
+
+Pero ahora voy yo y defiendo las corridas de toros.
+Lo he defendido en muchas ocasiones. Y esta vez no va a ser diferente. Voy a dejar atrás tradición, arte (quien no sepa ver (o siquiera intuir) arte (o plasticidad) en una corrida de rejones...), fiesta naciona, pinturas de Picasso, Goya y valentía de los toreros. También dejaré atrás el hecho de que (doy por supuesto) la mayoría de la gente que critica las corridas de toros no habrá visto muchas tardes (dudo que haya visto una entera). Que no haya recibido "herencia cultural" acerca de lo que ahí abajo está pasando. También dejaré atrás los comentarios del estilo "me alegro cuando cogen a un torero" u "ojalá lo hubiera matado"; comentarios que no hacen más que acercarse a un punto de vista inhumano, egoista, terrorista, vengativo y pueril.
+
+Así pues, me voy a centrar en tres aspectos:
+
+
+  * **Sufrimiento:** Mucha gente reduce el periodo de sufrimiento de los toros a los 15 minutos que es lidiado. Eso es mentira. El toro sufre desde el momento en el que es trasladado de los pastos de su ganadería. Cierto es que durante 15 minutos sufre heridas. También es cierto que ninguna de las heridas que recibe (excepto la estocada, descabello y puntilla) suele ser mortal, ya que los toros indultados normalmente logran sanar sus heridas y pasar a una verdadera mejor vida (de sementales). No soy veterinario y no puedo juzgar el dolor que sufre el astado (y no entraré en el debate del cortisol segregado pre-lidia y durante la lidia). Pero **vamos a aprender un poquito, ¿no?**
+Durante la lidia supongo que recibir el toro con el capote no debe alejarse mucho de un juego. Después de herido el toro es toreado con la muleta, el toro ahí tampoco es maltratado (si no fuera ya herido, claro). Y para poner fin, el animal se mata con una estocada (los pinchazos creo que son incluso menos tortura que un puyazo); esta suerte, aunque seguramente más lenta la puedo asemejar con la caza de cualquiera animal. Las banderillas son arpones de 13 milímetros que se clavan. Desde luego que "destrozan" la zona donde se colocan, pero supongo que no deben molestar mucho al toro porque cuando están mal colocadas el toro se queja, se menea e intenta quitárselas. Así que debe ser que la zona donde se colocan (morrillo, la parte abultada del principio de la espalda) tanto el puyazo (herida/s que debilitan la musculatura del animal para que humille y que desangran al astado para que pierda fuerza en sus embestidas) como las banderillas no debe tener muchas terminaciones nerviosas, o el toro no lo demuestra por la razón que sea.
+En este apartado poco se puede defender. El toro de lidia sufre. Aunque no siempre lo demuestra.
+
+
+  * **Agravio comparativo:** Aquí es donde viene mi queja. Los animales huelen la sangre y por así decirlo huelen la muerte. Cualquiera que haya visitado un matadero (aquí en Zaragoza recuerdo la visita del colegio a Mercazaragoza, que fue bastante desagradable, por cierto) podrá atestiguar que los animales saben dónde están y a dónde van. Y saben dónde están durante muchas horas que permanecen en el matadero. Al igual que los toros.
+Es un agravio comparativo que se permitan los toros de fuego, los toros ensogados, las cabras desde campanarios, las chiquilladas con gatos, las peleas de gallos o incluso la tenencia de animales en casas. El toro de lidia es respetado y cuidado durante toda su vida (incluso durante la lidia), mientras que los demás animales no son respetados ni cuidados tanto como un toro de lidia. Se dice que un toro sufre más estrés durante el transporte que durante la propia lidia (ya que tiene mayor duración), así que ya me dirán cómo de buena es la vida de estos toros famosos que se pasan todo el verano de _tour_ por diferentes plazas.
+Los portugueses son mucho más civilizados. El toro no se mata en la plaza. Claro. Es mucho mejor dejarlo agonizando para que acabe muriendo varios días después (2 ó 3) incluso con altas fiebres.
+
+
+  * **Vivir como un toro de lidia:** Siempre lo he defendido. Puestos a ser un animal, si la opción de ser un animal de compañía con buenos dueños (muy pocos lo son, y los adiestramientos, aunque indoloros, no sé lo respetables o humillantes que son) no está disponible, me quedaría con la de un toro de lidia. Un animal cuidado con amor y respeto durante 4 ó 5 años. Y que es trasladado a una plaza para morir durante 15 minutos (me recuerda un poco al tema gladiador, cosa que no me gusta demasiado...). Hay quien se quedaría con la vida de pollo. Hacinados en espacios pequeños durante toda su vida, cebados con alimentos no naturales. O puede que alguien pueda preferir la vida tranquila de una oveja, dado que algunas fallecen antes de ser sacrificadas por el estrés causado durante la estancia en el matadero.
+
+
+**Así que con esas estamos. Con personas y políticos que ponen todos sus esfuerzos en prohibir una tradición que representa a este país por el mero hecho de no compartirla. Con personas y políticos intransigentes que habrán conducido con una copa de más. Con esas mismas personas y políticos que seguramente habrán observado un atraco o un robo, o incluso como un marido desprecia a su mujer y no han tomado cartas en el asunto. Con políticos que critican y legislan el matrato de un animal dejando de lado otras tradiciones como los toros embolados por el mero hecho de que de esa forma seguro que pierden votos. Con personas que insultan y arrojan huevos a otras personas por hacer algo para lo que están en pleno derecho, ver una corrida de toros. Por políticos que toman decisiones que no figuran en su _panfleto _y que atañan directamente a los ciudadanos que representan. Todo para prohibir algo que seguramente desaparecerá de forma pacífica con el paso de los años.**
+
+Porque para mi conducir borracho (según estipula la ley) y atropellar a alguien o provocar un accidente es asesinato. Porque para mi es mucho más importante dotar a la sociedad de tolerancia cero ante faltas de respeto entre nosotros -cualquiera que sea-. Porque para mi que una persona con 300 detenciones por hurto siga en la calle es favorecer al que nada a contracorriente. Porque gastar dinero y esfuerzo en esas campañas me parece un desperdicio pudiendo destinarlo a ayudar al prójimo (o a uno mismo). Por todo eso os llamo **hipócritas**.
