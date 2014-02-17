@@ -44,6 +44,8 @@ links:
     url: /short-stories/
   - title: "\' Day by day \' blog"
     url: /blog/
+  - title: "Genbeta"
+    url: /genbeta/
   - title: "Music reviews"
     url: /music-review/
 #  - title: T-Details
@@ -66,9 +68,8 @@ projects:
       url: /music-review/
       description: "Críticas sobre discos o conciertos recuperados de Rockthunder y Metalthunder."
     - title: Genbeta
-      url: "http://www.genbeta.com/autor/Miguel-Julian"
-      description: "Artículos escritos en la página Genbeta.com. Por ahora es un enlace externo porque están alojadas en su servidor, si algún día hago un script para sacarlas lo mejor posible, las incluiré en el sitio. (290 noticias publicadas)."
-      external: true
+      url: /genbeta/
+      description: "Artículos escritos en la página Genbeta.com. (290 noticias publicadas)."
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Madrid
