@@ -1,106 +1,31 @@
-# HMFAYSAL V2
+# FIGAROCORSO's writings
 
-**[HMFAYSAL V2](http://v2.theevilgenius.tk)** is a two column responsive Jekyll theme by Engineer [Hossain Mohd Faysal](http://hmfaysal.tk) featuring a slide out drawer menu in mobile browsers.
+In this repo I will store all the writings I would produce or I have already done. In the very first steps I have tried to recover articles, music reviews, blog posts... For now on, I will use this repo as a place to publish and backup all the stuff I like to write.
 
-## HMFAYSAL V2 is all about:
+If you have any question, doubts about licensing, way of improvement,... whatever, do not hesitate to ask me. Or better, just pull request your changes.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments. Content first; other widget nonsense never.
-* Large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://v2.theevilgenius.tk/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting](http://v2.theevilgenius.tk/articles/code-highlighting-post/) to make your code examples look snazzy.
+## License:
 
-![screenshot of HMFAYSAL V2 theme](http://v2.theevilgenius.tk/images/Jekyll-HMFAYSAL-Theme.jpg)
+If you want to use something written over here you should take into consideration that, as I use this place as a backup, in many entries you will find a link to the original source, thus please use that destination as your source and follow the license those external sites may have. If the link is broken or there isn't any link or reference to the original source you can consider a CC BY-NC-SA license.
 
-General notes and suggestions for customizing HMFAYSAL V2 Theme.
+## Technology behind this site:
 
-## Basic Setup
+* This repo is automatically built by Github rendering this [awesome place](http://figarocorso.github.io).
+* That page is built using a tool to blog-like pages from static content called [Jekyll](http://jekyllrb.com).
+* After a quick search I found this [HMFAYSAL V2 theme](http://v2.theevilgenius.tk) which has been developed by [Hossain Mohd Faysal](http://hmfaysal.tk). Kudos for him as I think is a great theme.
+* I have already done several modifications to the theme, but its backbone remains almost unchanged.
+* To recover some of the writings I had already done I used several tools and some self made scripts:
+    * To parse some HTML articles to Markdown I've used this [html2text](http://www.aaronsw.com/2002/html2text/) script.
+    * To download some articles I've used Perl module [Mechanize](http://search.cpan.org/~ether/WWW-Mechanize-1.73/)
+    * I delete those scripts and others as they were trivial and quite self-cutomizated.
 
-1. [Install Jekyll](http://jekyllrb.com) if you haven't already.
-2. Fork the [Jekyll HMFAYSAL V2 Theme repo](http://github.com/hmfaysal/Jekyll-HMFAYSAL-V2-Theme/)
-3. Clone the repo you just forked to your computer.
-4. Edit `_config.yml` to personalize your site.
-5. Check out the sample posts in `_posts` to see examples for pulling in large feature images, tags, and other YAML data.
-6. Read the documentation below for further customization pointers and documentation.
+## What kind of articles will you find here:
 
-[Demo the Theme](http://v2.theevilgenius.tk)
+They are stored under the ```_posts``` folder. I'm trying to keep then organised, but it is going to be a quite hard task, so do not blame on me.
 
-**Pro-tip:** Delete the `gh-pages` branch after cloning and start fresh by branching off `master`. There is a bunch of garbage in `gh-pages` used for the theme's demo site that I'm guessing you don't want on your site. Also type in `chcp 65001` if the prompt shows UTF-8 or IBM47 error.
-
----
-
-## Setup for an Existing Jekyll site
-
-1. Clone the following folders: `_includes`, `_layouts`, `assets`, and `images`.
-2. Clone the following files and personalize content as need: `about.md`, `articles.html`, `index.md`, `feed.xml`, `sitemap.xml`
-3. Set the following variables in your `config.yml` file:
-
-``` yaml
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: shortname
-url:              http://your-website.com
-
-# Owner/author information
-owner:
-  name:           Your Name
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
-  # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
-  hmfaysalsocial:	
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
-
-# Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
-
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: Home
-    url: /
-  - title: About
-    url: /about/
-  - title: Articles
-    url: /articles/
-  - title: Setup
-    url: /theme-setup/
-  - title: T-Details
-    url: /technical-details/
-  - title: The Evil-Genius
-    url: http://www.theevilgenius.tk/
-    external: true
-
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
-future:      true
-pygments:    true
-markdown:    kramdown
-
-```
-
----
-
-## Questions?
-
-Having a problem getting something to work or want to know why I setup something in a certain way? Ping me on Twitter [@hmfaysal](http://twitter.com/hmfaysal) or [file a GitHub Issue](https://github.com/hmfaysal/Jekyll-HMFAYSAL-V2-Theme/issues/new). And if you make something cool with this theme feel free to let me know.
-
----
-
-## License
-
-This theme is free and open source software, distributed under the [GNU General Public License](http://v2.theevilgenius.tk/LICENSE) version 2 or later. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer. 
+After the initial commits you will find:
+1. Personal blog posts I have written since 2009 (I've been writing since 2002... but you know...)
+2. Some articles I have written for events, companies, ...
+3. Short stories (I have lost tones of them, but this place will save the future ones)
+4. Music reviews (again, most of them were lost)
+5. My [Genbeta.com](http://www.genbeta.com) articles. I wrote them during the two great years I spent working there. They all should be online, please, link to the original source if you want to share any of them.
