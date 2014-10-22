@@ -1,7 +1,7 @@
 ---
 date: 2014-08-30
 layout: post
-title: Finde en la playa: L'Ametlla de Mar
+title: Finde en la playa -  L'Ametlla de Mar
 categories: day-by-day
 ---
 

@@ -1,7 +1,7 @@
 ---
 date: 2014-08-03
 layout: post
-title: Bratislava: pequeña y con encanto
+title: Bratislava - Pequeña y con encanto
 categories: day-by-day
 ---
 
