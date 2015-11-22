@@ -4,6 +4,7 @@ layout: post
 title: Vuelva usted mañana
 slug: vuelva-usted-manana
 categories: day-by-day
+image: /images/blog/vuelva_usted_manana.png
 ---
 [![Vuelva usted mañana](/images/blog/vuelva_usted_manana.png)](/images/blog/vuelva_usted_manana.png)
 

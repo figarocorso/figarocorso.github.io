@@ -3,6 +3,7 @@ date: 2014-09-20
 layout: post
 title: Despedida en Amsterdam
 categories: day-by-day
+image: /images/blog/amsterdam.jpg
 ---
 
 [![Amsterdam 2014 - Miky - Miguel](/images/blog/amsterdam.jpg)](/images/blog/amsterdam.jpg)

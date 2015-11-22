@@ -4,6 +4,7 @@ layout: post
 slug: nochevieja-en-belgica
 title: Nochevieja en Bélgica
 categories: day-by-day
+image: http://blog.migueljulian.com/wp-content/uploads/photo-e1390780079815.jpg
 ---
 
 [![Brujas - Bruselas - Amberes](http://blog.migueljulian.com/wp-content/uploads/photo-785x785.jpg)](http://blog.migueljulian.com/wp-content/uploads/photo-e1390780079815.jpg)

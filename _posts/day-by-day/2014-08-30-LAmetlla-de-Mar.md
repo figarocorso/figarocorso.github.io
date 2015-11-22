@@ -3,6 +3,7 @@ date: 2014-08-30
 layout: post
 title: Finde en la playa -  L'Ametlla de Mar
 categories: day-by-day
+image: /images/blog/ametlla.jpg
 ---
 
 [![Ametlla 2014 - Miky - Miguel](/images/blog/ametlla.jpg)](/images/blog/ametlla.jpg)

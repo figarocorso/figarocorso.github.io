@@ -3,6 +3,7 @@ date: 2014-02-01 11:18:26+00:00
 layout: post
 title: FOSDEM 2014 - Vuelta a Bruselas
 categories: day-by-day
+image: /images/blog/fosdem-2014.jpg
 ---
 
 [![FOSDEM 2014 - Bruselas - Miky - Miguel](/images/blog/fosdem-2014.jpg)](/images/blog/fosdem-2014.jpg)

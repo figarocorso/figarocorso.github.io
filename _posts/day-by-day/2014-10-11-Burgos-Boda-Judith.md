@@ -3,6 +3,7 @@ date: 2014-10-11
 layout: post
 title: Burgos, de boda
 categories: day-by-day
+image: /images/blog/boda_judith.jpg
 ---
 
 [![Burgos - Boda de Judith - Miky - Miguel](/images/blog/boda_judith.jpg)](/images/blog/boda_judith.jpg)

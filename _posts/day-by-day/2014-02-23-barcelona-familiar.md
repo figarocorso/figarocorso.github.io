@@ -3,6 +3,7 @@ date: 2014-01-24 11:18:26+00:00
 layout: post
 title: Barcelona familiar
 categories: day-by-day
+image: /images/blog/barcelona-familiar.jpg
 ---
 
 [![Barcelona familiar - Miky - Miguel](/images/blog/barcelona-familiar.jpg)](/images/blog/barcelona-familiar.jpg)

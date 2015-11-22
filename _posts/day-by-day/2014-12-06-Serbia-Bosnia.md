@@ -4,6 +4,7 @@ layout: post
 title: Serbia y Bosnia
 slug: serbia-y-bosnia
 categories: day-by-day
+image: /images/blog/serbia_y_bosnia.jpg
 ---
 [![Serbia y Bosnia](/images/blog/serbia_y_bosnia.jpg)](/images/blog/serbia_y_bosnia.jpg)
 

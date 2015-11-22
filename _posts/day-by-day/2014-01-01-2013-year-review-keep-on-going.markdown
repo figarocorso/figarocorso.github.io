@@ -4,6 +4,7 @@ layout: post
 slug: 2013-year-review-keep-on-going
 title: 2013 year review - Keep on going
 categories: day-by-day
+image: http://blog.migueljulian.com/wp-content/uploads/2013-review.jpg
 ---
 
 [![2013-review](http://blog.migueljulian.com/wp-content/uploads/2013-review-785x785.jpg)](http://blog.migueljulian.com/wp-content/uploads/2013-review.jpg)

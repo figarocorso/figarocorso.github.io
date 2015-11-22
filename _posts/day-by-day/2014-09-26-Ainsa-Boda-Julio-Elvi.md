@@ -3,6 +3,7 @@ date: 2014-09-26
 layout: post
 title: Boda en Aínsa - Julio & Elvira
 categories: day-by-day
+image: /images/blog/boda_julio_elvira.jpg
 ---
 
 [![Boda Julio y Elvira - Miky - Miguel](/images/blog/boda_julio_elvira.jpg)](/images/blog/boda_julio_elvira.jpg)

@@ -3,6 +3,7 @@ date: 2014-08-03
 layout: post
 title: Bratislava - Pequeña y con encanto
 categories: day-by-day
+image: /images/blog/bratislava.jpg
 ---
 
 [![Bratislava 2014 - Miky - Miguel](/images/blog/bratislava.jpg)](/images/blog/bratislava.jpg)

@@ -3,6 +3,7 @@ date: 2014-06-28
 layout: post
 title: Adventure Camp 2014, una gotita de fragancia
 categories: day-by-day
+image: /images/blog/adventure_14.jpg
 ---
 
 [![Adventure Camp 2014 - Miky - Miguel](/images/blog/adventure_14.jpg)](/images/blog/adventure_14.jpg)

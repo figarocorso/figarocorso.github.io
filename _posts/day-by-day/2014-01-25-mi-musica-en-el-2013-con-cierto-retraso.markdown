@@ -4,6 +4,7 @@ layout: post
 slug: mi-musica-en-el-2013-con-cierto-retraso
 title: Mi música en el 2013 (con cierto retraso)
 categories: day-by-day
+image: http://blog.migueljulian.com/wp-content/uploads/killswitch-engage.jpg
 ---
 
 [![killswitch engage](http://blog.migueljulian.com/wp-content/uploads/killswitch-engage.jpg)](http://blog.migueljulian.com/wp-content/uploads/killswitch-engage.jpg)
