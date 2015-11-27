@@ -1,0 +1,13 @@
+---
+layout: null
+---
+{
+  "posts" : [
+    {% for post in site.posts %}
+    {% if post.categories contains "day-by-day" %}
+    "{{ post.url }}"{% unless forloop.last %},{% endunless %}
+    {% endif %}
+    {% endfor %}
+    ""
+  ]
+}
