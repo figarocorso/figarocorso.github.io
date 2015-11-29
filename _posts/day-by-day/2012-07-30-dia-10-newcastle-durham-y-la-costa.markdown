@@ -1,6 +1,7 @@
 ---
 date: 2012-07-30 18:17:25+00:00
 layout: post
+image: /images/blog/20120730-191658.jpg
 slug: dia-10-newcastle-durham-y-la-costa
 title: 'Día 10: Newcastle, Durham y la costa'
 categories: day-by-day
@@ -16,4 +17,4 @@ Una vez de vuelta a Newcastle he recordado unas indicaciones que me había dado 
 
 La verdad es que conversaciones con varias personas (incluida yo mismo) van haciendo que cambie mi modo de afrontar este viaje. Disfrutar y aprovechar los pequeños detalles que se presentan en el día a día. Y porqué no, puede que todo esa apertura haya hecho que estas últimas 24 horas hayan sido diferentes a lo que había hecho antes de Manchester.
 
-[![20120730-191658.jpg](http://blog.migueljulian.com/wp-content/uploads/20120730-191658.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120730-191658.jpg)
+[![20120730-191658.jpg](/images/blog/20120730-191658.jpg)](/images/blog/20120730-191658.jpg)

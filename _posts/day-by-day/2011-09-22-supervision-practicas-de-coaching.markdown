@@ -1,24 +1,13 @@
 ---
 date: 2011-09-22 20:41:23+00:00
 layout: post
+image: /images/blog/17416513_5f9397bf47_z.jpg
 slug: supervision-practicas-de-coaching
 title: Supervisión prácticas de coaching
 categories: day-by-day
 ---
 
-
-
-
-
-
-
-[![](http://blog.migueljulian.com/wp-content/uploads/17416513_5f9397bf47_z.jpg)](http://blog.migueljulian.com/2011/09/supervision-practicas-de-coaching/17416513_5f9397bf47_z/)
-
-
-
-
-
-
+[![](/images/blog/17416513_5f9397bf47_z.jpg)](/images/blog/17416513_5f9397bf47_z.jpg)
 
 La ruta es la misma que tantas veces realicé el año pasado, uno nunca sabe dónde se va a encontrar un tramo de obras. Pero esa misma ruta hice hace casi un año. Coges la autovía y en la salida de Mercazaragoza te desvías hasta que llegas a Ibercide. Eso mismo hice cuando empecé el curso de coaching y, honestamente, el cambio ha llegado. Sin duda alguna yo no soy el mismo.
 

@@ -36,3 +36,11 @@
         opacity: 0;
     }
 }
+
+#index article h2 {
+    margin-bottom: 8px;
+}
+
+article img {
+    height: 200px;
+}

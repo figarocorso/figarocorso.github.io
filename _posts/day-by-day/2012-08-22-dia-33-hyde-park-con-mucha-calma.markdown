@@ -1,6 +1,7 @@
 ---
 date: 2012-08-22 17:14:16+00:00
 layout: post
+image: /images/blog/20120822-181338.jpg
 slug: dia-33-hyde-park-con-mucha-calma
 title: 'Día 33: Hyde Park con mucha calma'
 categories: day-by-day
@@ -16,4 +17,4 @@ Me decían por Facebook que en 15 días se hartaron de sandwichs y demás que se
 
 Esta noche se puede perfilar un karaoke, aunque como llevo un poco tocada la garganta igual hoy me abstengo. Ya veremos, que luego la cabra tira al monte ;) Un día menos... y un día más.
 
-[![20120822-181338.jpg](http://blog.migueljulian.com/wp-content/uploads/20120822-181338.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120822-181338.jpg)
+[![20120822-181338.jpg](/images/blog/20120822-181338.jpg)](/images/blog/20120822-181338.jpg)

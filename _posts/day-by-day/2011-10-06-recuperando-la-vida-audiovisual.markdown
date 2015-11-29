@@ -1,12 +1,13 @@
 ---
 date: 2011-10-06 16:11:37+00:00
 layout: post
+image: /images/blog/5437564246_627acbe94f_z.jpg
 slug: recuperando-la-vida-audiovisual
 title: Recuperando la vida audiovisual
 categories: day-by-day
 ---
 
-![](http://farm6.static.flickr.com/5291/5437564246_627acbe94f_z.jpg)
+![](/images/blog/5437564246_627acbe94f_z.jpg)
 
 Llega septiembre y llegan:
 

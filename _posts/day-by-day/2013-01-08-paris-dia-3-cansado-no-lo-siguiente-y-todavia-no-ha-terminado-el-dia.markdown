@@ -1,6 +1,7 @@
 ---
 date: 2013-01-08 18:39:40+00:00
 layout: post
+image: /images/blog/20130108-193501.jpg
 slug: paris-dia-3-cansado-no-lo-siguiente-y-todavia-no-ha-terminado-el-dia
 title: París [Día 3] - Cansado no, lo siguiente... y todavía no ha terminado el día
 categories: day-by-day
@@ -16,4 +17,4 @@ Así que en vista de que no era mi día, cada día creo más en esas cosas (mal 
 
 Esto se acaba, pero está siendo genial.
 
-[![20130108-193501.jpg](http://blog.migueljulian.com/wp-content/uploads/20130108-193501.jpg)](http://blog.migueljulian.com/wp-content/uploads/20130108-193501.jpg)
+[![20130108-193501.jpg](/images/blog/20130108-193501.jpg)](/images/blog/20130108-193501.jpg)

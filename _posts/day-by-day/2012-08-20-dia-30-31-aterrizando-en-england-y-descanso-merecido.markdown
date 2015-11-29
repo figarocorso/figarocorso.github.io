@@ -1,6 +1,7 @@
 ---
 date: 2012-08-20 09:36:52+00:00
 layout: post
+image: /images/blog/20120820-103610.jpg
 slug: dia-30-31-aterrizando-en-england-y-descanso-merecido
 title: 'Día 30-31: Aterrizando en England y descanso merecido'
 categories: day-by-day
@@ -22,4 +23,4 @@ Hoy dejo Manchester pero me parece que esto va a ser un "hasta pronto", me gusta
 
 Por cierto, preocupaciones: la herida de la mano del Arthur's Seat va por buen camino después de una de mis cirugías menores dignas de Jack El Destripador. Sin dolor, con buen aspecto... Hoy me he levantado con la garganta un poco tomada (habrá que comprar limones) y sobre todo me preocupa que la batería de este dichoso móvil se desploma cada vez más. ¿Quién dijo que septiembre estaba lejos? A ver qué sacan.......
 
-[![20120820-103610.jpg](http://blog.migueljulian.com/wp-content/uploads/20120820-103610.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120820-103610.jpg)
+[![20120820-103610.jpg](/images/blog/20120820-103610.jpg)](/images/blog/20120820-103610.jpg)

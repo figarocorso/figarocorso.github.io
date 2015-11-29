@@ -1,6 +1,7 @@
 ---
 date: 2012-07-11 14:29:06+00:00
 layout: post
+image: /images/blog/20120711-162842.jpg
 slug: ese-instinto-%c2%bfde-donde-sale
 title: Ese instinto, ¿De dónde sale?
 categories: day-by-day
@@ -16,4 +17,4 @@ No lo sé, en mi cabeza todo fue muy racional. Pero dentro de la rapidez de los 
 
 ¿Qué tiene de especial la cabeza de un heroe? No tengo ni idea, pero me gustaría saberlo, cuando veo a personas curiosas siempre me pregunto lo mismo: ¿Cómo verá el mundo?
 
-[![20120711-162842.jpg](http://blog.migueljulian.com/wp-content/uploads/20120711-162842.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120711-162842.jpg)
+[![20120711-162842.jpg](/images/blog/20120711-162842.jpg)](/images/blog/20120711-162842.jpg)

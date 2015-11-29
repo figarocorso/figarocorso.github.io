@@ -1,6 +1,7 @@
 ---
 date: 2012-09-02 09:46:51+00:00
 layout: post
+image: /images/blog/20120902-104539.jpg
 slug: dia-43-la-odisea-de-stonehenge
 title: 'Día 43: La odisea de Stonehenge'
 categories: day-by-day
@@ -20,4 +21,4 @@ Escala de casi una hora en Southampton (ya de paso me di una vuelta para ver alg
 
 Prepararme la mochila, montármela al hombro otra vez y camino del avión de vuelta. En Londres no hace muy buen tiempo, en Zaragoza cierzo... me da a mí que el aterrizaje y el despegue van a ser moviditos. Por cierto, que cuando aterricé en Londres la cosa estuvo divertida, porque justo antes de tomar tierra el avión se inclinó (y bastante) hacia la izquierda, a ver cómo es el viaje de hoy.
 
-[![20120902-104539.jpg](http://blog.migueljulian.com/wp-content/uploads/20120902-104539.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120902-104539.jpg)
+[![20120902-104539.jpg](/images/blog/20120902-104539.jpg)](/images/blog/20120902-104539.jpg)

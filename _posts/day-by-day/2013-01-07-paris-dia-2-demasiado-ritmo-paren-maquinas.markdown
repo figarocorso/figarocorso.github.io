@@ -1,6 +1,7 @@
 ---
 date: 2013-01-07 20:27:34+00:00
 layout: post
+image: /images/blog/20130107-212647.jpg
 slug: paris-dia-2-demasiado-ritmo-paren-maquinas
 title: París [Día 2] - Demasiado ritmo, paren máquinas
 categories: day-by-day
@@ -22,4 +23,4 @@ Bueno, que me voy a socializar un poco. Después de eso me he bajado otra vez co
 
 Mañana acabar todos los sights que me quedan, pero con la calma, porque la idea es llegar a la Torre Eiffel con ganas y animado y tarde. Ya veré lo que hago, los sitios a visitar incluyen el Museo D'Orsay, la Santa Chapelle esa (que me la pasé cuando fui), Pantheon, Rue Danton, seguramente un buen paseo por los Vosgues esos, y lo que surja. Pero espero que sea un día mucho más indoor que hoy (el metro que me he ahorrado hoy, me lo gastaré con creces). De repente... parece que la escapada se ha acabado. Queda la segunda mitad, la parte social... o no :)
 
-[![20130107-212647.jpg](http://blog.migueljulian.com/wp-content/uploads/20130107-212647.jpg)](http://blog.migueljulian.com/wp-content/uploads/20130107-212647.jpg)
+[![20130107-212647.jpg](/images/blog/20130107-212647.jpg)](/images/blog/20130107-212647.jpg)

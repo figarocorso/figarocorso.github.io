@@ -1,6 +1,7 @@
 ---
 date: 2011-09-18 14:27:39+00:00
 layout: post
+image: /images/blog/20110918-162659.jpg
 slug: motogp-motorland-2011
 title: MotoGP - Motorland 2011
 categories: day-by-day
@@ -12,6 +13,6 @@ Luego ya, cuando llega el momento de llegar al circuito, es el momento de disfru
 
 Vaya finde...
 
-[![20110918-162659.jpg](http://blog.migueljulian.com/wp-content/uploads/20110918-162659.jpg)](http://blog.migueljulian.com/wp-content/uploads/20110918-162659.jpg)
+[![20110918-162659.jpg](/images/blog/20110918-162659.jpg)](/images/blog/20110918-162659.jpg)
 
-[![20110918-162733.jpg](http://blog.migueljulian.com/wp-content/uploads/20110918-162733.jpg)](http://blog.migueljulian.com/wp-content/uploads/20110918-162733.jpg)
+[![20110918-162733.jpg](/images/blog/20110918-162733.jpg)](/images/blog/20110918-162733.jpg)

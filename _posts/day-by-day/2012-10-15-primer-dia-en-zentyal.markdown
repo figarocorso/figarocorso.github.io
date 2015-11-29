@@ -4,9 +4,10 @@ layout: post
 slug: primer-dia-en-zentyal
 title: Primer día en Zentyal
 categories: day-by-day
+image: /images/blog/zentyal.png
 ---
 
-[![](http://distrowatch.com/images/cgfjoewdlbc/zentyal.png)](http://www.funkydorypartybags.co.uk/ekmps/shops/dawnraymond/images/happy-birthday-jelly-mould-4792-p.jpg)
+[![](/images/blog/zentyal.png)](/images/blog/zentyal.png)
 
 
 

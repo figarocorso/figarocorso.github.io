@@ -1,12 +1,13 @@
 ---
 date: 2013-11-25 13:07:02+00:00
 layout: post
+image: /images/blog/Foto-24-11-13-10-17-45.jpg
 slug: islas-canarias-dias-5-y-6
 title: Islas Canarias - Días 5 y 6
 categories: day-by-day
 ---
 
-[![Tenerife norte y murgas](http://blog.migueljulian.com/wp-content/uploads/Foto-24-11-13-10-17-45-785x785.jpg)](http://blog.migueljulian.com/wp-content/uploads/Foto-24-11-13-10-17-45.jpg)
+[![Tenerife norte y murgas](/images/blog/Foto-24-11-13-10-17-45.jpg)](/images/blog/Foto-24-11-13-10-17-45.jpg)
 
 
 

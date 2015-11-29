@@ -1,6 +1,7 @@
 ---
 date: 2011-12-20 07:50:43+00:00
 layout: post
+image: /images/blog/20111220-085031.jpg
 slug: mikys-lair
 title: Miky's Lair
 categories: day-by-day
@@ -12,4 +13,4 @@ Limpiar, contratar luz y demás, los muebles, volver a limpiar. Estoy a pocos d�
 
 ¡Vamos allá!
 
-[![20111220-085031.jpg](http://blog.migueljulian.com/wp-content/uploads/20111220-085031.jpg)](http://blog.migueljulian.com/wp-content/uploads/20111220-085031.jpg)
+[![20111220-085031.jpg](/images/blog/20111220-085031.jpg)](/images/blog/20111220-085031.jpg)

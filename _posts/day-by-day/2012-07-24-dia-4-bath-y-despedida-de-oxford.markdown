@@ -1,12 +1,13 @@
 ---
 date: 2012-07-24 18:05:13+00:00
 layout: post
+image: /images/blog/20120724-183550.jpg
 slug: dia-4-bath-y-despedida-de-oxford
 title: 'Día 4: Bath y despedida de Oxford'
 categories: day-by-day
 ---
 
-[![20120724-183550.jpg](http://blog.migueljulian.com/wp-content/uploads/20120724-183550.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120724-183550.jpg)
+[![20120724-183550.jpg](/images/blog/20120724-183550.jpg)](/images/blog/20120724-183550.jpg)
 
 Después de pasar la primera "medio mala noche" por aquí debido a la sinfonía que había en esa habitación (solución: iPhone + auriculares + Dark Tranquillity, un clásico y a dormir como un tronco), ha llegado la mañana.
 

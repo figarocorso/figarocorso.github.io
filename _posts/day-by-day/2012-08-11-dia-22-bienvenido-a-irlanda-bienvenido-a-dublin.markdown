@@ -1,6 +1,7 @@
 ---
 date: 2012-08-11 21:26:05+00:00
 layout: post
+image: /images/blog/20120811-220125.jpg
 slug: dia-22-bienvenido-a-irlanda-bienvenido-a-dublin
 title: 'Día 22: Bienvenido a Irlanda, bienvenido a Dublín'
 categories: day-by-day
@@ -18,4 +19,4 @@ Hoy noche y mañana... pues lo que surja. Parece que el Museo Guinness hay que v
 
 Revelaciones? Bueno, alguna que otra, pero creo que mejor las guardo, que no todo hay que escribirlo. ¿O sí? ;-) ;-)
 
-[![20120811-220125.jpg](http://blog.migueljulian.com/wp-content/uploads/20120811-220125.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120811-220125.jpg)
+[![20120811-220125.jpg](/images/blog/20120811-220125.jpg)](/images/blog/20120811-220125.jpg)

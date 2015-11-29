@@ -1,6 +1,7 @@
 ---
 date: 2012-04-24 06:35:49+00:00
 layout: post
+image: /images/blog/20120424-083526.jpg
 slug: boda-de-salva-y-cris
 title: Boda de Salva y Cris
 categories: day-by-day
@@ -14,4 +15,4 @@ Pero lo importante, la ceremonia, todos bien apañaditos y esperando los grandes
 
 Ahora a esperar más fotos.
 
-[![20120424-083526.jpg](http://blog.migueljulian.com/wp-content/uploads/20120424-083526.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120424-083526.jpg)
+[![20120424-083526.jpg](/images/blog/20120424-083526.jpg)](/images/blog/20120424-083526.jpg)

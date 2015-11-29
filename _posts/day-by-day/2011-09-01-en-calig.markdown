@@ -1,6 +1,7 @@
 ---
 date: 2011-09-01 01:50:04+00:00
 layout: post
+image: /images/blog/20110901-034928.jpg
 slug: en-calig
 title: En Calig
 categories: day-by-day
@@ -10,4 +11,4 @@ O también cómo ir a la playa sin pisar la playa. Disfrutando de la casa (más 
 
 Eso si, aunque hubo mucho deporte, también demasiadas brasas y carne triglicérida ;-)
 
-[![20110901-034928.jpg](http://blog.migueljulian.com/wp-content/uploads/20110901-034928.jpg)](http://blog.migueljulian.com/wp-content/uploads/20110901-034928.jpg)
+[![20110901-034928.jpg](/images/blog/20110901-034928.jpg)](/images/blog/20110901-034928.jpg)

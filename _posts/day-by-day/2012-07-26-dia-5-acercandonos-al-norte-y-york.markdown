@@ -1,6 +1,7 @@
 ---
 date: 2012-07-26 01:38:15+00:00
 layout: post
+image: /images/blog/20120726-021547.jpg
 slug: dia-5-acercandonos-al-norte-y-york
 title: 'Día 5: Acercándonos al norte y York'
 categories: day-by-day
@@ -22,4 +23,4 @@ Mañana la idea es no madrugar demasiado. Buscar información y después salir h
 
 Hasta mañana :-)
 
-[![20120726-021547.jpg](http://blog.migueljulian.com/wp-content/uploads/20120726-021547.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120726-021547.jpg)
+[![20120726-021547.jpg](/images/blog/20120726-021547.jpg)](/images/blog/20120726-021547.jpg)

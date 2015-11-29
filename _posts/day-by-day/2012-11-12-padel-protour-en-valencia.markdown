@@ -1,6 +1,7 @@
 ---
 date: 2012-11-12 23:20:52+00:00
 layout: post
+image: /images/blog/20121113-002039.jpg
 slug: padel-protour-en-valencia
 title: Padel ProTour en Valencia
 categories: day-by-day
@@ -14,4 +15,4 @@ Es cierto que las personas no siempre sorprenden. Pero siempre puedes tensar un 
 
 La verdad es que ha sido muy cansado. Buses, muchas horas de padel y cenas infinitas. Pero oye, algo de tiempo para pensar en todo un poco. Pero por encima de todo me preocupan mis brazos y mi tobillo. Habrá que seguir mejorando. As always.
 
-[![20121113-002039.jpg](http://blog.migueljulian.com/wp-content/uploads/20121113-002039.jpg)](http://blog.migueljulian.com/wp-content/uploads/20121113-002039.jpg)
+[![20121113-002039.jpg](/images/blog/20121113-002039.jpg)](/images/blog/20121113-002039.jpg)

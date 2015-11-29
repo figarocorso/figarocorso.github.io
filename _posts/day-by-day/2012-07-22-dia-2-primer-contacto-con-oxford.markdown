@@ -1,6 +1,7 @@
 ---
 date: 2012-07-22 20:05:42+00:00
 layout: post
+image: /images/blog/20120722-210138.jpg
 slug: dia-2-primer-contacto-con-oxford
 title: 'Día 2: Primer contacto con Oxford'
 categories: day-by-day
@@ -24,4 +25,4 @@ Por cierto, que la ciudad de Oxford es genial para pasear, y con el pedazo de d�
 
 Estos días me están cundiendo mucho, creo que demasiado. La verdad es que he visto un montón de cosas... y ciertamente se echa de menos verlas con alguien. Pero es difícil enganchar gente si te mueves de ciudad en ciudad tanto. Eso sí, para esta noche ya hay compañía. Un artista americano ha llegado a la habitación y se podría decir que está "un poco para allá", pero me lo estoy pasando genial (ahora que entiendo su acento).
 
-[![20120722-210138.jpg](http://blog.migueljulian.com/wp-content/uploads/20120722-210138.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120722-210138.jpg)
+[![20120722-210138.jpg](/images/blog/20120722-210138.jpg)](/images/blog/20120722-210138.jpg)

@@ -1,12 +1,13 @@
 ---
 date: 2013-02-03 00:33:33+00:00
 layout: post
+image: /images/blog/62925_10151443152447318_1369839682_n.jpg
 slug: bruselas-y-la-fosdem
 title: Bruselas y la FOSDEM
 categories: day-by-day
 ---
 
-[![Libreto con las charlas de la FOSDEM 2013.](http://blog.migueljulian.com/wp-content/uploads/62925_10151443152447318_1369839682_n-785x613.jpg)](http://blog.migueljulian.com/wp-content/uploads/62925_10151443152447318_1369839682_n.jpg)
+[![Libreto con las charlas de la FOSDEM 2013.](/images/blog/62925_10151443152447318_1369839682_n.jpg)](/images/blog/62925_10151443152447318_1369839682_n.jpg)
 
 
 

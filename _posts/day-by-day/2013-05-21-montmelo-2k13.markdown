@@ -1,12 +1,13 @@
 ---
 date: 2013-05-21 14:24:36+00:00
 layout: post
+image: /images/blog/Foto-12-05-13-09-29-15-e1369145092589.jpg
 slug: montmelo-2k13
 title: Montmeló 2K13
 categories: day-by-day
 ---
 
-[![Montmeló 2013 - Miguel Julián - Miky](http://blog.migueljulian.com/wp-content/uploads/Foto-12-05-13-09-29-15-e1369145092589.jpg)](http://blog.migueljulian.com/wp-content/uploads/Foto-12-05-13-09-29-15-e1369145092589.jpg)
+[![Montmeló 2013 - Miguel Julián - Miky](/images/blog/Foto-12-05-13-09-29-15-e1369145092589.jpg)](/images/blog/Foto-12-05-13-09-29-15-e1369145092589.jpg)
 
 Un fin de semana especial. Poco a poco eso de ir a Grandes Premios de Fórmula 1 empieza a ser una constante que repito año a año. El año pasado ganó un Williams, este año ha ganado Alonso... qué más puedo pedir (pues sí, que hubiera ganado otra vez un Williams, ja!)
 

@@ -1,6 +1,7 @@
 ---
 date: 2011-10-13 22:19:43+00:00
 layout: post
+image: /images/blog/20111014-001912.jpg
 slug: charla-sobre-pizarras-digitales-interactivos
 title: Charla sobre pizarras digitales interactivos
 categories: day-by-day
@@ -12,4 +13,4 @@ La charlita fue en la II Jornada de PDIs de Zaragoza y tuve bastante buen feedba
 
 Mejorando día a día. Esa era la cuestión.
 
-[![20111014-001912.jpg](http://blog.migueljulian.com/wp-content/uploads/20111014-001912.jpg)](http://blog.migueljulian.com/wp-content/uploads/20111014-001912.jpg)
+[![20111014-001912.jpg](/images/blog/20111014-001912.jpg)](/images/blog/20111014-001912.jpg)

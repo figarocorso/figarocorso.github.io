@@ -1,6 +1,7 @@
 ---
 date: 2012-08-16 23:36:43+00:00
 layout: post
+image: /images/blog/20120817-003547.jpg
 slug: dia-27-moher-cliffs-y-the-burren
 title: 'Día 27: Moher Cliffs y The Burren'
 categories: day-by-day
@@ -14,4 +15,4 @@ Pero la guinda del pastel volvía a estar para el final. Esos acantilados que sa
 
 Mañana al Ring of Kerry! Y ahora a la cama, perdón por escribir poco, pero es tarde y me esperan :))))
 
-[![20120817-003547.jpg](http://blog.migueljulian.com/wp-content/uploads/20120817-003547.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120817-003547.jpg)
+[![20120817-003547.jpg](/images/blog/20120817-003547.jpg)](/images/blog/20120817-003547.jpg)

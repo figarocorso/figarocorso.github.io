@@ -1,12 +1,13 @@
 ---
 date: 2012-12-19 11:23:10+00:00
 layout: post
+image: /images/blog/beCode-wallpaper.png
 slug: valencia-y-barcelona-becode-bdc2012
 title: Valencia y Barcelona (BeCode + BDC2012)
 categories: day-by-day
 ---
 
-[![](http://blog.migueljulian.com/wp-content/uploads/beCode-wallpaper-800x450.png)](http://blog.migueljulian.com/2012/12/valencia-y-barcelona-becode-bdc2012/becode-wallpaper/)
+[![](/images/blog/beCode-wallpaper.png)](/images/blog/beCode-wallpaper.png)
 
 Hoy he decidido quedarme en casa mientras espero a que venga un paquete. Por fin **he puesto orden en las fotos que había hecho durante mes y medio**. Me gusta que el iPhone 5 tenga es punto de calidad en las fotos (cuando hay luz). Aprovechando que no tengo el portátil con todo el tinglado montado por aquí, saco unos minutitos para escribir, que hace mucho que tengo ganas y no lo he conseguido.
 

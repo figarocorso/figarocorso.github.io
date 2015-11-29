@@ -2,11 +2,12 @@
 date: 2013-02-25 00:10:35+00:00
 layout: post
 slug: zenmersion-jaca-13
+image: /images/blog/Zenmersion-Jaca-Miguel-Miky.jpg
 title: 'Zenmersión: Jaca ''13'
 categories: day-by-day
 ---
 
-[![Zenmersión en Jaca - Miguel (Miky) Julián](http://blog.migueljulian.com/wp-content/uploads/Zenmersion-Jaca-Miguel-Miky-785x785.jpg)](http://blog.migueljulian.com/wp-content/uploads/Zenmersion-Jaca-Miguel-Miky.jpg)
+[![Zenmersión en Jaca - Miguel (Miky) Julián](/images/blog/Zenmersion-Jaca-Miguel-Miky.jpg)](/images/blog/Zenmersion-Jaca-Miguel-Miky.jpg)
 
 Las comparaciones son odiosas. Es una frase hecha que cada día se demuestra más válida; todavía me asaltan muchas de ellas que intento evitar, echar de mi mente ya que nunca son constructivas. No creo que sea malo aprender a ver las partes mejores o peores de una alternativa. Pero normalmente comparar dos cosas suele ser, en la vida real, literalmente, imposible. Eso sí, muchas diferencias saltan a la vista.
 

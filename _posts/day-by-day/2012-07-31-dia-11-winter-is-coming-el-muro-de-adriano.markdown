@@ -1,6 +1,7 @@
 ---
 date: 2012-07-31 19:08:04+00:00
 layout: post
+image: /images/blog/20120731-200733.jpg
 slug: dia-11-winter-is-coming-el-muro-de-adriano
 title: 'Día 11: Winter is coming - El Muro de Adriano'
 categories: day-by-day
@@ -18,4 +19,4 @@ Al final he desistido en llegar al destino que me había marcado (cuestas y foto
 
 Hoy toca ser un poco escueto, pero es que vamos a ver si el frío no se nos come y podemos seguir con la cata de sidras :-)
 
-[![20120731-200733.jpg](http://blog.migueljulian.com/wp-content/uploads/20120731-200733.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120731-200733.jpg)
+[![20120731-200733.jpg](/images/blog/20120731-200733.jpg)](/images/blog/20120731-200733.jpg)

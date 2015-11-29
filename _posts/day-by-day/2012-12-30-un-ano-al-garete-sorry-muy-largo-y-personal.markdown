@@ -1,12 +1,13 @@
 ---
 date: 2012-12-30 22:02:54+00:00
 layout: post
+image: /images/blog/4.jpg
 slug: un-ano-al-garete-sorry-muy-largo-y-personal
 title: Un año al garete - Sorry, muy largo y personal
 categories: day-by-day
 ---
 
-[![](http://blog.migueljulian.com/wp-content/uploads/4.jpg)](http://blog.migueljulian.com/2012/12/un-ano-al-garete-sorry-muy-largo-y-personal/attachment/4/)
+[![](/images/blog/4.jpg)](/images/blog/4.jpg)
 
 Hace unos días llevaba en mente sentarme un ratito en el ordenador y escribir algo para cerrar el año. Pero esos momentos de inspiración pasan, la verdad es que esos momentos son maravillosos, supongo que son esos momentos que buscaban grandes artistas y científicos (de diferentes formas). Al final también parte de la gracia está en saberlos hacer llegar. Propinarse chutes de sensaciones y emociones en el lugar y momento adecuado. Desgraciadamente también desaproveché esos momentos. Así que sólo queda la última que conozco, escribir y re-escribir el primer párrafo hasta que entro "en sintonía" con la música y el teclado.
 

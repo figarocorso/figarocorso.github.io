@@ -1,6 +1,7 @@
 ---
 date: 2013-01-09 19:33:26+00:00
 layout: post
+image: /images/blog/20130109-202715.jpg
 slug: paris-dia-4-el-chip-ha-cambiado-y-la-ciudad-tambien
 title: París [Día 4] - El chip ha cambiado, y la ciudad también
 categories: day-by-day
@@ -18,4 +19,4 @@ Esta noche... ya veremos. Estoy bastante cansado y no con ánimo de mucha fiesta
 
 PS: Lo de la Cocacola Light al Limón de la foto... ¡es que aquí la venden! ¡y en botellas de litro y medio! El paraíso ;)
 
-[![20130109-202715.jpg](http://blog.migueljulian.com/wp-content/uploads/20130109-202715.jpg)](http://blog.migueljulian.com/wp-content/uploads/20130109-202715.jpg)
+[![20130109-202715.jpg](/images/blog/20130109-202715.jpg)](/images/blog/20130109-202715.jpg)

@@ -1,6 +1,7 @@
 ---
 date: 2012-08-10 17:18:20+00:00
 layout: post
+image: /images/blog/20120810-181756.jpg
 slug: dia-21-preparando-la-salida-a-irlanda
 title: 'Día 21: Preparando la salida a Irlanda'
 categories: day-by-day
@@ -14,4 +15,4 @@ Hoy salimos hacia allí, donde al 99% no tendré internet en el móvil... así q
 
 Siguiente parada, esta noche de madrugada, Dublín.
 
-[![20120810-181756.jpg](http://blog.migueljulian.com/wp-content/uploads/20120810-181756.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120810-181756.jpg)
+[![20120810-181756.jpg](/images/blog/20120810-181756.jpg)](/images/blog/20120810-181756.jpg)

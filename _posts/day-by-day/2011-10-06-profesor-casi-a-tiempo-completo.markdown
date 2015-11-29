@@ -1,12 +1,13 @@
 ---
 date: 2011-10-06 20:42:48+00:00
+image: /images/blog/seven_monkeys.jpg
 layout: post
 slug: profesor-casi-a-tiempo-completo
 title: Profesor casi a tiempo completo
 categories: day-by-day
 ---
 
-![](http://farm4.static.flickr.com/3582/3668169284_79a241959c_z.jpg)
+![](/images/blog/seven_monkeys.jpg)
 
 Durante la última semana estoy teniendo muchos periodos como profesor "improvisado" de matemáticas. Está siendo muy duro, principalmente porque la parte que más odio de mi trabajo (incidencias) se amontona y no tengo tiempo para solucionar algunas y ver el vaso medio vacío. No doy a basto, el _cliente interno_ se queja porque lo que sea no funciona, mientras unas personas son solidarias, otras no lo son y eso duele mucho.
 

@@ -1,6 +1,7 @@
 ---
 date: 2012-08-31 19:13:23+00:00
 layout: post
+image: /images/blog/20120831-201237.jpg
 slug: dia-42-descontando-las-horas
 title: 'Día 42: Descontando las horas...'
 categories: day-by-day
@@ -20,4 +21,4 @@ Por cierto, que mañana seguramente me aventure en autobús a Stonehenge. Si no 
 
 Por cierto, mañana última noche, a ver qué se lía por aquí.
 
-[![20120831-201237.jpg](http://blog.migueljulian.com/wp-content/uploads/20120831-201237.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120831-201237.jpg)
+[![20120831-201237.jpg](/images/blog/20120831-201237.jpg)](/images/blog/20120831-201237.jpg)

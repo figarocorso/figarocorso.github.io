@@ -1,12 +1,13 @@
 ---
 date: 2013-04-08 21:47:52+00:00
 layout: post
+image: /images/blog/993145_24845546-321x209.jpg
 slug: economia-del-conocimiento-no-gracias
 title: ¿Economía del conocimiento? No, gracias
 categories: day-by-day
 ---
 
-[![993145_24845546-321x209](http://blog.migueljulian.com/wp-content/uploads/993145_24845546-321x209.jpg)](http://blog.migueljulian.com/wp-content/uploads/993145_24845546-321x209.jpg)
+[![993145_24845546-321x209](/images/blog/993145_24845546-321x209.jpg)](/images/blog/993145_24845546-321x209.jpg)
 
 Este post originalmente fue escrito en el blog de [TEDxZaragoza](http://www.tedxzaragoza.com/2013/04/economia-del-conocimiento-no-gracias/). Simplemente lo recojo en mi blog para tenerlo bien guardadito. Si te gusta, de verdad, como dice el lema de TED: "spread the word".
 

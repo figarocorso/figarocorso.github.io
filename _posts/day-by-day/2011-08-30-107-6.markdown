@@ -1,9 +1,10 @@
 ---
 date: 2011-08-30 23:13:05+00:00
 layout: post
+image: /images/blog/107_6.jpg
 slug: 107-6
 title: '107.6'
 categories: day-by-day
 ---
 
-[![](http://blog.migueljulian.com/wp-content/uploads/107_6.jpg)](http://blog.migueljulian.com/2011/08/107-6/107_6/)
+[![](/images/blog/107_6.jpg)](http://blog.migueljulian.com/2011/08/107-6/107_6/)

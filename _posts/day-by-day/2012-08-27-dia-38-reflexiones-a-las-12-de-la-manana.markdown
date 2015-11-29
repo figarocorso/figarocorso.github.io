@@ -1,6 +1,7 @@
 ---
 date: 2012-08-27 11:29:52+00:00
 layout: post
+image: /images/blog/20120827-122906.jpg
 slug: dia-38-reflexiones-a-las-12-de-la-manana
 title: 'Día 38: Reflexiones a las 12 de la mañana'
 categories: day-by-day
@@ -19,4 +20,4 @@ Otra cosa que me encanta de por aquí es esa búsqueda de identidad de cualquier
 
 Aquí hay mucho dinero y mucha tolerancia, pero tampoco es la panacea. Sigo viendo brecha social, veo demasiado sometimiento (también veo un esfuerzo por proteger a "la gente que no hace nada mal"), veo que conducen por la izquierda, veo que hay mucho alcohol, veo muchas cosas, y no todas buenas.
 
-[![20120827-122906.jpg](http://blog.migueljulian.com/wp-content/uploads/20120827-122906.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120827-122906.jpg)
+[![20120827-122906.jpg](/images/blog/20120827-122906.jpg)](/images/blog/20120827-122906.jpg)

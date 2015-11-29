@@ -1,6 +1,7 @@
 ---
 date: 2012-08-14 23:20:05+00:00
 layout: post
+image: /images/blog/20120814-234711.jpg
 slug: dia-25-el-noroeste-de-irlanda
 title: 'Día 25: El noroeste de Irlanda'
 categories: day-by-day
@@ -16,4 +17,4 @@ Mañana el punto de mira estará en Galway. Así que un poco de carretera, y a v
 
 Por cierto, que después de tantas cosas bonitas o preciosas que vamos viendo... Al final ese desayuno en el banco con zumo de manzana con gas (yo) en frente del mar... Pues ha sido un recuerdo que se queda clavado. Hasta mañana.
 
-[![20120814-234711.jpg](http://blog.migueljulian.com/wp-content/uploads/20120814-234711.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120814-234711.jpg)
+[![20120814-234711.jpg](/images/blog/20120814-234711.jpg)](/images/blog/20120814-234711.jpg)

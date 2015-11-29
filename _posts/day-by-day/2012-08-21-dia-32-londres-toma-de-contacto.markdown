@@ -1,6 +1,7 @@
 ---
 date: 2012-08-21 19:28:11+00:00
 layout: post
+image: /images/blog/20120821-202733.jpg
 slug: dia-32-londres-toma-de-contacto
 title: 'Día 32: Londres, toma de contacto'
 categories: day-by-day
@@ -12,4 +13,4 @@ Muchos sitios que voy a volver a ver. Muchos planes que me hacen pensar que 14 d
 
 Hoy me despido por ahora aunque igual actualizo. Esta noche toca un poquito de fiesta... Let's go!
 
-[![20120821-202733.jpg](http://blog.migueljulian.com/wp-content/uploads/20120821-202733.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120821-202733.jpg)
+[![20120821-202733.jpg](/images/blog/20120821-202733.jpg)](/images/blog/20120821-202733.jpg)

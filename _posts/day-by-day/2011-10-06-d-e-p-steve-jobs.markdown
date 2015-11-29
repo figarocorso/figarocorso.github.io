@@ -1,12 +1,13 @@
 ---
 date: 2011-10-06 20:32:17+00:00
 layout: post
+image: /images/blog/dep_steve_jobs.jpg
 slug: d-e-p-steve-jobs
 title: D.E.P. Steve Jobs
 categories: day-by-day
 ---
 
-![](http://img.genbeta.com/2011/10/steve-jobs-ha-muerto.jpg)
+![](/images/blog/dep_steve_jobs.jpg)
 
 Llevo unas cuantas horas haciendo "lo que sea" con [The Show Must Go On](http://www.youtube.com/watch?v=fBOvOatPqnY#start=0:00;end=4:28;autoreplay=true;showoptions=false). Ese granito de arena lo he tenido en clase dialogando-repasando con los chavales porqué fue un _tipo importante_. Y de manera pública en [Twitter](http://twitter.com/#!/miky_kun/statuses/121820396579328000) y en un artículo de [Genbeta](http://www.genbeta.com/movil/menos-de-una-semana-para-ios-5-refrescamos-las-novedades):
 

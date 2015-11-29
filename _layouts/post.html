@@ -62,7 +62,11 @@
   <div style="display:none;" id="mini-post">
     <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
       <h2 itemprop="headline"><a href="{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h2>
-      {% if page.image %}<a href="{{ page.url }}" rel="bookmark" title="{{ page.title }}"><img width="200px" src="{{ page.image }}" /></a>{% endif %}
+      {% if page.image %}
+        <a href="{{ page.url }}" rel="bookmark" title="{{ page.title }}"><img height="200px" width="200px" src="{{ page.image }}" /></a>
+      {% else %}
+        <a href="{{ page.url }}" rel="bookmark" title="{{ page.title }}"><img width="200px" src="/images/no-thumb.png" /></a>
+      {% endif %}
     </article>
   </div> <!-- mini-post -->
 

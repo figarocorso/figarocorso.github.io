@@ -1,12 +1,13 @@
 ---
 date: 2012-09-03 23:01:37+00:00
 layout: post
+image: /images/blog/music-set-us-free.jpg
 slug: algunas-conclusiones-de-esta-aventura
 title: Algunas conclusiones de esta aventura
 categories: day-by-day
 ---
 
-[![Music Set Us Free](http://blog.migueljulian.com/wp-content/uploads/music-set-us-free.jpg)](http://blog.migueljulian.com/2012/09/algunas-conclusiones-de-esta-aventura/music-set-us-free/)
+[![Music Set Us Free](/images/blog/music-set-us-free.jpg)](/images/blog/music-set-us-free.jpg)
 
 Después de que el móvil se me volviera loco en el aeropuerto y perdiera lo que llevaba escribiendo media hora (habrá que buscar alternativas para escribir ahí y no perder el trabajo hecho si algo se va al garete) me siento delante de mi ordenador en Zaragoza para cerrar esta pequeña etapa en este blog. Un blog que hice simplemente para motivarme a mí mismo, pero que ha encontrado una utilidad un poco mayor durante este viaje.
 

@@ -1,12 +1,13 @@
 ---
 date: 2013-08-03 20:22:43+00:00
 layout: post
+image: /images/blog/miguel_miky_playita_y_chiringuito-e1376431977861.jpg
 slug: de-playa-y-chiringuitos
 title: De playa y chiringuitos
 categories: day-by-day
 ---
 
-[![Miguel Julián - Miky - Playa y Chiringuito](http://blog.migueljulian.com/wp-content/uploads/miguel_miky_playita_y_chiringuito-e1376431977861.jpg)](http://blog.migueljulian.com/wp-content/uploads/miguel_miky_playita_y_chiringuito-e1376431977861.jpg)
+[![Miguel Julián - Miky - Playa y Chiringuito](/images/blog/miguel_miky_playita_y_chiringuito-e1376431977861.jpg)](/images/blog/miguel_miky_playita_y_chiringuito-e1376431977861.jpg)
 
 
 

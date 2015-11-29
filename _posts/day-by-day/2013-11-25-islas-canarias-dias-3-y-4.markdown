@@ -1,12 +1,13 @@
 ---
 date: 2013-11-25 11:04:36+00:00
 layout: post
+image: /images/blog/Foto-24-11-13-10-15-44.jpg
 slug: islas-canarias-dias-3-y-4
 title: Islas Canarias - Días 3 y 4
 categories: day-by-day
 ---
 
-[![La Gomera](http://blog.migueljulian.com/wp-content/uploads/Foto-24-11-13-10-15-44-785x785.jpg)](http://blog.migueljulian.com/wp-content/uploads/Foto-24-11-13-10-15-44.jpg)
+[![La Gomera](/images/blog/Foto-24-11-13-10-15-44.jpg)](/images/blog/Foto-24-11-13-10-15-44.jpg)
 
 
 

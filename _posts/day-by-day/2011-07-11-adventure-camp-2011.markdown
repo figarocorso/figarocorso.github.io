@@ -1,12 +1,13 @@
 ---
 date: 2011-07-11 17:30:16+00:00
 layout: post
+image: /images/blog/adventure-camp-juandelanuza.jpg
 slug: adventure-camp-2011
 title: Adventure Camp 2011
 categories: day-by-day
 ---
 
-[![](http://blog.migueljulian.com/wp-content/uploads/adventure-camp-juandelanuza.jpg)](http://blog.migueljulian.com/2011/07/adventure-camp-2011/adventure-camp-juandelanuza/)
+[![](/images/blog/adventure-camp-juandelanuza.jpg)](/images/blog/adventure-camp-juandelanuza.jpg)
 
 
 

@@ -1,12 +1,13 @@
 ---
 date: 2013-06-06 19:46:28+00:00
 layout: post
+image: /images/blog/miky-segovia-sonisphere-e1370545858580.jpg
 slug: sonisphere-2013-zenmersion-en-segovia
 title: Sonisphere 2013 + Zenmersion en Segovia
 categories: day-by-day
 ---
 
-[![Sonisphere en Madrid y visita a Segovia con Zentyal - Miky - Miguel Julián](http://blog.migueljulian.com/wp-content/uploads/miky-segovia-sonisphere-e1370545858580.jpg)](http://blog.migueljulian.com/wp-content/uploads/miky-segovia-sonisphere-e1370545858580.jpg)
+[![Sonisphere en Madrid y visita a Segovia con Zentyal - Miky - Miguel Julián](/images/blog/miky-segovia-sonisphere-e1370545858580.jpg)](/images/blog/miky-segovia-sonisphere-e1370545858580.jpg)
 
 
 

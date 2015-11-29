@@ -6,6 +6,4 @@ title: Tuits&Beers
 categories: day-by-day
 ---
 
-![](http://a.yfrog.com/img738/8204/95bcg.jpg)
-
 Es genial ver cómo evoluciona la gente, buena gente, me alegro volver a retomar el contacto en persona con ellos.

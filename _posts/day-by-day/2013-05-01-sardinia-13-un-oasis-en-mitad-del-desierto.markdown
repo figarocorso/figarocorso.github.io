@@ -3,10 +3,11 @@ date: 2013-05-01 22:07:56+00:00
 layout: post
 slug: sardinia-13-un-oasis-en-mitad-del-desierto
 title: Sardinia '13 - Un oasis en mitad del desierto
+image: /images/blog/Foto-01-05-13-23-01-10.jpg
 categories: day-by-day
 ---
 
-[![Miguel Julián - Miky - Cerdeña (Sardinia)](http://blog.migueljulian.com/wp-content/uploads/Foto-01-05-13-23-01-10.jpg)](http://blog.migueljulian.com/wp-content/uploads/Foto-01-05-13-23-01-10.jpg)
+[![Miguel Julián - Miky - Cerdeña (Sardinia)](/images/blog/Foto-01-05-13-23-01-10.jpg)](/images/blog/Foto-01-05-13-23-01-10.jpg)
 
 
 Ya de vuelta de la escapadita por Cerdeña (o Sardinia en inglés, que casi me he acostumbrado) todo se ve un poco raro. Parece muy lejana esa semana pasada agobiante y cansadísima. Llegué el viernes por la tarde sobre las ocho y caí rendido hasta las diez o así. Tocaba prepararse la maleta (hate it! quiero mi mochila!).

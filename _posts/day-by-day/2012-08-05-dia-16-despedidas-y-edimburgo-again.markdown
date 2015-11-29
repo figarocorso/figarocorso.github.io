@@ -1,6 +1,7 @@
 ---
 date: 2012-08-05 20:02:12+00:00
 layout: post
+image: /images/blog/20120805-205808.jpg
 slug: dia-16-despedidas-y-edimburgo-again
 title: 'Día 16: Despedidas y Edimburgo (again)'
 categories: day-by-day
@@ -26,4 +27,4 @@ Por cierto, normalmente no recuerdo los sueños que he tenido (acostumbro a deci
 
 Esta noche más cosicas, pero tendrán que ser lights, porque se me acaban las pilas.
 
-[![20120805-205808.jpg](http://blog.migueljulian.com/wp-content/uploads/20120805-205808.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120805-205808.jpg)
+[![20120805-205808.jpg](/images/blog/20120805-205808.jpg)](/images/blog/20120805-205808.jpg)

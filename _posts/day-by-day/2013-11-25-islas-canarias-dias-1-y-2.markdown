@@ -1,12 +1,13 @@
 ---
 date: 2013-11-25 09:04:02+00:00
 layout: post
+image: /images/blog/Foto-24-11-13-10-12-49.jpg
 slug: islas-canarias-dias-1-y-2
 title: Islas Canarias - Días 1 y 2
 categories: day-by-day
 ---
 
-[![Teide y Montaña Roja](http://blog.migueljulian.com/wp-content/uploads/Foto-24-11-13-10-12-49-785x785.jpg)](http://blog.migueljulian.com/wp-content/uploads/Foto-24-11-13-10-12-49.jpg)
+[![Teide y Montaña Roja](/images/blog/Foto-24-11-13-10-12-49.jpg)](/images/blog/Foto-24-11-13-10-12-49.jpg)
 
 
 

@@ -1,12 +1,13 @@
 ---
 date: 2011-11-04 00:08:02+00:00
 layout: post
+image: /images/blog/migueljulian_dot_com.png
 slug: renovando-www-migueljulian-com
 title: Renovando www.migueljulian.com
 categories: day-by-day
 ---
 
-[![](http://blog.migueljulian.com/wp-content/uploads/migueljulian_dot_com-800x523.png)](http://blog.migueljulian.com/2011/11/renovando-www-migueljulian-com/migueljulian_dot_com/)
+[![](/images/blog/migueljulian_dot_com-800x523.png)](/images/blog/migueljulian_dot_com.png)
 
 Después de haber tenido una página en Flash hecha con Wix durante mucho tiempo, creo que era hora de cambiar y hacer **una portada más personalizada**.
 

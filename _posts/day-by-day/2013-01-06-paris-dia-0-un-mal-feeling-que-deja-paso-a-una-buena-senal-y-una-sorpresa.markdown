@@ -1,6 +1,7 @@
 ---
 date: 2013-01-06 00:02:42+00:00
 layout: post
+image: /images/blog/20130106-010123.jpg
 slug: paris-dia-0-un-mal-feeling-que-deja-paso-a-una-buena-senal-y-una-sorpresa
 title: París [Día 0] - Un mal feeling que deja paso a una buena señal (y una sorpresa)
 categories: day-by-day
@@ -26,4 +27,4 @@ Ese High Effort lo intento llevar con cuidado. Porque se puede volver en tu cont
 
 Gracias por leer mis idas de cabeza. Intento que esto me sirva a mí mismo, pero no puedo negarme ante la evidencia de que me alegro cuando veo que alguien me comenta que lo lee. Que por lo visto es más gente de la que pensaba (incluida la Sr. Y, gracias por la mini-charla).
 
-[![20130106-010123.jpg](http://blog.migueljulian.com/wp-content/uploads/20130106-010123.jpg)](http://blog.migueljulian.com/wp-content/uploads/20130106-010123.jpg)
+[![20130106-010123.jpg](/images/blog/20130106-010123.jpg)](/images/blog/20130106-010123.jpg)

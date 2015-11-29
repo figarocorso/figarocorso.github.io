@@ -1,6 +1,7 @@
 ---
 date: 2012-07-29 14:31:02+00:00
 layout: post
+image: /images/blog/20120729-153040.jpg
 slug: dia-9-despedida-del-campamento-base-head-to-north
 title: 'Día 9: Despedida del campamento base - Head to North'
 categories: day-by-day
@@ -16,4 +17,4 @@ De todas formas, si bien esos planes intentaré que salgan adelante, el día a d
 
 ¿Hoy he aprendido 3 cosas? Pues sí. Pero hoy no me apetece contarlas :-)
 
-[![20120729-153040.jpg](http://blog.migueljulian.com/wp-content/uploads/20120729-153040.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120729-153040.jpg)
+[![20120729-153040.jpg](/images/blog/20120729-153040.jpg)](/images/blog/20120729-153040.jpg)

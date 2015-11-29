@@ -1,6 +1,7 @@
 ---
 date: 2012-08-18 17:26:04+00:00
 layout: post
+image: /images/blog/20120818-182500.jpg
 slug: dia-29-los-ultimos-pasos-por-irlanda
 title: 'Día 29: los últimos pasos por Irlanda'
 categories: day-by-day
@@ -14,4 +15,4 @@ Después de todo eso ha tocado una parada técnica en Kilkenny, una parada carga
 
 Mañana? No se lo que voy a hacer, así que mañana os cuento. Pero mi intención es irme a Londres dentro de nada ;)
 
-[![20120818-182500.jpg](http://blog.migueljulian.com/wp-content/uploads/20120818-182500.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120818-182500.jpg)
+[![20120818-182500.jpg](/images/blog/20120818-182500.jpg)](/images/blog/20120818-182500.jpg)

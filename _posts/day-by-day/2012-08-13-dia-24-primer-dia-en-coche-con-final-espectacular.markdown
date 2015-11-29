@@ -1,6 +1,7 @@
 ---
 date: 2012-08-13 23:03:30+00:00
 layout: post
+image: /images/blog/20120814-000257.jpg
 slug: dia-24-primer-dia-en-coche-con-final-espectacular
 title: 'Día 24: Primer día en coche con final espectacular'
 categories: day-by-day
@@ -14,4 +15,4 @@ Trim con un castillo espectacular ha sido la primera parada. Pero después han v
 
 La guinda del pastel ha sido cuando hemos llegado a la Calzada de los Gigantes. En las fotos que ya había visto tenía dos opiniones: que estaba muy bien y que era decepcionante. Y cuando hemos llegado allí ha sido una mezcla de los dos. Primero parece poca cosa, pero luego empiezas a andar por las rocas, a adentrarte en el mar, a escuchar las olas, a mirar a tu alrededor y realmente te das cuenta del lugar tan especial en el que te encuentras. Y como colofón, después de unos pequeños contratiempos (más o menos divertidos) hemos visto un atardecer precioso en esa costa norte de Irlanda. Una imagen que nos ha dejado callado durante un rato, cada uno en nuestros propios momentos. Precioso. Creo que uno de esos momentos que no se olvidan; porque cuando algo te cuesta mucho... Al final acabas disfrutándolo mucho más. Está siendo una constante de este viaje. Cuando algo te cuesta, cuando algo te sorprende, cuando algo consigue callar esas voces internas... Entonces todo parece en orden, todo parece perfecto. Son esos momentos en los que te das cuenta y disfrutas de los logros de este viaje.
 
-[![20120814-000257.jpg](http://blog.migueljulian.com/wp-content/uploads/20120814-000257.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120814-000257.jpg)
+[![20120814-000257.jpg](/images/blog/20120814-000257.jpg)](/images/blog/20120814-000257.jpg)

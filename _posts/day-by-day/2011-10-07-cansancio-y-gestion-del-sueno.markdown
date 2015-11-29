@@ -1,12 +1,13 @@
 ---
 date: 2011-10-07 16:26:56+00:00
 layout: post
+image: /images/blog/cansancio.jpg
 slug: cansancio-y-gestion-del-sueno
 title: Cansancio y gestión del sueño
 categories: day-by-day
 ---
 
-![](http://farm1.static.flickr.com/134/375425496_e632fe33fb_z.jpg)
+![](/images/blog/cansancio.jpg)
 
 Uno de los mayores problemas ante los que me estoy encontrando a la hora de intentar alargar los días es regular el sueño para afrontar las nuevas necesidades. Hay que irse a dormir antes (a las 00:00) para, al menos, tener esas 7 horas de sueño y comenzar el día _plenty of power_.
 

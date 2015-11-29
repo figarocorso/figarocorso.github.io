@@ -1,13 +1,14 @@
 ---
 date: 2014-01-01 22:14:47+00:00
 layout: post
+image: /images/blog/2013-review.jpg
 slug: 2013-year-review-keep-on-going
 title: 2013 year review - Keep on going
 categories: day-by-day
-image: http://blog.migueljulian.com/wp-content/uploads/2013-review.jpg
+image: /images/blog/2013-review.jpg
 ---
 
-[![2013-review](http://blog.migueljulian.com/wp-content/uploads/2013-review-785x785.jpg)](http://blog.migueljulian.com/wp-content/uploads/2013-review.jpg)
+[![2013-review](/images/blog/2013-review.jpg)](/images/blog/2013-review.jpg)
 
 Escribo esto a casi 31 de diciembre de 2013 (a saber cuándo lo publicaré), y en el primer vistazo atrás parecía un año aburrido, paradillo, como sin importancia. Momento de pausa... Meeec, error. Creo que este 2013 ha sido, si cabe, más decisivo que el 2012 (que ya de por sí fue majo).
 

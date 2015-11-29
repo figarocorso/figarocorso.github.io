@@ -1,6 +1,7 @@
 ---
 date: 2011-09-17 08:07:24+00:00
 layout: post
+image: /images/blog/20110917-100708.jpg
 slug: in-flames
 title: In Flames
 categories: day-by-day
@@ -12,4 +13,4 @@ Y es que el concierto fue "brutal". Hacía mucho que no brincaba, cantaba y empu
 
 Bueno, después del concierto tocó socializarse un poco con unos amigos y sus amigos... Pero me dejaron dormir en su casa, así que aún tengo algo de dinero para lo que espera este finde.    
   
-[![20110917-100708.jpg](http://blog.migueljulian.com/wp-content/uploads/20110917-100708.jpg)](http://blog.migueljulian.com/wp-content/uploads/20110917-100708.jpg)
+[![20110917-100708.jpg](/images/blog/20110917-100708.jpg)](/images/blog/20110917-100708.jpg)

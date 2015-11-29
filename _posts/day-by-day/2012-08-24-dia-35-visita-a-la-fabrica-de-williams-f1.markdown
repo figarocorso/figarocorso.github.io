@@ -1,6 +1,7 @@
 ---
 date: 2012-08-24 17:37:39+00:00
 layout: post
+image: /images/blog/20120824-183641.jpg
 slug: dia-35-visita-a-la-fabrica-de-williams-f1
 title: 'Día 35: Visita a la fábrica de Williams F1'
 categories: day-by-day
@@ -20,4 +21,4 @@ Ha sido la actividad más cara que he hecho, pero también una de las más "pers
 
 ¿Mañana? Espero despertarme tarde, recuperado (lo dudo) e ir a la Brick Lane. Pero, ya si eso, vuelva usted mañana.
 
-[![20120824-183641.jpg](http://blog.migueljulian.com/wp-content/uploads/20120824-183641.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120824-183641.jpg)
+[![20120824-183641.jpg](/images/blog/20120824-183641.jpg)](/images/blog/20120824-183641.jpg)

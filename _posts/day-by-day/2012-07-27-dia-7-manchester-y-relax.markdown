@@ -1,6 +1,7 @@
 ---
 date: 2012-07-27 17:30:38+00:00
 layout: post
+image: /images/blog/20120727-183019.jpg
 slug: dia-7-manchester-y-relax
 title: 'Día 7: Manchester y relax'
 categories: day-by-day
@@ -18,4 +19,4 @@ Lo último que quería hacer era ir a Old Trafford, Theater of Dreams según un 
 
 Hoy es pronto, todavía queda mucho que rascar, pero hasta aquí todo el pescao vendido. Mañana más. Todavía no tengo muy claro qué voy a hacer, pero la ciudad de Chester tiene muchas papeletas. Seguramente el domingo ya me vaya a tierras de Newcastle... ya se verá.
 
-[![20120727-183019.jpg](http://blog.migueljulian.com/wp-content/uploads/20120727-183019.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120727-183019.jpg)
+[![20120727-183019.jpg](/images/blog/20120727-183019.jpg)](/images/blog/20120727-183019.jpg)

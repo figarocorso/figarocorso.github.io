@@ -1,12 +1,13 @@
 ---
 date: 2013-08-18 21:35:14+00:00
 layout: post
+image: /images/blog/siguenza_miguel_julian_miky-e1376860319688.jpg
 slug: siguenza-cultura-y-naturaleza
 title: Sigüenza - Cultura y naturaleza
 categories: day-by-day
 ---
 
-[![Río Dulce - Sta Mª de Huerta - Sigüenza - Miky - Miguel Julián](http://blog.migueljulian.com/wp-content/uploads/siguenza_miguel_julian_miky-e1376860319688.jpg)](http://blog.migueljulian.com/wp-content/uploads/siguenza_miguel_julian_miky-e1376860319688.jpg)
+[![Río Dulce - Sta Mª de Huerta - Sigüenza - Miky - Miguel Julián](/images/blog/siguenza_miguel_julian_miky-e1376860319688.jpg)](/images/blog/siguenza_miguel_julian_miky-e1376860319688.jpg)
 
 
 

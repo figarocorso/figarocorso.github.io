@@ -1,18 +1,13 @@
 ---
 date: 2011-09-14 08:30:00+00:00
 layout: post
+image: /images/blog/monza-miguel-julian.jpg
 slug: monza-2011
 title: Monza 2011
 categories: day-by-day
 ---
 
-
-
-
-
-
-
-[![](http://blog.migueljulian.com/wp-content/uploads/monza-miguel-julian.jpg)](http://blog.migueljulian.com/2011/09/monza-2011/monza-miguel-julian/)
+[![](/images/blog/monza-miguel-julian.jpg)](/images/blog/monza-miguel-julian.jpg)
 
 Monza es ese circuito con el que pasaba las horas muertas jugando en el ordenador con el mítico juego Gran Prix 2 (y eso sería por el 1997, que ya ha llovido desde entonces). **Monza es ese circuito lleno de leyenda**, de momentos pegado al televisor deseando estar ahí. Monza es uno de esos circuitos que todo amante al motor debería visitar como si de una peregrinación se tratara.
 

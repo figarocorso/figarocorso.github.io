@@ -1,12 +1,13 @@
 ---
 date: 2012-02-14 08:32:25+00:00
 layout: post
+image: /images/blog/20120213-131340.jpg
 slug: nuevo-gadget-para-la-clase
 title: Nuevo gadget para la clase
 categories: day-by-day
 ---
 
-[![20120213-131340.jpg](http://blog.migueljulian.com/wp-content/uploads/20120213-131340.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120213-131340.jpg)
+[![20120213-131340.jpg](/images/blog/20120213-131340.jpg)](/images/blog/20120213-131340.jpg)
 
 Yo creo que es la primera vez que me toca algo en un sorteo, así que esto bien se merece un post pequeñito. Hace ya unas cuantas semanas participé en un sorteo de la página de Facebook de PBXTecnologías, sin siquiera saber cuáles eran los premios. Había que dar una opinión sobre qué cacharros veía en el futuro de la educación. Y así lo hice, aunque mi respuesta no interesa :)
 

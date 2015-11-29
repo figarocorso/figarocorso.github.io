@@ -1,6 +1,7 @@
 ---
 date: 2012-08-04 12:16:13+00:00
 layout: post
+image: /images/blog/20120804-131544.jpg
 slug: dia-15-lauder-common-riding
 title: 'Día 15: Lauder Common Riding'
 categories: day-by-day
@@ -23,4 +24,4 @@ He conseguido sacar unos minutos de descanso, creo que merecido. Y es que he nec
 
 Canciones, juegos, comida, vestuario, costumbres (¿compartir? ¿qué es eso? juntos pero no revueltos) y un montón de cosas. Poco a poco, aunque mañana se termina esta etapa DIFERENTE (y buena) del viaje.
 
-[![20120804-131544.jpg](http://blog.migueljulian.com/wp-content/uploads/20120804-131544.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120804-131544.jpg)
+[![20120804-131544.jpg](/images/blog/20120804-131544.jpg)](/images/blog/20120804-131544.jpg)

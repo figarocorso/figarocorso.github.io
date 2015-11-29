@@ -1,6 +1,7 @@
 ---
 date: 2011-06-29 21:52:32+00:00
 layout: post
+image: /images/blog/20110629-235225.jpg
 slug: apple
 title: Apple
 categories: day-by-day
@@ -8,4 +9,4 @@ categories: day-by-day
 
 No, no me he vuelto loco. Todo tiene un sentido, espero tener a la vuelta de los campamentos el tiempo necesario.
 
-[![20110629-235225.jpg](http://blog.migueljulian.com/wp-content/uploads/20110629-235225.jpg)](http://blog.migueljulian.com/wp-content/uploads/20110629-235225.jpg)
+[![20110629-235225.jpg](/images/blog/20110629-235225.jpg)](/images/blog/20110629-235225.jpg)

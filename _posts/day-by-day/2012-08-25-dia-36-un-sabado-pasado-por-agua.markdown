@@ -1,6 +1,7 @@
 ---
 date: 2012-08-25 21:54:29+00:00
 layout: post
+image: /images/blog/20120825-225249.jpg
 slug: dia-36-un-sabado-pasado-por-agua
 title: 'Día 36: Un sábado pasado por agua'
 categories: day-by-day
@@ -18,4 +19,4 @@ Mañana ya veré lo que hago. Si el tiempo acompaña iré a Candem para ver el m
 
 Por cierto, ahora que miro a otros compañeros de habitación. Lo hablaba con el amigo mexicano, poco a poco según avanza la aventura valoras menos la seguridad de "tus cosas". Veo a gente que sigue poniendo todo bajo candado, con recelo. Bueno, lo admito, yo lo hice las dos primeras noches. Desde entonces lo tengo muy claro, dinero poco y cerca de mí. Ídem con el móvil (alguna vez lo he dejado cargando). Pero en general creo que la gente por aquí tiene "buena conciencia", todo lo que ven es lo que tengo por aquí. Si me roban, que les aproveche. Pero la mejor forma de evitar sorpresas es hablar con la gente, porque es más difícil robar a alguien si tan conoces su nombre: "Hi, I'm Miguel. How are you doing?", arreglado, ya no me roban, jeejeje. Esto es incoherente, pero bueno, yo me entero, y seguro que alguien lo comprende...
 
-[![20120825-225249.jpg](http://blog.migueljulian.com/wp-content/uploads/20120825-225249.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120825-225249.jpg)
+[![20120825-225249.jpg](/images/blog/20120825-225249.jpg)](/images/blog/20120825-225249.jpg)

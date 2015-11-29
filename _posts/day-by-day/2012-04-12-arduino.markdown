@@ -1,6 +1,7 @@
 ---
 date: 2012-04-12 22:47:03+00:00
 layout: post
+image: /images/blog/20120413-004656.jpg
 slug: arduino
 title: Arduino
 categories: day-by-day
@@ -10,4 +11,4 @@ Una de las cosas con las que siempre me he querido pelear. Y por casualidades de
 
 En la foto está mi "Coche Fantástico", la verdad es que resulta muy sencillo, pero lo de la electrónica no es lo mío, no me gusta demasiado. Aunque es divertida ;)
 
-[![20120413-004656.jpg](http://blog.migueljulian.com/wp-content/uploads/20120413-004656.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120413-004656.jpg)
+[![20120413-004656.jpg](/images/blog/20120413-004656.jpg)](/images/blog/20120413-004656.jpg)

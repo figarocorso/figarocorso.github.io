@@ -1,12 +1,13 @@
 ---
 date: 2013-04-14 16:34:50+00:00
 layout: post
+image: /images/blog/20130414-182757.jpg
 slug: finde-largo-en-granada
 title: Finde (largo) en Granada
 categories: day-by-day
 ---
 
-[![Miky en Granada 2013](http://blog.migueljulian.com/wp-content/uploads/20130414-182757.jpg)](http://blog.migueljulian.com/wp-content/uploads/20130414-182757.jpg)
+[![Miky en Granada 2013](/images/blog/20130414-182757.jpg)](/images/blog/20130414-182757.jpg)
 
 H2A. Hard2Achieve. Pues qué mejor que bajar en bus desde Zaragoza hasta Ganada. Unas cuantas horas de bus... Pues eso. Muchas horas de dormir, de leer y de pensar.
 

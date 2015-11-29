@@ -1,12 +1,13 @@
 ---
 date: 2013-03-27 00:41:15+00:00
 layout: post
+image: /images/blog/la-foto.jpg
 slug: mis-4-mandamientos
 title: Mis 4 mandamientos
 categories: day-by-day
 ---
 
-[![Vodka de higo](http://blog.migueljulian.com/wp-content/uploads/la-foto.jpg)](http://blog.migueljulian.com/wp-content/uploads/la-foto.jpg)
+[![Vodka de higo](/images/blog/la-foto.jpg)](/images/blog/la-foto.jpg)
 
 Todas las personas merecen la pena, pero en el fondo ninguna más que uno mismo. Todo empieza desde dentro y se proyecta en todas direcciones. Ese "algo" que llevo buscando desde hace un par de años parece que está llegando.
 

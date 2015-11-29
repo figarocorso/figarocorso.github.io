@@ -1,12 +1,13 @@
 ---
 date: 2013-06-18 21:48:38+00:00
 layout: post
+image: /images/blog/Foto-18-06-13-22-00-29-e1371590354353.jpg
 slug: playa-y-motos
 title: Playa y motos
 categories: day-by-day
 ---
 
-[![Miky - Miguel Julián - Playa](http://blog.migueljulian.com/wp-content/uploads/Foto-18-06-13-22-00-29-e1371590354353.jpg)](http://blog.migueljulian.com/wp-content/uploads/Foto-18-06-13-22-00-29-e1371590354353.jpg)
+[![Miky - Miguel Julián - Playa](/images/blog/Foto-18-06-13-22-00-29-e1371590354353.jpg)](/images/blog/Foto-18-06-13-22-00-29-e1371590354353.jpg)
 
 
 

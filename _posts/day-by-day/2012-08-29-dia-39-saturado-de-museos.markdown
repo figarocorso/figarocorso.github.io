@@ -1,6 +1,7 @@
 ---
 date: 2012-08-29 09:29:06+00:00
 layout: post
+image: /images/blog/20120829-102820.jpg
 slug: dia-39-saturado-de-museos
 title: 'Día 39: Saturado de museos'
 categories: day-by-day
@@ -18,4 +19,4 @@ Del British Museum lo que más me impacto es que al principio parece pequeño, p
 
 Vuelta a hostal. Hoy he puesto una foto de la azotea, que es donde pasamos las noches hasta que nos echan ( a las doce). Es el momento de socializarse, y luego ya decides si quieres seguir la juerga o te vas a dormir. Ayer, hablando-hablando, se hicieron las tantas. Y nada de escribir (ni poner la lavadora). Así que hoy voy en el tren camino de Canterbury, con la camiseta del Arsenal que me compré, en modo barato (no es con la que juegan) y con el número 10 y uno de los más grandes a la espalda (empieza por 'B', quién es). Parece que me va a llover, pero espero que Canterbury no defraude.
 
-[![20120829-102820.jpg](http://blog.migueljulian.com/wp-content/uploads/20120829-102820.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120829-102820.jpg)
+[![20120829-102820.jpg](/images/blog/20120829-102820.jpg)](/images/blog/20120829-102820.jpg)

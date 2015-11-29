@@ -1,6 +1,7 @@
 ---
 date: 2012-08-16 00:36:28+00:00
 layout: post
+image: /images/blog/20120816-013556.jpg
 slug: dia-26-galway-y-alrededores
 title: 'Día 26: Galway y alrededores'
 categories: day-by-day
@@ -14,4 +15,4 @@ Hoy ya es muy tarde que la cena improvisada, digna de un gourmet de los sandwich
 
 Hoy leía que hay que aprovechar el día a día, que no hay que dejar las cosas para "más adelante seguro que lo puedo hacer". Ya lo hablaba con el Sr. A2, lo importante son los billetes de ida, todo lo demás viene detrás, y sorprendentemente siempre somos capaces de afrontar lo que venga. Así que ya sea para viajar en una mini-aventura, o para cosas del día a día, de la vida personal... A PONERSE A TOPE.
 
-[![20120816-013556.jpg](http://blog.migueljulian.com/wp-content/uploads/20120816-013556.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120816-013556.jpg)
+[![20120816-013556.jpg](/images/blog/20120816-013556.jpg)](/images/blog/20120816-013556.jpg)

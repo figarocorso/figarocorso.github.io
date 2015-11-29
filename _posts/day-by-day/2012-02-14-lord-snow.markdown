@@ -1,6 +1,7 @@
 ---
 date: 2012-02-14 21:11:53+00:00
 layout: post
+image: /images/blog/20120214-221121.jpg
 slug: lord-snow
 title: Lord Snow
 categories: day-by-day
@@ -10,4 +11,4 @@ Siguiendo con mi "Vida sin papel" faltaba alguna herramienta. Sobre todo para an
 
 Esta es la presentación oficial de Lord Snow. Ahora ya tengo herramientas que han sido fáciles de adquirir. Los hábitos son harina de otro costal.
 
-[![20120214-221121.jpg](http://blog.migueljulian.com/wp-content/uploads/20120214-221121.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120214-221121.jpg)
+[![20120214-221121.jpg](/images/blog/20120214-221121.jpg)](/images/blog/20120214-221121.jpg)

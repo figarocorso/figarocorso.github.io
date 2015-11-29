@@ -1,6 +1,7 @@
 ---
 date: 2012-07-28 18:50:41+00:00
 layout: post
+image: /images/blog/20120728-195022.jpg
 slug: dia-8-chester-con-el-sr-a
 title: 'Día 8: Chester con el Sr. A'
 categories: day-by-day
@@ -19,4 +20,4 @@ Antes de ayer me leía en un libro que a una chiquilla le obligaban a decir tres
 
 Poco tengo que destacar hoy. Simplemente decir que la ciudad/pueblo de Chester es genial, lo tiene todo (para verla un día) y además hemos tenido la suerte de que el tiempo ha acompañado bastante, lo que parece que ha durado hasta "ahora", que ha empezado a llover. ¿Parará?
 
-[![20120728-195022.jpg](http://blog.migueljulian.com/wp-content/uploads/20120728-195022.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120728-195022.jpg)
+[![20120728-195022.jpg](/images/blog/20120728-195022.jpg)](/images/blog/20120728-195022.jpg)

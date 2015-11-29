@@ -1,6 +1,7 @@
 ---
 date: 2011-06-18 17:29:31+00:00
 layout: post
+image: /images/blog/20110618-192923.jpg
 slug: coaching
 title: Coaching
 categories: day-by-day
@@ -12,4 +13,4 @@ Descubrir Ibercide ha sido una gozada. Solo por la cocina y el entorno me iría 
 
 Avanzando día a día, no?  
   
-[![20110618-192923.jpg](http://blog.migueljulian.com/wp-content/uploads/20110618-192923.jpg)](http://blog.migueljulian.com/wp-content/uploads/20110618-192923.jpg)
+[![20110618-192923.jpg](/images/blog/20110618-192923.jpg)](/images/blog/20110618-192923.jpg)

@@ -1,6 +1,7 @@
 ---
 date: 2012-08-29 22:10:46+00:00
 layout: post
+image: /images/blog/20120829-231041.jpg
 slug: dia-40-los-cuentos-de-canterbury
 title: 'Día 40: Los cuentos de Canterbury'
 categories: day-by-day
@@ -16,4 +17,4 @@ Ah! Canterbury. Catedral muy bonita, zona amurallada para andar, incluso tiene u
 
 Por la tarde he hecho la colada, un poco de hablar con la gente y planificar un posible fin de fiesta para el viernes o el sábado. Mientras tanto mañana tocará disfrutar de lo que venga. En principio intentaré aparecer en Greenwich con la DLR (metro eléctrico sin conductor) y después quedar con el Sr. S. Mi idea es ir a ver tiendas/sitios frikis, así que esta noche me toca investigar un poco....
 
-[![20120829-231041.jpg](http://blog.migueljulian.com/wp-content/uploads/20120829-231041.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120829-231041.jpg)
+[![20120829-231041.jpg](/images/blog/20120829-231041.jpg)](/images/blog/20120829-231041.jpg)

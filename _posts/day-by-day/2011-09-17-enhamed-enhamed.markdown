@@ -1,6 +1,7 @@
 ---
 date: 2011-09-17 11:33:48+00:00
 layout: post
+image: /images/blog/20110917-133310.jpg
 slug: enhamed-enhamed
 title: Enhamed Enhamed
 categories: day-by-day
@@ -14,4 +15,4 @@ La combinación de los dos párrafos anteriores es Enhamed Enhamed. Un deportist
 
 Y que te lleve él a tu metro y no al revés no tiene precio. Espero que sea el primero de muchos encuentros.
 
-[![20110917-133310.jpg](http://blog.migueljulian.com/wp-content/uploads/20110917-133310.jpg)](http://blog.migueljulian.com/wp-content/uploads/20110917-133310.jpg)
+[![20110917-133310.jpg](/images/blog/20110917-133310.jpg)](/images/blog/20110917-133310.jpg)

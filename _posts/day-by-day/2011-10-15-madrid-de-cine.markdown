@@ -1,6 +1,7 @@
 ---
 date: 2011-10-15 21:49:47+00:00
 layout: post
+image: /images/blog/20111015-234147.jpg
 slug: madrid-de-cine
 title: Madrid de Cine
 categories: day-by-day
@@ -12,4 +13,4 @@ El hotel ha sido increíble, dedicado al séptimo arte, al cine. De hecho al hac
 
 Y de Madrid... Siempre hay cosas nuevas. Y viejas. Y cosas que ya has hecho que puedes repetir y mejorar. Como visitar el templo Debod durante el ocaso. Unas cuantas cosas nuevas:
 Hamburguesa genial en la zona de Velázquez, un japo rico, rico y en el centro, zonas de compras, compras, el iPhone 4 a pleno rendimiento.... Y con ios 5. Muchas cosas!!!
-[![20111015-234147.jpg](http://blog.migueljulian.com/wp-content/uploads/20111015-234147.jpg)](http://blog.migueljulian.com/wp-content/uploads/20111015-234147.jpg)
+[![20111015-234147.jpg](/images/blog/20111015-234147.jpg)](/images/blog/20111015-234147.jpg)

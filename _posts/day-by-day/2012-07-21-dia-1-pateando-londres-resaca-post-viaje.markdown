@@ -1,6 +1,7 @@
 ---
 date: 2012-07-21 18:07:20+00:00
 layout: post
+image: /images/blog/20120721-190702.jpg
 slug: dia-1-pateando-londres-resaca-post-viaje
 title: 'Día 1: Pateando Londres (Resaca post viaje)'
 categories: day-by-day
@@ -18,4 +19,4 @@ Aunque al parecer el plato fuerte ha sido visitar la Abadía de Westmister donde
 
 Por cierto, que entre todas esas tumbas de grandes reyes de Inglaterra y del Reino Unido había ahí una tal Leonor de Castilla. Vaya, en la guía apenas la mencionan. Pero que se fastidien, porque ninguna de las figuras de las sepulturas llegaban al betún de la que podemos ver en La Cartuja de Miraflores de Burgos.
 
-¡Que se fastidien![![20120721-190702.jpg](http://blog.migueljulian.com/wp-content/uploads/20120721-190702.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120721-190702.jpg)
+¡Que se fastidien![![20120721-190702.jpg](/images/blog/20120721-190702.jpg)](/images/blog/20120721-190702.jpg)

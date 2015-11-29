@@ -1,6 +1,7 @@
 ---
 date: 2011-11-06 00:09:26+00:00
 layout: post
+image: /images/blog/20111106-010919.jpg
 slug: tedx-zaragoza
 title: TEDx Zaragoza
 categories: day-by-day
@@ -12,4 +13,4 @@ La verdad es que todo estaba bastante bien preparado y ha sido un placer volver 
 
 Algunas notas... Que espero que den sus frutos dentro de no mucho :)
 
-[![20111106-010919.jpg](http://blog.migueljulian.com/wp-content/uploads/20111106-010919.jpg)](http://blog.migueljulian.com/wp-content/uploads/20111106-010919.jpg)
+[![20111106-010919.jpg](/images/blog/20111106-010919.jpg)](/images/blog/20111106-010919.jpg)

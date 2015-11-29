@@ -1,6 +1,7 @@
 ---
 date: 2012-07-15 19:41:30+00:00
 layout: post
+image: /images/blog/20120715-214112.jpg
 slug: fin-de-semana-vacuno
 title: Fin de semana vacuno
 categories: day-by-day
@@ -12,4 +13,4 @@ La realidad, algo diferente. Comida, bebida y deporte, mucho deporte. La gracia 
 
 Frontón, frontón, basket, fútbol. Eso y las cuestas del pueblo me han puesto los músculos a tono, aunque tal vez demasiado. Mañana veremos qué tal va con el entrenamiento de pádel.
 
-[![20120715-214112.jpg](http://blog.migueljulian.com/wp-content/uploads/20120715-214112.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120715-214112.jpg)
+[![20120715-214112.jpg](/images/blog/20120715-214112.jpg)](/images/blog/20120715-214112.jpg)

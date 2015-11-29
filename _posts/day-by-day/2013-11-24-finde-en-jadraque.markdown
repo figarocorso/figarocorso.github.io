@@ -1,12 +1,13 @@
 ---
 date: 2013-11-24 19:41:10+00:00
 layout: post
+image: /images/blog/Foto-24-11-13-10-23-13.jpg
 slug: finde-en-jadraque
 title: Finde en Jadraque
 categories: day-by-day
 ---
 
-[![Foto 24-11-13 10 23 13](http://blog.migueljulian.com/wp-content/uploads/Foto-24-11-13-10-23-13-785x785.jpg)](http://blog.migueljulian.com/wp-content/uploads/Foto-24-11-13-10-23-13.jpg)
+[![Foto 24-11-13 10 23 13](/images/blog/Foto-24-11-13-10-23-13.jpg)](/images/blog/Foto-24-11-13-10-23-13.jpg)
 
 
 

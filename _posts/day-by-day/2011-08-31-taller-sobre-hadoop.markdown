@@ -1,12 +1,13 @@
 ---
 date: 2011-08-31 18:36:45+00:00
 layout: post
+image: /images/blog/hadoop.gif
 slug: taller-sobre-hadoop
 title: Taller sobre Hadoop
 categories: day-by-day
 ---
 
-![](http://thecloudtutorial.com/hadoop.gif)
+![](/images/blog/hadoop.gif)
 
 Aprovechando que en Zaragoza la cosa tecnológica se está moviendo y que me avisaron de un curso sobre Hadoop, haciendo alguna prueba sobre los clusters EC2 de Amazon... pues había que apuntarse.
 

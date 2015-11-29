@@ -1,6 +1,7 @@
 ---
 date: 2012-08-01 18:21:40+00:00
 layout: post
+image: /images/blog/20120801-192054.jpg
 slug: dia-12-alnwick-aka-el-castillo-de-harry-potter
 title: 'Día 12: Alnwick (aka El Castillo de Harry Potter)'
 categories: day-by-day
@@ -18,4 +19,4 @@ Al final del show ya era tarde (hora y media de bus, más las esperas, más entr
 
 Y por hoy basta. Mañana pongo rumbo a Edimburgo (Edinburgh) donde me esperará la Sra. B. Espero pasar unos días fabulosos en Escocia, y espero que el tiempo mejore un poquitín. Así que a esperas de lo que pase esta noche... adiós Newcastle (una ciudad que me ha sorprendido muchísimo -Low Expectations-).
 
-[![20120801-192054.jpg](http://blog.migueljulian.com/wp-content/uploads/20120801-192054.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120801-192054.jpg)
+[![20120801-192054.jpg](/images/blog/20120801-192054.jpg)](/images/blog/20120801-192054.jpg)

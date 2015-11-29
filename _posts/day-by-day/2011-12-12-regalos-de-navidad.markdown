@@ -1,12 +1,13 @@
 ---
 date: 2011-12-12 16:11:40+00:00
 layout: post
+image: /images/blog/navidad.jpg
 slug: regalos-de-navidad
 title: Regalos de Navidad
 categories: day-by-day
 ---
 
-[![](http://blog.migueljulian.com/wp-content/uploads/navidad.jpg)](http://blog.migueljulian.com/2011/12/regalos-de-navidad/navidad/)
+[![](/images/blog/navidad.jpg)](/images/blog/navidad.jpg)
 
 El año pasado se me ocurrió una idea, para que la gente pudiera acertar un poquito más en los regalos de navidad pensé en hacer una **wish list** (una "lista de deseos"). La idea era que si alguien no sabía lo que yo quería, que ahí podía tener una guía, y si en cambio tenía una gran idea de regalo... pues genial, mucho mejor, de hecho **ese componente de sorpresa es genial**.
 

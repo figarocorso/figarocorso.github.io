@@ -1,6 +1,7 @@
 ---
 date: 2013-01-06 21:30:10+00:00
 layout: post
+image: /images/blog/20130106-222908.jpg
 slug: paris-dia-1-demasiadas-cosas-que-ver
 title: París [Día 1] - Demasiadas cosas que ver
 categories: day-by-day
@@ -22,4 +23,4 @@ Después de semejante pateada física y mental he salido y me he sentado un poqu
 
 Hoy ha sido un buen día. Muy nublado, pero no demasiado frío. He visto un montón de cosas y tengo la sensación de haber disfrutado un montón. Mañana... seguramente me vaya hacia el Sacre Coeur - Montmartre (¿andando desde el hostal?) y seguramente baje hasta los Campos Elíseos y después... ya improvisaré. No me importaría visitar algunos sitios que tengo apuntados... pero está claro que no voy a tener tiempo. El Museo de Orsay tendrá que verse (obligado), y espero visita el 9... así que tal vez ir a Chartres se tenga que aplazar. Si el martes sale raro... o si me falla la visita del miércoles... ahí estará como plan alternativo. Me apetece ver algo más que París, que seguramente volveré a ver.
 
-[![20130106-222908.jpg](http://blog.migueljulian.com/wp-content/uploads/20130106-222908.jpg)](http://blog.migueljulian.com/wp-content/uploads/20130106-222908.jpg)
+[![20130106-222908.jpg](/images/blog/20130106-222908.jpg)](/images/blog/20130106-222908.jpg)

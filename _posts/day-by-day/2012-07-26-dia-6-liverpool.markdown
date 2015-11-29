@@ -1,6 +1,7 @@
 ---
 date: 2012-07-26 19:02:53+00:00
 layout: post
+image: /images/blog/20120726-200223.jpg
 slug: dia-6-liverpool
 title: 'Día 6: Liverpool'
 categories: day-by-day
@@ -24,4 +25,4 @@ En general todo lo que he visto de Liverpool me ha parecido un poco descuidado (
 
 Mañana: ya veremos, ¿Manchester? Maybe.
 
-[![20120726-200223.jpg](http://blog.migueljulian.com/wp-content/uploads/20120726-200223.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120726-200223.jpg)
+[![20120726-200223.jpg](/images/blog/20120726-200223.jpg)](/images/blog/20120726-200223.jpg)

@@ -1,13 +1,14 @@
 ---
 comments: false
 date: 2011-07-18 15:48:31+00:00
+image: /images/blog/genbeta.jpg
 layout: post
 slug: genbetaa
 title: Genbetaa
 categories: day-by-day
 ---
 
-[![](http://blog.migueljulian.com/wp-content/uploads/genbeta.jpg)](http://blog.migueljulian.com/2011/07/genbetaa/genbeta/)
+[![](/images/blog/genbeta.jpg)](/images/blog/genbeta.jpg)
 
 Después de un par de meses en los que no estaba, en absoluto, motivado con esta aventura que emprendí en septiembre de 2010, he vuelto y con las pilas cargadas.
 

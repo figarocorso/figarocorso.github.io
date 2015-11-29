@@ -1,6 +1,7 @@
 ---
 date: 2012-08-03 19:44:36+00:00
 layout: post
+image: /images/blog/20120803-204403.jpg
 slug: dia-14-edimburgo-y-su-festival-fringe-event
 title: 'Día 14: Edimburgo y su festival Fringe (event)'
 categories: day-by-day
@@ -18,4 +19,4 @@ Después vuelta "a casa", rutina British (I like it, la verdad), y a prepararse 
 
 Por hoy ya basta. Hasta mañana :)
 
-[![20120803-204403.jpg](http://blog.migueljulian.com/wp-content/uploads/20120803-204403.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120803-204403.jpg)
+[![20120803-204403.jpg](/images/blog/20120803-204403.jpg)](/images/blog/20120803-204403.jpg)

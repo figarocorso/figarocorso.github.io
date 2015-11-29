@@ -1,12 +1,13 @@
 ---
 date: 2013-03-03 11:11:11+00:00
 layout: post
+image: /images/blog/seven_wonders_miky.jpg
 slug: con-ganas-de-escribir-sin-nada-que-decir
 title: Con ganas de escribir, sin nada que decir
 categories: day-by-day
 ---
 
-[![Jugando al Seven Wonders - Victoria de Miky con el Manneken Pis](http://blog.migueljulian.com/wp-content/uploads/seven_wonders_miky-785x588.jpg)](http://blog.migueljulian.com/wp-content/uploads/seven_wonders_miky.jpg)
+[![Jugando al Seven Wonders - Victoria de Miky con el Manneken Pis](/images/blog/seven_wonders_miky.jpg)](/images/blog/seven_wonders_miky.jpg)
 
 Hace unos días Lone me mandaba una reply en la que me decía que escribir es una de las mejores (si no la mejor) formas de desahogo. La realidad es que llevo unos días con ganas de escribir, así que no tengo muy claro si hay algo dentro que me está llamando la atención. Supongo que algo habrá mal colocado por ahí dentro.
 

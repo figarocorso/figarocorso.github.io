@@ -1,6 +1,7 @@
 ---
 date: 2013-01-12 01:01:37+00:00
 layout: post
+image: /images/blog/20130112-020136.jpg
 slug: paris-dia-5-la-odisea-de-la-vuelta-a-casa
 title: París [Día 5] - La odisea de la vuelta a casa
 categories: day-by-day
@@ -24,4 +25,4 @@ Mi mochila llegó al avión. La pregunta es cómo lo hizo más rápido que yo, p
 
 Así que para terminar el viaje, una pequeña odisea. Nervios y algún remordimiento (vaya silencios en el taxi). Dar las gracias al taxista porque realmente creo que fue muy honesto... o mucho más de lo que se podría haber esperado en esa situación. Y por volar, porque en la autopista realmente voló un ratillo. Así que esta anécdota ha eclipsado mucho mis recuerdos de París... pero tengo muy claro que este viaje ha sido muy grande en muchos sentidos. Y creo que en los posts anteriores ha quedado demostrado.
 
-[![20130112-020136.jpg](http://blog.migueljulian.com/wp-content/uploads/20130112-020136.jpg)](http://blog.migueljulian.com/wp-content/uploads/20130112-020136.jpg)
+[![20130112-020136.jpg](/images/blog/20130112-020136.jpg)](/images/blog/20130112-020136.jpg)

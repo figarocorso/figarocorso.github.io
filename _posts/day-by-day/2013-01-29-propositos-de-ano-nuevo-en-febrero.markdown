@@ -1,12 +1,13 @@
 ---
 date: 2013-01-29 17:37:22+00:00
 layout: post
+image: /images/blog/to-do-resolution-new-year.jpg
 slug: propositos-de-ano-nuevo-en-febrero
 title: ¿Propósitos de Año Nuevo?
 categories: day-by-day
 ---
 
-[![](http://blog.migueljulian.com/wp-content/uploads/to-do-resolution-new-year.jpg)](http://blog.migueljulian.com/2013/01/propositos-de-ano-nuevo-en-febrero/to-do-resolution-new-year/)
+[![](/images/blog/to-do-resolution-new-year.jpg)](/images/blog/to-do-resolution-new-year.jpg)
 
 29 de enero, y yo hablando de propósitos de Año Nuevo. Lo extraño es que tu no lo hagas...
 

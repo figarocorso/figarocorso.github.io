@@ -1,12 +1,13 @@
 ---
 date: 2012-10-27 11:44:41+00:00
 layout: post
+image: /images/blog/microphone.jpg
 slug: ayudar-ni-tan-facil-ni-tan-dificil
 title: 'Ayudar: ni tan fácil, ni tan difícil'
 categories: day-by-day
 ---
 
-[![](http://blog.migueljulian.com/wp-content/uploads/microphone.jpg)](http://blog.migueljulian.com/2012/10/ayudar-ni-tan-facil-ni-tan-dificil/microphone/)
+[![](/images/blog/microphone.jpg)](/images/blog/microphone.jpg)
 
 Ahora que he escrito el título de la entrada me doy cuenta de lo mucho que me gustan las palabras llanas con tilde. Supongo que me gustan las cosas extrañas, las cosas que se salen de lo normal; pero eso ya lo voy dejando para otro día que venga al caso.
 

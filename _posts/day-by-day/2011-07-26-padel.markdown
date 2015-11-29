@@ -1,12 +1,13 @@
 ---
 date: 2011-07-26 15:49:08+00:00
 layout: post
+image: /images/blog/miky_padel.jpg
 slug: padel
 title: Pádel
 categories: day-by-day
 ---
 
-[![](http://blog.migueljulian.com/wp-content/uploads/miky_padel.jpg)](http://blog.migueljulian.com/2011/07/padel/miky_padel/)
+[![](/images/blog/miky_padel.jpg)](/images/blog/miky_padel.jpg)
 
 Antes de empezar con este auto-focus-blog llevaba una temporada larga jugando al pádel. Semana a semana el nivel era mejor. Nuevos golpes, nuevas filosofías de juego... y todo se vino abajo con la lesión/molestias en la rodilla de mi compañero. El pádel es cosa de dos. Y la cosa se paró en seco.
 

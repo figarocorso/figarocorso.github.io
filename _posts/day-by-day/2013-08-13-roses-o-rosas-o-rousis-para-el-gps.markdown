@@ -1,12 +1,13 @@
 ---
 date: 2013-08-13 22:26:01+00:00
 layout: post
+image: /images/blog/miguel_miky_roses-e1376432334987.jpg
 slug: roses-o-rosas-o-rousis-para-el-gps
 title: Roses (o Rosas, o "Rousis" para el GPS)
 categories: day-by-day
 ---
 
-[![Miguel Julián - Miky - Roses](http://blog.migueljulian.com/wp-content/uploads/miguel_miky_roses-e1376432334987.jpg)](http://blog.migueljulian.com/wp-content/uploads/miguel_miky_roses-e1376432334987.jpg)
+[![Miguel Julián - Miky - Roses](/images/blog/miguel_miky_roses-e1376432334987.jpg)](/images/blog/miguel_miky_roses-e1376432334987.jpg)
 
 
 

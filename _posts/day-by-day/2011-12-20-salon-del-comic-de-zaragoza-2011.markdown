@@ -1,6 +1,7 @@
 ---
 date: 2011-12-20 13:16:01+00:00
 layout: post
+image: /images/blog/20111220-141550.jpg
 slug: salon-del-comic-de-zaragoza-2011
 title: Salón del Cómic de Zaragoza 2011
 categories: day-by-day
@@ -15,4 +16,4 @@ Facilidad que tienen para dibujar y "crear" así, encima de un folio blanco.
 
 Este año la entrada no era gratuita, costaba un euro, pero tampoco importa demasiado, al fin y al cabo es una actividad que hay que apoyar, aunque sólo sea porque crea mentes y personas que aprenden a pensar de forma diferente.
 
-[![20111220-141550.jpg](http://blog.migueljulian.com/wp-content/uploads/20111220-141550.jpg)](http://blog.migueljulian.com/wp-content/uploads/20111220-141550.jpg)
+[![20111220-141550.jpg](/images/blog/20111220-141550.jpg)](/images/blog/20111220-141550.jpg)

@@ -1,12 +1,13 @@
 ---
 date: 2013-07-20 20:22:10+00:00
 layout: post
+image: /images/blog/miguel_miky_ainsa-e1376431148410.jpg
 slug: de-finde-en-ainsa
 title: De finde en Aínsa
 categories: day-by-day
 ---
 
-[![Miguel Julián - Miky - Aínsa](http://blog.migueljulian.com/wp-content/uploads/miguel_miky_ainsa-e1376431148410.jpg)](http://blog.migueljulian.com/wp-content/uploads/miguel_miky_ainsa-e1376431148410.jpg)
+[![Miguel Julián - Miky - Aínsa](/images/blog/miguel_miky_ainsa-e1376431148410.jpg)](/images/blog/miguel_miky_ainsa-e1376431148410.jpg)
 
 
 

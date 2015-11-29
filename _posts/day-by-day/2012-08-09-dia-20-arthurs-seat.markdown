@@ -1,6 +1,7 @@
 ---
 date: 2012-08-09 15:57:36+00:00
 layout: post
+image: /images/blog/20120809-165634.jpg
 slug: dia-20-arthurs-seat
 title: 'Día 20: Arthur''s Seat'
 categories: day-by-day
@@ -18,4 +19,4 @@ Después de la bajada y de comer por un parquecillo hemos ido a un local donde h
 
 Ahora voy camino a Manchester, y cuando acabe esto tocará dormir. Mañana toca relax mañanero y por la tarde/noche vuelo a Irlanda. Empieza la aventura con el Sr. A. No creo que sea difícil adaptarme a dejar de viajar solo, porque en realidad hace ya bastante que no voy de solitario sexy. Porcina ir con Low Expectations, pero creo que este viaje (en el que posiblemente no tenga cobertura ni internet) va a ser muy grande. Sigo aquí, sigo vivo, sigo de una pieza y estoy consiguiendo cambiar alguna cosa que me costaba mucho. Foto y a dormir.
 
-[![20120809-165634.jpg](http://blog.migueljulian.com/wp-content/uploads/20120809-165634.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120809-165634.jpg)
+[![20120809-165634.jpg](/images/blog/20120809-165634.jpg)](/images/blog/20120809-165634.jpg)

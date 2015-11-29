@@ -1,12 +1,13 @@
 ---
 date: 2013-11-26 10:44:21+00:00
 layout: post
+image: /images/blog/Foto-25-11-13-20-56-58.jpg
 slug: islas-canarias-dias-6-y-7
 title: Islas Canarias - Días 6 y 7
 categories: day-by-day
 ---
 
-[![Anaga, Benijo y Santa Cruz](http://blog.migueljulian.com/wp-content/uploads/Foto-25-11-13-20-56-58-785x785.jpg)](http://blog.migueljulian.com/wp-content/uploads/Foto-25-11-13-20-56-58.jpg)
+[![Anaga, Benijo y Santa Cruz](/images/blog/Foto-25-11-13-20-56-58.jpg)](/images/blog/Foto-25-11-13-20-56-58.jpg)
 
 Con media isla ya vista, parece que no demasiadas cosas nos podía deparar Tenerife. Pues sí, faltaba una, el mal tiempo. De hecho cuando miré la previsión antes de venir hacia aquí, parecía que toda la semana iba a ser muy lluviosa. Al final no ha sido tan malo, pero estos dos últimos días tenían su sorpresa preparada. La idea era terminar de ver cositas por el norte de la isla. El parque natural de Anaga y San Cristóbal de la Laguna.
 

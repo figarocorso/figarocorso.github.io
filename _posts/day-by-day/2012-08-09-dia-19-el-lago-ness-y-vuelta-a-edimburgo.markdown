@@ -1,6 +1,7 @@
 ---
 date: 2012-08-09 00:54:40+00:00
 layout: post
+image: /images/blog/20120808-234950.jpg
 slug: dia-19-el-lago-ness-y-vuelta-a-edimburgo
 title: 'Día 19: El Lago Ness y vuelta a Edimburgo'
 categories: day-by-day
@@ -20,4 +21,4 @@ Casi me ha dado más cosica estar en el campo de la batalla de (ver nombre en la
 
 A día de hoy el mayor problema (a parte de las revelaciones) es la ausencia de camisetas de manga corta limpias y la falta de liquidez en libras (todo este viaje ha habido que ir pagando en metálico... cachis la mar). Ambas dos cosas espero arreglarlas en Manchester pasado mañana... mañana, pues si hace buen tiempo... a sacarle uso a esa camiseta que casi está sin tocar. Y el viernes mientras se lava la ropa, pues ya veré... en gallumbos está bien la cosa :)
 
-[![20120808-234950.jpg](http://blog.migueljulian.com/wp-content/uploads/20120808-234950.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120808-234950.jpg)
+[![20120808-234950.jpg](/images/blog/20120808-234950.jpg)](/images/blog/20120808-234950.jpg)

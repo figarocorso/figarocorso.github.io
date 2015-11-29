@@ -1,6 +1,7 @@
 ---
 date: 2012-06-17 07:55:45+00:00
 layout: post
+image: /images/blog/20120617-095526.jpg
 slug: el-final-de-un-nuevo-curso
 title: El final de un nuevo curso
 categories: day-by-day
@@ -12,4 +13,4 @@ Este año he intentado trabajar un poco las emociones y la autocrítica tanto en
 
 También las pintadas ;)
 
-[![20120617-095526.jpg](http://blog.migueljulian.com/wp-content/uploads/20120617-095526.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120617-095526.jpg)
+[![20120617-095526.jpg](/images/blog/20120617-095526.jpg)](/images/blog/20120617-095526.jpg)

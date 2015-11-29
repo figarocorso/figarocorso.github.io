@@ -1,6 +1,7 @@
 ---
 date: 2012-07-23 20:09:54+00:00
 layout: post
+image: /images/blog/20120723-210559.jpg
 slug: dia-3-oxford-un-relax-agotador
 title: 'Día 3: Oxford, un relax agotador'
 categories: day-by-day
@@ -30,4 +31,4 @@ Todo muy de cajón, pero hay que ir llevándolo presente, o no. Que para gustos 
 
 Lo dicho, mañana nos vemos en Bath. Pasado quién sabe.
 
-[![20120723-210559.jpg](http://blog.migueljulian.com/wp-content/uploads/20120723-210559.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120723-210559.jpg)
+[![20120723-210559.jpg](/images/blog/20120723-210559.jpg)](/images/blog/20120723-210559.jpg)

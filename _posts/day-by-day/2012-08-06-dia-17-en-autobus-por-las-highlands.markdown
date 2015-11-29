@@ -1,6 +1,7 @@
 ---
 date: 2012-08-06 22:35:41+00:00
 layout: post
+image: /images/blog/20120806-233507.jpg
 slug: dia-17-en-autobus-por-las-highlands
 title: 'Día 17: En autobús por las Highlands'
 categories: day-by-day
@@ -18,4 +19,4 @@ La verdad es que mucho autobús y conversaciones animadas. Espero que mañana pu
 
 See you!!
 
-[![20120806-233507.jpg](http://blog.migueljulian.com/wp-content/uploads/20120806-233507.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120806-233507.jpg)
+[![20120806-233507.jpg](/images/blog/20120806-233507.jpg)](/images/blog/20120806-233507.jpg)

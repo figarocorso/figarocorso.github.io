@@ -1,6 +1,7 @@
 ---
 date: 2011-07-14 21:19:00+00:00
 layout: post
+image: /images/blog/20110714-231912.jpg
 slug: faemino-y-cansado
 title: Faemino y Cansado
 categories: day-by-day
@@ -10,4 +11,4 @@ Es un humor absurdo. La verdad es que alguna vez tampoco hace excesiva gracia, p
 
 Y ya de paso recordaba esas noches escuchando al Javier Cansado en el programa "La media vuelta". Que básicamente era un humor muy similar.
 
-[![20110714-231912.jpg](http://blog.migueljulian.com/wp-content/uploads/20110714-231912.jpg)](http://blog.migueljulian.com/wp-content/uploads/20110714-231912.jpg)
+[![20110714-231912.jpg](/images/blog/20110714-231912.jpg)](/images/blog/20110714-231912.jpg)

@@ -1,6 +1,7 @@
 ---
 date: 2012-04-20 06:50:10+00:00
 layout: post
+image: /images/blog/20120420-084957.jpg
 slug: intocables
 title: Intocables
 categories: day-by-day
@@ -12,4 +13,4 @@ Aprovechando una actividad que proponía Be Culture desde el Cole, quedamos unos
 
 Next step: la BSO
 
-[![20120420-084957.jpg](http://blog.migueljulian.com/wp-content/uploads/20120420-084957.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120420-084957.jpg)
+[![20120420-084957.jpg](/images/blog/20120420-084957.jpg)](/images/blog/20120420-084957.jpg)

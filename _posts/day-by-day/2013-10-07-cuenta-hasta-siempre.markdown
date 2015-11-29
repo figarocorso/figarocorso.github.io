@@ -1,12 +1,13 @@
 ---
 date: 2013-10-07 22:58:45+00:00
 layout: post
+image: /images/blog/andromeda.jpg
 slug: cuenta-hasta-siempre
 title: Cuenta - Hasta siempre
 categories: day-by-day
 ---
 
-[![Galaxia de Andrómeda](http://blog.migueljulian.com/wp-content/uploads/andromeda.jpg)](http://blog.migueljulian.com/wp-content/uploads/andromeda.jpg)
+[![Galaxia de Andrómeda](/images/blog/andromeda.jpg)](/images/blog/andromeda.jpg)
 
 Parece que sólo tengo este blog para contar viajes, escapadas y demás cosas que intento que se muevan en mi vida. Pero esta vez, aunque me gustaría darle un tono positivo, será imposible escribir esto sin que acabe teniendo un transfondo melancólico.
 

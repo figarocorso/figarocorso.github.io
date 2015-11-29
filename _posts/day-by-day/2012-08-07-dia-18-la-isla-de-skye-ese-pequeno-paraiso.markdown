@@ -1,6 +1,7 @@
 ---
 date: 2012-08-07 22:39:41+00:00
 layout: post
+image: /images/blog/20120807-233841.jpg
 slug: dia-18-la-isla-de-skye-ese-pequeno-paraiso
 title: 'Día 18: La Isla de Skye - Ese pequeño paraiso'
 categories: day-by-day
@@ -14,4 +15,4 @@ Skye precioso. Cualquier cosa que diga no le hace justicia. Sitio perfecto para 
 
 Hoy poco más, sorry, que me siento mal haciendo ruido. Mañana más, pero ahora a drogarme antes de dormir.  
   
-[![20120807-233841.jpg](http://blog.migueljulian.com/wp-content/uploads/20120807-233841.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120807-233841.jpg)
+[![20120807-233841.jpg](/images/blog/20120807-233841.jpg)](/images/blog/20120807-233841.jpg)

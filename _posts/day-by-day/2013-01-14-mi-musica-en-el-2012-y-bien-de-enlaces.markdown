@@ -1,12 +1,13 @@
 ---
 date: 2013-01-14 00:49:02+00:00
 layout: post
+image: /images/blog/soilwork-promo.jpg
 slug: mi-musica-en-el-2012-y-bien-de-enlaces
 title: Mi música en el 2012 [Y bien de enlaces]
 categories: day-by-day
 ---
 
-[![](http://blog.migueljulian.com/wp-content/uploads/soilwork-promo.jpg)](http://blog.migueljulian.com/2013/01/mi-musica-en-el-2012-y-bien-de-enlaces/soilwork-promo/)
+[![](/images/blog/soilwork-promo.jpg)](/images/blog/soilwork-promo.jpg)
 
 Después de un día bastante movidito en muchos aspectos vuelvo a tener ganas de escribir un poco. Y es que volviendo de jugar al pádel pensaba que tenía que escribir una cosita sobre los grupos que han marcado el año 2012. Y es que este año ha sido curiosete en cuanto a música. Así que primero pongo el top 10 que me dice Last.fm y luego comento.
 

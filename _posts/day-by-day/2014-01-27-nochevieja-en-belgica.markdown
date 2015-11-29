@@ -1,13 +1,14 @@
 ---
 date: 2014-01-27 11:18:26+00:00
 layout: post
+image: /images/blog/photo.jpg
 slug: nochevieja-en-belgica
 title: Nochevieja en Bélgica
 categories: day-by-day
-image: http://blog.migueljulian.com/wp-content/uploads/photo-e1390780079815.jpg
+image: /images/blog/photo-e1390780079815.jpg
 ---
 
-[![Brujas - Bruselas - Amberes](http://blog.migueljulian.com/wp-content/uploads/photo-785x785.jpg)](http://blog.migueljulian.com/wp-content/uploads/photo-e1390780079815.jpg)
+[![Brujas - Bruselas - Amberes](/images/photo-e1390780079815.jpg)](/images/blog/photo-e1390780079815.jpg)
 
 Tal y como me pasó el año pasado con París, todavía me quedaban unos cuantos días de vacaciones que gastar. Unos días que por lo visto necesitaba, porque ahora que han pasado unas semanas desde entonces, veo que las pilas estaban muy descargadas, y ahora, de nuevo a tope me siento con ganas de todo. Al grano, que resulta que me fui a Bruselas a pasar la Nochevieja.
 

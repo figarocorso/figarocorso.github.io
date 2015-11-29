@@ -1,6 +1,7 @@
 ---
 date: 2012-08-23 17:29:21+00:00
 layout: post
+image: /images/blog/20120823-182841.jpg
 slug: dia-34-un-dia-que-da-vertigo
 title: 'Día 34: Un día que da vértigo'
 categories: day-by-day
@@ -20,4 +21,4 @@ Mientras tanto vamos a preparar el día 35... y tal vez la noche del 34, aunque 
 
 Ps: Tal vez es un poco tarde para avisar, pero ya que esto lo escribo desde el móvil y de acuerdo a la norma de no releer lo escrito, ya perdonaréis todo lo que haya que perdonar....
 
-[![20120823-182841.jpg](http://blog.migueljulian.com/wp-content/uploads/20120823-182841.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120823-182841.jpg)
+[![20120823-182841.jpg](/images/blog/20120823-182841.jpg)](/images/blog/20120823-182841.jpg)

@@ -1,6 +1,7 @@
 ---
 date: 2011-10-13 22:34:02+00:00
 layout: post
+image: /images/blog/20111014-003348.jpg
 slug: y-todo-en-una-plaza-de-primera
 title: Y todo en una plaza de primera
 categories: day-by-day
@@ -12,4 +13,4 @@ Una de esas huellas es mi afición por los toros. Y la verdad es que todo se ve 
 
 Dejando de lado mi opinión sobre los toros, una experiencia diferente con gente diferente, eso sí, buena gente. Antes de que la cosa desaparezca hay que estar ahí.
 
-[![20111014-003348.jpg](http://blog.migueljulian.com/wp-content/uploads/20111014-003348.jpg)](http://blog.migueljulian.com/wp-content/uploads/20111014-003348.jpg)
+[![20111014-003348.jpg](/images/blog/20111014-003348.jpg)](/images/blog/20111014-003348.jpg)

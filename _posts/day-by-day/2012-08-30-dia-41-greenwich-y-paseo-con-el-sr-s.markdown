@@ -1,6 +1,7 @@
 ---
 date: 2012-08-30 22:05:52+00:00
 layout: post
+image: /images/blog/20120830-230506.jpg
 slug: dia-41-greenwich-y-paseo-con-el-sr-s
 title: 'Día 41: Greenwich y paseo con el Sr. S'
 categories: day-by-day
@@ -16,4 +17,4 @@ Después de pasear, comprar algún recuerdo (me he comprado unos calcetines chul
 
 Aunque tengo alguna que otra historia que contar... hoy no tengo muchas ganas. La verdad es que me estoy encontrado con bastantes historias de "españoles por el reino unido", pero merecen un capítulo aparte, y hoy no tengo ganas. Mañana... ya veré lo que hago. Seguramente visitar tiendas frikis y el Soho y las zonas de alrededor :)
 
-[![20120830-230506.jpg](http://blog.migueljulian.com/wp-content/uploads/20120830-230506.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120830-230506.jpg)
+[![20120830-230506.jpg](/images/blog/20120830-230506.jpg)](/images/blog/20120830-230506.jpg)

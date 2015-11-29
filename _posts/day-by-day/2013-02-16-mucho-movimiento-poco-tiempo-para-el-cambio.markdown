@@ -1,6 +1,7 @@
 ---
 date: 2013-02-16 13:48:55+00:00
 layout: post
+image: /images/blog/20130216-144954.jpg
 slug: mucho-movimiento-poco-tiempo-para-el-cambio
 title: Mucho movimiento, ¿poco tiempo para el cambio?
 categories: day-by-day
@@ -14,4 +15,4 @@ Eso sí, tanta cosilla a lo largo de la semana, da poco tiempo para pensar, poco
 
 ¿Agradecimientos? Grandes el Sr. E y el Sr. JA... hay que repetirlo :)  
   
-[![20130216-144954.jpg](http://blog.migueljulian.com/wp-content/uploads/20130216-144954.jpg)](http://blog.migueljulian.com/wp-content/uploads/20130216-144954.jpg)
+[![20130216-144954.jpg](/images/blog/20130216-144954.jpg)](/images/blog/20130216-144954.jpg)

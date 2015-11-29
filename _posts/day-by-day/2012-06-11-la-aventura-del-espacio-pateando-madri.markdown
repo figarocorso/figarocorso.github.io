@@ -1,6 +1,7 @@
 ---
 date: 2012-06-11 15:19:20+00:00
 layout: post
+image: /images/blog/20120611-171853.jpg
 slug: la-aventura-del-espacio-pateando-madri
 title: La Aventura del Espacio - Pateando Madri
 categories: day-by-day
@@ -14,4 +15,4 @@ El resto del día consistió en un pateamiento de los buenos por Madrid. Nada de
 
 Un día de esfuerzo y contrastes.
 
-[![20120611-171853.jpg](http://blog.migueljulian.com/wp-content/uploads/20120611-171853.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120611-171853.jpg)
+[![20120611-171853.jpg](/images/blog/20120611-171853.jpg)](/images/blog/20120611-171853.jpg)

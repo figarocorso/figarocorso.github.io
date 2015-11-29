@@ -1,6 +1,7 @@
 ---
 date: 2012-08-12 20:29:12+00:00
 layout: post
+image: /images/blog/20120812-202329.jpg
 slug: dia-23-los-ultimos-paseos-por-dublin
 title: 'Día 23: Los últimos paseos por Dublín'
 categories: day-by-day
@@ -16,4 +17,4 @@ Bocadillo a lo homeless y carrera para ver el museo de historia natural. Para ve
 
 Muchos interrogantes, pero seguro que al final todo sale muy bien. Sin problemas :)
 
-[![20120812-202329.jpg](http://blog.migueljulian.com/wp-content/uploads/20120812-202329.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120812-202329.jpg)
+[![20120812-202329.jpg](/images/blog/20120812-202329.jpg)](/images/blog/20120812-202329.jpg)

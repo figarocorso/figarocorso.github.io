@@ -1,12 +1,13 @@
 ---
 date: 2011-10-23 21:20:36+00:00
 layout: post
+image: /images/blog/jquery12_colorcharge.png
 slug: aprendiendo-jquery
 title: Aprendiendo jQuery
 categories: day-by-day
 ---
 
-![](http://ubuntulife.files.wordpress.com/2008/08/jquery12_colorcharge.png)
+![](/images/blog/jquery12_colorcharge.png)
 
 
 

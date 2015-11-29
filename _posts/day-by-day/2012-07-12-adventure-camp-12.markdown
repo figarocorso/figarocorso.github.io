@@ -1,6 +1,7 @@
 ---
 date: 2012-07-12 23:11:05+00:00
 layout: post
+image: /images/blog/20120713-011100.jpg
 slug: adventure-camp-12
 title: Adventure Camp '12
 categories: day-by-day
@@ -16,4 +17,4 @@ Tenía ganas de estar solo, así que música en las orejas y un poco "autistado"
 
 Mientras tanto... ¡gracias a todo el Adventure Camp '12!
 
-[![20120713-011100.jpg](http://blog.migueljulian.com/wp-content/uploads/20120713-011100.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120713-011100.jpg)
+[![20120713-011100.jpg](/images/blog/20120713-011100.jpg)](/images/blog/20120713-011100.jpg)

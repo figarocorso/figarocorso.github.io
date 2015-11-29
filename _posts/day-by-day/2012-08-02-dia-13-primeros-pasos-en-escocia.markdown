@@ -1,6 +1,7 @@
 ---
 date: 2012-08-02 21:50:20+00:00
 layout: post
+image: /images/blog/20120802-224957.jpg
 slug: dia-13-primeros-pasos-en-escocia
 title: 'Día 13: Primeros pasos en Escocia'
 categories: day-by-day
@@ -16,4 +17,4 @@ Pero el plato fuerte venia después. En las fiestas del pueblo han hecho el trai
 
 Hoy tengo que ser escueto, pero una reflexión: joooodo el acento escocés.
 
-[![20120802-224957.jpg](http://blog.migueljulian.com/wp-content/uploads/20120802-224957.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120802-224957.jpg)
+[![20120802-224957.jpg](/images/blog/20120802-224957.jpg)](/images/blog/20120802-224957.jpg)

@@ -1,6 +1,7 @@
 ---
 date: 2011-07-15 17:29:42+00:00
 layout: post
+image: /images/blog/20110715-192929.jpg
 slug: el-kilometro-ha-llegado
 title: El kilometro ha llegado
 categories: day-by-day
@@ -10,4 +11,4 @@ Por fin. La progresión ha sido mas rápida de lo que esperaba. Empece haciendo 
 
 Pronto... Muy pronto ;)
 
-[![20110715-192929.jpg](http://blog.migueljulian.com/wp-content/uploads/20110715-192929.jpg)](http://blog.migueljulian.com/wp-content/uploads/20110715-192929.jpg)
+[![20110715-192929.jpg](/images/blog/20110715-192929.jpg)](/images/blog/20110715-192929.jpg)

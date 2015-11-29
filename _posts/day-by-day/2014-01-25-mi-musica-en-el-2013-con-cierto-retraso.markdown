@@ -1,13 +1,14 @@
 ---
 date: 2014-01-25 10:57:46+00:00
 layout: post
+image: /images/blog/killswitch-engage.jpg
 slug: mi-musica-en-el-2013-con-cierto-retraso
 title: Mi música en el 2013 (con cierto retraso)
 categories: day-by-day
-image: http://blog.migueljulian.com/wp-content/uploads/killswitch-engage.jpg
+image: /images/blog/killswitch-engage.jpg
 ---
 
-[![killswitch engage](http://blog.migueljulian.com/wp-content/uploads/killswitch-engage.jpg)](http://blog.migueljulian.com/wp-content/uploads/killswitch-engage.jpg)
+[![killswitch engage](/images/blog/killswitch-engage.jpg)](/images/blog/killswitch-engage.jpg)
 
 Casi estamos a febrero, y todavía tengo pendiente este post sobre la música que he escuchado en el 2013. Last FM va recopilando la mayoría de las canciones que escucho, y me encanta echar la vista atrás "a corto plazo" para ver qué grupos han ido marcando mis días. Estar un buen rato en casa, en el sofá, escuchando un buen disco es una terapia que necesito de vez en cuando. Si no es eso, la alternativa es subir los cascos a tope y andar sin rumbo, preferiblemente con lluvia. Hacer eso me llena las pilas y me resetea las fuerzas para seguir dándolo todo.
 

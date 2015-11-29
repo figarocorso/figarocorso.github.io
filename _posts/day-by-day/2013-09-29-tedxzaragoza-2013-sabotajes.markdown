@@ -1,12 +1,13 @@
 ---
 date: 2013-09-29 15:06:02+00:00
 layout: post
+image: /images/blog/20130929-165304.jpg
 slug: tedxzaragoza-2013-sabotajes
 title: TEDxZaragoza 2013 - Sabotajes
 categories: day-by-day
 ---
 
-[![20130929-165304.jpg](http://blog.migueljulian.com/wp-content/uploads/20130929-165304.jpg)](http://blog.migueljulian.com/wp-content/uploads/20130929-165304.jpg)
+[![20130929-165304.jpg](/images/blog/20130929-165304.jpg)](/images/blog/20130929-165304.jpg)
 
 Últimamente no tengo demasiado tiempo ni demasiadas ganas de escribir. Pero después de estar el fin de semana pasado a tope organizando el TEDxZaragoza, ahora tocaba darle un poco a la tecla. Y es que aunque esté a tope de trabajo, me gusta poner algunas impresiones por escrito.
 

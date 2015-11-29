@@ -1,6 +1,7 @@
 ---
 date: 2012-08-17 21:25:17+00:00
 layout: post
+image: /images/blog/20120817-203221.jpg
 slug: dia-28-the-ring-of-kerry
 title: 'Día 28: The Ring of Kerry'
 categories: day-by-day
@@ -14,4 +15,4 @@ De hecho esa comida preparada en el Ladies View, una especie de balcón desde el
 
 Después de hacer tantas fotos lo único que se puede pensar es que la belleza y contraste de estos sitios no se puede captar con ellas. Supongo que habrá cámaras muy buenas que alcancen a ver todo lo que podemos ver, todos los matices de los paisajes los diferentes niveles de profundidad. Pero por ahora las cámaras no pueden grabar ese "sabor" que tienen todos estos sitios maravillosos. Así que a la vuelta os tendréis que conformar con eso :)
 
-[![20120817-203221.jpg](http://blog.migueljulian.com/wp-content/uploads/20120817-203221.jpg)](http://blog.migueljulian.com/wp-content/uploads/20120817-203221.jpg)
+[![20120817-203221.jpg](/images/blog/20120817-203221.jpg)](/images/blog/20120817-203221.jpg)

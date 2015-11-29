@@ -1,6 +1,7 @@
 ---
 date: 2011-10-13 22:24:09+00:00
 layout: post
+image: /images/blog/20111014-0023401.jpg
 slug: fiesta-de-la-cerveza
 title: Fiesta de la Cerveza
 categories: day-by-day
@@ -12,4 +13,4 @@ Canciones, cerveza y sobre todo la gente, nadie buscando follón, todos con gana
 
 Si no vas... O es porque te parece un poco cara... O porque crees que tienes mejores cosas que hacer :-)
 
-[![20111014-002340.jpg](http://blog.migueljulian.com/wp-content/uploads/20111014-0023401.jpg)](http://blog.migueljulian.com/wp-content/uploads/20111014-0023401.jpg)
+[![20111014-002340.jpg](/images/blog/20111014-0023401.jpg)](/images/blog/20111014-0023401.jpg)
