@@ -2,8 +2,11 @@
 date: 2015-05-31
 layout: post
 title: De boda ¡a Oviedo!
+image: /images/blog/boda_bencer.jpg
 categories: day-by-day
 ---
+[![Boda Bencer - Oviedo - Miky - Miguel](/images/blog/boda_bencer.jpg.jpg)](/images/blog/boda_bencer.jpg.jpg)
+<pre></pre>
 Un compañero de trabajo se casa. Y lo hace en Asturias. Pues vaya pereza. Preparar el "traje" (lo que viene siendo llevar la americana a la tintorería). Reservar las noches de hotel. Ir hasta allí. Volver. El regalo. Bueno, si te invitan es que al novio le gustaría verte ahí, entre su gente... ¡Gracias!
 <pre></pre>
 Aunque es cierto que en Asturias al menos tenía un aliciente. Salir "pronto" por la mañana en "El Coche de las Risas" y llegar para comer una fabada y un buen cachopo y reventar para dormir la siesta. Así da gusto, porque después había que coger fuerzas para intentar socializar. ¡Qué pereza!

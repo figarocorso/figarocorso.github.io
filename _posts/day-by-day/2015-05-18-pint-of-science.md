@@ -2,8 +2,11 @@
 date: 2015-05-18
 layout: post
 title: Pint of Science 2015
+image: /images/blog/pint_of_science.jpg
 categories: day-by-day
 ---
+[![Pint of Science Zaragoza 2015 - Miky - Miguel](/images/blog/pint_of_science.jpg)](/images/blog/pint_of_science.jpg)
+<pre></pre>
 Unos pocos meses atrás, o mejor dicho, semanas, me avisaron de que se iba a celebrar un Pint of Science en Zaragoza. ¿Cómo? Me encanta. Ya conocía la idea. Fácil y genial. Ciencia en los bares. Ciencia cercana. Ciencia que pasa a unos metros de nuestras casas. Ciencia explicada para andar por casa. Y cerveza (eso me da un poco igual, pero a la gente le gusta).
 <pre></pre>
 Y así casi por inercia les mandé un mensaje ofreciendo mi ayuda para organizar. Al poco acudía a una "reunión" en mi (no) plenitud de condiciones. La cosa parecía estar ya atada y muy atada (¿demasiado? seguramente), así que esta vez me dejé llevar y ayudar cuando se requería.

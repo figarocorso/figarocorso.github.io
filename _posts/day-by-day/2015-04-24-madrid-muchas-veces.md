@@ -2,8 +2,11 @@
 date: 2015-04-24
 layout: post
 title: Madrid muchas veces
+image: /images/blog/madrid_navidad.jpg
 categories: day-by-day
 ---
+[![Visitas a Madrid - Miky - Miguel](/images/blog/madrid_navidad.jpg)](/images/blog/madrid_navidad.jpg)
+<pre></pre>
 Hace muchos años me conocía mucho mejor Barcelona, de hecho no había estado en Madrid. Poco a poco esto fue cambiando. Los primeros viajes de hotel en la Gran Vía o en otros sitios... ¡por probar! Después de unos cuantos años, en mi época "adulta" he ido muchas más veces a vivir Madrid que a vivir Barcelona. Así que después de todo me la empiezo a conocer bastante bien.
 <pre></pre>
 Pero no lo suficiente. Y es que sigo descubriendo "garitos" chulos (sí, llenos de gente, arg!) y algún rincón que todavía no conocía. Últimamente he visitado Madrid varias veces. Para ver exposiciones, para ver a gente, para acompañar a gente... Y la verdad es que el gran descubrimiento ha sido Lavapiés.
