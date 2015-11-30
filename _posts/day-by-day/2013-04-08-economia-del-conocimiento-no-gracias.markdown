@@ -1,14 +1,11 @@
 ---
 date: 2013-04-08 21:47:52+00:00
 layout: post
-image: /images/blog/993145_24845546-321x209.jpg
+image: /images/blog/knowledge.jpg
 slug: economia-del-conocimiento-no-gracias
 title: ¿Economía del conocimiento? No, gracias
 categories: day-by-day
 ---
-
-[![993145_24845546-321x209](/images/blog/993145_24845546-321x209.jpg)](/images/blog/993145_24845546-321x209.jpg)
-
 Este post originalmente fue escrito en el blog de [TEDxZaragoza](http://www.tedxzaragoza.com/2013/04/economia-del-conocimiento-no-gracias/). Simplemente lo recojo en mi blog para tenerlo bien guardadito. Si te gusta, de verdad, como dice el lema de TED: "spread the word".
 
 Desde hace un tiempo circula por ahí un vídeo de un hombrecillo que nos intenta vender unas píldoras que reducirán nuestro coeficiente intelectual. ¿Para qué? Para ser más felices, cuál sino podría ser la razón. Los argumentos son casi irrefutables, y de hecho hay estudios que los sustentarían. Maravilloso. La solución a nuestros problemas ha llegado, sólo tenemos que ser un poco menos inteligentes y seremos un poco más felices. Póngame tres. ¿O no?
