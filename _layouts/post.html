@@ -28,8 +28,12 @@
       <h2>{{ page.tagline }}</h2>
     </div><!--/ .headline-wrap -->
     <div class="article-wrap" itemprop="text">
-      {% if page.image %}
+      {% if page.fullimage %}
+        <img src="{{ page.fullimage }}" title="{{ page.title }}"/>
+      {% else %}
+        {% if page.image %}
         <img src="{{ page.image }}" title="{{ page.title }}"/>
+        {% endif %}
       {% endif %}
       {{ content }}
       <hr />
