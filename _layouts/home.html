@@ -14,7 +14,7 @@
 {% include _navigation.html %}
 
 {% if page.image%}<div class="image-wrap">
-  <img src="{{ site.url }}/images/{{ page.image}}" alt="{{ page.title }} feature image" itemprop="primaryImageOfPage">
+  <img src="/images/{{ page.image}}" alt="{{ page.title }} feature image" itemprop="primaryImageOfPage">
 </div><!-- /.image-wrap -->{% endif %}
 
 <div class="article-author-side">
@@ -24,13 +24,13 @@
 <div id="index" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
     <div id="introduction">
     <p itemprop="text">
-       En la <a href="{{site.url}}/about/">About page</a> podrás encontrar información sobre la razón de ser de esta página. Y porqué no, también un poquito del autor.
+       En la <a href="/about/">About page</a> podrás encontrar información sobre la razón de ser de esta página. Y porqué no, también un poquito del autor.
     </p>
     </div>
 
     <h3>Textos recopilados hasta ahora</h3>
     {% for project in site.projects %}
-        <h2 itemprop="headline"><a href="{% if project.external %}{{ project.url }}{% else %}{{ site.url }}{{ project.url }}" target="_blank{% endif %}" rel="bookmark" title="{{ project.title }}">{{ project.title }}</a></h2>
+        <h2 itemprop="headline"><a href="{% if project.external %}{{ project.url }}{% else %}{{ project.url }}" target="_blank{% endif %}" rel="bookmark" title="{{ project.title }}">{{ project.title }}</a></h2>
         <p itemprop="text">{{ project.description }}</p>
     {% endfor%}
 </div><!-- /#index -->
