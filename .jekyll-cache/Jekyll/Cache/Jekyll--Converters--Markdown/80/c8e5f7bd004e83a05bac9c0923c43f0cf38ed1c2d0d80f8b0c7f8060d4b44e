@@ -1,0 +1,57 @@
+I"<p>Parece que un editor de imágenes online no es ninguna novedad hoy en día. Pero
+<strong>Cloud Canvas nos permite realizar gráficos vectoriales directamente en
+nuestro navegador</strong>, sin instalar ningún tipo de plugin. Y además, con un
+funcionamiento muy fluido.</p>
+
+<p>En este caso tal y como comentan en su web esta <strong>fluidez es debida a la
+utilización de tecnologías como HTML5</strong>, CSS3 y librerías Javascript entre las
+que destacan la YUI (<strong>Y</strong>ahoo <strong>U</strong>ser <strong>I</strong>nterface). Lo que hace que
+parezca que estás trabajando en local, sin cargas, sin retrasos.</p>
+
+<p>Respecto a los detalles funcionales a la hora de crear o editar imágenes
+comentar como puntos a favor, la posibilidad de abrir archivos SVG de nuestro
+ordenador o importar imágenes vectoriales. Así mismo, se pueden** importar
+imágenes de Devian Art, Google Images y Open Clip Art Library**.</p>
+
+<p>En lo que a herramientas se refiere, no anda muy sobrado (si lo comparamos con
+un programa como <a href="http://www.genbeta.com/imagen-digital/ya-esta-
+disponible-un-nuevo-inkscape-el-048">Inkscape</a>) pero me ha sorprendido la** librería de
+objetos vectoriales categorizados** que nos pueden sacar de un apuro en un par
+de clics y sin tener ningún programa instalado.</p>
+
+<p>Como buena aplicación gráfica vectorial si hacemos zoom con nuestro navegador,
+no se observarán los pixels de la imagen, ni tampoco de las barras de
+herramientas y opciones. Y para los más inquietos <strong>nos permite modificar el
+<em>código</em> que subyace detrás de un archivo vectorial SVG</strong>.</p>
+
+<p>Pero Cloud Canvas tiene algunos inconvenientes a la hora de usarlo.
+Posiblemente el más importante sea que, si ya has usado anteriormente un
+programa de edición vectorial, <strong>echarás en falta algunas opciones</strong>. Pero sin
+duda sabrás manejarte y hacer alguna virguería.</p>
+
+<p>En cambio el <strong>tamaño de los tiradores para transformar los objetos</strong> (un poco
+más grandes son los nodos de los trayectos) son muy pequeños y resulta un reto
+(y una pesadilla) atinar para que cambie el cursor y modificar el tamaño.</p>
+
+<p>¿Realmente son útiles este tipo de servicios? Pues la realidad es que
+posiblemente no, porque a día de hoy, las aplicaciones de escritorio ofrecen
+más posibilidades y contando con una <strong>alternativa libre multiplataforma de
+bastante calidad como Inkscape</strong> no deberíamos recurrir a este tipo de
+servicios.</p>
+
+<p>Pero debemos tenerlos recogidos de forma que cuando los necesitemos allí
+estén. Cómo no, una de las principales ventajas de los servicios web aparece;
+y es que <strong>en cualquier ordenador</strong>, conectado a internet, con Cloud Canvas
+podremos tener un <strong>buen servicio para editar imágenes vectoriales</strong>.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Servicio</td>
+      <td><a href="http://www.cloud-canvas.com/">Cloud Canvas</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Artículo extraído de <a href="http://www.genbeta.com">Genbeta</a>.</p>
+:ET

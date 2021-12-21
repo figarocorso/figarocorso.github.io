@@ -1,0 +1,138 @@
+I"�<p>Cuando hablamos de <strong>escribir un documento de texto online y poder compartirlo
+con otras personas</strong>, la mayoría de nosotros seguro que dirigirá su
+pensamiento a Google Docs. Desde luego es una gran herramienta, pero si
+simplemente quieres un editor online, Substance tiene algunas características
+que seguro que te gustarán.</p>
+
+<p>El hecho de ser <em>simplemente</em> **un editor de textos online deja fuera muchas
+distracciones **y complicaciones que trae, por ejemplo como referente, Google
+Docs. ¿Cuántas herramientas utilizas en tu procesador de textos habitual? La
+respuesta rondaría las 6 ó 7, ¿para qué todo lo demás? Simplicidad es una de
+las características de Substance.</p>
+
+<h2 id="qué-podemos-hacer-con-substance">¿Qué podemos hacer con Substance?</h2>
+
+<p><img src="http://img.genbeta.com/2012/03/substance-
+trabajando-con-nodos.jpg" alt="Tabla de contenidos en Substance" /></p>
+
+<p>Puedes crear documentos de texto online y compartirlos, o no, con otros
+usuarios. Básicamente ahí empieza y acaba lo que es capaz de ofrecernos
+Substance. Pero la gran diferencia es cómo lo podremos hacer. Nada de grandes
+menús o barras de herramientas, con los ojos puestos en <strong>un editor
+minimalista, la interfaz es muy sencilla</strong>.</p>
+
+<p>Cuando escribimos lo hacemos como si estuviéramos haciéndolo sobre un papel
+continuo, no hay separaciones de páginas. Las páginas son útiles para saber
+dónde está la información según crece el documento, pero para ello podemos
+crear secciones y subsecciones y tendremos a nuestra disposición <strong>una tabla
+de contenidos que se actualiza automáticamente</strong>.</p>
+
+<p>Una de las cosas que sorprende la primera vez que intentas escribir un
+documento es que no sabes dónde empezar a escribir. Aparece el título y el
+autor del documento, pero no puedes hacer clic en ningún lugar para escribir.
+En Substance todo está organizado en nodos que puedes crear y mover a tu
+antojo. <strong>Para escribir tendremos que crear un nodo de texto</strong>.</p>
+
+<h2 id="trabajando-con-los-nodos-de-substance">Trabajando con los nodos de Substance</h2>
+
+<p><img src="http://img.genbeta.com/2012/03
+/substance-insertar-imagen.jpg" alt="Insertando una imagen en Substance" /></p>
+
+<p>Los nodos se crean dinámicamente, por ejemplo creamos uno de texto y se abre
+un espacio en blanco con las herramientas de texto en la parte izquierda del
+nodo. Puedes hacer que una selección sea negrita, cursiva, aumentar o
+disminuir la sangría y colocar una enumeración o viñetas; pero también serás
+capaz de insertar un enlace y un fragmento de código. <strong>Todo se resume en ocho
+botones y mucho espacio para escribir</strong>.</p>
+
+<p>Si en la parte izquierda del nodo estaban las opciones de texto, en la parte
+derecha, y esto es compartido por todos los tipos de nodos, se nos muestran
+las opciones generales del nodo. Podremos moverlo, borrarlo y comentarlo; pero
+ten cuidado con el botón de borrar, no pide confirmación y puedes perder
+bastante tiempo.</p>
+
+<p>Antes hablábamos de que se generaba automáticamente una tabla de contenidos.
+Esto se hace según agregas nodos de tipo <em>sección</em> que puedes <strong>organizar
+hasta en tres niveles</strong>, y que estructuran automáticamente el texto que creas.
+Y como puedes moverlas, no tienes problemas en incluirlas antes o después de
+otros nodos.</p>
+
+<p>Además de los nodos de texto <strong>puedes agregar nodos de cita</strong>, donde sólo
+tienes que rellenar la frase a remarcar y el autor de la misma. También
+**podrás agregar imágenes **(con su correspondiente pié de foto) y un nodo
+para escribir código y que no sea interpretado por el navegador. Por último
+podrás agregar un nodo donde añadirás recursos a través de su dirección URL.
+Por ahora sólo imágenes, pero vídeos e imágenes vectoriales están en el mapa
+de ruta.</p>
+
+<h2 id="substance-puntos-fuertes">Substance: Puntos fuertes</h2>
+
+<p><img src="http://img.genbeta.com/2012/03/substance-exportar-documento.jpg" alt="Formatos posibles para exportar con
+Substance" /></p>
+
+<p>Esa esencia que ha conseguido de editor minimalista es maravillosa. Lo
+importante es lo que escribes y su estructura, no la fuente con la que lo
+haces, ni la alineación del texto o el color. Dejemos atrás todas esas cosas
+superfluas y <strong>dediquemos nuestra atención a lo que realmente queremos hacer:
+escribir</strong>. Además, volver a estructurar un escrito no te costará casi nada,
+sólo tienes que cambiar el orden de los nodos. Fácil, sin líos de <em>copy-
+paste</em>.</p>
+
+<p>No lo había comentado antes, pero como no podía ser de otra forma posee
+algunos formatos a los que puedes exportar tu trabajo, porque además de poder
+realizar una impresión limpia y ordenada de tu texto después de una conversión
+automática a LaTeX, **podrás exportarlo a PDF, HTML, ePUB y al comentado LaTeX
+**(sin necesidad de aprender ningún comando extraño). También podrás
+exportarlo a otros formatos como el utilizado por MediaWiki, ODT o Textile.</p>
+
+<p>Una de las ideas de Substance es que puedas publicar tu escrito en tu propia
+página, pero para eso tendrás que saber un poquito de programación. El paso
+intermedio es <strong>publicarlo en su página para que cualquier persona pueda
+acceder</strong>. Una gran forma de compartir textos con quién quieras a un par de
+clics de distancia. Sólo tienes que darle a <em>publish</em> y ya está.</p>
+
+<p>Si normalmente escribes delante del monitor de tu ordenador las
+características de Substance te resultarán muy atractivas. Tanto que <strong>el
+hecho de que sea un editor online pasa de ser una ventaja a ser un
+inconveniente</strong>. Si buscas una versión offline no la encontrarás, de hecho al
+tratarse de una solución de código abierto han escuchado esa necesidad, y
+buscan ese soporte de la comunidad para tenerla cubierta.</p>
+
+<h2 id="substance-puntos-débiles">Substance: Puntos débiles</h2>
+
+<p><img src="http://img.genbeta.com/2012/03
+/substance-explorar-documentos.jpg" alt="Explorando los documentos de Substance" /></p>
+
+<p>Puede parecer un poco maniático, pero un editor de textos puede destrozarte
+los nervios por ese pequeño retardo entre que pulsas la tecla y aparece en el
+monitor. De hecho, un cursor demasiado rápido o lento acaba destrozando tus
+nervios. Y **al estar online dependes del servidor de Substance **para el
+funcionamiento. E incluso de tu conexión a internet… no debería fallar, pero
+cuando lo hace, desearías no haber utilizado Substance.</p>
+
+<p>El sitio sólo está disponible en inglés, y desgraciadamente no parece que
+entre en sus planes la internacionalización del mismo. O al menos a corto
+plazo, mientras tanto <strong>tendremos que defendernos un poquito con nuestro nivel
+de inglés</strong>. De hecho tampoco tenemos mucho que leer, ya que, como
+comentábamos anteriormente, lo importante es escribir.</p>
+
+<p>Todavía hay muchos comportamientos que pulir, pero desde luego hay uno muy
+importante. Y es que el botón de borrar lo hace sin pedir confirmación, aunque
+ese detalle que puede borrar muchas horas de tu trabajo no sería demasiado
+importante <strong>si pudieras deshacer el último paso</strong>, o al menos el borrado de
+nodos, o la recuperación de los mismos. Ten cuidado, porque todas las virtudes
+de Substance, que las tiene, desaparecen cuando el ratón se te va un poquito y
+en lugar de mover, eliminas un nodo de unos cuantos párrafos. Hay un botón
+llamado <em>History</em> pero sólo funciona si publicas el documento.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Enlace</td>
+      <td><a href="http://www.substance.io">Substance</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Artículo extraído de <a href="http://www.genbeta.com">Genbeta</a>.</p>
+:ET

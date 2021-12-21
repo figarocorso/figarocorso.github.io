@@ -1,0 +1,15 @@
+---
+date: 2012-04-12 22:47:03+00:00
+layout: post
+image:
+  thumbnail: /images/blog/20120413-004656.jpg
+slug: arduino
+title: Arduino
+categories: day-by-day
+---
+
+Una de las cosas con las que siempre me he querido pelear. Y por casualidades de la vida hoy me han dado un pequeñito taller y he podido juguetear un poquito en casa y hacer algunas viguerías. Y es que aprender cosas nuevas siempre me gusta... Y si tienen este toque frío, mucho mejor.
+
+En la foto está mi "Coche Fantástico", la verdad es que resulta muy sencillo, pero lo de la electrónica no es lo mío, no me gusta demasiado. Aunque es divertida ;)
+
+[![20120413-004656.jpg](/images/blog/20120413-004656.jpg)](/images/blog/20120413-004656.jpg)

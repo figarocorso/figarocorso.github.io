@@ -1,0 +1,121 @@
+I"�<p>Después de una pregunta que me hicieron el pasado viernes, me puse a buscar un
+programa para recomendar. Y es que la pregunta no fue fácil del todo:</p>
+
+<blockquote>
+  <p>¿Algún programa fácil y que convierta vídeos rápido?</p>
+</blockquote>
+
+<p>Normalmente mi solución ante estos casos es matar moscas a cañonazos y
+<strong>utilizar un software de edición de vídeo profesional</strong> o semi-profesional
+para la conversión. Desde luego esa no puede ser siempre la respuesta, y
+después de buscar y probar diversas aplicaciones (y aunque para gustos, están
+los colores),** me ha convencido la opción de Freemake Video Converter**.</p>
+
+<p>Y es que estamos ante un programa gratuito que, sin ser perfecto (ni mucho
+menos), <em>me ha llevado al huerto</em> por la** interfaz sencilla y vistosa<strong>. Y es
+que, cada día más, creo que la interfaz de un programa es **casi tan
+importante, o más, que su funcionalidad</strong>.</p>
+
+<h2 id="la-interfaz-de-freemake-video-converter">La interfaz de Freemake Video Converter</h2>
+
+<p>Como he comentado, es uno de los grandes puntos fuertes de la aplicación. Y es
+que, una vez que se acaba la instalación, si no lo tienes instalado, te
+descarga e instala el entorno <strong>.NET Framework 4</strong>. Y es que, empezando por
+ahí, ya puede darnos un <strong>buen feeling en cuanto a la apariencia gráfica</strong> del
+programa.</p>
+
+<p>La ventana, que <em>pierde brillo en sus colores</em> cuando no es la ventana activa,
+está dividida en tres apartados.</p>
+
+<ul>
+  <li>Una <strong>botonera **donde podremos añadir los diferentes **archivos fuentes</strong> que queremos convertir.</li>
+  <li>El <strong>espacio principal</strong> está reservado para listar los archivos seleccionados y poder <strong>editar sus opciones</strong>.</li>
+  <li>En la <strong>parte inferior</strong> tenemos una barra (con desplazamiento horizontal) donde elegiremos qué <strong>formatos de salida</strong> queremos. Sólo tenemos que hacer clic y empezará la conversión.</li>
+</ul>
+
+<h2 id="formatos-soportados-por-freemaker">Formatos soportados por Freemaker</h2>
+
+<p><strong>Uno de sus grandes puntos fuertes es la cantidad de formatos que admite</strong>, tanto de entrada, como de salida. Para los amantes de <a href="http://www.genbeta.com/productos/reproductores-video/youtube">Youtube</a>, si te descargas un vídeo (o varios) de Youtube, podrás convertirlos a un formato que admita tu televisor (o reproductor). De hecho compatibilidad con FLV y MKV han sido dos gratas sorpresas.</p>
+
+<p>Pero también admite formatos como <del>los odiados</del> MOV, QT y RM. Más
+fácil que detallarlos es mirar una <strong>captura del propio programa</strong> donde nos
+comentan todos los posibles formatos soportados:</p>
+
+<p><img src="http://img.genbeta.com/2010/11/freemake-video-converter-formatos-
+soportados.jpg" alt="Freemake Video Converter: Formatos
+soportados" /></p>
+
+<h2 id="uniendo-vídeos-en-un-único-archivo">Uniendo vídeos en un único archivo</h2>
+
+<p>Se me hacía extraño no encontrar el menú donde me dejaran unir vídeos que
+añadía al panel principal. Pero es que no hay ningún menú, hay un <em>hermoso</em>
+<strong>botón que indica “En un archivo”</strong>, que sencillamente une todos los archivos
+que has puesto; aunque sean de diferentes tipos.</p>
+
+<p>Y es que, de nuevo, volvemos a la facilidad de uso del programa. Cuando en
+otros programas tienes que arrastrar todos dentro de una carpeta, activar una
+opción en un menú, o sencillamente no puedes unirlos; aquí lo tienes a la
+vista. <strong>No puedes elegir opciones, pero con un clic ya lo tienes hecho</strong>.</p>
+
+<h2 id="opciones-multimedia-de-freemaker-video-converter">Opciones multimedia de Freemaker Video Converter</h2>
+
+<p>Cuando importas un medio tienes unas cuantas opciones así que vamos a darles
+un repaso rápido:</p>
+
+<ul>
+  <li><strong>Vídeo</strong>: Nos permite <strong>cortar un vídeo</strong> para seleccionar los momentos que queramos. Tiene un botón para <em>avanzar a la siguiente escena</em>, o cambio de plano. Útil para conseguir buenos comienzos de escenas. Se puede <strong>girar la imagen y reflejarla</strong> horizontalmente y verticalmente.</li>
+  <li><strong>Audio</strong>: Parece creado para subir a Youtube. Nos dejará poner como imagen una foto fija, o una <strong>visualización generada</strong> a partir de la propia canción.</li>
+  <li><strong>DVD</strong>: Se pueden seleccionar los diferentes títulos del DVD y realizar las mismas transformaciones que en el caso de los vídeos. También nos <strong>deja elegir el lenguaje del audio</strong>, de los disponibles del propio DVD.</li>
+  <li><strong>Fotos</strong>: Puedes seleccionar el tiempo que permanece cada foto así como la <strong>música que se escuchará de fondo</strong>.</li>
+</ul>
+
+<h2 id="la-conversión">La conversión</h2>
+
+<p>En principio se anuncia el programa con la posibilidad de convertir
+rápidamente vídeos. Y esto lo hace <strong>aprovechando la característica CUDA</strong> de
+las tarjetas nVidia. En el caso de tener otra tarjeta gráfica diferente, <strong>los
+tiempos son normales</strong>. Parecidos a los de otros programas (diferencias de
+pocos segundos en las pruebas que he hecho). En algunos casos, ha sido más
+lenta, pero podría achacarse a la no homogeneidad de las pruebas.</p>
+
+<p>Los formatos de salida posible que se marcan son: AVI, MKV, para dispositivos
+<strong>Apple **(iPad incluido), dispositivos **Android **(con diferentes
+resoluciones), DVD, MP3, **Youtube **(lo sube automáticamente después de
+introducir los datos de tu cuenta), MP4, WMV, SWF, MPEG, **PSP/PS3</strong> y 3GP.</p>
+
+<p><img src="http://img.genbeta.com/2010/11
+/freemake-video-converter-output.jpg" alt="Freemake Video Converter: Formatos de salida" /></p>
+
+<h2 id="conclusiones">Conclusiones</h2>
+
+<p><strong>Lo mejor</strong></p>
+
+<p>Sin duda alguna, la <strong>interfaz **y la **facilidad de uso</strong> que nos provee, así
+como la gran cantidad de formatos de salida, qué básicamente incluyen todos
+los dispositivos audiovisuales en el mercado. Además, destacar la <strong>facilidad
+para realizar algunas transformaciones a nuestros archivos de vídeo</strong>. De
+hecho, puede que sea el principio del fin, en mi caso, del adorado Virtual Dub
+Mod.</p>
+
+<p><strong>Lo peor</strong></p>
+
+<p>No los veo como puntos negativos, pero sí como puntos a mejorar. Se
+agradecería la posibilidad de <strong>añadir subtítulos incrustados</strong> en el propio
+vídeo, además, algunas <strong>opciones un poco más especializadas para las
+presentaciones de fotos</strong>. Además, se agradecería infinitamente que nos dijera
+cuánto falta para acabar la conversión…</p>
+
+<p>Vía | <a href="http://www.softpedia.com/reviews/windows/Freemake-Video-
+Converter-Review-167337.shtml">Softpedia</a></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Página oficial</td>
+      <td><a href="http://www.freemake.com/">Freemake</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Artículo extraído de <a href="http://www.genbeta.com">Genbeta</a>.</p>
+:ET

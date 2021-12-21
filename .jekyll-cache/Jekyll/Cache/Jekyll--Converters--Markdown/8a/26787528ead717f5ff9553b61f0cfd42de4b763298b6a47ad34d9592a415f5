@@ -1,0 +1,33 @@
+I"�<p>El servicio de computación en la nube de Amazon (EC2, Elastic Compute Cloud)
+se ha visto afectado por <strong>la caída de un rayo en su centro de datos situado
+en Dublín</strong>. Dejando de lado todos los juegos de palabras entre servicios en
+la nube y rayos, se trata de un evento importante ya que han transcurrido más
+de 12 horas desde el impacto del rayo, y siguen trabajando para recuperar el
+sistema al 100%.</p>
+
+<p>El rayo ha alcanzado un transformador en las inmediaciones del <em>data center</em>
+de Dublín, lo que ha provocado picos de tensión y un apagón en las
+instalaciones. El centro de datos, que ha sido situado en la capital irlandesa
+para aprovechar la temperatura ambiental para refrigerar los equipos, <strong>es
+clave para ofrecer el servicio EC2 a la zona europea</strong>.</p>
+
+<p>Como se puede ver en la <a href="http://status.aws.amazon.com/#EU_block">página de registro de incidencias de
+Amazon</a> las primeras impresiones
+optimistas acerca del tiempo de recuperación del incidente, poco a poco se
+volvían más pesimistas debido a <strong>sobrecargas en los sistemas de
+almacenamiento</strong>. No me gustaría estar en la piel de los trabajadores del
+centro de datos de Amazon (ni en la de sus clientes).</p>
+
+<p><strong>Actualización:</strong><br />
+Según podemos leer en el <a href="http://blog.meneame.net/2011/08/08
+/sin-conectividad-en-amazon-irlanda/">blog de Meneame</a>, su web está caída debido a la
+incidencia del rayo en el centro de datos de Irlanda. Al parecer Amazon no
+está ofreciendo demasiada información y desde Meneame se mantienen a la espera
+de más novedades.</p>
+
+<p>Vía | <a href="http://hardware.slashdot.org/submission/1749456/Lightning-
+Strike-KOs-Amazon-Microsoft-EuroClouds">Slashdot</a><br />
+Imagen | <a href="http://www.flickr.com/photos/23360801@N02/4975793827/">Cabecera</a></p>
+
+<p>Artículo extraído de <a href="http://www.genbeta.com">Genbeta</a>.</p>
+:ET

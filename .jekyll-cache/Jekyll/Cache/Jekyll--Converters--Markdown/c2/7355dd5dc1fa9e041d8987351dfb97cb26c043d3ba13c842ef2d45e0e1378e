@@ -1,0 +1,69 @@
+I"/<p>Cada día son más lo usuarios que <strong>se decantan por SpringPad como su servicio
+web (o aplicación) para almacenar su información</strong>, ya sean listas,
+marcadores, organizar viajes, eventos o simplemente guardar en algún lado
+todas esas recomendaciones que leemos todos los días en internet.</p>
+
+<p>Después de que el equipo de <a href="http://www.genbeta.com/productos
+/productividad-personal/springpad">SprinPad</a> anunciara la disponibilidad del servicio a
+través de la Chrome Web Store, ahora anuncian que han actualizado la
+aplicación y ya se une a las de <strong>Android e iOS a la hora de almacenar tus
+listas offline</strong>.</p>
+
+<h2 id="necesitamos-el-acceso-offline">¿Necesitamos el acceso offline</h2>
+
+<p>Aunque <strong>Evernote sólo activa el acceso offline para usuarios premium</strong>,
+¿realmente es un gran valor añadido tener nuestros datos cuando no estamos
+conectados? SprinPad así lo cree, y es que está claro que necesitamos acceder
+a este tipo de aplicaciones siempre, y no siempre tenemos conexión.</p>
+
+<p>Si uno es usuario de las aplicaciones para móvil es más que probable que
+tendrá contratado el servicio de datos, pero ¿qué pasa con los viajes? Y creo
+que más de un lector se habrá encontrado en una acogedora casa rural, buscando
+una referencia guardada y… <strong>¿dónde está mi cobertura?</strong></p>
+
+<p>Si hablamos de la aplicación para la Chrome Web Store la cosa pinta peor.
+Añadido al párrafo anterior,** cuando nos movemos con nuestro portátil sin un
+módem USB** y no podemos (o sabemos) montar un tethering, ¿dónde está la
+información bien seleccionada que guardábamos con esmero?</p>
+
+<p>Desde luego depende de los datos que almacenamos en estos <em>almacenes
+cerebrales</em>, pero si cada vez guardas más información y cada día la consultas
+con más frecuencia, pronto echarás en falta una copia offline de tus datos.
+Así que veamos cómo funciona el nuevo acceso offline a la información de
+Springpad.</p>
+
+<h2 id="probando-la-versión-offline-de-springpad">Probando la versión offline de SpringPad</h2>
+
+<p><strong>Instalar la aplicación para la Chrome Web Store</strong> es fácil, haces clic en instalar, ponemos nuestro usuario y contraseña y ya la tenemos. Básicamente tenemos acceso a la misma página de SpringPad pero configurado como una aplicación. Eso sí, en la parte izquierda de la página hay un pequeño icono verde.</p>
+
+<p><img src="http://img.genbeta.com/2011/05/springpad-soporte-offline.jpg" alt="SpringPad añade soporte offline para su versión de la Chrome Web Store -
+Iconos" /></p>
+
+<p>Y es verde porque <strong>la primera vez que te conectas sincroniza de forma local
+toda la información</strong> albergada en los servidores de SpringPad. Dependiendo de
+la cantidad de datos que tengas guardados tardará más o menos. Cuando se
+completa el icono ya no aparece animado y se queda estático en color oscuro.
+Perfecto.</p>
+
+<p>¿Qué pasa si trabajamos sin conexión? Lo primero es que <strong>la página funciona
+bastante más rápido cuando no tenemos conexión</strong>, pero perderemos parte de la
+gracia de SpringPad. Desde nuestro propio avatar hasta la imagen de una
+película que tenemos guardada para ver, desaparecerán. Pero no es lo único que
+desaparece.</p>
+
+<p>Ya no podremos (obviamente) utilizar la opción de buscar en internet para
+añadir notas nuevas, también perderemos las alertas y la posibilidad de cargar
+fotos o archivos a la cuenta. Tampoco podremos eliminar notas y <strong>algunas
+funcionalidades más que necesitan de conexión a internet</strong>, pero… ¡tenemos
+nuestros datos sin conexión!</p>
+
+<p>Vía | <a href="http://blog.springpadit.com/2011/05/may-2011-user-
+newsletter/">SpringPad Blog</a><br />
+Descarga | <a href="https://chrome.google.com/webstore/detail/fkmopo
+amfjnmppabeaphohombnjcjgla">Chrome Web Store</a><br />
+En Genbeta | <a href="http://www.genbeta.com/herramientas/springpad-se-renueva-y-lo-
+enfrentamos-a-evernote">Springpad se renueva, y lo enfrentamos a
+Evernote</a></p>
+
+<p>Artículo extraído de <a href="http://www.genbeta.com">Genbeta</a>.</p>
+:ET

@@ -1,0 +1,22 @@
+I"�<p>Con la llegada de <strong>la versión 18 del navegador Google Chrome</strong> también llegan
+esperadas mejoras en la aceleración por hardware tanto de gráficos en dos
+dimensiones como en gráficos tridimensionales. Si hasta ahora se trataba de un
+navegador con un rendimiento elevado, ahora todavía ha dado un pasito más
+allá.</p>
+
+<p>Concretamente anuncian mejorías en la <strong>renderización de Canvas en 2D a través
+de nuestras GPUs</strong> si utilizamos ordenadores con OS X o Windows. De esta forma
+aplicaciones como por ejemplo juegos, que estén construidos sobre Canvas,
+tendrán un rendimiento más elevado debido a esta aceleración por hardware.</p>
+
+<p>Pero la mejora no se ha quedado en el plano, sino que también ha llegado a la
+<strong>renderización de imágenes tridimensionales a través de las librerías
+WebGL</strong>. No tendremos rendimientos que podemos ver en los juegos que
+instalamos en nuestro ordenador, que directamente exprimen nuestras gráficas,
+pero desde luego es un movimiento interesante.</p>
+
+<p>Vía | <a href="http://blog.chromium.org/2012/03/moar-better-
+graphics.html">Chromium Blog</a></p>
+
+<p>Artículo extraído de <a href="http://www.genbeta.com">Genbeta</a>.</p>
+:ET

@@ -1,0 +1,13 @@
+---
+layout: post
+title: Cuernos de Chivo - Deshumanización
+description: "Crítica del disco Cuernos de Chivo - Deshumanización => para Corsarios del Metal"
+category: music-review
+post-image: music-reviews/cuernosdechivo.jpg
+---
+
+Vamos con la reseña de este segundo trabajo de los toledanos CUERNOS DE CHIVO. La portada del trabajo, el nombre del grupo pero sobre todo la foto del grupo ya dice mucho. Y es que esas camisetas de GOJIRA no engañan a nadie. Así es, directos, trepidantes, sin tapujos con esa mezcla de Death Metal y Hardcore que nunca pasa indiferente delante de uno mismo: o te gusta o directamente no le ves el sentido. Pero con este disco estamos más cerca de la primera afirmación, pues es un buen trabajo con una muy buena producción que ha sido llevada a cabo por Tue Madsen (THE HAUNTED, DAGOBA,…). Riffs pesados, voz forzando garganta y grandes melodías pueden ser tres características que podemos destacar del álbum, aunque todo ello aderezado de forma que han conseguido que un trabajo que a primera vista pudiera parecer más bien cortito se transforme en un buen disco.
+
+Huyendo de las canciones cortas (casi todas rondan los cuatro minutos y medio) consiguen sorprender a propios y extraños con variedad de melodías, algunas mezcolanzas de estilo y pequeños detalles de forma que casi todas las canciones destacan y son diferenciables. El primer corte que comentaré es “Un Final Sin Destino”, que desde un punto de vista muy personal me parece una de las mejores canciones del disco, con muy buenas melodías y cambios de ritmos a lo largo de los cuatro minutos y medio (exactos) de canción, pero es más o menos en el segundo minuto cuando uno se lleva una sorpresa y aparece la inconfundible voz de Leo Jiménez y la canción varía entre unos ritmos pesados impresionantes y una rapidez trepidante. El tercer corte de nuevo tiene su peculiaridad, y es que comienza con una cita de la película “Ciudad de Dios” pero pronto “Desata Tu Rabia” con velocidad y mucha calidad en el sonido. “La Venganza de los Narcos” es el corte más largo del trabajo pero sirve a modo de resumen de todo lo que nos vamos a encontrar en el disco: sonidos directos, buenas letras y calidad de la banda que derrocha metal en ocasiones muy directo o violento, pero siempre armonizado y bien coordinado. No quería cerrar esta review sin destacar “Hostil”, que empieza con una intro Hip-Hop para desembocar en el sonido de la banda. Sí, he de admitir que no miraba con buenos ojos el trabajo cuando llegó a mis manos, pero ahora me tendré que tragar mis palabras y volver a rendirme ante la grandeza de esta música que nos une.
+
+[Corsarios del Metal](http://solopruebas2008.blogspot.com.es/2009/11/critica-cuernos-de-chivo.html)

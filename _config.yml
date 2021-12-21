@@ -1,98 +1,172 @@
-title:            I am Miguel Julián -  I love writing & coding & much more
-tagline:          Because change happens!
-description:      I am gonna be adding to this page those things I write
-# Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              https://www.migueljulian.com
-#url:              http://localhost:4000
-navigation:       false
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# Owner/author information
-owner:
-  name:           Miguel Julián
-  avatar:         bio-photo.jpg
-  bio:            "Sometimes I may also be known as Miky or figarocorso.<br /><br />I am currently working at Frogtek as QA engineer / DevOps.<br /><br />Welcome to the Cow Land!"
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+theme: jekyll-theme-so-simple
+# remote_theme: mmistakes/so-simple-theme
+skin: "/assets/css/skins/dark.css"
+locale: es-ES
+title: "Miguel Julián personal page"
+description: "Also known as Miky or Figarocorso"
+baseurl: # the subpath of your site, e.g. "/blog"
+url: https://migueljulian.com/
+logo: # /assets/images/figarocorso_looking_right.jpg
+date_format: "%B %-d, %Y"
+read_time: true
+words_per_minute: 200
+mathjax: # MathJax equations, e.g. true
+google_fonts:
+  - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Lora"
+    weights: "400,400i,700,700i"
+google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
+twitter:
+  username: miky_kun
+
+# Liquid
+liquid:
+  error_mode: strict
+
+# Build settings
+permalink: /:categories/:title/
+markdown: kramdown
+feed:
+  path: atom.xml
+
+# Pagination - https://jekyllrb.com/docs/pagination/
+# paginate: 10
+# paginate_path: /page:num/
+
+# Search
+search_full_content: false # can have performance implications for large sites
+
+# Taxonomy pages
+# category_archive_path: "/categories/#"
+# tag_archive_path: "/tags/#"
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - scripts/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+
+# Collections
+collections:
+  articles:
+    output: true
+    permalink: /:collection/:path
+  short_stories:
+    output: true
+    permalink: /:collection/:path
+  genbeta:
+    output: true
+    permalink: /:collection/:path
+  musical_reviews:
+    output: true
+    permalink: /:collection/:path
+  day_by_day:
+    output: true
+    permalink: /:collection/:path
+  dosidiotas:
+    output: true
+    permalink: /:collection/:path
+
+# Front Matter Defaults
+defaults:
+  # Posts defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      share: true
+  # Article defaults
+  - scope:
+      path: "_articles"
+      type: articles
+    values:
+      layout: post
+      share: true
+  # Short stories defaults
+  - scope:
+      path: "_short_stories"
+      type: short_stories
+    values:
+      layout: post
+      share: true
+  # Genbeta defaults
+  - scope:
+      path: "_genbeta"
+      type: genbeta
+    values:
+      layout: post
+      share: true
+  # Muical reviews defaults
+  - scope:
+      path: "_musical_reviews"
+      type: musical_reviews
+    values:
+      layout: post
+      share: true
+  # Day by day defaults
+  - scope:
+      path: "_day_by_day"
+      type: day_by_day
+    values:
+      layout: post
+      share: true
+  # dosidiotas defaults
+  - scope:
+      path: "_dosidiotas"
+      type: dosidiotas
+    values:
+      layout: post
+      share: true
+
+# Site Author
+author:
+  name: Miguel Julián
+  picture: /assets/images/figarocorso_looking_right.jpg
   email:
-  # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  # To register at HMFAYSAL SOCIAL, visit http://social.hmfaysal.tk
-  twitter:        miky_kun
-  facebook:       migueljulian
-  github:         figarocorso
-  linkedin:       migueljulian
-  instagram:      miky_kun
-  lastfm:         figarocorso
-  tumblr:
-  hmfaysalsocial:
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:
+  twitter:
+  links:
+    - title: Twitter
+      url: https://twitter.com/miky_kun
+      icon: fab fa-twitter-square
+    - title: Github
+      url: https://github.com/figarocorso/
+      icon: fab fa-github-square
+    - title: Last.fm
+      url: https://www.last.fm/user/figarocorso
+      icon: fab fa-lastfm-square
 
-# Analytics and webmaster tools stuff goes here
-google_analytics:
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
-
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: Home
-    url: /
-  - title: About
-    url: /about/
-  - title: Artículos
-    url: /articles/
-  - title: Relatos
-    url: /short-stories/
-  - title: "\' Day by day \' blog"
-    url: /blog/
-  - title: "Genbeta"
-    url: /genbeta/
-  - title: "Music reviews"
-    url: /music-review/
-#  - title: T-Details
-#    url: /technical-details/
-#  - title: The Evil-Genius
-#    url: http://www.theevilgenius.tk/
-#    external: true
-
-projects:
-    - title: Autofocus blog
-      url: /blog/
-      description: "Blog personal donde busco automotivarme para no caer en la rutina del día a día. También he incluido en esta sección los artículos recuperados del blog 'bipersonal' dosidiotas.com, a partir de 2010 los posts pertenecían a este blog (se aprecia cambio en el estilo)."
-    - title: Artículos
-      url: /articles/
-      description: "Artículos que han sido publicados por diversos medios."
-    - title: Relatos
-      url: /short-stories/
-      description: "Algunos relatos cortos de diferente temática. Sangre, amor, aventuras... sigo recopilando algunos."
-    - title: Críticas (reviews) de música
-      url: /music-review/
-      description: "Críticas sobre discos o conciertos recuperados de Rockthunder y Metalthunder."
-    - title: Genbeta
-      url: /genbeta/
-      description: "Artículos escritos en la página Genbeta.com. (290 noticias publicadas)."
-
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Europe/Madrid
-future:      true
-highlighter: rouge
-markdown:    kramdown
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:year/:month/:day/:title
-
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
-
-  coderay:
-    coderay_line_numbers:
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+# Footer Links
+# footer_links:
+#   - title: Feed
+#     url: atom.xml
+#     icon: fas fa-rss-square

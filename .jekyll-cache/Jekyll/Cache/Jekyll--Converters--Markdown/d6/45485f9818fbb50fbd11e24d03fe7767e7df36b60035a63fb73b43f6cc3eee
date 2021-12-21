@@ -1,0 +1,33 @@
+I"<p>El protocolo FTP parece que poco a poco está cayendo en desuso. Y el
+lanzamiento de una nueva versión de un cliente no debería ser noticia. Pero
+cuando se trata de <strong>un proyecto Open Source como Filezilla</strong> creo que merece
+la pena estar al día.</p>
+
+<p>Es posiblemente uno de esos imprescindibles dentro de los sistemas operativos
+Linux y Windows (también está para Mac OS, pero ahí parece que
+<a href="http://www.genbeta.com/actualidad/cyberduck-35-llega-con-
+interesantes-novedades">CyberDuck</a> manda) que soporta múltiples protocolos, entre ellos
+FTP sobre SSL/TLS y SFTP. Veamos <strong>las novedades que introduce esta nueva
+versión</strong> (Release Candidate) <strong>FileZilla 3.3.5 RC1</strong>.</p>
+
+<p>Entre varias mejoras que se implementan, caben destacar dos de ellas. Se ha
+incluido un <strong>menú contextual</strong> en las ventanas de <em>Transferencias
+satisfactorias/fallidas</em> para incluir <strong>todos los ficheros de nuevo en la cola
+de procesado</strong>. Y todavía más interesante, pues se aprecia notablemente es
+el** incremento en la velocidad cuando se utiliza SFTP**. Ademas de varias
+mejoras de seguridad.</p>
+
+<p>Está claro que FTP no es un protocolo seguro, y por ello, todos los clientes
+se están volcando en versiones más seguras del protocolo como SFTP.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Proyecto</td>
+      <td><a href="http://filezilla-project.org/">Filezilla</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Artículo extraído de <a href="http://www.genbeta.com">Genbeta</a>.</p>
+:ET

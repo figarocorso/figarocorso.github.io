@@ -1,0 +1,86 @@
+I"�<p>Después de echarle un vistazo a Rs Somnífero algunos de vosotros comentabais
+que vuestra aplicación preferida en Windows para <strong>programar un apagado del
+ordenador era AMP WinOFF</strong>. Así que ahora es el momento de compartirlo con el
+resto de los lectores.</p>
+
+<p>Con algo más de 600 KB la descarga y la instalación del ejecutable es rápida,
+y la primera vez que abrimos el programa aparece ante nosotros una interfaz
+cargada de opciones, pero con zonas claramente diferenciadas que hacen que los
+primeros pasos sean sencillos. Además todo es más fácil si la <strong>configuramos
+en español bajo el menú <em>Options</em></strong>.</p>
+
+<h2 id="qué-nos-ofrece-amp-winoff">¿Qué nos ofrece AMP WinOFF?</h2>
+
+<p>La respuesta es sencilla <strong>apagar nuestro ordenador cuando se cumple una
+condición dada</strong>, como puede ser una cuenta atrás, una hora prefijada o cuando
+detecte que la carga de la CPU no supera un umbral. También será capaz de
+detectar cuando el usuario no está trabajando en la computadora o si no hay
+descargas o subidas activas como condiciones para el apagado.</p>
+
+<p>Además de apagar nuestro ordenador también podremos reiniciarlo, suspenderlo,
+bloquear o cerrar la sesión o simplemente pasar a hibernación. El
+procedimiento es sencillo, eliges una condición, una acción a tomar cuando se
+cumpla y le damos al botón <em>Activar</em>.</p>
+
+<p>Así como otras aplicaciones sí que son capaces de apagar tu ordenador, si se
+encuentran ante una aplicación que se encuentra bloqueada (como, por ejemplo,
+un documento de texto que nos pregunta si queremos guardar los cambios o no)
+el apagado no se lleva a cabo. En la pestaña <em>Opciones Generales</em> podremos
+configurar que** fuerce la salida de esas aplicaciones para llevar a cabo el
+apagado**.</p>
+
+<h2 id="dos-características-imprescindibles-de-amp-winoff">Dos características imprescindibles de AMP WinOFF</h2>
+
+<p><img src="http://img.genbeta.com/2011/07/ampwinoff-inicio-automatico.jpg" alt="AMP WinOFF: Activa la última programación cuando se inicia
+Windows" /></p>
+
+<p>En el apartado anterior explicaba cómo ante una condición podríamos apagar o
+reiniciar el ordenador. Pero en AMP WinOFF han ido un poco más allá, dejando
+la libertad al usuario de establecer una política más complicada. Una en la
+que se tengan que cumplir <strong>varias condiciones al mismo tiempo</strong> o, por el
+contrario, una política en la que pese a haber varias condiciones, en cuanto
+se cumpla una de ellas, se apague el ordenador.</p>
+
+<p>Esto deja una gran libertad a la hora de programar un apagado automático,
+pudiendo especificar que no se apague hasta que la carga de CPU sea inferior a
+un 1% y no haya transferencia de datos a internet. De esta forma apagaríamos
+el ordenador una vez acabada la copia de seguridad y las descargas que
+tuviéramos iniciadas.</p>
+
+<p>Para encontrar esa segunda característica tendremos que volver a la pestaña de
+opciones, donde activar dos casillas nos darán una buena combinación. La
+primera es iniciar el programa cuando se arranque el ordenador, y la segunda
+consiste en volver a activar la última política de apagado.</p>
+
+<p>En este caso podremos tener un ordenador público <em>inteligente</em> que** se apague
+a una cierta hora si no hay nadie trabajando con él**. Lo que conllevaría un
+ahorro energético importante y una preocupación menos para el responsable.</p>
+
+<h2 id="orientado-hacia-ordenadores-públicos">Orientado hacia ordenadores públicos</h2>
+
+<p><img src="http://img.genbeta.com/2011/07/ampwinoff-ordenador-publico.jpg" alt="AMP WinOFF: Pensado para ser utilizado en ordenadores
+públicos" /></p>
+
+<p>Una de las tres únicas pestañas del programa se llama <em>Opciones
+administrativas</em> y está enfocada claramente hacia esos ordenadores públicos,
+que normalmente no están asignados a una única persona y que muchas veces, la
+ausencia de este tipo de opciones traen de cabeza a los administradores.</p>
+
+<p>En este caso nos permitirá establecer que las** opciones sean las mismas
+independientemente del usuario** que haya iniciado sesión. Así mismo podremos
+proteger la interfaz con una contraseña administrativa y evitar el cierre de
+la aplicación, de forma que cuando el programa es abortado se vuelva a iniciar
+o incluso se fuerce el apagado del sistema.</p>
+
+<p>Además de permitirnos esconder el icono del área de notificación e impedir que
+el apagado pueda ser cancelado por el usuario, también nos permitirá realizar
+un <strong>apagado remoto de un ordenador</strong> dentro de nuestra red.</p>
+
+<p>Enlace | <a href="http://www.ampsoft.net/utilities/WinOFFEsp.php">AMP WinOFF</a> |
+<a href="http://www.ampsoft.net/utilities/WinOFFEsp.php#Download">Descarga</a><br />
+En Genbeta | <a href="http://www.genbeta.com/windows/fuerza-el-apagado-de-tu-pca-la-hora-
+que-quieras-con-rs-somnifero">Fuerza el apagado de tu PC,a la hora que quieras, con Rs
+Somnífero</a></p>
+
+<p>Artículo extraído de <a href="http://www.genbeta.com">Genbeta</a>.</p>
+:ET

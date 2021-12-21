@@ -1,0 +1,27 @@
+I"�<p><strong>RunScanner **es una aplicación portátil para Windows que te permitirá poner a punto las **aplicaciones que se arrancan con el inicio de tu sistema</strong>. De acuerdo, sólo hay que hacer un <em>msconfig</em>, o arracar el <em>Administrador de tareas</em> y de un vistazo ya vas viendo el estado general del ordenador.</p>
+
+<p>Ya sea con tu ordenador, o con el del vecino, más de una vez te habrás visto
+en la tesitura de andar buscando por Google, o en alguna página especializada,
+de dónde vienen tal o cual proceso de la lista. Después del hecho de tratarse
+de una aplicación portátil, primer punto fuerte:** clic con el secundario y
+buscar en internet información sobre el proceso o librería**.</p>
+
+<p>Además la <strong>información que nos facilita es mucho más amplia</strong> de la que
+podemos encontrar ejecutando únicamente la herramienta de Windows
+<strong><em>msconfig</em></strong>. Tiene un gestor de procesos que permite matar varios al
+unísono, incluso puedes enviar tu log y esperar que te devuelvan un script.
+Sin duda hay muchas herramientas que hacen cosas parecidas, pero una
+herramienta tan ligera, portátil y que te da la información de cada proceso a
+un clic de distancia, por eso, al menos había que conocerla.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Enlace</td>
+      <td><a href="http://www.runscanner.net/">RunScanner</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Artículo extraído de <a href="http://www.genbeta.com">Genbeta</a>.</p>
+:ET

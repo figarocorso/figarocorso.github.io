@@ -1,0 +1,107 @@
+I"J<p>Hace poco se planteaba esta pregunta desde la sección <a href="http://www.genbeta.com/respuestas/algun-buen-editor-de-codigo-en-
+la-nube-para-programacion">Genbeta
+Respuestas</a>. Y es que en este caso los propios lectores de
+Genbeta, **con vuestras respuestas, además de ayudar a otro usuario, habéis
+dejado unos buenos enlaces **que paso a recopilar.</p>
+
+<p>La pregunta era curiosa: <strong><em>¿Algún buen editor de código en la nube para
+programación?</em> **En un principio no me parecía muy clara. ¿Sólo queremos
+editar un trozo de código? ¿Querrías compilarlo? ¿Lo que realmente quieres es
+un sitio donde guardar tus proyectos en la nube?<br />
+La pregunta era abierta, y seguramente por ello, **vuestras respuestas han
+sido diversas y enriquecedoras</strong>:</p>
+
+<h2 id="editores-de-lenguajes-compilados">Editores de lenguajes compilados</h2>
+
+<p>Unas de las primeras respuestas en llegar han dado luz verde dos servicios web
+que <strong>no sólo te permiten editar código, sino que también lo compilan y lo
+ejecutan</strong>. No esperes poder compilar varias librerías, simplemente prueba un
+código, o aprende viendo los códigos que otras personas comparten.</p>
+
+<p>Hace un tiempo compartíamos con vosotros en Genbeta el editor/compilador
+online <a href="http://www.genbeta.com/herramientas/ideone-tu-compilador-
+online">Ideone</a> y esta ha sido una de vuestras sugerencias. Podemos trabajar con <strong>más
+de 40 lenguajes</strong>, y desde la última vez que le dimos un vistazo, ahora
+podemos editar con el código resaltado <em>(syntax highlighting)</em>. Podemos
+utilizar diferentes compiladores para un mismo lenguaje y <strong>ver ejemplos muy
+variopintos</strong>.</p>
+
+<p><img src="http://img.genbeta.com/2011/03/editores-online-compilados-
+ideone.jpg" alt="Ideone: Un editor online de código que además compila y ejecuta más de 40
+lenguajes" /></p>
+
+<p>Parecido a Ideone, pero más limitado encontramos entre vuestras respuestas
+<strong>Codepad</strong>. Con 13 lenguajes en los que programar y probar nuestras
+aplicaciones, se aparece como una buena herramienta para elaborar de forma
+colaborativa una aplicación, ya que <strong>nos facilita un enlace para nuestro
+código que podremos compartir</strong>.</p>
+
+<h2 id="editores-de-html---css-online">Editores de HTML - CSS online</h2>
+
+<p>Existen muchas páginas que normalmente te enseñan a programar en HTML/CSS que
+<strong>nos dejan probar <em>nuestras chapuzas</em> en un pequeño editor</strong>. Pero en
+vuestras respuestas hemos encontrado dos opciones muy similares que nos
+dejarán probar nuestro código sin mayores problemas.</p>
+
+<p>El primero de ellos se llama HtmlEdit y los fundamentos son sencillos. Divide
+la pantalla del navegador de forma horizontal por la mitad y en la parte
+superior escribimos el código, mientras que en la de abajo, <strong>en tiempo real,
+vemos cómo va quedando nuestra página web</strong>.</p>
+
+<p><img src="http://img.genbeta.com/2011/03/editores-online-html-css.jpg" alt="HtmlEdit: Un sencillo editor online de Html y
+Css" /></p>
+
+<p>Dentro de la web TreeWeb nos dan un pequeño editor similar al descrito
+anteriormente. <strong>Escribimos nuestro código en la parte superior y en la
+inferior podemos ver cómo va quedando</strong>. Además nos proporciona un enlace
+permanente para poder compartir nuestro código. Para mi gusto, el editor tiene
+pocos caracteres de anchura.</p>
+
+<h2 id="para-completar-ace-y-coderun">Para completar: Ace y CodeRun</h2>
+
+<p>Como vemos, las respuestas principalmente han ido en dos variantes,
+dependiendo del tipo de lenguaje en el que queramos programar. Pero,
+posiblemente, la respuesta más acertada haya sido la que proponía el editor
+<strong>Ace. Un editor de código online escrito con JavaScript</strong>.</p>
+
+<p>La propuesta es sencilla, y es que simplemente **es un editor, que se ha
+creado como base para el editor Cloud9 **donde se pueden desarrollar proyectos
+más importantes, guardando tu código y creando tu aplicación directamente
+desde tu navegador. Es un servicio de pago, pero gratuito si desarrollas un
+proyecto de código abierto.</p>
+
+<p>Por último CodeRun, un editor sorprendente. Cuando abres la página te
+encuentras con <strong>una interfaz que ya parece un editor de código de
+escritorio</strong>. Un navegador de nuestros ficheros, consola de errores, y
+pestañas. Son sorprendentes las tecnologías que puedes utilizar enfocadas a la
+programación web: <strong>C#, JavaScript y PHP</strong>.</p>
+
+<p><img src="http://img.genbeta.com/2011/03/editores-online-cabecera-coderun.jpg" alt="CodeRun: Un completo editor y compilador de proyectos
+online" /></p>
+
+<p>Pero no sólo podemos crear nuestro proyecto, sino que también **podemos
+probarlo, evitándonos el paso de instalar un servidor en nuestro ordenador **y
+configurarlo (o subir los ficheros a un servidor externo). Se pueden
+desarrollar aplicaciones con Silverlight, jQuery, Ajax o ASP.</p>
+
+<h2 id="mis-conclusiones">Mis conclusiones</h2>
+
+<p>Después de muchos años <em>tirando</em> líneas de código uno aprende que hay pequeños
+detalles que resultan imprescindibles. Y pocos de ellos los ofrecen la mayoría
+de los editores explicados anteriormente. <strong>Hasta un editor como **(el también
+comentado) **Notepad++ nos facilita muchas herramientas que nos ahorra mucho
+tiempo</strong>.</p>
+
+<p><strong>Una ventaja que tenemos es que nos compilan o interpretan nuestro código</strong>. Eso es realmente una ayuda, pues no necesitamos instalar ningún compilador o servidor en nuestro ordenador; pero si llevamos a producción nuestro proyecto ¿realmente sabremos aplicarlo y optimizarlo?</p>
+
+<p><strong>Utilizar una interfaz completa y eficaz unido a un buen servidor SVN para guardar versiones de nuestro código **ha dado y sigue dando buenos resultados. Pero después de llevar ya unos años enseñando los principios de la programación, **páginas como Ideone o HtmlEdit facilitan la labor docente</strong>.</p>
+
+<p>Lenguajes “compilados” | <a href="http://ideone.com/">Ideone</a> |
+<a href="http://codepad.org/">CodePad</a><br />
+HTML - CSS - JavaScript | <a href="http://htmledit.squarefree.com/">HtmlEdit</a> |
+<a href="http://www.treeweb.es/WebCode">TreeWeb</a><br />
+Otros | <a href="http://ajaxorg.github.com/ace/build/editor.html">Ace</a> |
+<a href="http://www.coderun.com/ide/">CodeRun</a></p>
+
+<p>Artículo extraído de <a href="http://www.genbeta.com">Genbeta</a>.</p>
+:ET

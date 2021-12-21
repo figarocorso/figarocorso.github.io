@@ -1,0 +1,101 @@
+I";<p>Hace ya bastante tiempo comentábamos en Genbeta la existencia de <a href="http://www.genbeta.com/linux/arista-transcoder-conversor-de-
+videos-integrado-en-gnome">Arista
+Transcoder</a>, un conversor de vídeos integrado en GNOME. Han
+pasado ya muchas versiones desde ese artículo, y bien <strong>merece la pena volver
+echarle un vistazo acerca de las características de este gran conversor</strong>.</p>
+
+<p>Uno de los principales <strong>puntos fuertes del programa reside en su facilidad de
+uso</strong>. Y es que sólo tenemos cuatro botones activados una vez que arranca.
+Eliges la fuente, el formato de salida y <em>Añadir a la cola</em>. Sin duda, una
+<strong>interfaz sencilla</strong>.</p>
+
+<h2 id="instalación-de-arista-transcoder">Instalación de Arista Transcoder</h2>
+
+<p>El <strong>programa está programado en Phyton</strong>, y se puede descargar desde su web
+oficial, e instalarlo posteriormente. Los usuarios de Ubuntu podrán instalarlo
+fácilmente ejecutando este comando en la terminal:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt-get install arista
+</code></pre></div></div>
+
+<p>Para todos aquellos que tengan una irremediable alergia a la terminal sólo
+tendrán que abrir el <strong><em>Centro de software de Ubuntu</em> y buscar “arista”</strong>. En
+principio sólo nos mostrará un resultado, eso sí, un poco castellanizado:</p>
+
+<blockquote>
+  <p>Transcodificador de Arista</p>
+</blockquote>
+
+<h2 id="formatos-de-entrada---algunas-posibilidades">Formatos de entrada - Algunas posibilidades</h2>
+
+<p>Lógicamente podremos elegir casi cualquier tipo archivo de vídeo para poder
+convertirlo. Pero <strong>también podremos utilizar Arista Transcoder como un
+rippeador de DVDs</strong>, ya que podremos elegir nuestra unidad lectora para extaer
+su contenido.</p>
+
+<p><img src="http://img.genbeta.com/2011/01/arista-transcoder-
+convirtiendo.jpg" alt="Arista Transcoder: Transforma tus vídeos desde Ubuntu -
+Previsualización" /></p>
+
+<p>Una de las opciones que más sorprende al utilizarlo es la <strong>facilidad que
+tiene para incrustar subtítulos en el archivo de salida</strong>. De forma que nos
+dará igual si el dispositivo de salida acepta subtítulos o no, Arista
+simplemente renderiza los subtítulos y los incrusta. Fácil.</p>
+
+<p>Parece una opción sencilla, sin aparente utilidad. Pero la posibilidad de
+añadir una carpeta como fuente facilita muchas veces el trabajo, ya que,
+normalmente <strong>muchos de nosotros trabajamos por lotes, y cada lote suele estar
+en una carpeta</strong>.</p>
+
+<h2 id="formatos-de-salida---flexibilidad">Formatos de salida - Flexibilidad</h2>
+
+<p>Es aquí donde el programa acelera y adelanta a sus competidores. <strong>Tiene una
+gran cantidad de preajustes para optimizar el archivo resultante</strong>. Primero
+tenemos que seleccionar el <em>dispositivo</em> (por ejemplo móvil Android) y después
+seleccionamos en <em>preajuste</em> el modelo del móvil (por ejemplo Nexus Desire).</p>
+
+<p><img src="http://img.genbeta.com/2011/01/arista-transcoder-formatos-
+android.jpg" alt="Arista Transcoder: Transforma tus vídeos desde Ubuntu - Formatos de salida
+móvil Android" /></p>
+
+<p>Este es el **listado de los preajustes que vienen de serie **con el programa:</p>
+
+<ul>
+  <li><strong>Móvil Android</strong>: Droid/Milestone, Droid X, Galaxy Spica/GT-I5700/Galaxy Lite, G1/Dream, Samsung Galaxy S y Nexus One/Desire.</li>
+  <li>Dentro de la gama Apple podremos elegir <strong>iPad</strong> (baja calidad y calidad normal), <strong>iPhone/iPod Touch</strong>, iPod Classic e iPod Nano.</li>
+  <li>Para una salida para ordenador podremos elegir <strong>H.264</strong>, Theora y WebM. También podremos elegir convertir el vídeo a <strong>Flash Vídeo</strong>.</li>
+  <li>En la opción reproductor DVD podremos elegir formato <strong>PAL o NTSC y DivX Home Theater</strong>.</li>
+  <li>Para los **Nokia N Series **podremos elegir entre: N9000 H.264/MPEG 4, N770 y N800/N810.</li>
+  <li>Por último también prodremos exportar en calidad normal o baja para las consolas <strong>PSP y PS3 de Sony</strong>.</li>
+</ul>
+
+<h2 id="instalando-un-nuevo-preajuste-en-arista-transcoder">Instalando un nuevo preajuste en Arista Transcoder</h2>
+
+<p>Facilidad de uso y una gran flexibilidad en cuanto a los formatos que podemos
+transoformar, pero sobretodo me ha encantado la **facilidad con la que
+podremos añadir nuevos perfiles de salida **(o preajustes).</p>
+
+<p>En la <strong>web del software se puede encontrar una sección llamada <em>Presets</em></strong>
+donde podremos descargar en un archivo .tar.gz ajustes para una multitud de
+dispositivos, donde seguramente encontrarás el tuyo.</p>
+
+<p>Una vez descargado el archivo con los nuevos ajustes sólo tendremos que
+seleccionar en el <strong>menú archivo la opción <em>Install device preset</em></strong>, que por
+alguna extraña razóon no está traducida, seleccionar el archivo que nos
+habíamos descargado y casi al momento se habrá añadido a la lista de
+preajustes.</p>
+
+<p>Entre estos nuevos preajustes podremos encontrar los de la <strong>familia de Nokia
+5800</strong>, ajustes optimizados para bajas resoluciones, la videoconsola Wii o
+ajustes para convertir <strong>vídeos optimizados para verlos desde tu Blackberry</strong>.
+Cómo no, no podría faltar un preajuste para convertir tus vídeos a Youtube HD.</p>
+
+<p>Sitio oficial | <a href="http://www.transcoder.org">Transcoder</a><br />
+En Genbeta | <a href="http://www.genbeta.com/linux/arista-transcoder-conversor-de-videos-
+integrado-en-gnome">Arista Transcoder: conversor de vídeos integrado en
+GNOME</a> | <a href="http://www.genbeta.com/multimedia/freemake-video-converter-
+una-solucion-completa-y-sencilla-de-usar">Freemake Video Converter una solución completa y
+sencilla de usar</a></p>
+
+<p>Artículo extraído de <a href="http://www.genbeta.com">Genbeta</a>.</p>
+:ET

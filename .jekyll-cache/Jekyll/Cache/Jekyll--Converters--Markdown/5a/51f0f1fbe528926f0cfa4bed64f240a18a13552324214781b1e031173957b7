@@ -1,0 +1,98 @@
+I"e<p>Nos pasamos muchas horas delante del ordenador. Bien sea como una herramienta
+de trabajo o como un elemento de ocio más dentro de nuestra ajetreada vida. Y
+<strong>toda esa interacción que realizamos con el ordenador la realizamos
+(principalmente) mediante el ratón y el teclado</strong>. Desde mi punto de vista,
+junto con la pantalla, tienen una importancia notable en cuanto a
+productividad y propia salud del usuario.</p>
+
+<p>Bastantes teclados incorporan <strong>teclas programables con las que podemos hacer
+<em>macros de teclado</em></strong>, es decir, ejecutar una serie de pulsaciones automáticas
+pulsando únicamente la tecla de macro correspondiente. Podemos ir mucho más
+allá e instalar un <strong>software que nos ayudará a ahorrar muchas pulsaciones de
+teclado</strong>, con lo que ganaremos principalmente en agilidad mientras trabajamos
+con el ordenador. Un ejemplo es <strong>Phrase Express</strong>.</p>
+
+<h2 id="qué-es-phrase-express">Qué es Phrase Express</h2>
+
+<p>Se trata de un programa <strong>multiplataforma</strong>, <strong>gratuito **para el uso privado,
+que se ejecuta cuando se inicia el sistema operativo y que **se mantiene a la
+espera en el área de notificación</strong>. De forma que captura las pulsaciones de
+teclado que hacemos y cuando detecta alguna que ya hemos configurado,
+simplemente hace su magia.</p>
+
+<p>¿En qué consiste esa magia? Los principales usos de Phrase Express se podrían
+concentrar en <strong>autocorrector</strong> (para evitar esas <em>fatlas</em> producidas al
+escribir rápido), <strong>disparador de macros</strong> (lanzar programas, programar
+pequeñas aplicaciones que utilizamos constantemente), también puede ser usado
+para <strong>autocompletar palabras o frases</strong> (aka =&gt; also known as) y como un
+programa para <strong>insertar textos repetitivos</strong> (firmas, fechas, …).</p>
+
+<h2 id="primeros-pasos">Primeros pasos</h2>
+
+<p>Phrase Express es un programa muy completo, lo que hace que también sea
+<strong>complejo de configurar o encontrar la opción adecuada</strong>. Por si eso no fuera
+suficiente, <strong>la interfaz está en inglés</strong>. Por eso parece adecuada una
+pequeña explicación para empezar a utilizarlo, esos primeros pasos que nos van
+a introducir en las principales opciones del programa.</p>
+
+<h3 id="deshabilitar-las-autocorrecciones-en-inglés">Deshabilitar las autocorrecciones en inglés</h3>
+
+<p>Si escribes habitualmente en inglés, no te interesa este paso, pero hay
+algunas autocorrecciones en inglés que frecuentemente intentará corregir
+mientras escribimos en castellano. Para deshabilitarlas tendremos que ir al
+<strong>panel de configuración de Phrase Express</strong> (clic en el icono del área de
+notificación y ahí seleccionamos la opción settings).</p>
+
+<p>En el árbol de frases de la izquierda buscamos las carpetas
+<em>Autocorrect_common</em> y <em>Autocorrect_English</em> y hacemos clic con el botón
+secundario del ratón. En el menú que aparece <strong>desactivamos la opción Enable
+Autotext/Hotkey, así ya tendremos desactivadas las correcciones para el
+inglés</strong>. Recuerda que repitiendo este paso las podrás activar siempre que
+quieras.</p>
+
+<h3 id="descargar-e-instalar-las-autocorrecciones-para-castellano">Descargar e instalar las autocorrecciones para castellano</h3>
+
+<p>En el panel de configuración (settings) nos dirigimos a <em>File =&gt; Download
+Phrases</em>, lo que abrirá una página web en nuestro navegador con una lista de
+enlaces. Buscamos el paquete de frases en español y lo descargamos. El
+siguiente paso es importarlo, y resulta sencillo desde <strong><em>File =&gt; Import =&gt;
+Import phrase file</em>, donde seleccionamos el archivo que nos acabamos de
+descargar</strong>.</p>
+
+<p><img src="http://img.genbeta.com/2011/02/phrase-express-descarga-
+autocorrecciones-espanol.jpg" alt="Phrase Express: Descargando las autocorrecciones en
+castellano" /></p>
+
+<p>En el <em>árbol de autocorrecciones</em> ha aparecido una carpeta nueva que podremos
+desplazar mantener la estructura organizada. Pero todavía falta el último
+paso, <strong>hay que habilitar las autocorrecciones con <em>Enable Autotext/Hotkey</em></strong>.
+Aceptamos los cambios y ya está. La primera configuración ya está.</p>
+
+<p>Para probarlo, abre un editor de textos y escribe <em>¡Cuanto</em>. Te pedirá
+confirmación de la autocorrección y ¡magia!, ha puesto la tilde que faltaba.</p>
+
+<h2 id="más-usos-de-phrase-express">Más usos de Phrase Express</h2>
+
+<p>Con las autocorrecciones podemos ser todo lo imaginativo que queramos, ya que
+dependen de cada usuario y de aquellas actividades que realiza diariamente
+delante del ordenador. Pero crearse unas autocorrecciones para <strong>transformar
+un <em>tb</em> en <em>también</em> seguro que te ahorra muchas pulsaciones a lo largo del
+año</strong>.</p>
+
+<p>Habíamos comentado que Phrase Express se podia utilizar para insertar
+autotextos (tales como firmas, cabeceras con la fecha o frases célebres, por
+ejemplo). Por defecto vienen unas cuantas incluidas en el programa, de forma
+que sólo tenemos que hacer <strong>clic en el icono del programa y dirigirnos a
+<em>Famous Quotes</em></strong> donde podremos ver alguna perla. Podremos crearnos nuestra
+propia carpeta y añadir los autotextos que querramos sin nigún problema.</p>
+
+<blockquote>
+  <p>Imagination is more important than knowledge.<br />
+~ Albert Einstein</p>
+</blockquote>
+
+<p>Enlaces | <a href="http://www.phraseexpress.com/">Página oficial</a> | <a href="http://www.phraseexpress.com/phrases/AutoCorrect_Espanol.pxp">Autocorrecciones
+en castellano</a></p>
+
+<p>Artículo extraído de <a href="http://www.genbeta.com">Genbeta</a>.</p>
+:ET

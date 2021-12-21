@@ -1,0 +1,125 @@
+I"Z<p>Desde la llegada de la <a href="http://www.genbeta.com/actualidad/la-superbarra-de-windows-7-screencast">Superbarra de Windows
+7</a>
+muchos hemos <strong>dejado de utilizar herramientas para ordenar el escritorio o
+lanzadores de aplicaciones</strong>. La razón era muy sencilla. Las funcionalidades
+de dichos programas estaban incluidas en la Superbarra.</p>
+
+<p>Pero cuando uno se topa con una aplicación como <strong>Zum</strong>, no puede dejar de
+probarla y recomendarla. Este lanzador de aplicaciones se podría definir con
+<strong>tres conceptos: sencillez, buena apariencia y facilidad de uso</strong>.</p>
+
+<p>Así es, no estamos ante una aplicación que añada grandes efectos visuales, que
+ocupe mucho dentro nuestro escritorio. Tampoco nos da muchísimas opciones, ni
+una configuración con una multitud de pestañas que nos pierden para encontrar
+la opción que buscamos. Pequeño, bonito y <strong>sencillamente hace… lo que tiene
+que hacer</strong>.</p>
+
+<h2 id="qué-es-zum">¿Qué es Zum?</h2>
+
+<p><img src="http://img.genbeta.com/2010/10/zum-captura-games.jpg" alt="Zum - Captura" /><strong>Zum es
+un lanzador de aplicaciones para Windows</strong>, clasificadas dentro de ocho
+categorías predefinidas (Favoritos, Comunicación, Juegos, Gráficos, Ofimática,
+Otros, Reproductores y Web). Las capturas que podéis ver junto con el articulo
+muestran sus nueve botones y el tamaño real que ocuparía dentro de nuestro
+escritorio.</p>
+
+<p>La principal característica, desde mi punto de vista, es su aspecto. Con una
+altura un poco mayor que la barra de título de las ventanas se trata de <strong>una
+aplicación que apenas pasa desapercibida en nuestro escritorio</strong>, pero que
+encontramos rápida y fácilmente una vez que tenemos el hábito de buscarla para
+iniciar las aplicaciones.</p>
+
+<p>No vas a encontrar los iconos de las aplicaciones, no vas a tener grandes
+efectos visuales. En este apartado la barra de Zum baja su opacidad mientras
+no detecta que el puntero del ratón está encima y deja entrever nuestro
+escritorio. Cuando el cursor esta encima es totalmente opaca. Pero** la
+ausencia de _virguerías _y su simplicidad hacen que gaste muy pocos recursos**
+(en estos momentos, en mi computadora, ocupa 22.700 KB en memoria).</p>
+
+<h2 id="añadiendo-aplicaciones">Añadiendo aplicaciones</h2>
+
+<p>El proceso que tenemos que llevar para añadir una aplicación en Zum es
+sencillo. Dentro del botón <strong><em>menu</em> elegimos la opción <em>Applications and Web
+Sites</em></strong> y se abrirá una diálogo donde, en primer lugar tendremos que elegir
+en cuál de las ocho categorías querremos guardar un nuevo lanzador.</p>
+
+<p><img src="http://img.genbeta.com/2010/10/zum-
+adding-shorcuts.jpg" alt="Zum: Añadiendo lanzadores a la barra" /></p>
+
+<p>Una vez elegida la sección sólo nos quedará elegir un <strong>nombre para el
+lanzador y la ruta</strong> donde se encuentra el ejecutable. Para encontrar el
+ejecutable nos da tres herramientas. Una lista de algunas de las aplicaciones
+instaladas en el ordenador, un diálogo de <em>Abrir archivo</em> para seleccionar el
+ejecutable y un botón para <em>checkear</em> sí la ruta indicada es correcta.</p>
+
+<p>Ademas se podrán añadir <strong>parámetros para la invocación del programa</strong>. En
+este caso, resulta especialmente útil para iniciar navegadores con sesiones
+concretas o programas de creación propia que configuramos mediante parámetros.
+Muchos de los programas que usamos a diario soportan parámetros, y muchas
+veces son realmente útiles.</p>
+
+<h2 id="zum-a-favor">Zum: A favor</h2>
+
+<p>Estamos ante un programa <strong>minimalista</strong>, que consume <strong>pocos recursos</strong> y que
+resulta muy fácil a la hora de configurar. Con su <strong>pequeña interfaz</strong> apenas
+llama la atención en nuestro escritorio (este aspecto se acentúa con el cambio
+de opacidad comentado anteriormente). Muchas veces, iconos grandes y visuales
+en nuestro escritorio hacen que terminemos dejándonos llevar por ese clic
+nervioso y perdiendo un poquito de tiempo que necesitábamos.</p>
+
+<p>Se puede <strong>cambiar el aspecto de la barra de Zum</strong> cambiando su skin (o piel)
+por unas que vienen con el propio programa, o podemos diseñarnos una nosotros
+mismos. En este caso, sólo tendremos que elegir una imagen del tamaño de la
+barra de lanzadores y elegir también el color de los iconos.</p>
+
+<p>El programa tiene muy pocas opciones y, hoy en día, con este tipo de
+aplicaciones muchas veces es un aspecto a agradecer.</p>
+
+<h2 id="zum-en-contra">Zum: En contra</h2>
+
+<p>Que una aplicación tenga <strong>pocas opciones de configuración</strong> puede ser un
+punto a favor, pero muchas veces echamos en falta algunas que nos gustaría
+encontrar. Como por ejemplo configurar la opacidad de la barra de lanzadores
+una vez que el ratón está encima.</p>
+
+<p>El programa es sencillo de utilizar, pero para tratarse de una aplicación
+actual no nos facilita mucho el trabajo. <strong>Algunas opciones de drag&amp;drop;</strong>
+para convertir accesos directos automáticamente en lanzadores <strong>nos
+facilitarían el trabajo</strong>.</p>
+
+<p>A la hora de añadir lanzadores, la lista que nos muestra tiene un
+inconveniente ya que, al parecer sólo busca en la carpeta de sistema por
+defecto de programas, pero en arquitecturas de 64 bits existen dos carpetas, y
+desgraciadamente hoy en día, muchas de ellas sigue estando en esa <strong><em>Program
+Files (x86)</em>, que no se lista en el diálogo</strong>. Además, hecho en falta la
+posibilidad de <strong>añadir carpetas como lanzadores</strong>, aunque en este caso, es
+una ausencia bastante común.</p>
+
+<p>Está claro que muchas de estas mejoras serán pulidas en futuras versiones,
+pero por acabar de hilar fino, para aquellos apasionados del teclado
+encontrarán que, cuando minimicen las ventanas con la opción <strong><em>windows + d</em>
+(o similares) también se minimizará la barra de Zum</strong>. Este aspecto se arregla
+fácilmente con la opción <em>mostrar siempre encima</em> que incorpora, ya que con lo
+pequeña y discreta que es, no molesta en absoluto.</p>
+
+<h2 id="conclusiones">Conclusiones</h2>
+
+<p>Sencilla, minimalista y bonita, así es la barra de lanzadores de Zum. Estas
+características hacen de esta <strong>aplicación reseñable y digna de probar</strong>,
+aunque las contras explicadas anteriormente pueden tirar a mas de uno para
+atrás a la hora de su uso.</p>
+
+<p>Cuando la tenemos instalada se convierte en un <strong>buen complemento para nuestra
+día a día</strong>. Ya que tendremos acceso a programas que no utilizamos con tanta
+frecuencia de forma rápida y sencilla, y no saturan ni el Escritorio ni la
+Superbarra.</p>
+
+<p>Descarga | <a href="http://www.cevem.net/zum/en/">Zum</a><br />
+Vía | <a href="http://www.addictivetips.com/windows-tips/free-windows-
+application-launcher-zum-is-small-and-beautiful/">Adictivetips</a><br />
+En Genbeta | <a href="http://www.genbeta.com/windows/ordena-el-menu-inicio-de-windows-7
+-en-categorias-con-the-handy-start-menu">Ordena el menú Inicio de Windows 7 en categorías con The Handy
+Start Menu</a></p>
+
+<p>Artículo extraído de <a href="http://www.genbeta.com">Genbeta</a>.</p>
+:ET

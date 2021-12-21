@@ -1,8 +1,7 @@
 ---
-layout: post-index
+title: Artículos
+layout: collection
 permalink: /articles/
-title: Artículos escritos por diferentes medios
-filter: articles
-image-preview: false
-tag: [artículos, economía, educación]
+collection: articles
 ---
+

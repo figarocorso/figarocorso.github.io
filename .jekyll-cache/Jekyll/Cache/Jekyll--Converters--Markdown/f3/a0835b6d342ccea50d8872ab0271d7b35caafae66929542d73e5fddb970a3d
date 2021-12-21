@@ -1,0 +1,48 @@
+I"<p>A finales de 2010,** Google presentó el portátil Cr-48 para probar su sistema
+operativo Chrome OS<strong>. En principio dicho modelo fue repartido por la empresa
+californiana para probar y realizar demostraciones de su sistema operativo. En
+esta ocasión **han encontrado un <em>Huevo de Pascua</em></strong> en el que, traduciendo un
+código hexadecimal, podemos encontrar el siguiente mensaje:</p>
+
+<blockquote>
+  <p>Gracias de parte del equipo de firmware de Chrome OS x86. Este mensaje
+aparece gracias a Randall, Bill, Vadim, Gaurav y Kelly. También por la letra G
+y el número 42. Si te ha gustado este gadget, por favor únete a nosotros en
+http://www.chromium.org para ayudar a hacerlo incluso mejor. Ahora volverás al
+estado normal, todavía en progreso. Ningún animal ha sufrido daños durante la
+producción de este mensaje. Aplicar sólo sobre el área afectada. Llevar capa
+no te garantiza volar. Los contenidos han podido criar durante el transporte.
+No usar ganchos.</p>
+</blockquote>
+
+<p>Brad Wells encontró el huevo de pascua después de buscar información acerca de
+otros huevos de pascua en proyectos anteriores de los desarrolladores del
+Cr-48. Irónicamente indica que la búsqueda la hizo en Google. <strong>El mensaje
+aparece cuando se teclea <em>xyzzy</em></strong> durante el arranque del sistema.</p>
+
+<p>El mensaje, con el aspecto de un pantallazo azul cualquiera no tiene
+desperdicio. Cada <em>librería</em> que aparece en el mensaje lleva su significado.
+<strong>Así que amplía la imagen y analiza al detalle esas librerías</strong>. Podremos
+encontrar una llamada Tardis.sys, que los aficionados a la serie Dr. Who
+asociarán con rapidez.</p>
+
+<p>Otras muy reconocibles son:</p>
+
+<ul>
+  <li><strong>Bowser.sys</strong>: El villano más famoso de Nintendo.</li>
+  <li><strong>Gremlin.sys</strong>: Por si quedaban dudas, es mejor que no mojes el portátil por lo que pudiera pasar.</li>
+  <li><strong>Nova.sys</strong>: Un montón de significados, desde la clase de naves de Star Treck hasta un superhéroe.</li>
+  <li><strong>Zzzztop.sys</strong>: Parece un homenaje al grupo que trajo canciones inolvidables desde Texas.</li>
+</ul>
+
+<p>Vía | <a href="http://news.cnet.com/8301-30685_3-20069406-264/cr-48s-chrome-os-
+easter-egg-blue-screen-of-snark/">CNET</a> | <a href="http://wellsb.com/post/6161876985/how-i-cracked-the-cr-48-easter-egg">Brad Wells
+Blog</a><br />
+Imagen | <a href="https://picasaweb.google.com/lh/photo/aFmEJctDQJIfB
+8jhxHp00w?feat=embedwebsite">Tamaño completo</a><br />
+En Genbeta | <a href="http://www.genbeta.com/sistemas-operativos/google-podria-ofrecer-
+suscripciones-mensuales-de-laptops-con-chrome-os">Google podría ofrecer suscripciones mensuales de laptops con
+Chrome OS</a></p>
+
+<p>Artículo extraído de <a href="http://www.genbeta.com">Genbeta</a>.</p>
+:ET

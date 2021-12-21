@@ -1,7 +1,7 @@
 ---
-layout: post-index
+title: Artículos en Genbeta
+layout: collection
 permalink: /genbeta/
-title: Artículos escritos en Genbeta
-filter: genbeta
-image-preview: true
+collection: genbeta
 ---
+

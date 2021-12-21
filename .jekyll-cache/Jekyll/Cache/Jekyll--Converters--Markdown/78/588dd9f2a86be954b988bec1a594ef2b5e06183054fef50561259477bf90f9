@@ -1,0 +1,188 @@
+I"e)<p>/yubnub-metabuscador-al-estilo-linea-de-comandos), con ese infumable apellido
+de <em>metabuscador al estilo “línea de comandos”</em>. Y hace bastante menos el
+artículo <a href="http://www.genbeta.com/herramientas
+/buscar-en-google-es-de-debiles">Buscar en Google es de débiles</a> levantaba ampollas. Ahora toca <strong>volver a
+hablar de esa cosa llamada Yubnub</strong>.</p>
+
+<p>Y es que** la mayoría de nuestras búsquedas<strong>, aunque quieran acabar en
+Youtube, **empiezan en San Google</strong>. Al final, cada uno busca como quiere,
+pero con Yubnub tenemos un montón de servicios de búsqueda en nuestra caja de
+búsquedas habitual.</p>
+
+<p><strong>¿Y con el móvil?</strong> A veces, dependiendo del terminal y las aplicaciones de cada uno, una sencilla búsqueda requiere un montón de pasos y de tiempo perdido que parece una eternidad.** Yubnub podría ayudar a evitar esas esperas**.</p>
+
+<h2 id="qué-es-yubnub">¿Qué es Yubnub?</h2>
+
+<p>Parece que todo esto salió a la luz en 2005, cuando <strong>Jon Aquino **lo programó
+para un concurso llamado “Rails Day”. **24 horas programando una aplicación en
+Ruby on Rails</strong>. Y esta maravilla surgió durante esas 24.</p>
+
+<p>Una vez instalas Yubnub en la caja de búsqueda de tu navegador favorito, o
+acudes a su página web, <strong>tendrás un montón de servicios a muy pocas teclas de
+distancia</strong>. Busca “gim BMW M3” y realizarás directamente una búsqueda desde
+Google IMages.</p>
+
+<p>La idea es fácil, **¿para qué construir botones de búsqueda personalizados en
+la barra de favoritos si podemos poner un prefijo a nuestras búsquedas? **Otro
+ejemplo sería escribir “random 20”, que nos devolverá un número aleatorio
+entre el 1 y el 20 (para los forofos del D&amp;D;, las dos veces que lo he
+utilizado me ha devuelto 20… ¿casualidad? ¿destino?).</p>
+
+<p>De esta forma **nos ahorramos varios pasos de búsqueda **que podrían ser algo
+como:</p>
+
+<ul>
+  <li>Buscar en Google IMDB.</li>
+  <li>Hacer clic en el resultado y esperar a que cargue.</li>
+  <li>Realizar la búsqueda que queríamos en IMDB, por ejemplo “Tron”.</li>
+</ul>
+
+<p>Puestos a ahorrar un poco de tiempo, parece que <strong>sale rentable **escribir
+“imdb Tron” en nuestro navegador y **llegar directamente a los mismos
+resultados</strong>.</p>
+
+<h2 id="usando-yubnub">Usando Yubnub</h2>
+
+<p>Desde hace ya mucho tiempo ha popularizado el uso de los <strong><em>Golden Eggs</em> de
+Yubnub</strong>. No son otra cosa que los **comandos más utilizados **por los
+usuarios. Podremos encontrar aquí una lista de los <a href="http://yubnub.org/kernel/golden_eggs?args">Golden
+Eggs</a> en su versión más
+anglosajona.</p>
+
+<p>Ahí se abre un nuevo universo, y <strong>cada persona tiene sus comandos
+preferidos</strong>, tantos como servicios que utiliza mientras navega por la web.
+Para aportar mi pequeño granito de arena, pongo algunos que son de gran ayuda
+en el día a día.</p>
+
+<p>Para <strong>buscar en Google **tenemos que añadir el</strong> prefijo “g”**. Con una
+búsqueda, sin comillas “g gardner dragon” buscaremos en Google páginas
+relativas a esa espectacular ilusión óptica.</p>
+
+<p><strong>“rae sobretodo”</strong> hará una <strong>búsqueda en el Diccionario de la Lengua Española</strong>, y nos descubrirá que <em>sobretodo</em> es un sustantivo que significa abrigo o impermeable. Esencial para no meter la pata. Twitter, comentarios y redes sociales lo agradecerán.</p>
+
+<p>Ya hemos comentado <strong>“gim BMW M3”</strong>, pero podemos lanzar resultados de
+imágenes de Flickr con <strong>“fl BMW M3”</strong>. Aún diría más, <strong>“gimf BMW M3”</strong> nos
+mostrará los resultados con los parámetros de reconocimientos faciales
+activados.</p>
+
+<p>Si <strong>buscamos directamente un vídeo</strong>, nada mejor que <strong>“yt oogie boogie”</strong>
+para encontrar vídeos/canciones relacionadas con nuestra búsqueda. Nos
+podremos imaginar lo que hará “gvideo…”.</p>
+
+<h3 id="seguimos-con-más-golden-eggs">Seguimos con más Golden Eggs</h3>
+
+<p><img src="http://img.genbeta.com/2010/12/yubnub-golden-
+egg.jpg" alt="Yubnub: golden eggs" />Vamos con una lista de otros comandos que podemos utilizar:</p>
+
+<ul>
+  <li><strong>gm … **</strong> para buscar con Google Maps.</li>
+  <li><em>**</em>imdb … ** para buscar en IMDB.</li>
+  <li>**en2sp … ** para utilizar WordReference y traducir una palabra del ENglish al SPanish.</li>
+  <li>**sp2en… ** SPanish to ENglish.</li>
+  <li><strong>wpen …</strong> buscará un artículo en la Wikipedia inglesa.</li>
+  <li><strong>wpes …</strong> igual no están tan bien los artículos de la española, pero son muy cómodos de leer.</li>
+  <li><strong>site2pdf …</strong> nos creará un PDF de cualquier página web.</li>
+  <li><strong>wa …</strong> busca directamente en uno e mis buscadores fetiches, Wolfram Alpha.</li>
+  <li><strong>mavs …</strong> divide la pantalla en cuatro y busca en Google, Wikipedia, Yahoo y Wolfram Alpha. <em>Lo que no encuentres así, al 99% ¡no existe!</em></li>
+</ul>
+
+<p><strong>Algunos comandos **no están relacionados con búsquedas, sino que **simplemente abren sitios web</strong>, con atajos: gmail, gcal, greader, gdocs, … son alguno de los ejemplos.</p>
+
+<p>Capítulo aparte se merece <strong>ls …</strong>, con un “ls filmaffinity” nos permite
+encontar comandos de Yubnub que nos ayudarán de ahora en adelante, en este
+caso nos descubrirá <strong>“fmf …”</strong>. Y uno de mis preferidos <strong>pol …</strong>, que busca
+en IMDB, CineOl, FilmAffinity y RottenTomatoes.</p>
+
+<h2 id="instalando-yubnub">Instalando Yubnub</h2>
+
+<p>Ahora que hemos visto de lo que es capaz este pequeño, sólo nos queda
+probarlo, así que vamos a meternos en harina.</p>
+
+<p>Lo más cómodo es **configurar Yubnub como proveedor predeterminado **de
+búsquedas en tu navegador, o en tu lanzador preferido de aplicaciones (como
+QuickSilver o Launchy, por citar un par). De esta forma no hay ningún paso
+intermedio para utilizarlo.</p>
+
+<p><strong>Cada uno tenemos nuestro navegador o lanzador fetiche</strong>, así que podremos ver los diferentes medios de instalación en la <a href="http://yubnub.org/documentation/describe_installation">página de Yubnub</a>. Aquí proponemos la instalación en los navegadores más usados:</p>
+
+<h3 id="plugin-de-búsquedas-de-firefox">Plugin de búsquedas de Firefox</h3>
+
+<p>Los pasos son muy sencillos. Sólo hay que ir a <a href="http://mycroft.mozdev.org/search-
+engines.html?name=yubnub&amp;opensearch=yes">este
+enlace</a> y hacer clic en <em>YubNub</em>. Otra opción
+es <strong>hacer clic en la flechita del motor de búsqueda actual y añadirlo</strong>. Por
+cierto, en <em>Administrar motores de búsqueda…</em> podremos ponerlo como buscador
+por defecto.</p>
+
+<h3 id="integrando-yubnub-con-chrome">Integrando YubNub con Chrome</h3>
+
+<p>Si las búsquedas con prefijo ahora se nos quedan cortas…tenemos que dar el
+gran paso. En este caso, empezaremos por hacer clic derecho en la barra de
+direcciones y eligiendo la opción “Editar motores de búsqueda…”. Ahí
+añadiremos uno nuevo con los siguientes datos: <strong>* Nombre:</strong> YubNub (por
+ejemplo)</p>
+
+<ul>
+  <li><strong>Palabra clave:</strong> yubnub.org (por ejemplo)</li>
+  <li><strong>URL:</strong> http://www.yubnub.org/parser/parse?command=%s (este sí que tiene que ser exacto).</li>
+</ul>
+
+<p><img src="http://img.genbeta.com/2010/12/yubnub-
+instalar-chrome.jpg" alt="Instalando Yubnub en Google Chrome" /></p>
+
+<p>Ahora, con el nuevo motor de búsqueda creado, sólo tenemos que darle al botón
+<strong>“Establecer como predeterminado”</strong> y disfrutar.</p>
+
+<h3 id="añadiéndolo-a-internet-explorer">Añadiéndolo a Internet Explorer</h3>
+
+<p>Con IE 7 e IE 8 tenemos que ir a la página para <a href="http://www.microsoft.com/windows/ie/searchguide/es-es/default.mspx">agregar proveedores de
+búsqueda</a>
+y añadir el nuestro en la caja amarilla de la derecha.</p>
+
+<ul>
+  <li><strong>URL:</strong> http://yubnub.org/parser/parse?command=TEST</li>
+  <li><strong>Nombre:</strong> YubNub</li>
+</ul>
+
+<p>Al instalarlo, o haciendo clic en la flechita del proveedor de búsqueda
+podremos administrarlos y <strong>establecer Yubnub como proveedor predeterminado</strong>
+para nuestras futuras búsquedas.</p>
+
+<h3 id="integración-con-safari">Integración con Safari</h3>
+
+<p>Personalmente me gusta más lanzarlo desde QuickSilver, pero para añadirlo a
+Safari encontré dos formas fáciles para su instalación:</p>
+
+<ul>
+  <li><strong>Mediante un bookmarklet:</strong> javascript:Qr=prompt(‘Buscar%20con%20YubNub:’,’’);if(Qr)location.href=’http://www.yubnub.org/parser/parse?command=yubnub%20’+escape(Qr)</li>
+  <li><strong>Instalando Glims</strong>, nuestros compañeros de Applesfera nos <a href="http://www.applesfera.com/aplicaciones/glims-nueva-version-disponible-para-safari-5">hablaron de ello</a>.</li>
+</ul>
+
+<h2 id="últimos-comentarios">Últimos comentarios…</h2>
+
+<p>…personales. Y es que** la utilización de Yubnub parece en un principio
+rara**, o incluso difícil. ¿Qué es eso de poner una <em>g</em> antes de una búsqueda?
+Parece una aberración.</p>
+
+<p>Pero si uno no cesa en el empeño y le da <strong>dos días</strong>, no necesitas mucho más
+para acostumbrarte a su uso; se podría decir que <strong>cambia el uso que haces
+muchos servicios de internet</strong>. Después de ese periodo de adaptación tienes
+resultados precisos a la primera.</p>
+
+<p><strong>Llegará un día en el que utilices un ordenador que no sea el tuyo</strong> (sí, a todo el mundo le llega ese momento), y escriba “gim patricia conde” (por ejemplo), y se encuentre con resultados de Google y no con imágenes.</p>
+
+<p>Un ejemplo menos radical lo tenemos cuando haces búsquedas con tu <em>g</em> de
+Google y tu amigo te pregunta como con vergüenza: Y esa “g”, ¿para qué la
+pones? La respuesta… ya es cosa tuya.</p>
+
+<p>Sinceramente creo que** Yubnub se merece una oportunidad**. Luego ya decides
+si está hecho para tí o no; pero resulta una herramienta imprescindible con el
+tiempo. No obstante, Google Chrome ha tenido una inspiración muy cercana con
+sus prefijos de búsquedas.</p>
+
+<p>Sitio e imagen Golden Egg| <a href="http://yubnub.org/">YubNub</a><br />
+En Genbeta | <a href="http://www.genbeta.com/herramientas/buscar-en-google-es-de-debiles">Buscar en Google es de
+débiles</a></p>
+
+<p>Artículo extraído de <a href="http://www.genbeta.com">Genbeta</a>.</p>
+:ET

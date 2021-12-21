@@ -1,0 +1,80 @@
+I"'<p><strong>Turpial fue uno de esos clientes de Twitter que a uno le gustan en cuanto los prueba</strong>, pero por una razón un otra acaba desechando y volviendo a su cliente favorito. Pero después del anuncio de una nueva versión estable creo que es una buena ocasión para darle un vistazo y apuntar sus puntos fuertes y sus debilidades.</p>
+
+<p>Desde luego,** uno de sus puntos fuertes es la opción de cambiar entre el modo
+compacto y el modo extendido**. Y es que se nota que el modo compacto (viene
+por defecto) está muy bien trabajado, y para aquellos que no quieren que su
+cliente Twitter ocupe todo el monitor, será una buena opción.</p>
+
+<h2 id="instalación-de-turpial">Instalación de Turpial</h2>
+
+<p><strong>Turpial es un cliente nativo para Linux</strong> y ofrece diversas vías de instalación en su página oficial, entre ellas para distribuciones Fedora, Debian, Ubuntu o ArchLinux. Desde luego, al encontrarnos ante un software libre, también podremos descargar el código fuente de la aplicación.</p>
+
+<p>Para la <strong>instalación en Ubuntu</strong> primero tendremos que añadir un repositorio
+PPA. Desde luego lo podremos hacer desde el Centro de Software de Ubuntu o
+desde la consola, aquí dejo los comandos para que la instalación sea sólo
+cuestión de copiar y pegar.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo add-apt-repository ppa:effie-jayx/turpial
+sudo apt-get update
+sudo apt-get install turpial
+</code></pre></div></div>
+
+<h2 id="destacamos-en-turpial">Destacamos en Turpial</h2>
+
+<p>Como ya había comentado, <strong>el modo compacto le deja a uno un buen sabor de
+boca</strong>. Unos botones en la parte inferior dan paso a diferentes vistas con
+pestañas en la superior que nos darán acceso a nuestro timeline, nuestro
+perfil y búsquedas, escribir un nuevo tweet, <em>followear</em> a alguien o ajustar
+las preferencias.</p>
+
+<p><img src="http://img.genbeta.com/2011/06/turpial-about.jpg" alt="Turpial 1.5" /></p>
+
+<p>Con la llegada de <strong>la nueva versión 1.5 se han mejorado bastantes aspectos
+visuales</strong> que le dan un toque mucho más agradable, desde los nuevos iconos
+hasta el aspecto renovado de las notificaciones, pasando por la adopción del
+nuevo sistema de scrolling de Ubuntu.</p>
+
+<p>Se puede manejar desde la consola, y eso a algunos desarrolladores les
+resultará interesante. Pero la <strong>inclusión de columnas personalizables</strong> y al
+alcance del clic con el botón secundario ha sido un gran paso. A día de hoy,
+imprescindible para cualquier twitteradicto.</p>
+
+<p>Nuevas funciones como el <strong>soporte para Identi.ca</strong> o la posibilidad de subir
+fotos con tus tweets eran necesarias, y si utilizaste la versión antigua
+cuando empezó a hablarse de Turpial, notarás que la aplicación se mueve con
+más ligereza y agilidad.</p>
+
+<h2 id="subjetivo-pero-mejorable">Subjetivo, pero mejorable</h2>
+
+<p><strong>Que no tengas siempre a mano una caja de texto para escribir un tweet acaba cansándote</strong>. Y es que el botón está siempre a la vista, pero entre hacer clic en un botón (no especialmente grande) y cambiar de ventana haciendo clic en un área de texto bien hermosa, la diferencia es notable.</p>
+
+<p>A día de hoy hay un montón de interfaces con características <em>OnMouseOver</em>, da
+igual donde hagas clic con el ratón, <strong>si quieres interactuar acostúmbrate a
+darle con el secundario</strong>, eso sí. Una vez que te acostumbras no es tan
+incómodo como podría parecer en un principio.</p>
+
+<p>En un cliente de Twitter que se marquen los colores de los tweets no leídos, y
+tener que hacer clic uno a uno, o en un botón para marcarlos todos a la vez
+como leídos, no parece lo más cómodo del mundo, sobre todo si el color azul de
+los <em>no leídos</em> no contrasta con el verde de los hastags y nombres de usuario.</p>
+
+<h2 id="conclusiones-rápidas-sobre-turpial">Conclusiones rápidas sobre Turpial</h2>
+
+<p><strong>Sin duda es un muy buen cliente nativo de Twitter para Linux</strong>. Es bastante recogido y ligero, lo cual lo hace ideal para portátiles, pero la falta de atajos de teclado, y la ya famosa área de texto siempre visible para twittear siguen siendo un lastre cuando uno lo utiliza durante un tiempo.</p>
+
+<p>A estas alturas cualquier usuario compulsivo (o no) de Twitter tendrá su
+cliente favorito, y es posible que haya dado con él después de una buena
+búsqueda y consultas en Google, Turpial puede ser una opción si no lo habías
+probado, <strong>de hecho bien merece una prueba para sacar tus propias
+conclusiones</strong>.</p>
+
+<p>Desde luego durante un tiempo <strong>va a ser mi cliente por defecto en el
+portátil</strong>, pero en el equipo de sobremesa, en mi caso con dos monitores, me
+quedo con la buena apariencia visual de TweetDeck.</p>
+
+<p>Vía | <a href="http://turpial.org.ve/2011/06/bienvenida-la-nueva-
+version-estable-turpial-1-5/">Blog Turpial</a><br />
+Descarga | <a href="http://turpial.org.ve/downloads/">Turpial.org</a></p>
+
+<p>Artículo extraído de <a href="http://www.genbeta.com">Genbeta</a>.</p>
+:ET

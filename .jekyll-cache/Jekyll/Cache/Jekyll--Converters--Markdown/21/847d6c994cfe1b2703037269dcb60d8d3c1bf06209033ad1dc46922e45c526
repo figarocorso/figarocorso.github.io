@@ -1,0 +1,54 @@
+I"6<p>El pasado 3 de marzo de 2011 la plataforma de alojamiento de blogs
+<strong>WordPress.com</strong> sufrió, según sus propias palabras, <em>el ataque más grande y
+continuado que habían visto en sus seis años de historia</em>. Esta vez el ataque
+no ha buscado tumbar sus servidores, sino que directamente ha buscado entrar
+en los sistemas de muchos de sus servidores. Asumiendo ellos mismos que
+<strong>cualquier información en esos servidores podría haber sido revelada debido a
+la intrusión</strong>.</p>
+
+<p>Matt Mullenweg, en su blog hospedado en WordPress.com, ha lanzado una
+publicación donde <strong>confirma el ataque y sencillamente nos proporciona unos
+consejos para generar contraseñas más seguras</strong> (seguro que encuentras más
+información en <a href="http://www.genbeta.com/tag/especial-contrasenas-seguras">nuestro especial sobre contraseñas
+seguras</a>). Paso a
+traducir parte de la publicación para dar esa <em>información de primera mano</em>:</p>
+
+<blockquote>
+  <p>Hoy tenemos que comunicar una noticia dura: Automattic ha sufrido una
+intrusión en muchos de sus servidores, y cualquier información en esos
+servidores podría ser potencialmente revelada.</p>
+</blockquote>
+
+<blockquote>
+
+</blockquote>
+
+<blockquote>
+  <p>Hemos estado revisando minuciosamente logs y registros de acceso acerca de
+la intrusión para determinar la información que podría resultar revelada, y
+asegurando las diferentes vías de acceso. Damos por hecho que nuestro código
+ha estado expuesto y copiado. Aunque la mayoría de nuestro código es Open
+Source, también hay <strong>secciones delicadas de nuestro código y de nuestros
+<em>partners</em></strong>. Pese a ello, parece que la información revelada era limitada.</p>
+</blockquote>
+
+<p>Habrá que esperar a que se revelen más novedades acerca de la noticia, pero
+posiblemente Matt Mullenweg esté quitando hierro a la importancia del ataque.
+Esa última parte del post en la que <strong>nos recuerdan cómo tener contraseñas
+seguras parece una invitación a cambiarlas</strong>, porque no tiene mucho que ver
+con el anuncio del ataque.</p>
+
+<p>Aunque posiblemente** la mayoría de los usuarios de WordPress.com no notarán
+las consecuencias del ataque**, tendremos que estar atentos, porque todavía
+hay muchos interrogantes al respecto.</p>
+
+<p>Enlace | <a href="http://en.blog.wordpress.com/2011/04/13/security/">Blog Matt
+Mullenweg</a> |
+<a href="http://techcrunch.com/2011/04/13/hacker-gains-access-to-
+wordpress-com-servers/">TechCrunch</a><br />
+En Genbeta | <a href="http://www.genbeta.com/productos
+/plataformas-de-blogs/wordpress">Especial contraseñas seguras</a><br />
+Imagen | <a href="http://www.flickr.com/photos/nbachiyski/2186228674/">http://www.flickr.com/photos/nbachiyski/2186228674/</a></p>
+
+<p>Artículo extraído de <a href="http://www.genbeta.com">Genbeta</a>.</p>
+:ET

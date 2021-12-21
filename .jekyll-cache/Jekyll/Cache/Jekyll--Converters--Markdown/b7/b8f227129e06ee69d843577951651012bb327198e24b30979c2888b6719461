@@ -1,0 +1,44 @@
+I"�<p>En el entorno del Software Libre muchas empresas o instituciones intentan
+alardear, y también unir su marca, con esa <strong>concepción de software realizado
+por y para las personas</strong>. Desde luego es difícil saber valorar qué empresas
+han aportado más al desarrollo de aplicaciones de software libre.</p>
+
+<p>Utilizando la <strong>herramienta MarkMail</strong>, mediante la cual podemos realizar
+<strong>búsquedas en 8.146 listas de distribución relacionadas con el software
+libre</strong>, se pueden obtener gráficos de participación en proyectos según el
+dominio del email de los remitentes. Desde luego hay, principalmente, dos
+puntos que hacen que este método no sea exacto, pero los resultados que
+arroja, si tal vez no son sorprendentes, si son relevantes.</p>
+
+<ul>
+  <li>Uno de los principales problemas que encuentro a este método es que, lógicamente, <strong>no explora la totalidad de las listas de distribución</strong> de desarrollo de software libre, aunque lógicamente, sí que indexa las más importantes. Y es que 8.146 son muchas fuentes, pero no la totalidad.</li>
+  <li>A la hora de escribir un email a una lista de distribución, <strong>los desarrolladores pueden elegir utilizar su cuenta personal y no la cuenta de correo corporativa</strong> de la empresa a la que pertenece. De forma que sus emails no son contabilizados. De hecho, es bastante común encontrar direcciones de correo de Gmail o Yahoo en las listas.</li>
+</ul>
+
+<p>Los <strong>resultados **que arrojan estas gráficas comparativas pueden ser
+**analizados desde muchos puntos de vista</strong>, observando posibles cambios de
+tendencias de las compañías a partir de un año en concreto. Tal vez, afectadas
+por la crisis económica. Estos son <strong>algunas de las conclusiones</strong> que se
+pueden sacar:</p>
+
+<ul>
+  <li>Parece ser que <strong>Gmail es el servicio de correo electrónico favorito entre los desarrolladores</strong> de software libre, muy por delante de otros como Yahoo o Hotmail. De hecho sigue muy adelantado respecto a la suma de sus dos competidores.</li>
+  <li>Si se comparan las gráficas de Facebook, Google y Twitter, gana el segundo. Pero claro, una empresa con miles de empleados lo tiene fácil en este aspecto. Sí que resulta más interesante cómo la gráfica de <strong>Twitter se eleva por encima de la de Facebook</strong>, y con un crecimiento en los últimos tiempos considerable.</li>
+  <li>Tanto <strong>AMD **como **Intel</strong>, como principales fabricantes de hardware, parecen tener <strong>tendencias claramente ascendentes</strong>. Un paso importante para la comunidad del software libre.</li>
+  <li>Comparar Google con Microsoft, tal y como se suponía, en este sentido no parece tener mucho sentido. La participación del gigante de Redmond, como se esperaba es muy baja; aunque parece que empieza a despuntar en los últimos dos años. En cambio, <strong>Apple si tiene una gráfica que crece de manera importante es ese mismo periodo</strong>, y supera con creces a Microsoft en este aspecto.</li>
+  <li>Tanta guerra entre Sun y Oracle. Idas, venidas y adquisiciones; y un comienzo un poco dubitativo por parte del último parecen observarse en las gráficas. Donde <strong>Oracle no parece alcanzar todavía el nivel que tenía Sun</strong>.</li>
+</ul>
+
+<p>Una última nota, si vas a ver la comparativa que han elaborado con sus
+correspondientes gráficas, ten en cuenta que <strong>en el eje de las ordenadas las
+escalas no son las mismas</strong>, así que mientras que una crece de 500 en 500
+emails al mes, la siguiente puede tener una escala de 1.000 en 1.000 emails al
+mes.</p>
+
+<p>Vía | <a href="http://mbpfernand0.wordpress.com/2010/10/19/%C2%BFque-
+empresas-contribuyen-mas-al-software-libre/">mbpfernand0</a><br />
+Gráficas | <a href="http://redmonk.com/sogrady/2010/10/05/open-source-email-
+traffic/">RedMonk</a></p>
+
+<p>Artículo extraído de <a href="http://www.genbeta.com">Genbeta</a>.</p>
+:ET

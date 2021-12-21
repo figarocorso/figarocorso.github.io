@@ -1,0 +1,32 @@
+I"x<p>Daniel Amatay es el desarrollador de la aplicación Big Brother Camera
+Security, que con su última actualización, <strong>recogía datos anónimos del PIN
+que los usuarios ponían a su aplicación</strong>. Ayer sacaba a la luz algunos de sus
+resultados, y aunque desgraciadamente no resultan sorprendentes, merece la
+pena revisarlos.</p>
+
+<p>En lugar de utilizar el código de bloqueo incluido con iOS, la aplicación
+bloquea la interfaz con otro código y saca una foto de aquellas personas que
+intentan entrar sin tu permiso. De las 204.508 contraseñas recogidas por
+Daniel, 8.884, lo que implica <strong>un 4 por ciento, son “1234”</strong>.</p>
+
+<p>En el gráfico se pueden ver las diez combinaciones más utilizadas como código
+de seguridad. Principalmente se observan las típicas “0000” ó “1111”, pero
+también destacan aquellas que <strong>forman trazos dentro del teclado numérico</strong>,
+como son “2580” ó “0852”. Pero de todo esto podemos sacar algunas
+conclusiones.</p>
+
+<p>Si de verdad quieres proteger tu dispositivo utiliza otros códigos menos
+habituales; y si realmente proteges tus datos personales más preciados con
+semejante PIN, es de esperar que tu contraseña de correo o la de tu empresa
+sea similar. Seguimos sin comprender la <strong>importancia de los códigos de
+seguridad y contraseñas</strong> en nuestra sociedad.</p>
+
+<p>Vía | <a href="http://www.neowin.net/news/1234-is-most-common-ios-passcode-
+according-to-app-developer">NeoWin</a> | <a href="http://amitay.us/blog/files/most_common_iphone_passcodes.php">Blog de Daniel
+Amitay</a><br />
+En Genbeta | <a href="http://www.genbeta.com/genbeta/especial-contrasenas-
+seguras-aplicaciones-para-almacenar-contrasenas-en-windows">Especial Contraseñas seguras: Aplicaciones para almacenar
+contraseñas en Windows</a></p>
+
+<p>Artículo extraído de <a href="http://www.genbeta.com">Genbeta</a>.</p>
+:ET

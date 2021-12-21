@@ -1,47 +1,17 @@
-<!doctype html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
-<head>
-{% include _head.html %}
-</head>
+---
+layout: page
+---
 
-<body class="home" itemscope itemtype="http://schema.org/WebPage">
+{{ content }}
 
-{% include _browser-upgrade.html %}
-
-{% include _navigation.html %}
-
-{% if page.image%}<div class="image-wrap">
-  <img src="/images/{{ page.image}}" alt="{{ page.title }} feature image" itemprop="primaryImageOfPage">
-</div><!-- /.image-wrap -->{% endif %}
-
-<div class="article-author-side">
-  {% include _author-bio.html %}
+<div class="entries-{{ page.entries_layout | default: 'list' }}">
+  {%- if site.plugins contains 'jekyll-paginate' and page.paginate or site.gems contains 'jekyll-paginate' and page.paginate -%}
+    {%- comment -%}
+      Add paginator.posts loop if jekyll-paginate plugin is enabled
+      and page.paginate == true
+    {%- endcomment -%}
+    {% include posts-paginated.html %}
+  {%- else -%}
+    {% include posts-limit.html %}
+  {%- endif -%}
 </div>
-
-<div id="index" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
-    <div id="introduction">
-    <p itemprop="text">
-       En la <a href="/about/">About page</a> podrás encontrar información sobre la razón de ser de esta página. Y porqué no, también un poquito del autor.
-    </p>
-    </div>
-
-    <h3>Textos recopilados hasta ahora</h3>
-    {% for project in site.projects %}
-        <h2 itemprop="headline"><a href="{% if project.external %}{{ project.url }}{% else %}{{ project.url }}" target="_blank{% endif %}" rel="bookmark" title="{{ project.title }}">{{ project.title }}</a></h2>
-        <p itemprop="text">{{ project.description }}</p>
-    {% endfor%}
-</div><!-- /#index -->
-
-<div class="footer-wrap">
-  <footer>
-    {% include _footer.html %}
-  </footer>
-</div><!-- /.footer-wrap -->
-
-{% include _scripts.html %}
-
-</body>
-</html>

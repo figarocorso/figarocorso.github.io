@@ -1,0 +1,58 @@
+I"c<p>Un
+<a href="http://www.elmundo.es/elmundo/2010/10/01/navegante/1285934670.html">artículo</a>
+en la edición digital de El Mundo desvela que en la reciente <strong>conferencia
+Virus Bulletin 2010 se han manifestado por acabar con el formato PDF</strong> y pasar
+a un nuevo estándar.</p>
+
+<p>Una de las razones que esgrimen está referida a la seguridad que ofrece tras
+convertirse en un producto de máxima difusión. Creo que merece la pena aclarar
+algunos aspectos para después poder reflexionar adecuadamente.</p>
+
+<p>PDF es un <strong>formato de almacenamiento de documentos sujeto a un estándar</strong>
+(ISO 32000-1) de forma que, PDF simplemente son una especie de directrices,
+mediante las cuales se organiza la información de nuestros documentos para que
+puedan ser interpretados por aplicaciones que <em>sepan</em> leer documentos PDF.</p>
+
+<p>En este caso, y tal como titulaba Genbeta <a href="http://www.genbeta.com/seguridad/vulnerabilidad-grave-0-day-
+en-adobe-acrobat-y-reader">Vulnerabilidad grave 0-day en Adobe
+Acrobat y Reader</a> el problema, en principio, <strong>viene debido a fallos
+en los programas de Adobe, y no es un problema propiamente dicho del formato
+PDF</strong>.</p>
+
+<p>También hay que decir que recientemente se han incluido <strong>mayores
+posibilidades multimedia y la ejecución de scripts</strong>, lo que ha provocado la
+mayoría de todas las noticias negativas generadas en torno al formato PDF.</p>
+
+<p>Comentar que hay que <strong>dejar de utilizar PDF porque es un producto de máxima
+difusión</strong> es como esgrimir que el sistema operativo Windows no debería ser
+utilizado porque es el más utilizado hoy en día. O aplicado en la vida real,
+rechazar comprar unas zapatillas Nike por el mero hecho de ser líderes en
+ventas (desconozco este dato, pero creo que ejemplifica correctamente).</p>
+
+<p><strong>Tal vez el problema no esté en el formato PDF, sino en las aplicaciones que se utilizan para visualizarlos</strong>. En este caso Adobe es el que debería dar explicaciones y asegurar la calidad de los productos que lanza. Asegurándose de ejecutar scripts firmados convenientemente o permitiendo que el usuario lo decida, explicando los riesgos que ello conlleva.</p>
+
+<p>Pero miremos un poco más allá. Las ventajas en el uso diario del formato PDF
+están claras. Así mismo está claro que hay aspectos de este formato que hoy en
+día están dando problemas. ¿Por qué no evolucionar? Porqué no sacarse del
+sombrero un securePDF o similar que <strong>restrinja algunas de las opciones más
+controvertidas del formato PDF</strong>.</p>
+
+<p>Está claro que, lo primero que hay que hacer, es <strong>evolucionar las
+aplicaciones para que resulten seguras</strong>. El formato PDF tendrá que
+evolucionar, como lo hacen todos los formatos, pero añadir un formato nuevo no
+parece la mejor solución, ya que una de las principales ventajas de PDF es su
+<em>universalidad</em>. El usuario sabe que se verá correctamente en cualquier
+ordenador que tenga un lector.</p>
+
+<p>Viendo los quebraderos de cabeza que dio a los usuarios la llegada de los
+archivos <em>Docx</em>, sacar un nuevo formato que no pueda ser leído por el software
+ya existente sería un pequeño paso atrás. Aunque ya se sabe. <strong>A veces es
+necesario dar un paso atrás para dar un gran salto</strong>. En esas estamos…</p>
+
+<p>Vía | <a href="http://www.kriptopolis.org/seguirdad-pdf">Kriptopolis</a><br />
+En Genbeta | <a href="http://www.genbeta.com/ofimatica/lectores-de-pdf-alternativos-a-adobe-
+reader">Lectores de PDF alternativos a Adobe
+Reader</a></p>
+
+<p>Artículo extraído de <a href="http://www.genbeta.com">Genbeta</a>.</p>
+:ET

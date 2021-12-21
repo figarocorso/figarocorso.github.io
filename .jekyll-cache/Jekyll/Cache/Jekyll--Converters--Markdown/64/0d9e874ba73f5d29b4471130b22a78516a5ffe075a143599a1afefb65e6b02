@@ -1,0 +1,27 @@
+I"f<p>En multitud de artículos me he dejado en evidencia como amante de los atajos
+de teclado y las combinaciones de teclas. Me parecen imprescindibles para
+trabajar con fluidez en el día a día. Pero también es cierto que <strong>el ratón
+sigue estando ahí, y sigue siendo un método de comunicación imprescindible
+entre nosotros y el ordenador</strong>.</p>
+
+<p>Con <strong>Brightside podremos ampliar las funcionalidades de nuestro gestor de
+ventanas</strong>. Activando las diferentes esquinas de nuestro escritorio, y sobre
+todo, pudiendo <strong>pasar de un escritorio al adyacente como si tuviéramos varios
+monitores</strong>, moviendo el ratón hacia el lateral de la pantalla.</p>
+
+<p>Ya que está en los repositorios de Ubuntu, podremos utilizar el Centro de
+Software de Ubuntu (o la orden <strong><em>sudo apt-get install brightside</em> en la
+terminal</strong>). Eso sí, para configurarlo tendremos que utilizar el comando
+<em>brightside-properties</em> en la terminal. Es una aplicación sencilla y ligera.</p>
+
+<p>Por último, si os ha gustado la aplicación, lo mejor es <strong>hacer que se inicie
+a la vez que el sistema operativo</strong>. Para ello tendremos que ir a
+<em>Aplicaciones al Inicio</em> y crear una nueva que ejecute <em>/usr/bin/brightside</em>.
+<strong>Merece la pena probarla</strong>, aunque tened cuidado cuando utilicéis una barra
+de desplazamiento a pantalla completa…</p>
+
+<p>Vía | <a href="http://www.atareao.es/ubuntu/conociendo-ubuntu/ahorrando-
+kilometros-de-raton-con-brightside-en-ubuntu/">Atareao</a></p>
+
+<p>Artículo extraído de <a href="http://www.genbeta.com">Genbeta</a>.</p>
+:ET

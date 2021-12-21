@@ -1,0 +1,39 @@
+I"�<p>Una de las <strong>muchas guerras abiertas en el tema del software</strong> es la presente
+entre los amantes de las novedades de Microsoft y aquellos que creen en el
+software libre y de código abierto. Los primeros defienden que si algo ocurre
+tienen el respaldo de una gran compañía detrás (entre otras razones); mientras
+que los segundos se involucran dentro de un modo de pensar (o filosofía)
+totalmente diferente.</p>
+
+<p>Pero como se suele decir, <em>la realidad supera a la ficción</em>, y es que
+<strong>Microsoft es la quinta compañía que más ha contribuido al código del kernel
+de Linux</strong>. Y lo hace sólo por detrás de compañías que han unido su nombre a
+este proyecto como Red Hat, Intel, Novell e IBM.</p>
+
+<p>Y es cierto que esa colaboración de Microsoft no parece ser totalmente
+desinteresada, y desde luego, tampoco ha sido fácil. Y no ha sido una
+colaboración fácil porque dentro de la comunidad de Linux <strong>el código de
+Microsoft ha generado mucha controversia</strong>.</p>
+
+<p>Resulta divertido ver como una empresa que se dedica principalmente al
+desarrollo de software como <strong>Microsoft, se ve obligada a mejorar su código</strong>
+cuando intenta contribuir dentro de un proyecto de código libre y abierto.
+Todavía más curioso es ver que la propia comunidad de desarrolladores ha
+ayudado a realizar esas mejoras.</p>
+
+<p>Pero como había comentado, la ayuda del gigante de Redmon parece tener un
+objetivo claro. Y es que el código que han desarrollado ha ido enfocado a la
+implantación de un <strong>driver para su sistema de virtualización Hyper-V</strong>.</p>
+
+<p>Parece que Microsoft ha hecho este movimiento con <strong>una clara dirección</strong>. Ya
+que desde el punto de vista de este sistema de virtualización, los sistemas
+operativos Linux serían en este caso virtualizaciones auxiliares al sistema
+operativo principal, en este caso traído de la mano de Microsoft.</p>
+
+<p>Vía | <a href="http://www.dwheeler.com/blog/2011/07/14/#microsoft-
+linux-author">David A. Wheeler</a><br />
+Imagen |
+<a href="http://es.wikipedia.org/wiki/Archivo:Viridian_Architecture.svg">Wikipedia</a></p>
+
+<p>Artículo extraído de <a href="http://www.genbeta.com">Genbeta</a>.</p>
+:ET

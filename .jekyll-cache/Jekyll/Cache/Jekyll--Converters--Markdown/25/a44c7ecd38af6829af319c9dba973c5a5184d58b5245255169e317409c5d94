@@ -1,0 +1,233 @@
+I"�9<p>Mi primera experiencia con un sistema GNU/Linux se remonta ya bastantes años
+atrás. Alguien me había comentado que existían alternativas a Windows (que por
+aquel entonces venía a nosotros con Windows ME) y <strong>una noche en vela
+significó tener instalado</strong> en mi ordenador, y funcionando, un flamante y
+nuevo <strong>Mandrake</strong>. Además de una agradable sensación de triunfo, mi <em>yo del
+pasado</em> pensó que <em>a esto de Linux</em> le falta un poquito para que sea fácil de
+utilizar.</p>
+
+<p>Desde entonces ya sea en trabajos, estudios o en casa ya <strong>han sido muchas
+distribuciones las que he probado</strong> (y alguna de ellas simplemente para ver
+cómo era, la curiosidad mató al gato, suelen decir). Recuerdo con agrado
+Mandrake 10 y los primeros pasitos de Ubuntu, las peleas para activar los
+efectos de Compiz, los temas Emerald y la parada cardiaca cuando no arrancaban
+las X. Pero si algo sigo manteniendo es esa sensación que tenía hace más de 10
+años: <strong><em>a esto de Linux le falta un poquito</em></strong>.</p>
+
+<p>Por eso, después de darle unas cuantas vueltas he pensado que había cinco
+pilares que siguen fallando para que las distribuciones GNU/Linux puedan
+llegar al <em>público en general</em>. Todas ellas se pueden rebatir, pero creo que
+<strong>mirándolas con unas gafas de objetividad son grandes problemas que realmente
+están ahí</strong>, sobre la mesa.</p>
+
+<h2 id="1---miedo-al-cambio">1 - Miedo al cambio</h2>
+
+<p><img src="http://img.genbeta.com/2011/12/evolucion-ser-humano.jpg" alt="Evolución del ser humano hacia el uso del
+ordenador" /></p>
+
+<p>No es un problema de ninguna distribución GNU/Linux, sino que es un problema
+de esas personas a las que debería llegar y convencer. Pero es un problema
+importante que no se puede obviar. Si a nadie nos gusta que nos cambien de
+sitio la Súper Barra, Unity, el Dock o las barras de herramientas, desde luego
+plantearnos <strong>un cambio de sistema operativo ya cuenta con nuestra negativa
+como primera respuesta</strong>. En este tema, existe una presunción de culpabilidad,
+una oposición al cambio inherente al ser humano.</p>
+
+<p>Pero es que este miedo al cambio está muy arraigado en nuestra sociedad, y
+mucho más en el ámbito de la informática. De hecho una de las frases favoritas
+de un administrador de sistemas es: <strong><em>si algo funciona, no lo toques</em></strong>. Lo
+triste es que muchas veces lleva toda la razón, pero eso es otro cantar. Aquí
+venía a hablar de sistemas operativos.</p>
+
+<p>Hay personas que hemos trabajado con muchos sistemas operativos (de hecho no
+tantas personas como pensamos conocen el concepto de sistema operativo) y
+tenemos una cierta flexibilidad mental para adaptarnos a un cambio de entorno;
+pero la realidad es que somos minoría, la gran mayoría llevan trabajando
+<em>desde siempre</em> con un entorno y no quieren cambiar. Y si esto es así, las
+estadísticas son claras: la mayoría de las personas usan Windows y no quieren
+cambiar.</p>
+
+<p>Pero muchas personas han vencido este miedo al cambio, a lo diferente, a lo
+desconocido en el tema de sistemas operativos. Ya todos conocemos la palabra
+<em>switcher</em> para definir a aquella persona que viaja de un sistema operativo a
+Mac OS (hoy en día ya OS X). Pero el cambio a <strong>GNU/Linux no está tan bien
+visto, en la cultura popular parece ser algo exclusivo</strong> <em>para hackers</em>,
+<em>informáticos</em> y/o <em>gente rara</em>. Es una pena, pero es una realidad.</p>
+
+<h2 id="2---la-instalación-cómo-la-evitamos">2 - La instalación: ¿cómo la evitamos?</h2>
+
+<p><img src="http://img.genbeta.com/2011/12/instalacion-
+fedora.jpg" alt="Instalación de Fedora" /></p>
+
+<p>¿Cuál es el porcentaje de personas que utilizan un ordenador pero no sabrían,
+o no querrían, o se bloquearían ante la instalación de cualquier sistema
+operativo? Es cierto, después de aquella noche tratando de instalar Mandrake
+<strong>las cosas han cambiado mucho, y para mejor</strong>. Si no quieres ya nadie te
+habla de particiones de intercambio, sistemas de ficheros o puntos de montaje.</p>
+
+<p>Pero ya hay que aprender a arrancar desde un CD/DVD/USB; por lo visto algo al
+alcance de unos pocos privilegiados. La instalación de un sistema operativo es
+algo que la propia definición de sistema operativo dice que <strong>debería ser
+evitada para el usuario final</strong> de un ordenador o computadora. Esto es así, y
+aunque suene un poco totalitario, creo que nadie debería opinar lo contrario.</p>
+
+<p>Apple desde un principio lo vio claro, sus ordenadores iban con sus sistemas
+operativos, olvídate de tener que aprender a instalar, nuestro sistema
+operativo te lo vendemos con el ordenador. Todo son facilidades. Windows
+también lo tiene fácil, el resto de ordenadores vienen instalados con la
+versión del momento… ¿todos? No, pero <strong>date una vuelta por tu gran superficie
+favorita y echa cuentas</strong>. Quitando la zona Apple, algun Android y puede que
+haya alguno con Ubuntu instalado por defecto, todos llevan el sistema
+operativo de Microsoft.</p>
+
+<p>Honestamente este es el mayor problema que veo para que el uso de un sistema
+operativo GNU/Linux se empiece a utilizar de forma generalizada. Como
+comentaba en el punto anterior <strong>una persona, por ciencia infusa, no va a
+cambiar de sistema operativo</strong>. O se lo vendes MUY bien, o le obligas a
+hacerlo. Pero en este caso, esa persona lleva la voz cantante y su <em>zona de
+confort</em> va a la tienda y pide un ordenador con Windows (pero que no sea el
+Vista, que ese no funciona bien).</p>
+
+<h2 id="3---el-concepto-de-switcher-pero-aplicado-a-gnulinux">3 - El concepto de switcher, pero aplicado a GNU/Linux</h2>
+
+<p><img src="http://img.genbeta.com/2011/12/centro-software-ubuntu.jpg" alt="Centro de Software de Ubuntu: una bendición para nuevos
+usuarios" /></p>
+
+<p>Este punto no puedo empezarlo sino con un punto fuerte de sistemas operativos
+como Ubuntu. Realmente se trata de <strong>un sistema operativo <em>ready to use</em></strong>. Es
+decir, una vez que el sistema operativo se ha instalado puedes empezar a
+utilizarlo sin necesidad de instalar nuevos programas. El perfil de usuario
+actual de GNU/Linux seguro que instala unos cuantos programas (Shutter, VLC,
+Chromium, …), pero un usuario medio no necesita instalar nada para utilizar
+su ordenador a su cien por cien.</p>
+
+<p>Es cierto, una suite ofimática, un programa para reproducción de vídeo, otro
+para escuchar música, un navegador y un programa para ver las fotos que hemos
+sacado en la última escapada. Ciertamente esas son las necesidades normales, y
+eso es lo que viene con una distribución de hoy en día. Pero entonces, ¿cuál
+es el problema? Una frase va a resumir todo: <em>muy bonito, pero ahora ¿cómo
+entro a Google?</em>. Y después de que un pobre e inocente gatito haya sido
+sacrificado, seguramente tendrá que olvidarse de la <em>“e” azul</em> y encontrarse
+con Mozilla Firefox.</p>
+
+<p>Pero <strong>la curva de aprendizaje no sólo se restringe a aprenderse el nuevo
+nombre de las aplicaciones</strong>, sino que también tendrá que aprender a
+utilizarlas, porque todo es parecido, pero no igual. Después de pelearse con
+la nueva interfaz Ribbon de Office, volver a LibreOffice, lo cual casi es una
+bendición, pero las cosas no están en el mismo sitio. Y no sólo eso, cuando
+trabajas en casa y llevas el documento a la oficina te encuentras con la
+desagradable sorpresa de que el archivo no lo puedes abrir.</p>
+
+<p>Dejando de lado el periodo de adaptación a grandes programas como Firefox,
+Banshee o el propio LibreOffice, tarde o temprano el usuario querrá instalar
+algo nuevo. Afortunadamente inicativas como el Centro de Software de Ubuntu es
+una bendición (ya lo comentábamos cuando hablábamos sobre los mercados de
+aplicaciones). Buscar e instalar, dicho y hecho. Pero no todo podía ser tan
+bonito. El uso de Wine no es una opción, y hay <strong>muchas aplicaciones y sobre
+todo juegos que no podremos instalar</strong> en nuestro nuevo sistema operativo:
+<em>¿por qué mi hijo no puede instalar el nuevo Call of Duty</em></p>
+
+<h2 id="4---en-una-palabra-drivers">4 - En una palabra: Drivers</h2>
+
+<p><img src="http://img.genbeta.com/2011/12/drivers-graficas-
+linux.jpg" alt="La ausencia de drivers y compatibilidades con otros productos es un
+problemas de GNU/Linux" /></p>
+
+<p>En estos diez años de historia en los que he estado probando diferentes
+distribuciones la mejora ha sido considerable. Y, de nuevo, no es culpa de los
+desarrolladores de los entornos GNU/Linux, sino de las compañías fabricantes
+del hardware que sólo lanzan sus drivers para Windows y Mac. La llegada de los
+<strong>drivers para tarjetas gráficas ATI y nVidia ha sido un gran paso adelante</strong>,
+y la mejora y buen funcionamiento de los mismos un gran salto.</p>
+
+<p>Pero cómprate un buen ratón con un par botones auxiliares sin los que ya no
+puedes vivir (como es mi caso) y prepárate para volverte loco intentado que
+funcionen como tu quieres. ¿Tan difícil es que cuando le de a este botoncito
+sea como si le hubiera dado a la tecla <em>retroceso</em>? Como ya he comentado, no
+debería volver mi ira hacia el sistema operativo, sino hacia la compañía que
+ha fabricado mi ratón, sino hacia todas esas empresas que llenan las
+entanterías de las tiendas de las tiendas y zonas de grandes superficies de
+informática. Es una realidad, <strong>hay mucho periférico que no funciona al cien
+por cien en entornos GNU/Linux</strong>, y como tal, es un problema.</p>
+
+<p>Problemas con las <strong>impresoras</strong>, <strong>ratones y teclados</strong> que cuesten algo más
+de 10 euros cada uno, <strong>tabletas digitalizadoras</strong>, software de copias de
+seguridad que vienen incluidos con muchos discos duros externos, y <strong>un largo
+etcétera</strong> que se puede añadir a la lista. Para que las empresas desarrollen
+sus drivers para Linux necesitan que vayan destinados a un gran público, y
+para ello entornos Linux necesitan muchos usuarios (muchísimos, ya que cada
+periférico lo utiliza un porcentaje pequeño de usuarios), pero sin drivers el
+cambio es un problema.</p>
+
+<h2 id="5---siempre-acaba-habiendo-problemas-la-consola">5 - Siempre acaba habiendo problemas: la consola</h2>
+
+<p><img src="http://img.genbeta.com/2011/12/terminal-linux.jpg" alt="Terminal de Linux" /></p>
+
+<p>Dejadme primero dar mi opinión, que luego entraré con la realidad. Mi opinión,
+desde siempre, ha sido que <strong>la consola debería ser erradicada</strong>, quemada,
+incinerada, aplastada y después desintegrada, y si aún quedara algún resto,
+lanzarlo al espacio exterior para que pase la eternidad viajando y que cuando
+otra civilización lo encuentre, se caigan al suelo de la risa. A mi me encanta
+la consola, la uso constantemente, incluso en Windows y OS X. Me parece un
+buen recurso y muchas veces más rápido y eficaz que utilizar las ventanitas.</p>
+
+<p>Pero también me parece un vestigio de los años ochenta. Tal vez haya personas
+que añoren trabajar desde una terminal, o incluso con tarjetas perforadas,
+pero la realidad es diferente. <strong>Abrir la terminal debería ser un gesto
+reservado a unas pocas</strong> personas que tal vez busquen una función más
+específica del sistema operativo. Tal vez sólo deba estar reservado a
+administradores de sistemas, y espero que en un futuro no muy lejano ni a
+ellos. Para el resto de las personas que usan un ordenador, el peor icono que
+pueden ver es el de la consola o terminal.</p>
+
+<p>Mi experiencia personal con cualquier distribución es que, <strong>tarde o temprano,
+acaba apareciendo un problema</strong>. Drivers, Flash, Java o una partición que no
+quiere arrancar automáticamente (y esto me pasó con la última de Ubuntu). El
+algoritmo para solucionar un problema informático normalmente suele ser muy
+fácil: buscarlo en Google. Pues bien, si nos ponemos un sombrero de
+objetividad para leer las respuestas que se plantean en los diversos foros,
+siempre hay varias soluciones, muchas veces bastante diferentes, pero en la
+mayoría de los casos con órdenes de consola que, a veces, no funcionan porque
+la respuesta es de hace 5 años.</p>
+
+<p>Si hay algún problema con otros sistemas operativos la baraja de respuestas es
+sencilla: reinicia, pasa un antivirus, reinstala la aplicación o prueba a
+crear otro usuario. Pues bien, en ninguno de ellos el usuario tiene que abrir
+la dichosa terminal. ¡Pero si en la terminal no puedes utilizar <em>control + c</em>
+o <em>control + v</em>! Ahora que me las había aprendido, me tengo que aprender otras
+(aunque sea con la tecla mayúsculas). Un sistema operativo intenta abstraer la
+complejidad de utilizar un hardware complejo, <strong>utilizar la terminal es un
+paso atrás</strong>.</p>
+
+<h2 id="cinco-problemas-diferentes-causas">Cinco problemas, diferentes causas</h2>
+
+<p>Como habrás podido comprender si has leído hasta aquí, todos estos problemas
+orbitan en torno a la idea de hacer que un sistema operativo GNU/Linux se
+convierta en el más utilizado del mercado. Personalmente opino que
+restringiendo la libertad del usuario y favoreciendo las relaciones con las
+empresas fabricantes de hardware ninguna persona debería tener demasiados
+problemas para cambiar. <strong>No hay ninguna necesidad que una distribución de hoy
+en día no cubra</strong>.</p>
+
+<p>Si estamos ante un buen sistema operativo, con sus pegas, pero al fin y al
+cabo un buen sistema operativo, seguramente una de las cosas que necesite sean
+<strong>buenas campañas de marketing</strong>, de forma que cuando alguien oiga hablar de
+Ubuntu (por ejemplo) sepa lo que es, y vea que también es un producto
+atractivo.</p>
+
+<p>¿Por qué no ver <strong>anuncios de distribuciones GNU/Linux en la televisión,
+prensa o radio</strong>? Otros sistemas operativos hace mucho que aparecen y han
+creado una buena imagen de marca, si el <em>gran público</em> no conoce otras
+alternativas, si no conoce las ventajas, seguro que no va a dar su brazo a
+torcer para iniciar el cambio.</p>
+
+<p>En Genbeta | <a href="http://www.genbeta.com/paso-a-paso/la-terminal-de-linux-no-muerde-i
+-uso-basico-de-la-terminal">La terminal de Linux no muerde (I): uso básico de la
+terminal</a> | <a href="http://www.genbeta.com/linux/ubuntu-1204-lts-precise-pangolin-
+primera-toma-de-contacto-y-calendario-de-lanzamiento">Ubuntu 12.04 LTS Precise Pangolin. Primera toma
+de contacto y calendario de
+lanzamiento</a><br />
+Imagen | <a href="http://www.flickr.com/photos/55524309@N05/5519745603/">Evolución</a></p>
+
+<p>Artículo extraído de <a href="http://www.genbeta.com">Genbeta</a>.</p>
+:ET

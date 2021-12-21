@@ -1,0 +1,29 @@
+I"�<p>Escribir un email no siempre es la forma más segura de enviar información.
+Desde luego hoy en día la mayoría de servicios de correo utilizan el protocolo
+HTTPS lo que garantiza intimidad durante la conexión, pero como suele ocurrir
+en demasiadas ocasiones <strong>el error más común suele ser el humano</strong>.</p>
+
+<p>Y es que al enviar un correo electrónico no dependes de uno mismo, sino de la
+persona que lo recibe. Ese email confidencial o con <strong>información sensible
+puede permanecer en el correo del destinatario durante eones</strong>, y puede que
+únicamente esté protegido por una contraseña como <em>0000</em>, _1234 _o el nombre
+de su hijo. Si ya ha sentido esa sensación o si te acabas de dar cuenta ahora
+del hecho, seguro que te gustará conocer One Time Secret.</p>
+
+<p>Un servicio (todavía en fase beta) que básicamente convierte un texto en un
+enlace que podrás enviar por correo electrónico. Así no solucionamos nada,
+pero todo cambia si <strong>el enlace deja de funcionar después de que es leído por
+primera vez</strong>. Además One Time Secret nos da una dirección donde podremos ver
+si se ha consultado ya el mensaje o no.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Enlace</td>
+      <td><a href="https://onetimesecret.com/">One Time Secret</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Artículo extraído de <a href="http://www.genbeta.com">Genbeta</a>.</p>
+:ET

@@ -1,0 +1,62 @@
+I"�<p>Se ha anunciado la versión 2.0.0 de este magnífico <strong>software gratuito para
+monitorizar y controlar las diferentes características de nuestra gráfica
+llamado MSI Afterburner</strong>. En los ordenadores personales que adquirimos hoy en
+día la mayoría de los componentes no sufren una gran carga de trabajo. De
+hecho, con un uso que se podría llamar normal (ofimática, reproducción de
+música y navegación web) <strong>es raro encontrar el procesador por encima del 20%
+de carga de trabajo</strong>. En esas mismas condiciones encontramos a la mayoría de
+los componentes principales (exceptuando, tal vez, la memoria RAM).</p>
+
+<p>Pero también hay que reconocer que parte del <em>uso normal</em> de un ordenador
+personal hoy en día se basa en los juegos y en la reproducción y creación de
+contenidos multimedia. Y es ahí donde verdaderamente uno se puede dar cuenta
+de las ventajas y carencias del equipo que ha adquirido. Pero aunque tu
+gráfica no de el nivel para mover algún juego, no todo está perdido. <strong>Con MSI
+Afterburner podemos ampliar el rendimiento de la tarjeta gráfica subiendo la
+velocidad del núcleo</strong>, e incluso, con la nueva versión, el voltaje del mismo.</p>
+
+<p>A continuación encontramos una captura de la herramienta de <strong>monitorización
+de carga de la tarjeta gráfica al encender el Starcraft II</strong> y arrancar una
+partida.</p>
+
+<p><img src="http://img.genbeta.com/2010/09
+/msi-afterburner-interfaz-completa.jpg" alt="Interfaz central del MSI Afterburner 2.0.0" /></p>
+
+<p>En esta pantalla denominada <em>Hardware Monitor</em> podemos observar visualmente el
+estado de nuestra gráfica y <strong>controlar principalmente la temperatura del
+procesador de nuestra gráfica</strong>. ¿Por qué es tan importante controlar la
+temperatura? Porque cuando se suben las prestaciones de una tarjeta gráfica,
+como suele pasar siempre con los componentes de un ordenador, sube la
+temperatura de la misma. Lo cual,** si no es controlado puede acabar con un
+repentino olor a plástico quemado** y una visita a la tienda de informática
+más cercana.</p>
+
+<p>MSI Afterburner 2.0.0 permite conocer tanto el modelo de la gráfica como la
+versión del driver instalado. Además de permitir controlar diferentes valores
+para <em>overclockear</em> nuestra gráfica. Pero una de las principales novedades de
+esta nueva versión es la capacidad de <strong>cambiar el voltaje del chip para
+elevar las prestaciones de la gráfica</strong>, si la misma lo permite. Esto
+combinado a la posibilidad de elevar la velocidad de los difentes componentes
+nos permite mejorar las prestaciones, cuidando, eso sí, la temperatura de
+nuestra gráfica modificando la velocidad del ventilador.</p>
+
+<p><img src="http://img.genbeta.com/2010/09/msi-afterburner-temp-
+taskbar.jpg" alt="Temperatura de la tarjeta gráfica en el área de
+notificación" />Hasta aquí sólo hemos hablado de mejorar el rendimiento de una
+única tarjeta gráfica, pero <strong>cada vez es más normal ver equipos con varias
+tarjetas gráficas utilizando la tecnología CrossFire</strong>. Para este tipo de
+computadoras MSI Afterburner incorpora una opción para <strong>sincronizar los
+diferentes cambios entre todas las gráficas</strong>. Una gran variedad de opciones
+como mostrar la temperatura de la tarjeta mientras juegas, en una esquina de
+la pantalla (o en el <strong>display de los teclados Logitech</strong>), diferentes
+perfiles o cambios en la interfaz. <strong>Todo el trabajo se simplifica con una
+traducción <em>decente</em> al castellano y unas buenas ayudas</strong> (idénticas a las que
+encontramos en el manual de usuario).</p>
+
+<p>Vía | <a href="http://blog.pccomponentes.com/disponible-para-
+descarga-el-nuevo-msi-afterburner-2-0-0/">PcComponentes Blog</a><br />
+Descarga | <a href="http://event.msi.com/vga/afterburner/download.htm">MSI
+Afterburner</a></p>
+
+<p>Artículo extraído de <a href="http://www.genbeta.com">Genbeta</a>.</p>
+:ET
