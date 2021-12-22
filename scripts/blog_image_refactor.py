@@ -5,7 +5,7 @@ import os
 
 
 ROOT_FOLDER = '/home/mjulian/coding/figarocorso.github.io/'
-POST_FOLDER = ROOT_FOLDER + '_posts/day-by-day/'
+POST_FOLDER = ROOT_FOLDER + '_day_by_day/'
 IMAGE_FOLDER = ROOT_FOLDER + 'images/blog/'
 
 

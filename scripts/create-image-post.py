@@ -10,7 +10,7 @@ BIG_SIZE = (800, 800)
 BLOG_PATH = "/home/figarocorso/coding/figarocorso.github.io"
 IMAGE_PATH = "/images/blog/{}"
 THUMBNAILS_PATH = "/images/blog/thumbnails/{}"
-POSTS_PATH = "/_posts/day-by-day/{}"
+POSTS_PATH = "/_day_by_day/{}"
 
 JPG_EXTENSION = "jpg"
 
@@ -28,8 +28,8 @@ def get_image_info(parameters):
 
 
 def ask_user_for_post_information():
-    date = raw_input("Date of the post (2017-08-27 format): ")
-    title = raw_input("Post title: ")
+    date = input("Date of the post (2017-08-27 format): ")
+    title = input("Post title: ")
     return date, title
 
 
@@ -60,11 +60,12 @@ def create_post_file(date, title, post_filename, image_name):
 def get_post_text(date, title, image_name):
     post_text = '---\n'
     post_text += 'layout: post\n'
-    post_text += 'categories: day-by-day\n'
+    post_text += 'category: day-by-day\n'
     post_text += "date: {}\n".format(date)
     post_text += "title: {}\n".format(title)
-    post_text += "image: {}\n".format(THUMBNAILS_PATH.format(image_name))
-    post_text += "fullimage: {}\n".format(IMAGE_PATH.format(image_name))
+    post_text += "image:\n"
+    post_text += "  thumbnail: {}\n".format(THUMBNAILS_PATH.format(image_name))
+    post_text += "  path: {}\n".format(IMAGE_PATH.format(image_name))
     post_text += '---'
 
     return post_text
