@@ -4,8 +4,6 @@ permalink: /archive
 landing_page: true
 ---
 
-# My writings archive
-
 Since my memory is able to recall I have been attached to a book or I have been involved into some kind of writing or journalism project. Maybe once I decided to jump towards a quite more technical carreer reading won the battle agains producing writings. For the future me (who else could be cusious about this?) I have collected quite a bunch of my writings inside a single place.
 
 * **[Genbeta articles](/genbeta)**

@@ -171,12 +171,18 @@ author:
     - title: Github
       url: https://github.com/figarocorso/
       icon: fab fa-github-square
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/migueljulian/
+      icon: fab fa-linkedin
     - title: Last.fm
       url: https://www.last.fm/user/figarocorso
       icon: fab fa-lastfm-square
 
 # Footer Links
-# footer_links:
-#   - title: Feed
-#     url: atom.xml
-#     icon: fas fa-rss-square
+footer_links:
+  - title: Github
+    url: https://github.com/figarocorso/
+    icon: fab fa-github-square
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/migueljulian/
+    icon: fab fa-linkedin
