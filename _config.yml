@@ -95,6 +95,9 @@ collections:
   dosidiotas:
     output: true
     permalink: /:collection/:path
+  bookshelf:
+    output: true
+    permalink: /:collection/:path
 
 # Front Matter Defaults
 defaults:
@@ -144,6 +147,13 @@ defaults:
   - scope:
       path: "_dosidiotas"
       type: dosidiotas
+    values:
+      layout: post
+      share: true
+  # Bookshelf defaults
+  - scope:
+      path: "_bookshelf"
+      type: bookshelf
     values:
       layout: post
       share: true

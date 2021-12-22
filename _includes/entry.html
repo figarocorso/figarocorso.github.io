@@ -29,10 +29,15 @@
       {% endif %}
     </div>
   {% endunless %}
+
   {% if site.read_time or entry.date and page.layout != 'collection' %}
     <footer class="entry-meta">
-      {% if site.read_time %}{% include read-time.html %}{% endif %}
-      {% if entry.date %}{% include entry-date.html %}{% endif %}
+      {% if page.is_bookshelf == true %}
+        {% include bookshelf-details.html %}
+      {% else %}
+        {% if site.read_time %}{% include read-time.html %}{% endif %}
+        {% if entry.date %}{% include entry-date.html %}{% endif %}
+      {% endif %}
     </footer>
   {% endif %}
 </article>
