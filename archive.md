@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /archive
+permalink: /archive/
 landing_page: true
 ---
 
