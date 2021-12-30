@@ -56,6 +56,10 @@
     text-align: left;
 }
 
+.reveal .p-2 {
+    padding-left: 2em;
+}
+
 div.centered-list {
     display: inline-block;
     text-align: left;
