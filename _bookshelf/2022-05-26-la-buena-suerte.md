@@ -1,0 +1,12 @@
+---
+layout: post
+category: bookshelf
+title: "La buena suerte"
+author: "Rosa Montero"
+when: Mayo 2022
+date: 2022-05-26
+audiobook: True
+image:
+  thumbnail: /images/bookshelf/labuenasuerte.jpg
+  path: /images/bookshelf/labuenasuerte.jpg
+---
