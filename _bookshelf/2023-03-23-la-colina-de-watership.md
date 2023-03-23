@@ -1,0 +1,12 @@
+---
+layout: post
+category: bookshelf
+title: "La colina de Watership"
+author: "Richard Adams"
+when: Marzo 2023
+date: 2023-03-23
+audiobook: True
+image:
+  thumbnail: /images/bookshelf/lacolinadewatership.jpg
+  path: /images/bookshelf/lacolinadewatership.jpg
+---
