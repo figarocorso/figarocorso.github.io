@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/28440811-cien-a-os-de-soledad-de-gabriel-garc-a-m-rquez-gu-a-de-lectura
 title: "Cien años de soledad"
 author: "Gabriel García Márquez"
 when: 2016

@@ -1,7 +1,7 @@
 ---
 layout: post
 category: bookshelf
-link: 
+link: https://www.goodreads.com/book/show/56595265-relatos-de-perros
 title: "Relatos de perros"
 author: "Varios autores japoneses"
 when: Enero 2021

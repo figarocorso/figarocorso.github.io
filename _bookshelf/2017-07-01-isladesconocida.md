@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/2418915.El_cuento_de_la_isla_desconocida
 title: "El cuento de la isla desconocida"
 author: "José Saramago"
 when: Julio 2017

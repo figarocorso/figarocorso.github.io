@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/7934296-la-voz-de-las-espadas
 title: "La voz de las espadas"
 author: "Joe Abercrombie"
 when: Mayo 2017

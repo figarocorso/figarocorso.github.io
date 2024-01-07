@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/6432863-antes-de-que-los-cuelguen
 title: "Antes de que los cuelguen"
 author: "Joe Abercrombie"
 when: Julio 2017

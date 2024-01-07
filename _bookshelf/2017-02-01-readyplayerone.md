@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/26107311-summary-of-ready-player-one
 title: "Ready Player One"
 author: "Ernest Cline"
 when: Febrero 2017
