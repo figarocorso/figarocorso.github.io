@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/39940533-el-principito-de-antoine-de-saint-exup-ry-una-lectura-filos-fica
 title: "El principito"
 author: "Antoine de Saint-Exupéry"
 when: Abril 2020

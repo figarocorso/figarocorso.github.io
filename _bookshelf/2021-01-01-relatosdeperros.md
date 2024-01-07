@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: 
 title: "Relatos de perros"
 author: "Varios autores japoneses"
 when: Enero 2021

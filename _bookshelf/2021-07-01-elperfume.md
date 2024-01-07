@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/337.El_perfume
 title: "El perfume. Historia de un asesino"
 author: "Patrick Süskind"
 when: Julio 2021

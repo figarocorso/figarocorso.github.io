@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/58956328-por-si-las-voces-vuelven
 title: "Por si las voces vuelven"
 author: "Ángel Martín"
 when: Febrero 2022

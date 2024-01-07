@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: 
 title: "Cómo criar hijos curiosos"
 author: "Nicholas Provenzano"
 when: Mayo 2023

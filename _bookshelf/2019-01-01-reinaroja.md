@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/41743264-reina-roja
 title: "Reina roja"
 author: "Juan Gómez-Jurado"
 when: 2019

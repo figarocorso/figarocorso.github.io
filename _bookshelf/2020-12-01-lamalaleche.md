@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/55927254-la-mala-leche
 title: "La mala leche"
 author: "Henar Álvarez"
 when: Diciembre 2020

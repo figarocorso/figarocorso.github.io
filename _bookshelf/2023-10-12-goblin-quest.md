@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/29916575-goblin-quest
 title: "Goblin Quest"
 author: "Grant Howitt"
 when: Octubre 2023

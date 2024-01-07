@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/16300020-la-verdad-sobre-el-caso-savolta-de-eduardo-mendoza
 title: "La verdad sobre el caso Savolta"
 author: "Eduardo Mendoza"
 when: ABril 2023

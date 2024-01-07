@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/58153.Segunda_Fundaci_n
 title: "Segunda Fundación"
 author: "Isaac Asimov"
 when: Mayo 2023

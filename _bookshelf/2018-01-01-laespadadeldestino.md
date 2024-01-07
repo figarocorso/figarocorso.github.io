@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/9036325-la-espada-del-destino
 title: "La espada del destino"
 author: "Andrzej Sapkowski"
 when: 2018

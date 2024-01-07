@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/60489665-la-conquista-del-polo-sur
 title: "La conquista del polo sur"
 author: "Stefan Zweig"
 when: Mayo 2022

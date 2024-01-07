@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/61761303-resumen-del-libro-tr-guese-ese-sapo-de-brian-tracy
 title: "Tráguese ese sapo"
 author: "Brian Tracy"
 when: Agosto 2023

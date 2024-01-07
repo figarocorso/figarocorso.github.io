@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/46271224-lgtb-para-principiantes
 title: "LGTB para principiantes"
 author: "Daniel Valero"
 when: Agosto 2023

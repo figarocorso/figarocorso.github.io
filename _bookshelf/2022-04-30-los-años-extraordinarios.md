@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/57895364-los-a-os-extraordinarios
 title: "Los Años Extraordinarios"
 author: "Rodrigo Cortés"
 when: Abril 2022

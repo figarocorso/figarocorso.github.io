@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/38322969-mapas-mentales
 title: "Mapas Mentales"
 author: "Raimon Samsó"
 when: Diciembre 2023

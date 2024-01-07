@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/29004593-un-cuento-oscuro
 title: "Un cuento oscuro"
 author: "Naomi Novik"
 when: Agosto 2022

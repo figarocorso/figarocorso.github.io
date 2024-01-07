@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/54819562-la-buena-suerte
 title: "La buena suerte"
 author: "Rosa Montero"
 when: Mayo 2022

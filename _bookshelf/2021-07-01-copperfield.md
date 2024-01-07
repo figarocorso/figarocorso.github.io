@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/492893.David_Copperfield
 title: "David Copperfield"
 author: "Charles Dickens"
 when: Julio 2021

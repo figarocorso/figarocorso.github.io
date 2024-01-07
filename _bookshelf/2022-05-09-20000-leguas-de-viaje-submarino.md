@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/31199237-20-000-leguas-de-viaje-submarino
 title: "20000 leguas de viaje submarino"
 author: "Jules Verne"
 when: Mayo 2022

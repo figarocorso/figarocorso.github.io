@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: 
 title: "Todo vuelve"
 author: "Juan Gómez-Jurado"
 when: Noviembre 2023

@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/53694.Fundaci_n_e_Imperio
 title: "Fundación e Imperio"
 author: "Isaac Asimov"
 when: Mayo 2023

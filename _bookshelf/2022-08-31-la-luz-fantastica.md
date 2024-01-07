@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/597030.La_luz_fant_stica
 title: "La luz fantástica"
 author: "Terry Pratchett"
 when: Agosto 2022

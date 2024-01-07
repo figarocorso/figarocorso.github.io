@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/38815507-el-arte-de-la-guerra
 title: "El arte de la guerra"
 author: "Sun Tzu"
 when: Abril 2020

@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/54140437-un-mundo-feliz
 title: "Un mundo feliz"
 author: "Aldoux Huxley"
 when: Julio 2022

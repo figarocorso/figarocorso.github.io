@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/42299255-las-siete-muertes-de-evelyn-hardcastle
 title: "Las siete muertes de Evelyn Hardcastle"
 author: "Stuart Turton"
 when: Agosto 2021

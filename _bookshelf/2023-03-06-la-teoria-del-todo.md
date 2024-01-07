@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/134960787-la-teoria-del-todo-the-everything-theary-spanish-edition-by-stephen-w
 title: "La Teoría del Todo"
 author: "Stephen W. Hawking"
 when: Marzo 2023

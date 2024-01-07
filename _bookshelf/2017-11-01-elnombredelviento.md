@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/6483211-el-nombre-del-viento
 title: "El nombre del viento"
 author: "Patrick Rothfuss"
 when: Noviembre 2017

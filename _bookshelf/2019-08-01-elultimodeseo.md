@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/61136626-the-witcher-de-andrzej-sapkowski
 title: "El último deseo"
 author: "Andrzej Sapkowski"
 when: Agosto 2019

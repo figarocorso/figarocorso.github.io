@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/30648873-amor-con-ojeras
 title: "Amor con ojeras"
 author: "Mamen Jiménez Lapsicomami"
 when: Marzo 2020

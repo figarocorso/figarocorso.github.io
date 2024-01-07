@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/163188094-la-sonrisa-etrusca-by-author-jose-luis-sampedro-published-on
 title: "La sonrisa etrusca"
 author: "José Luis Sampedro"
 when: 2016

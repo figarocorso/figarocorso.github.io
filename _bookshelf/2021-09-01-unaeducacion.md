@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/109633634-resumen-de-una-educaci-n-de-tara-westover
 title: "Una educación"
 author: "Tara Westover"
 when: Septiembre 2021

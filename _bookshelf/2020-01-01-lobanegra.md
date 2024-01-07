@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/46202074-loba-negra
 title: "Loba negra"
 author: "Juan Gómez-Jurado"
 when: 2020

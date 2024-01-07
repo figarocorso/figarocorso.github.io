@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/184443737-un-descuido-c-smico
 title: "Un descuido cósmico"
 author: "Liliana Blum"
 when: Octubre 2023

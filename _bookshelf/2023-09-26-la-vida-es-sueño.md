@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/103413046-freuds-traumdeutung-in-bezug-auf-das-konzept-traum-im-werk-la-vida-es-s
 title: "La vida es sueño"
 author: "Pedro Calderón de la Barca"
 when: Septiembre 2023

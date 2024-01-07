@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/54334693-rey-blanco
 title: "Rey Blanco"
 author: "Juan Gómez-Jurado"
 when: Noviembre 2020
