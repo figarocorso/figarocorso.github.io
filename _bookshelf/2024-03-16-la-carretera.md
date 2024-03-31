@@ -1,6 +1,7 @@
 ---
 layout: post
 category: bookshelf
+link: https://www.goodreads.com/book/show/2036093.La_carretera
 title: "La carretera"
 author: "Cormac McCarthy"
 when: Marzo 2024
