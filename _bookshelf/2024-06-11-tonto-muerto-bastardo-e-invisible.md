@@ -8,6 +8,6 @@ when: Junio 2024
 date: 2024-06-11
 audiobook: True
 image:
-thumbnail: /images/bookshelf/tontomuertobastardoeinvisible.jpg
+  thumbnail: /images/bookshelf/tontomuertobastardoeinvisible.jpg
   path: /images/bookshelf/tontomuertobastardoeinvisible.jpg
 ---
