@@ -34,7 +34,7 @@
         {% include navigation.html %}
 		<div class="reveal">
             <div id="footer" class="footer">
-                Scroll down/up or use the arrows keys to navigate
+                Scroll to see more
             </div>
 			<div class="slides">
             <section>
@@ -60,7 +60,7 @@
 		<script src="/assets/reveal/js/reveal_configuration.js"></script>
         <script>
             Reveal.addEventListener('slidechanged', function(event) {
-                document.querySelector('.reveal .footer').style.display = 'none';
+                document.querySelector('.reveal .footer').classList.add('footer--quiet');
             });
         </script>
 	</body>
