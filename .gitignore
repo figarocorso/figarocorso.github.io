@@ -1,6 +1,8 @@
 _drafts/
 _site/
 node_modules/
+vendor/bundle/
+.bundle/
 .DS_Store
 *.swp
 .directory

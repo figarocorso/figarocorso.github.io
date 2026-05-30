@@ -7,3 +7,6 @@ gem "jekyll-theme-so-simple", "~> 3.2"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem "webrick", "~> 1.8"
 gem "rexml", ">= 3.3.6"
+gem "csv"
+gem "base64"
+gem "bigdecimal"
