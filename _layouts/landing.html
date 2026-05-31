@@ -109,6 +109,41 @@
     /* On small screens hide the in-page anchors, keep brand + GitHub. */
     @media (max-width: 760px) { .nav__links .nav__anchor { display: none; } }
 
+    /* "More on this site" kebab menu */
+    .nav__more { position: relative; }
+    .nav__kebab {
+      display: inline-flex; align-items: center; justify-content: center;
+      width: 2.1rem; height: 2.1rem; border-radius: 999px;
+      border: 1px solid var(--line); background: transparent;
+      color: var(--text-dim); font-size: 1.05rem; cursor: pointer;
+      transition: border-color .2s ease, color .2s ease;
+    }
+    .nav__kebab:hover, .nav__more.open .nav__kebab { border-color: var(--accent); color: var(--accent); }
+    .nav__menu {
+      position: absolute; top: calc(100% + 0.6rem); right: 0;
+      min-width: 190px; padding: 0.8rem 0.8rem 0.6rem;
+      background: var(--bg-soft); border: 1px solid var(--line); border-radius: 14px;
+      box-shadow: 0 14px 32px rgba(0,0,0,0.5);
+      opacity: 0; visibility: hidden; transform: translateY(-8px);
+      transition: opacity .25s ease, transform .25s ease, visibility .25s ease;
+    }
+    .nav__more.open .nav__menu { opacity: 1; visibility: visible; transform: none; }
+    .nav__menu-title {
+      display: block; margin: 0 0 0.55rem; padding: 0 0.3rem;
+      font-size: 0.66rem; font-weight: 700; letter-spacing: .1em; text-transform: uppercase;
+      color: var(--accent);
+    }
+    .nav__menu a {
+      display: flex; align-items: center; gap: 0.6rem;
+      padding: 0.5rem 0.7rem; margin-bottom: 0.35rem;
+      background: var(--bg); border: 1px solid var(--line); border-radius: 10px;
+      color: var(--text) !important; font-family: "Lora", serif; font-size: 0.95rem; font-weight: 700;
+      transition: transform .25s ease, border-color .25s ease;
+    }
+    .nav__menu a:last-child { margin-bottom: 0; }
+    .nav__menu a:hover { transform: translateY(-2px); border-color: var(--accent); color: var(--accent) !important; text-decoration: none; }
+    .nav__menu a .emoji { font-size: 1.02rem; }
+
     /* ----------------------------------------------------------------- */
     /* HERO                                                               */
     /* ----------------------------------------------------------------- */
@@ -405,12 +440,23 @@
       <a href="#experience" class="nav__anchor">Experience</a>
       <a href="#life"       class="nav__anchor">Life</a>
       <a href="#gallery"    class="nav__anchor">Gallery</a>
-      <a href="/bookshelf/" class="nav__anchor">Bookshelf</a>
-      <a href="/blog/"      class="nav__anchor">Blog</a>
       <!-- GitHub link kept deliberately visible -->
       <a href="https://github.com/figarocorso/" class="nav__github" rel="noopener">
         <i class="fab fa-github"></i> GitHub
       </a>
+      <!-- "More on this site" kebab dropdown -->
+      <div class="nav__more" id="nav-more">
+        <button class="nav__kebab" id="nav-more-btn" type="button"
+                aria-haspopup="true" aria-expanded="false" aria-label="More on this site">
+          <i class="fas fa-ellipsis-vertical"></i>
+        </button>
+        <div class="nav__menu" role="menu" aria-labelledby="nav-more-btn">
+          <span class="nav__menu-title">More on this site</span>
+          <a href="/bookshelf/" role="menuitem"><span class="emoji">📚</span> Bookshelf</a>
+          <a href="/blog/"      role="menuitem"><span class="emoji">📷</span> Blog</a>
+          <a href="/archive/"   role="menuitem"><span class="emoji">✍️</span> Archive</a>
+        </div>
+      </div>
     </div>
   </nav>
 
@@ -712,6 +758,26 @@
     }, { threshold: 0.15 });
 
     document.querySelectorAll('.reveal').forEach(function (el) { observer.observe(el); });
+
+    // ---- "More on this site" kebab dropdown ------------------------------
+    const moreWrap = document.getElementById('nav-more');
+    const moreBtn = document.getElementById('nav-more-btn');
+    if (moreWrap && moreBtn) {
+      function setMore(open) {
+        moreWrap.classList.toggle('open', open);
+        moreBtn.setAttribute('aria-expanded', open ? 'true' : 'false');
+      }
+      moreBtn.addEventListener('click', function (e) {
+        e.stopPropagation();
+        setMore(!moreWrap.classList.contains('open'));
+      });
+      document.addEventListener('click', function (e) {
+        if (!moreWrap.contains(e.target)) setMore(false);
+      });
+      document.addEventListener('keydown', function (e) {
+        if (e.key === 'Escape') setMore(false);
+      });
+    }
   </script>
 </body>
 </html>
