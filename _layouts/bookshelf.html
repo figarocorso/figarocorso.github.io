@@ -1,0 +1,132 @@
+---
+layout: default
+---
+
+{%- assign entries = site[page.collection] -%}
+{%- if page.sort_order == 'reverse' -%}
+  {%- assign entries = entries | sort: 'date' | reverse -%}
+{%- else -%}
+  {%- assign entries = entries | sort: 'date' -%}
+{%- endif -%}
+
+<main id="main" class="main-content" aria-label="Content">
+  <div class="page-wrapper">
+    <header class="bookshelf-header">
+      <span class="bookshelf-count">
+        <i class="fas fa-book"></i>
+        <strong>{{ entries | size }}</strong> libros leídos
+      </span>
+    </header>
+
+    <div class="bookshelf-grid" id="bookshelf-grid">
+      {%- for entry in entries -%}
+        {%- assign cover = entry.image.thumbnail | default: entry.image.path -%}
+        {%- unless cover contains '://' -%}{%- assign cover = cover | relative_url -%}{%- endunless -%}
+        <article class="book-card{% if forloop.index0 >= 30 %} is-hidden{% endif %}" data-index="{{ forloop.index0 }}">
+          <a class="book-cover" href="{{ entry.link }}" target="_blank" rel="noopener noreferrer" aria-label="{{ entry.title | escape }} en Goodreads">
+            <img
+              src="{% if forloop.index0 < 30 %}{{ cover | escape }}{% endif %}"
+              data-src="{{ cover | escape }}"
+              alt="{{ entry.title | escape }}"
+              loading="lazy"
+              decoding="async">
+            {%- if entry.audiobook == true -%}
+              <span class="book-badge" title="Audiolibro"><i class="fas fa-headphones"></i></span>
+            {%- endif -%}
+          </a>
+          <div class="book-info">
+            <h2 class="book-title"><a href="{{ entry.link }}" target="_blank" rel="noopener noreferrer">{{ entry.title }}</a></h2>
+            <p class="book-author">{{ entry.author }}</p>
+            {%- if entry.when -%}<p class="book-date">{{ entry.when }}</p>{%- endif -%}
+          </div>
+        </article>
+      {%- endfor -%}
+    </div>
+
+    <div id="bookshelf-loader" class="bookshelf-loader" aria-hidden="true">
+      <span class="bookshelf-spinner"></span>
+    </div>
+    <div id="bookshelf-sentinel" aria-hidden="true"></div>
+  </div>
+</main>
+
+<button id="back-to-top" class="back-to-top" type="button" aria-label="Volver arriba">
+  <i class="fas fa-arrow-up" aria-hidden="true"></i>
+</button>
+
+<script>
+(function () {
+  var BATCH = 30;
+  var grid = document.getElementById('bookshelf-grid');
+  var sentinel = document.getElementById('bookshelf-sentinel');
+  var loader = document.getElementById('bookshelf-loader');
+  if (!grid) return;
+
+  var cards = Array.prototype.slice.call(grid.querySelectorAll('.book-card'));
+  var shown = 0;
+
+  function done() {
+    return shown >= cards.length;
+  }
+
+  function reveal(n) {
+    var end = Math.min(shown + n, cards.length);
+    for (var i = shown; i < end; i++) {
+      var card = cards[i];
+      var img = card.querySelector('img');
+      if (img && !img.getAttribute('src') && img.dataset.src) {
+        img.setAttribute('src', img.dataset.src);
+      }
+      card.classList.remove('is-hidden');
+      // force layout then animate in
+      void card.offsetWidth;
+      card.classList.add('is-visible');
+    }
+    shown = end;
+    if (done()) {
+      if (loader) loader.classList.remove('is-active');
+      if (observer) observer.disconnect();
+    }
+  }
+
+  function loadNext() {
+    if (done()) return;
+    if (loader) loader.classList.add('is-active');
+    // small delay so the spinner is visible on fast connections
+    setTimeout(function () { reveal(BATCH); }, 250);
+  }
+
+  // First batch already has src; just mark visible (no spinner).
+  reveal(BATCH);
+
+  var observer = null;
+  if ('IntersectionObserver' in window) {
+    observer = new IntersectionObserver(function (es) {
+      es.forEach(function (e) { if (e.isIntersecting && !done()) loadNext(); });
+    }, { rootMargin: '400px 0px' });
+    observer.observe(sentinel);
+  } else {
+    reveal(cards.length);
+  }
+
+  // Back-to-top
+  var toTop = document.getElementById('back-to-top');
+  if (toTop) {
+    var ticking = false;
+    function onScroll() {
+      if (ticking) return;
+      ticking = true;
+      window.requestAnimationFrame(function () {
+        toTop.classList.toggle('is-visible', window.pageYOffset > 600);
+        ticking = false;
+      });
+    }
+    window.addEventListener('scroll', onScroll, { passive: true });
+    onScroll();
+    toTop.addEventListener('click', function () {
+      var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      window.scrollTo({ top: 0, behavior: reduce ? 'auto' : 'smooth' });
+    });
+  }
+})();
+</script>

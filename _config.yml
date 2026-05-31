@@ -32,8 +32,6 @@ google_fonts:
   - name: "Lora"
     weights: "400,400i,700,700i"
 google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
-twitter:
-  username: miky_kun
 
 # Liquid
 liquid:
@@ -96,8 +94,7 @@ collections:
     output: true
     permalink: /:collection/:path
   bookshelf:
-    output: true
-    permalink: /:collection/:path
+    output: false
 
 # Front Matter Defaults
 defaults:
