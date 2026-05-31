@@ -1,0 +1,717 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Miguel Julián — Engineering Manager (Miky / Figarocorso)</title>
+  <meta name="description" content="Miguel Julián (Miky / Figarocorso) — Engineering Manager at Sysdig. From QA &amp; DevOps to leading remote teams that ship reliably.">
+  <meta name="author" content="Miguel Julián">
+
+  <link rel="icon" href="/images/fav_migueljulian.png" type="image/png">
+
+  <!-- Fonts: Lora for headings (serif), Source Sans Pro for body -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lora:wght@500;700&family=Source+Sans+Pro:wght@400;600;700&display=swap">
+  <!-- Font Awesome for the social icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+  <!--
+    =========================================================================
+    STYLES
+    Everything is in this one file so the whole page is easy to read & tweak.
+    Colours live in the :root variables below — change them in one place.
+    =========================================================================
+  -->
+  <style>
+    :root {
+      --bg:        #0e1116;   /* page background (near-black)        */
+      --bg-soft:   #161b22;   /* cards / alternating sections        */
+      --bg-soft-2: #1c232d;   /* nested cards                        */
+      --text:      #e6edf3;   /* main text                           */
+      --text-dim:  #9aa7b4;   /* secondary text                      */
+      --accent:    #e25b45;   /* warm coral (the Dettifoss jacket)   */
+      --accent-2:  #f0a868;   /* secondary warm accent               */
+      --line:      #2a323d;   /* borders / dividers                  */
+      --maxw:      1080px;    /* content max width                   */
+    }
+
+    * { box-sizing: border-box; }
+
+    html { scroll-behavior: smooth; }       /* anchor links glide instead of jump */
+
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: "Source Sans Pro", system-ui, sans-serif;
+      font-size: 18px;
+      line-height: 1.65;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    h1, h2, h3, h4 { font-family: "Lora", Georgia, serif; line-height: 1.2; }
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .highlight { color: var(--accent-2); }
+
+    /* Each major band of the page. Alternating background for rhythm. */
+    .section { padding: 6rem 1.5rem; }
+    .section--alt { background: var(--bg-soft); }
+    .wrap { max-width: var(--maxw); margin: 0 auto; }
+
+    .section h2 {
+      font-size: 2.1rem;
+      margin: 0 0 0.4rem;
+    }
+    .section .lead {
+      color: var(--text-dim);
+      font-size: 1.1rem;
+      margin: 0 0 2.5rem;
+    }
+
+    /* ----------------------------------------------------------------- */
+    /* Scroll progress bar (the thin line that fills as you scroll down)  */
+    /* ----------------------------------------------------------------- */
+    #progress {
+      position: fixed; top: 0; left: 0; height: 3px; width: 0%;
+      background: linear-gradient(90deg, var(--accent), var(--accent-2));
+      z-index: 60;
+    }
+
+    /* ----------------------------------------------------------------- */
+    /* Top navigation bar (sticky, gets a solid backing once you scroll)  */
+    /* ----------------------------------------------------------------- */
+    .nav {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 50;
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 1rem 1.5rem;
+      transition: background .3s ease, padding .3s ease, box-shadow .3s ease;
+    }
+    .nav.scrolled {
+      background: rgba(14, 17, 22, 0.92);
+      backdrop-filter: blur(8px);
+      padding: 0.6rem 1.5rem;
+      box-shadow: 0 1px 0 var(--line);
+    }
+    .nav__brand { font-family: "Lora", serif; font-weight: 700; color: var(--text); font-size: 1.1rem; }
+    .nav__brand:hover { text-decoration: none; color: var(--accent); }
+    .nav__links { display: flex; align-items: center; gap: 1.4rem; }
+    .nav__links a { color: var(--text-dim); font-size: 0.95rem; font-weight: 600; }
+    .nav__links a:hover { color: var(--text); text-decoration: none; }
+    /* The GitHub link is meant to stand out — boxed + accent on hover. */
+    .nav__github {
+      display: inline-flex; align-items: center; gap: 0.45rem;
+      border: 1px solid var(--line); border-radius: 999px;
+      padding: 0.35rem 0.9rem !important; color: var(--text) !important;
+    }
+    .nav__github:hover { border-color: var(--accent); color: var(--accent) !important; }
+    /* On small screens hide the in-page anchors, keep brand + GitHub. */
+    @media (max-width: 760px) { .nav__links .nav__anchor { display: none; } }
+
+    /* ----------------------------------------------------------------- */
+    /* HERO                                                               */
+    /* ----------------------------------------------------------------- */
+    .hero {
+      position: relative; min-height: 100vh;
+      display: flex; align-items: center;
+      padding: 6rem 1.5rem 4rem;
+      overflow: hidden;
+    }
+    /* Photo sits in its own layer so we can parallax-shift it on scroll. */
+    .hero__bg {
+      position: absolute; inset: 0;
+      background: url("/images/miky_detifoss.png") center 30% / cover no-repeat;
+      will-change: transform;
+    }
+    .hero__overlay {
+      position: absolute; inset: 0;
+      background: linear-gradient(105deg, rgba(14,17,22,0.92) 0%, rgba(14,17,22,0.75) 45%, rgba(14,17,22,0.35) 100%);
+    }
+    .hero__inner { position: relative; max-width: var(--maxw); margin: 0 auto; width: 100%; }
+    .hero__kicker { color: var(--accent); font-weight: 700; letter-spacing: .08em; text-transform: uppercase; font-size: .85rem; margin: 0 0 0.6rem; }
+    .hero h1 { font-size: clamp(2.6rem, 6vw, 4.4rem); margin: 0 0 0.3rem; }
+    .hero h1 small { display: block; font-size: 1.1rem; color: var(--text-dim); font-weight: 500; margin-top: .6rem; font-family: "Source Sans Pro", sans-serif; }
+    .hero__role { font-size: 1.3rem; color: var(--text); margin: 1rem 0 0.2rem; }
+    .hero__pitch { font-size: 1.15rem; color: var(--text-dim); max-width: 36ch; margin: 0.8rem 0 0; font-style: italic; }
+    .hero__dragon { margin: 1.2rem 0 0; font-size: 1.05rem; }
+    .hero__socials { display: flex; gap: 1.1rem; margin: 1.8rem 0 0; font-size: 1.5rem; }
+    .hero__socials a { color: var(--text); }
+    .hero__socials a:hover { color: var(--accent); }
+
+    /* Animated "scroll down" cue at the bottom of the hero. */
+    .scroll-cue {
+      position: absolute; bottom: 1.8rem; left: 50%; transform: translateX(-50%);
+      color: var(--text-dim); font-size: 1.4rem;
+      animation: bob 1.8s ease-in-out infinite;
+    }
+    @keyframes bob { 0%,100% { transform: translate(-50%, 0); } 50% { transform: translate(-50%, 10px); } }
+
+    /* ----------------------------------------------------------------- */
+    /* ABOUT                                                              */
+    /* ----------------------------------------------------------------- */
+    .about p { font-size: 1.25rem; max-width: 60ch; }
+
+    /* ----------------------------------------------------------------- */
+    /* EXPERIENCE — vertical timeline                                     */
+    /* ----------------------------------------------------------------- */
+    .timeline { position: relative; margin-top: 1rem; padding-left: 2rem; }
+    .timeline::before {                       /* the vertical line */
+      content: ""; position: absolute; left: 0.35rem; top: 0.4rem; bottom: 0.4rem;
+      width: 2px; background: var(--line);
+    }
+    .tl-item { position: relative; padding: 0 0 2.4rem 1.4rem; }
+    .tl-item::before {                        /* the dot on the line */
+      content: ""; position: absolute; left: -1.72rem; top: 0.45rem;
+      width: 12px; height: 12px; border-radius: 50%;
+      background: var(--accent); box-shadow: 0 0 0 4px var(--bg);
+    }
+    .tl-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.6rem; }
+    .tl-company { font-family: "Lora", serif; font-size: 1.35rem; font-weight: 700; }
+    .tl-years { color: var(--text-dim); font-size: 0.95rem; }
+    .tl-role { color: var(--accent-2); font-weight: 600; margin: 0.15rem 0; }
+    .tl-item p { margin: 0.3rem 0 0; color: var(--text-dim); }
+    .tl-item ul { margin: 0.6rem 0 0; padding-left: 1.1rem; color: var(--text-dim); }
+    .tl-item ul li { margin: 0.2rem 0; }
+
+    /* ----------------------------------------------------------------- */
+    /* TWO-COLUMN cards (Beyond code) + SKILLS                            */
+    /* ----------------------------------------------------------------- */
+    .cols { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; }
+    @media (max-width: 760px) { .cols { grid-template-columns: 1fr; } }
+    .card {
+      background: var(--bg-soft-2); border: 1px solid var(--line);
+      border-radius: 14px; padding: 1.6rem 1.8rem;
+    }
+    .section--alt .card { background: var(--bg); }
+    .card h3 { margin: 0 0 0.8rem; font-size: 1.25rem; color: var(--accent-2); }
+    .card ul { margin: 0; padding-left: 1.1rem; }
+    .card ul li { margin: 0.4rem 0; }
+
+    /* ----------------------------------------------------------------- */
+    /* MANTRAS — emotional peak, given its own dark band                  */
+    /* ----------------------------------------------------------------- */
+    .mantras { position: relative; text-align: center; overflow: hidden; }
+    .mantras__bg {
+      position: absolute; inset: 0;
+      background: url("/images/hobbies/northen-star-miky.jpg") center / cover no-repeat;
+      opacity: 0.25;
+    }
+    .mantras__inner { position: relative; max-width: 820px; margin: 0 auto; }
+    .mantras h2 { font-size: 2.3rem; }
+    .mantras__list { list-style: none; padding: 0; margin: 2rem 0 0; }
+    .mantras__list li {
+      font-family: "Lora", serif; font-size: 1.35rem; padding: 0.7rem 0;
+      border-bottom: 1px solid var(--line);
+    }
+    .mantras__list li:last-child { border-bottom: none; color: var(--accent-2); }
+
+    /* ----------------------------------------------------------------- */
+    /* ABOUT — editorial: kicker + big serif lead + two short paragraphs  */
+    /* ----------------------------------------------------------------- */
+    .kicker { color: var(--accent); font-weight: 700; letter-spacing: .1em; text-transform: uppercase; font-size: .8rem; margin: 0 0 1rem; }
+    .about-block { border-left: 3px solid var(--accent); padding-left: 1.8rem; }
+    .about-lead {
+      font-family: "Lora", serif; font-weight: 700;
+      font-size: clamp(2rem, 4.6vw, 3.2rem); line-height: 1.18;
+      margin: 0 0 1.8rem; max-width: 16ch;
+    }
+    .about-cards { display: grid; grid-template-columns: 1fr 1fr; gap: 1.2rem; margin-top: 0.6rem; max-width: 760px; }
+    @media (max-width: 680px) { .about-cards { grid-template-columns: 1fr; } }
+    .about-card {
+      background: var(--bg-soft); border: 1px solid var(--line); border-radius: 16px;
+      padding: 1.6rem 1.7rem; transition: transform .25s ease, border-color .25s ease;
+    }
+    .about-card:hover { transform: translateY(-4px); border-color: var(--accent); }
+    .about-card__icon { font-size: 1.5rem; color: var(--accent); }
+    .about-card__year { margin: 0.9rem 0 0.2rem; font-size: 0.78rem; text-transform: uppercase; letter-spacing: .1em; color: var(--text-dim); }
+    .about-card h3 { font-family: "Lora", serif; margin: 0 0 0.5rem; font-size: 1.3rem; }
+    .about-card p { margin: 0; color: var(--text-dim); font-size: 1.02rem; }
+    .about-card ul { margin: 0; padding-left: 1.1rem; color: var(--text-dim); font-size: 1.02rem; }
+    .about-card ul li { margin: 0.35rem 0; }
+    @media (max-width: 760px) { .about-block { padding-left: 1.1rem; } }
+
+    /* ----------------------------------------------------------------- */
+    /* EXPERIENCE — role progression stepper                              */
+    /* ----------------------------------------------------------------- */
+    .role-steps { display: flex; flex-wrap: wrap; align-items: center; gap: 0.45rem 0.55rem; margin: 0.5rem 0 0.7rem; }
+    .role-steps .step {
+      background: var(--bg); border: 1px solid var(--line); border-radius: 999px;
+      padding: 0.3rem 0.9rem; font-size: 0.9rem; font-weight: 600; color: var(--text-dim);
+    }
+    .role-steps .arrow { color: var(--accent); font-weight: 700; }
+    .role-steps .step--now { background: var(--accent); border-color: var(--accent); color: #fff; }
+
+    /* ----------------------------------------------------------------- */
+    /* HOW I WORK — star-trail backdrop behind mantras + practice cards   */
+    /* ----------------------------------------------------------------- */
+    .how { position: relative; overflow: hidden; }
+    .how__bg {
+      position: absolute; inset: 0;
+      background: url("/images/hobbies/northen-star-miky.jpg") center / cover no-repeat;
+      opacity: 0.18;
+    }
+    .how .wrap { position: relative; }
+    .how .mantras__list { text-align: center; }
+
+    /* ----------------------------------------------------------------- */
+    /* LIFE OUTSIDE IT — featured dragon card + icon grid                 */
+    /* ----------------------------------------------------------------- */
+    .dragon-card {
+      display: flex; gap: 1.4rem; align-items: center; margin: 0 0 1.4rem;
+      background: linear-gradient(120deg, rgba(226,91,69,0.16), rgba(240,168,104,0.07));
+      border: 1px solid var(--accent); border-radius: 16px; padding: 1.6rem 1.8rem;
+    }
+    .dragon-card__emoji { font-size: 3rem; line-height: 1; }
+    .dragon-card h3 { margin: 0 0 0.3rem; color: var(--accent); font-size: 1.4rem; }
+    .dragon-card p { margin: 0; }
+
+    /* Photo-backed bento of interests — asymmetric tiles with image + overlay */
+    .life-bento {
+      display: grid; grid-template-columns: repeat(4, 1fr);
+      grid-auto-rows: 158px; gap: 1rem;
+    }
+    .life-tile {
+      position: relative; overflow: hidden; border-radius: 16px;
+      border: 1px solid var(--line); color: #fff;
+      display: flex; flex-direction: column; justify-content: flex-end;
+      padding: 1.3rem 1.4rem;
+      transition: transform .3s ease, border-color .3s ease, box-shadow .3s ease;
+    }
+    .life-tile__bg {
+      position: absolute; inset: 0; z-index: 0;
+      background-size: cover; background-position: center;
+      transform: scale(1.01); transition: transform .6s ease;
+    }
+    /* readability gradient over the photo */
+    .life-tile::after {
+      content: ""; position: absolute; inset: 0; z-index: 1;
+      background: linear-gradient(180deg, rgba(14,17,22,0.10) 0%, rgba(14,17,22,0.55) 55%, rgba(14,17,22,0.93) 100%);
+    }
+    .life-tile > * { position: relative; z-index: 2; }
+    .life-tile:hover { transform: translateY(-4px); border-color: var(--accent); box-shadow: 0 14px 32px rgba(0,0,0,0.4); }
+    .life-tile:hover .life-tile__bg { transform: scale(1.08); }
+    .life-tile__icon {
+      position: absolute; top: 1rem; left: 1rem; z-index: 2;
+      display: inline-flex; align-items: center; justify-content: center;
+      width: 2.5rem; height: 2.5rem; border-radius: 50%;
+      background: rgba(226,91,69,0.92); font-size: 1.2rem;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.35);
+    }
+    .life-tile h4 { margin: 0 0 0.25rem; font-size: 1.25rem; font-family: "Lora", serif; }
+    .life-tile p { margin: 0; font-size: 0.9rem; line-height: 1.45; color: rgba(230,237,243,0.88); }
+    .life-tile .highlight { color: var(--accent-2); }
+
+    /* solid (no-photo) accent tile to break the rhythm */
+    .life-tile--solid { background: linear-gradient(150deg, var(--bg-soft-2) 0%, rgba(226,91,69,0.16) 100%); }
+    .life-tile--solid::after { display: none; }
+
+    /* asymmetry */
+    .life-tile--tall { grid-row: span 2; }
+    .life-tile--wide { grid-column: span 2; }
+
+    @media (max-width: 860px) {
+      .life-bento { grid-template-columns: repeat(2, 1fr); }
+      .life-tile--tall { grid-row: span 1; }
+      .life-tile--wide { grid-column: span 2; }
+    }
+    @media (max-width: 520px) {
+      .life-bento { grid-template-columns: 1fr; grid-auto-rows: 150px; }
+      .life-tile--wide { grid-column: span 1; }
+    }
+
+    /* ----------------------------------------------------------------- */
+    /* GALLERY                                                            */
+    /* ----------------------------------------------------------------- */
+    .gallery-cat { color: var(--accent); font-weight: 700; text-transform: uppercase; letter-spacing: .06em; font-size: .85rem; margin: 2rem 0 0.8rem; }
+    .grid {
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 0.8rem;
+    }
+    .grid figure {
+      margin: 0; position: relative; border-radius: 12px; overflow: hidden;
+      aspect-ratio: 4 / 3;
+    }
+    .grid img {
+      width: 100%; height: 100%; object-fit: cover; display: block;
+      transition: transform .5s ease;
+    }
+    .grid figure:hover img { transform: scale(1.06); }
+    .grid figcaption {
+      position: absolute; left: 0; right: 0; bottom: 0;
+      padding: 1.4rem 0.8rem 0.6rem; font-size: 0.85rem; color: #fff;
+      background: linear-gradient(transparent, rgba(0,0,0,0.8));
+    }
+
+    /* ----------------------------------------------------------------- */
+    /* FOOTER / explore                                                   */
+    /* ----------------------------------------------------------------- */
+    .explore-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.2rem; margin-top: 1rem; }
+    @media (max-width: 760px) { .explore-grid { grid-template-columns: 1fr; } }
+    .explore-card {
+      display: block; background: var(--bg-soft-2); border: 1px solid var(--line);
+      border-radius: 14px; padding: 1.6rem; color: var(--text); transition: transform .25s ease, border-color .25s ease;
+    }
+    .explore-card:hover { transform: translateY(-4px); border-color: var(--accent); text-decoration: none; }
+    .explore-card .emoji { font-size: 1.8rem; }
+    .explore-card h3 { margin: 0.6rem 0 0.3rem; color: var(--accent-2); }
+    .explore-card p { margin: 0; color: var(--text-dim); font-size: 0.95rem; }
+
+    /* ----------------------------------------------------------------- */
+    /* FINALE — closing band, visually set apart from the gallery above   */
+    /* ----------------------------------------------------------------- */
+    .section--finale {
+      position: relative; text-align: center;
+      border-top: 1px solid var(--line);
+      padding-top: 7rem; padding-bottom: 8rem;
+      background:
+        radial-gradient(120% 90% at 50% 0%, rgba(226,91,69,0.12), transparent 62%),
+        linear-gradient(180deg, var(--bg-soft) 0%, var(--bg) 70%);
+    }
+    .section--finale .kicker { display: block; }
+    .section--finale h2 { font-size: 2.5rem; }
+    .section--finale .lead { margin-left: auto; margin-right: auto; max-width: 42ch; }
+    .section--finale .explore-grid { margin-top: 2.4rem; }
+    .section--finale .explore-card { text-align: left; }
+
+    .site-footer { text-align: center; padding: 3rem 1.5rem; border-top: 1px solid var(--line); color: var(--text-dim); }
+    .site-footer__socials { font-size: 1.5rem; display: flex; gap: 1.2rem; justify-content: center; margin-bottom: 1rem; }
+    .site-footer__socials a { color: var(--text-dim); }
+    .site-footer__socials a:hover { color: var(--accent); }
+
+    /* ----------------------------------------------------------------- */
+    /* SCROLL REVEAL — elements start faded/shifted, JS adds .in to show  */
+    /* ----------------------------------------------------------------- */
+    .reveal { opacity: 0; transform: translateY(28px); transition: opacity .7s ease, transform .7s ease; }
+    .reveal.in { opacity: 1; transform: none; }
+    /* Respect users who asked for less motion. */
+    @media (prefers-reduced-motion: reduce) {
+      html { scroll-behavior: auto; }
+      .reveal { opacity: 1; transform: none; transition: none; }
+      .scroll-cue { animation: none; }
+    }
+  </style>
+</head>
+
+<body>
+  <!-- scroll progress bar -->
+  <div id="progress"></div>
+
+  <!-- ===================== NAVIGATION ===================== -->
+  <nav class="nav" id="nav">
+    <a href="#top" class="nav__brand">Miguel Julián</a>
+    <div class="nav__links">
+      <a href="#about"      class="nav__anchor">About</a>
+      <a href="#experience" class="nav__anchor">Experience</a>
+      <a href="#life"       class="nav__anchor">Life</a>
+      <a href="#gallery"    class="nav__anchor">Gallery</a>
+      <a href="/bookshelf/" class="nav__anchor">Bookshelf</a>
+      <a href="/blog/"      class="nav__anchor">Blog</a>
+      <!-- GitHub link kept deliberately visible -->
+      <a href="https://github.com/figarocorso/" class="nav__github" rel="noopener">
+        <i class="fab fa-github"></i> GitHub
+      </a>
+    </div>
+  </nav>
+
+  <!-- ===================== HERO ===================== -->
+  <header class="hero" id="top">
+    <div class="hero__bg" id="hero-bg"></div>
+    <div class="hero__overlay"></div>
+    <div class="hero__inner">
+      <p class="hero__kicker">Miky · Figarocorso</p>
+      <h1>
+        Miguel Julián
+        <small>Engineering Manager @ Sysdig — Zaragoza, Spain</small>
+      </h1>
+      <p class="hero__pitch">I grew from QA &amp; DevOps into leading remote teams that ship reliably, driven by constant improvement.</p>
+      <p class="hero__dragon">🐉 Father of a (tiny) dragon.</p>
+      <div class="hero__socials">
+        <a href="https://github.com/figarocorso/" aria-label="GitHub" rel="noopener"><i class="fab fa-github"></i></a>
+        <a href="https://www.linkedin.com/in/migueljulian/" aria-label="LinkedIn" rel="noopener"><i class="fab fa-linkedin"></i></a>
+        <a href="https://www.last.fm/user/figarocorso" aria-label="Last.fm" rel="noopener"><i class="fab fa-lastfm"></i></a>
+      </div>
+    </div>
+    <a href="#about" class="scroll-cue" aria-label="Scroll down"><i class="fas fa-chevron-down"></i></a>
+  </header>
+
+  <!-- ===================== ABOUT ===================== -->
+  <section class="section about" id="about">
+    <div class="wrap reveal about-block">
+      <p class="kicker">About</p>
+      <p class="about-lead">An engineering manager who never left the engine room.</p>
+      <div class="about-cards">
+        <div class="about-card">
+          <i class="fas fa-rocket about-card__icon"></i>
+          <div class="about-card__year">since 2018</div>
+          <h3>Way beyond release manager</h3>
+          <ul>
+            <li>Owning <span class="highlight">K8s application delivery</span></li>
+            <li>Efficiency first — never forgetting the customer</li>
+          </ul>
+        </div>
+        <div class="about-card">
+          <i class="fas fa-bolt about-card__icon"></i>
+          <div class="about-card__year">current challenge</div>
+          <h3>AI as an amplifier</h3>
+          <ul>
+            <li>AI is an amplifier of good and evil</li>
+            <li><span class="highlight">Same quality bar</span> — but faster</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== EXPERIENCE ===================== -->
+  <section class="section section--alt" id="experience">
+    <div class="wrap reveal">
+      <h2>Experience</h2>
+      <p class="lead">Outcomes over duties — newest first.</p>
+      <div class="timeline">
+        <div class="tl-item">
+          <div class="tl-head"><span class="tl-company">Sysdig</span><span class="tl-years">2018 – present</span></div>
+          <!-- visual role progression -->
+          <div class="role-steps">
+            <span class="step">SDET</span>
+            <span class="arrow">→</span>
+            <span class="step">Tooling Tech Lead</span>
+            <span class="arrow">→</span>
+            <span class="step step--now">Engineering Manager</span>
+          </div>
+          <p>Manage remote teams (up to 10 people). Throughout, I've worked constantly around tooling and Kubernetes application shipping — with a strong focus on on-prem customers.</p>
+        </div>
+        <div class="tl-item">
+          <div class="tl-head"><span class="tl-company">Frogtek</span><span class="tl-years">2014 – 2018</span></div>
+          <p class="tl-role">QA &amp; Release Manager + Django developer</p>
+          <p>Owned the release pipeline for web + Android; ran on-prem and app-store deliveries.</p>
+        </div>
+        <div class="tl-item">
+          <div class="tl-head"><span class="tl-company">Zentyal</span><span class="tl-years">2012 – 2014</span></div>
+          <p class="tl-role">DevOps Engineer + Django developer</p>
+          <p>Built and operated scalable mail / cloud infrastructure.</p>
+        </div>
+        <div class="tl-item">
+          <div class="tl-head"><span class="tl-company">Colegio Juan de Lanuza</span><span class="tl-years">2008 – 2012</span></div>
+          <p class="tl-role">Maths / CS Teacher + Sysadmin</p>
+          <p>Four years teaching while running the school's systems and network.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== HOW I WORK (mantras + practice) ===================== -->
+  <section class="section how" id="how">
+    <div class="how__bg"></div>
+    <div class="wrap reveal">
+      <h2>How I work</h2>
+      <p class="lead">After some success and tons of failures, the lessons that stuck — and how they play out day to day.</p>
+
+      <ul class="mantras__list">
+        <li>People over resources</li>
+        <li>Measure before you improve</li>
+        <li>SMART goals naturally gain traction</li>
+        <li>We're all prone to error → automate, iterate, profit</li>
+        <li>Ship value ASAP so early feedback can arrive</li>
+      </ul>
+
+      <div class="cols" style="margin-top:2.6rem;">
+        <div class="card">
+          <h3>Leading people</h3>
+          <ul>
+            <li>1:1s, feedback and growth plans that people actually use</li>
+            <li>Team KPIs for visibility and continuous improvement</li>
+            <li>Aligning vision and goals across distributed teams</li>
+            <li>Onsite and remote team buildings</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Shipping reliably</h3>
+          <ul>
+            <li>Major / minor release workflows, on-prem + Android</li>
+            <li>On-premise customer releases</li>
+            <li>Close to field teams and customer calls when it matters</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== LIFE OUTSIDE IT ===================== -->
+  <section class="section section--alt" id="life">
+    <div class="wrap reveal">
+      <h2>Life outside IT</h2>
+      <p class="lead">The differentiators a CV usually buries.</p>
+
+      <!-- Featured card: the most personal one gets the spotlight -->
+      <div class="dragon-card">
+        <div class="dragon-card__emoji">🐉</div>
+        <div>
+          <h3>Father of a dragon</h3>
+          <p>And she's winning. The best leadership training I've ever had — patience, priorities and negotiation, on hard mode.</p>
+        </div>
+      </div>
+
+      <div class="life-bento">
+        <!-- Teaching — tall tile, left column -->
+        <div class="life-tile life-tile--tall">
+          <div class="life-tile__bg" style="background-image:url('/images/hobbies/python-miky.jpg')"></div>
+          <span class="life-tile__icon">🎓</span>
+          <h4>Teaching</h4>
+          <p>4 years as a high-school maths / CS teacher. Still run yearly <span class="highlight">TDD</span> sessions at the local university.</p>
+        </div>
+
+        <!-- Talks & workshops — talks I gave -->
+        <div class="life-tile">
+          <div class="life-tile__bg" style="background-image:url('/images/hobbies/betabeers-talk-miky.jpg')"></div>
+          <span class="life-tile__icon">🎤</span>
+          <h4>Talks &amp; workshops</h4>
+          <p>University lectures and a <span class="highlight">config-mgmt</span> workshop in Ghent.</p>
+        </div>
+
+        <!-- Events — things I organised -->
+        <div class="life-tile">
+          <div class="life-tile__bg" style="background-image:url('/images/hobbies/pint_of_science_zaragoza.jpg')"></div>
+          <span class="life-tile__icon">🎟️</span>
+          <h4>Organising events</h4>
+          <p>Ran <span class="highlight">Pint of Science</span> and part of the <span class="highlight">TEDxZaragoza</span> team.</p>
+        </div>
+
+        <!-- Astronomy -->
+        <div class="life-tile">
+          <div class="life-tile__bg" style="background-image:url('/images/hobbies/northen-star-miky.jpg')"></div>
+          <span class="life-tile__icon">🔭</span>
+          <h4>Astronomy</h4>
+          <p>Chasing dark skies and long-exposure star trails.</p>
+        </div>
+
+        <!-- Motorsport -->
+        <div class="life-tile">
+          <div class="life-tile__bg" style="background-image:url('/images/hobbies/senna.jpg')"></div>
+          <span class="life-tile__icon">🏁</span>
+          <h4>Motorsport</h4>
+          <p>F1 history nerd — <span class="highlight">Senna</span> is the reason.</p>
+        </div>
+
+        <!-- Music -->
+        <div class="life-tile">
+          <div class="life-tile__bg" style="background-image:url('/images/hobbies/graspop_miky.png')"></div>
+          <span class="life-tile__icon">🎸</span>
+          <h4>Music</h4>
+          <p>Festivals, records, and dozens of reviews written over the years.</p>
+        </div>
+
+        <!-- Journalism — solid accent tile (no photo) -->
+        <div class="life-tile life-tile--solid">
+          <span class="life-tile__icon">✍️</span>
+          <h4>Journalism</h4>
+          <p>Genbeta (2M visits/mo) &amp; an RNE national-radio segment.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== GALLERY ===================== -->
+  <section class="section" id="gallery">
+    <div class="wrap reveal">
+      <h2>Gallery</h2>
+      <p class="lead">Travelling, astronomy, community — moments to meet great people and learn.</p>
+
+      <div class="grid">
+        <figure><img loading="lazy" src="/images/hobbies/iceland_miky.png"      alt="Lone figure on a ridge over the Icelandic coast"><figcaption>Iceland</figcaption></figure>
+        <figure><img loading="lazy" src="/images/hobbies/oma_forest_miky.png"   alt="Painted trees of the Oma forest, Basque Country"><figcaption>Oma forest, Basque Country</figcaption></figure>
+        <figure><img loading="lazy" src="/images/hobbies/els_ports_miky.png"    alt="Hiking in Els Ports natural park"><figcaption>Els Ports</figcaption></figure>
+        <figure><img loading="lazy" src="/images/hobbies/kafla_miky.png"        alt="Krafla volcanic area, Iceland"><figcaption>Krafla, Iceland</figcaption></figure>
+        <figure><img loading="lazy" src="/images/hobbies/saldo_roldan_miky.png" alt="Salto de Roldán rock formation, Huesca"><figcaption>Salto de Roldán</figcaption></figure>
+        <figure><img loading="lazy" src="/images/hobbies/backpack.png"          alt="Backpacking on the road"><figcaption>On the road</figcaption></figure>
+        <figure><img loading="lazy" src="/images/hobbies/graspop_miky.png"      alt="At the Graspop Metal Meeting festival"><figcaption>Graspop</figcaption></figure>
+        <figure><img loading="lazy" src="/images/hobbies/northen-star-miky.jpg" alt="Star-trail long exposure around the North Star"><figcaption>Star trails</figcaption></figure>
+        <figure><img loading="lazy" src="/images/stonenge_miky.jpg"             alt="Miguel at Stonehenge"><figcaption>Stonehenge</figcaption></figure>
+        <figure><img loading="lazy" src="/images/hobbies/tedxzaragoza-miky.jpg"        alt="TEDxZaragoza organising team group photo"><figcaption>TEDxZaragoza</figcaption></figure>
+        <figure><img loading="lazy" src="/images/hobbies/pint_of_science_zaragoza.jpg" alt="Pint of Science Zaragoza event"><figcaption>Pint of Science</figcaption></figure>
+        <figure><img loading="lazy" src="/images/hobbies/fosdem.jpg"                   alt="At the FOSDEM conference in Brussels"><figcaption>FOSDEM</figcaption></figure>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== EXPLORE / FOOTER ===================== -->
+  <section class="section section--finale" id="explore">
+    <div class="wrap reveal">
+      <p class="kicker">Keep exploring</p>
+      <h2>Where next?</h2>
+      <p class="lead">The rest of the site.</p>
+      <div class="explore-grid">
+        <a class="explore-card" href="/bookshelf/">
+          <div class="emoji">📚</div>
+          <h3>Bookshelf</h3>
+          <p>What I've been reading — probably the funnest part.</p>
+        </a>
+        <a class="explore-card" href="/blog/">
+          <div class="emoji">📷</div>
+          <h3>Blog</h3>
+          <p>Autofocus photo log.</p>
+        </a>
+        <a class="explore-card" href="/archive/">
+          <div class="emoji">✍️</div>
+          <h3>Writings</h3>
+          <p>Archive of articles &amp; stories.</p>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <div class="site-footer__socials">
+      <a href="https://github.com/figarocorso/" aria-label="GitHub" rel="noopener"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/migueljulian/" aria-label="LinkedIn" rel="noopener"><i class="fab fa-linkedin"></i></a>
+      <a href="https://www.last.fm/user/figarocorso" aria-label="Last.fm" rel="noopener"><i class="fab fa-lastfm"></i></a>
+    </div>
+    <p>Built with Jekyll · GitHub Pages · <a href="https://github.com/figarocorso/figarocorso.github.io">source on GitHub</a></p>
+  </footer>
+
+  <!--
+    =========================================================================
+    SCRIPTS  — plain vanilla JS, no libraries. Three small jobs:
+      1. fill the scroll progress bar
+      2. solid backing on the nav once you scroll past the hero
+      3. reveal-on-scroll for .reveal elements (IntersectionObserver)
+      4. subtle parallax on the hero photo
+    =========================================================================
+  -->
+  <script>
+    // ---- 1 & 2: progress bar + nav background, on every scroll ----------
+    const nav = document.getElementById('nav');
+    const progress = document.getElementById('progress');
+    const heroBg = document.getElementById('hero-bg');
+
+    function onScroll() {
+      const y = window.scrollY;
+
+      // progress bar = how far through the page we are
+      const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+      progress.style.width = (docHeight > 0 ? (y / docHeight) * 100 : 0) + '%';
+
+      // nav turns solid after a little scroll
+      nav.classList.toggle('scrolled', y > 40);
+
+      // 4: parallax — push the hero photo down slower than the scroll
+      if (heroBg) heroBg.style.transform = 'translateY(' + (y * 0.35) + 'px)';
+    }
+    window.addEventListener('scroll', onScroll, { passive: true });
+    onScroll();
+
+    // ---- 3: reveal-on-scroll --------------------------------------------
+    // Each .reveal element fades + slides up the first time it enters view.
+    const observer = new IntersectionObserver(function (entries) {
+      entries.forEach(function (entry) {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('in');
+          observer.unobserve(entry.target);   // animate once, then forget it
+        }
+      });
+    }, { threshold: 0.15 });
+
+    document.querySelectorAll('.reveal').forEach(function (el) { observer.observe(el); });
+  </script>
+</body>
+</html>
