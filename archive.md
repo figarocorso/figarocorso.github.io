@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: archive
 permalink: /archive/
 landing_page: true
 ---

@@ -1,0 +1,224 @@
+/* ==========================================================================
+   Archive (Writings) — editorial card grid
+   ========================================================================== */
+
+/* Background depth — scoped to archive only (mirrors bookshelf) */
+.layout--archive {
+  position: relative;
+  background-image:
+    radial-gradient(900px 600px at 12% -5%, rgba(0, 173, 181, 0.10), transparent 60%),
+    radial-gradient(800px 600px at 100% 6%, rgba(130, 170, 255, 0.08), transparent 55%),
+    radial-gradient(1000px 700px at 50% 120%, rgba(199, 146, 234, 0.07), transparent 60%);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+
+  &::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    pointer-events: none;
+    background-image: radial-gradient(rgba(255, 255, 255, 0.05) 1px, transparent 1px);
+    background-size: 22px 22px;
+    mask-image: radial-gradient(ellipse at 50% 30%, #000 30%, transparent 80%);
+    -webkit-mask-image: radial-gradient(ellipse at 50% 30%, #000 30%, transparent 80%);
+  }
+}
+
+.archive-wrapper {
+  position: relative;
+  z-index: 1;
+  max-width: 1100px;
+}
+
+/* ---- Header --------------------------------------------------------------- */
+.archive-header {
+  text-align: center;
+  margin: 1.5rem 0 2.5rem;
+}
+
+.archive-eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.45rem 1.1rem;
+  font-family: $meta-font-family;
+  font-size: 0.8rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  border-radius: 999px;
+  color: #00adb5;
+  background: rgba(0, 173, 181, 0.12);
+  box-shadow: inset 0 0 0 1px rgba(0, 173, 181, 0.4);
+}
+
+.archive-title {
+  margin: 1rem 0 0;
+  font-family: $title-font-family;
+  font-size: clamp(2.2rem, 6vw, 3.4rem);
+  line-height: 1.1;
+  letter-spacing: -0.5px;
+}
+
+/* ---- Content (styling the rendered markdown only) ------------------------- */
+.archive-content {
+  /* intro paragraph → centered lead */
+  > p {
+    max-width: 60ch;
+    margin: 0 auto 2.75rem;
+    text-align: center;
+    font-size: 1.12rem;
+    line-height: 1.7;
+    opacity: 0.82;
+  }
+
+  /* top-level list → responsive card grid */
+  > ul {
+    list-style: none;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+    margin: 0;
+    padding: 0;
+    counter-reset: writing;
+
+    @include breakpoint($medium) {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 1.5rem;
+    }
+  }
+
+  /* each entry → card */
+  > ul > li {
+    counter-increment: writing;
+    position: relative;
+    overflow: hidden;
+    margin: 0;
+    padding: 1.6rem 1.7rem 1.5rem;
+    border-radius: 14px;
+    background: rgba(255, 255, 255, 0.035);
+    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.07);
+    transition: transform 0.3s cubic-bezier(0.2, 0.8, 0.2, 1),
+                box-shadow 0.3s ease, background 0.3s ease;
+
+    /* accent left bar */
+    &::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: 0;
+      bottom: 0;
+      width: 3px;
+      background: #00adb5;
+      opacity: 0.55;
+      transition: opacity 0.3s ease, width 0.3s ease;
+    }
+
+    /* big faded counter, editorial flourish */
+    &::after {
+      content: counter(writing, decimal-leading-zero);
+      position: absolute;
+      right: 0.9rem;
+      bottom: 0.2rem;
+      font-family: $title-font-family;
+      font-weight: 700;
+      font-size: 4.5rem;
+      line-height: 1;
+      color: rgba(255, 255, 255, 0.05);
+      pointer-events: none;
+    }
+
+    &:hover,
+    &:focus-within {
+      transform: translateY(-4px);
+      background: rgba(0, 173, 181, 0.06);
+      box-shadow: inset 0 0 0 1px rgba(0, 173, 181, 0.45),
+                  0 14px 30px rgba(0, 0, 0, 0.4);
+
+      &::before {
+        opacity: 1;
+        width: 5px;
+      }
+    }
+  }
+
+  /* card title (the bold link) */
+  > ul > li > strong {
+    display: block;
+    margin-bottom: 0.45rem;
+    font-weight: 400;
+
+    a {
+      font-family: $title-font-family;
+      font-weight: 700;
+      font-size: 1.4rem;
+      line-height: 1.2;
+      letter-spacing: -0.3px;
+      color: inherit;
+      text-decoration: none;
+      transition: color 0.25s ease;
+
+      &::after {
+        content: " \2192";
+        display: inline-block;
+        opacity: 0;
+        transform: translateX(-4px);
+        transition: opacity 0.25s ease, transform 0.25s ease;
+        color: #00adb5;
+      }
+    }
+  }
+
+  > ul > li:hover > strong a,
+  > ul > li:focus-within > strong a {
+    color: #00adb5;
+
+    &::after {
+      opacity: 1;
+      transform: translateX(2px);
+    }
+  }
+
+  /* description (nested list) */
+  > ul > li > ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    li {
+      margin: 0;
+      font-family: $meta-font-family;
+      font-size: 0.96rem;
+      line-height: 1.6;
+      opacity: 0.68;
+    }
+  }
+}
+
+/* ---- Entrance animation (staggered fade-up) ------------------------------- */
+@keyframes archive-fade-up {
+  from { opacity: 0; transform: translateY(18px); }
+  to   { opacity: 1; transform: none; }
+}
+
+.archive-content > ul > li {
+  opacity: 0;
+  animation: archive-fade-up 0.55s ease forwards;
+}
+
+@for $i from 1 through 8 {
+  .archive-content > ul > li:nth-child(#{$i}) {
+    animation-delay: #{0.06s * $i};
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .archive-content > ul > li {
+    opacity: 1;
+    animation: none;
+    transition: none;
+
+    &:hover,
+    &:focus-within { transform: none; }
+  }
+}
