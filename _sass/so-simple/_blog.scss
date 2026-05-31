@@ -1,0 +1,298 @@
+/* ==========================================================================
+   Blog — modern visual grid (mirrors bookshelf)
+   ========================================================================== */
+
+/* Background depth — scoped to blog only */
+.layout--blog {
+  position: relative;
+  background-image:
+    radial-gradient(900px 600px at 15% -5%, rgba(0, 173, 181, 0.10), transparent 60%),
+    radial-gradient(800px 600px at 100% 8%, rgba(130, 170, 255, 0.08), transparent 55%),
+    radial-gradient(1000px 700px at 50% 120%, rgba(199, 146, 234, 0.07), transparent 60%);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+
+  /* faint dot texture over the gradient */
+  &::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    pointer-events: none;
+    background-image: radial-gradient(rgba(255, 255, 255, 0.05) 1px, transparent 1px);
+    background-size: 22px 22px;
+    mask-image: radial-gradient(ellipse at 50% 30%, #000 30%, transparent 80%);
+    -webkit-mask-image: radial-gradient(ellipse at 50% 30%, #000 30%, transparent 80%);
+  }
+}
+
+.layout--blog .page-wrapper {
+  position: relative;
+  z-index: 1;
+  max-width: 1200px;
+}
+
+.blog-header {
+  display: flex;
+  justify-content: center;
+  margin: 1.5rem 0 2.5rem;
+}
+
+.blog-count {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  padding: 0.55rem 1.4rem;
+  font-family: $meta-font-family;
+  font-size: 1rem;
+  letter-spacing: 0.02em;
+  border-radius: 999px;
+  background: rgba(0, 173, 181, 0.12);
+  box-shadow: inset 0 0 0 1px rgba(0, 173, 181, 0.4);
+
+  i {
+    align-self: center;
+    color: #00adb5;
+    font-size: 0.95rem;
+  }
+
+  strong {
+    font-family: $title-font-family;
+    font-weight: 700;
+    font-size: 1.9rem;
+    line-height: 1;
+    color: #00adb5;
+  }
+}
+
+.blog-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 1.75rem 1.25rem;
+  margin: 0 auto;
+  padding: 0;
+
+  @include breakpoint($medium) {
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 2.25rem 1.5rem;
+  }
+}
+
+/* Card */
+.post-card {
+  display: flex;
+  flex-direction: column;
+  opacity: 0;
+  transform: translateY(18px);
+  transition: opacity 0.5s ease, transform 0.5s ease;
+
+  /* unrevealed cards take no space → scrollbar reflects loaded posts only */
+  &.is-hidden {
+    display: none;
+  }
+
+  &.is-visible {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .post-card {
+    transition: none;
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/* Cover */
+.post-cover {
+  position: relative;
+  display: block;
+  aspect-ratio: 1 / 1;
+  border-radius: 12px;
+  overflow: hidden;
+  background: rgba(0, 0, 0, 0.25);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.35);
+  transition: transform 0.35s cubic-bezier(0.2, 0.8, 0.2, 1),
+              box-shadow 0.35s ease;
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.5s ease;
+  }
+
+  &::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    border-radius: inherit;
+    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.06);
+    pointer-events: none;
+  }
+
+  &:hover,
+  &:focus-visible {
+    transform: translateY(-6px);
+    box-shadow: 0 16px 34px rgba(0, 0, 0, 0.5),
+                0 0 0 2px #00adb5;
+
+    img {
+      transform: scale(1.06);
+    }
+  }
+}
+
+/* Textless posts (photo-only): no link, no hover lift */
+.post-cover.is-static {
+  cursor: default;
+
+  &:hover,
+  &:focus-visible {
+    transform: none;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.35);
+
+    img {
+      transform: none;
+    }
+  }
+}
+
+/* Fallback cover for posts without a thumbnail */
+.post-cover.is-empty {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background:
+    linear-gradient(135deg, rgba(0, 173, 181, 0.35), rgba(130, 170, 255, 0.25)),
+    #1c232d;
+}
+
+.post-cover-fallback {
+  font-family: $title-font-family;
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 1;
+  color: rgba(255, 255, 255, 0.85);
+  text-transform: uppercase;
+}
+
+/* Info */
+.post-info {
+  margin-top: 0.7rem;
+  text-align: center;
+}
+
+.post-title {
+  margin: 0 0 0.2rem;
+  font-family: $title-font-family;
+  font-size: 1rem;
+  line-height: 1.25;
+  letter-spacing: -0.3px;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+    background-image: linear-gradient(currentColor, currentColor);
+    background-size: 0% 1px;
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    transition: background-size 0.3s ease, color 0.3s ease;
+
+    &:hover,
+    &:focus-visible {
+      color: #00adb5;
+      background-size: 100% 1px;
+    }
+  }
+}
+
+.post-date {
+  margin: 0;
+  font-family: $meta-font-family;
+  font-style: italic;
+  font-size: 0.75rem;
+  opacity: 0.55;
+}
+
+/* Loader / spinner */
+.blog-loader {
+  display: none;
+  justify-content: center;
+  padding: 2.5rem 0 1rem;
+
+  &.is-active {
+    display: flex;
+  }
+}
+
+.blog-spinner {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  border: 3px solid rgba(0, 173, 181, 0.25);
+  border-top-color: #00adb5;
+  animation: blog-spin 0.7s linear infinite;
+}
+
+@keyframes blog-spin {
+  to { transform: rotate(360deg); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .blog-spinner { animation-duration: 1.6s; }
+}
+
+#blog-sentinel {
+  height: 1px;
+}
+
+/* ==========================================================================
+   Blog — single post page (image + text). Same backdrop as the listing.
+   ========================================================================== */
+.layout--post.day_by_day {
+  position: relative;
+  background-image:
+    radial-gradient(900px 600px at 15% -5%, rgba(0, 173, 181, 0.10), transparent 60%),
+    radial-gradient(800px 600px at 100% 8%, rgba(130, 170, 255, 0.08), transparent 55%),
+    radial-gradient(1000px 700px at 50% 120%, rgba(199, 146, 234, 0.07), transparent 60%);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+
+  &::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    pointer-events: none;
+    background-image: radial-gradient(rgba(255, 255, 255, 0.05) 1px, transparent 1px);
+    background-size: 22px 22px;
+    mask-image: radial-gradient(ellipse at 50% 30%, #000 30%, transparent 80%);
+    -webkit-mask-image: radial-gradient(ellipse at 50% 30%, #000 30%, transparent 80%);
+  }
+
+  .main-content,
+  .page-wrapper {
+    position: relative;
+    z-index: 1;
+  }
+
+  /* Title accent */
+  .page-title {
+    position: relative;
+    padding-bottom: 0.6rem;
+
+    &::after {
+      content: "";
+      display: block;
+      width: 56px;
+      height: 3px;
+      margin-top: 0.7rem;
+      border-radius: 999px;
+      background: #00adb5;
+    }
+  }
+}

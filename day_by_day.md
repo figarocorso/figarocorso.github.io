@@ -1,11 +1,9 @@
 ---
 title: Day by day
-layout: collection
+layout: blog
 permalink: /blog/
-entries_layout: grid
 sort_by: date
 sort_order: reverse
-show_excerpts: false
 collection: day_by_day
 ---
 

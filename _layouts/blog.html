@@ -1,0 +1,140 @@
+---
+layout: default
+---
+
+{%- assign entries = site[page.collection] -%}
+{%- if page.sort_order == 'reverse' -%}
+  {%- assign entries = entries | sort: 'date' | reverse -%}
+{%- else -%}
+  {%- assign entries = entries | sort: 'date' -%}
+{%- endif -%}
+
+<main id="main" class="main-content" aria-label="Content">
+  <div class="page-wrapper">
+    <header class="blog-header">
+      <span class="blog-count">
+        <i class="fas fa-pen-nib"></i>
+        <strong>{{ entries | size }}</strong> entradas
+      </span>
+    </header>
+
+    <div class="blog-grid" id="blog-grid">
+      {%- for entry in entries -%}
+        {%- assign cover = entry.image.thumbnail | default: entry.image.path -%}
+        {%- unless cover contains '://' -%}{%- assign cover = cover | relative_url -%}{%- endunless -%}
+        {%- assign body = entry.content | strip_html | strip -%}
+        {%- assign has_text = true -%}
+        {%- if body == '' -%}{%- assign has_text = false -%}{%- endif -%}
+        {%- capture cover_inner -%}
+          {%- if cover -%}
+            <img
+              src="{% if forloop.index0 < 30 %}{{ cover | escape }}{% endif %}"
+              data-src="{{ cover | escape }}"
+              alt="{{ entry.title | escape }}"
+              loading="lazy"
+              decoding="async">
+          {%- else -%}
+            <span class="post-cover-fallback">{{ entry.title | escape | slice: 0, 1 }}</span>
+          {%- endif -%}
+        {%- endcapture -%}
+        <article class="post-card{% unless has_text %} is-textless{% endunless %}{% if forloop.index0 >= 30 %} is-hidden{% endif %}" data-index="{{ forloop.index0 }}">
+          {%- if has_text -%}
+            <a class="post-cover{% unless cover %} is-empty{% endunless %}" href="{{ entry.url | relative_url }}" aria-label="{{ entry.title | escape }}">{{ cover_inner }}</a>
+          {%- else -%}
+            <div class="post-cover is-static{% unless cover %} is-empty{% endunless %}">{{ cover_inner }}</div>
+          {%- endif -%}
+          <div class="post-info">
+            <h2 class="post-title">{% if has_text %}<a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>{% else %}{{ entry.title }}{% endif %}</h2>
+            {%- if entry.date -%}<p class="post-date"><time datetime="{{ entry.date | date_to_xmlschema }}">{{ entry.date | date: site.date_format | default: "%-d %B, %Y" }}</time></p>{%- endif -%}
+          </div>
+        </article>
+      {%- endfor -%}
+    </div>
+
+    <div id="blog-loader" class="blog-loader" aria-hidden="true">
+      <span class="blog-spinner"></span>
+    </div>
+    <div id="blog-sentinel" aria-hidden="true"></div>
+  </div>
+</main>
+
+<button id="back-to-top" class="back-to-top" type="button" aria-label="Volver arriba">
+  <i class="fas fa-arrow-up" aria-hidden="true"></i>
+</button>
+
+<script>
+(function () {
+  var BATCH = 30;
+  var grid = document.getElementById('blog-grid');
+  var sentinel = document.getElementById('blog-sentinel');
+  var loader = document.getElementById('blog-loader');
+  if (!grid) return;
+
+  var cards = Array.prototype.slice.call(grid.querySelectorAll('.post-card'));
+  var shown = 0;
+
+  function done() {
+    return shown >= cards.length;
+  }
+
+  function reveal(n) {
+    var end = Math.min(shown + n, cards.length);
+    for (var i = shown; i < end; i++) {
+      var card = cards[i];
+      var img = card.querySelector('img');
+      if (img && !img.getAttribute('src') && img.dataset.src) {
+        img.setAttribute('src', img.dataset.src);
+      }
+      card.classList.remove('is-hidden');
+      // force layout then animate in
+      void card.offsetWidth;
+      card.classList.add('is-visible');
+    }
+    shown = end;
+    if (done()) {
+      if (loader) loader.classList.remove('is-active');
+      if (observer) observer.disconnect();
+    }
+  }
+
+  function loadNext() {
+    if (done()) return;
+    if (loader) loader.classList.add('is-active');
+    // small delay so the spinner is visible on fast connections
+    setTimeout(function () { reveal(BATCH); }, 250);
+  }
+
+  // First batch already has src; just mark visible (no spinner).
+  reveal(BATCH);
+
+  var observer = null;
+  if ('IntersectionObserver' in window) {
+    observer = new IntersectionObserver(function (es) {
+      es.forEach(function (e) { if (e.isIntersecting && !done()) loadNext(); });
+    }, { rootMargin: '400px 0px' });
+    observer.observe(sentinel);
+  } else {
+    reveal(cards.length);
+  }
+
+  // Back-to-top
+  var toTop = document.getElementById('back-to-top');
+  if (toTop) {
+    var ticking = false;
+    function onScroll() {
+      if (ticking) return;
+      ticking = true;
+      window.requestAnimationFrame(function () {
+        toTop.classList.toggle('is-visible', window.pageYOffset > 600);
+        ticking = false;
+      });
+    }
+    window.addEventListener('scroll', onScroll, { passive: true });
+    onScroll();
+    toTop.addEventListener('click', function () {
+      var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      window.scrollTo({ top: 0, behavior: reduce ? 'auto' : 'smooth' });
+    });
+  }
+})();
+</script>
