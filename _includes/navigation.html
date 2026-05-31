@@ -9,7 +9,8 @@
           {%- else -%}
             {%- assign url = link.url | relative_url -%}
           {%- endif -%}
-          <li><a href="{{ url }}">{{ link.title }}</a></li>
+          {%- assign cur = page.url | relative_url -%}
+          <li><a href="{{ url }}"{% if cur == url %} class="is-active" aria-current="page"{% endif %}>{{ link.title }}</a></li>
         {%- endfor -%}
       </ul>
     </nav>

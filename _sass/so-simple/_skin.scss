@@ -69,15 +69,27 @@ blockquote {
 .site-nav {
   ul {
     color: $nav-color;
-    background-color: $nav-background-color;
+    background-color: rgba($nav-background-color, 0.6);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    box-shadow: 0 4px 18px rgba(#000, 0.18);
   }
 
   a {
     color: $nav-color;
-    border-color: $nav-background-color;
+    border-color: transparent;
 
-    &:hover {
-      border-color: $nav-color;
+    &:hover,
+    &:focus {
+      color: #fff;
+      background-color: $accent-color;
+      border-color: $accent-color;
+      transform: translateY(-1px);
+    }
+
+    &.is-active {
+      color: $accent-color;
+      background-color: rgba($accent-color, 0.12);
     }
   }
 }
