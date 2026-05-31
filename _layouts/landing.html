@@ -459,13 +459,29 @@
     /* ----------------------------------------------------------------- */
     /* SCROLL REVEAL — elements start faded/shifted, JS adds .in to show  */
     /* ----------------------------------------------------------------- */
-    .reveal { opacity: 0; transform: translateY(28px); transition: opacity .7s ease, transform .7s ease; }
-    .reveal.in { opacity: 1; transform: none; }
+    .reveal {
+      opacity: 0; transform: translateY(34px);
+      transition: opacity .7s cubic-bezier(.2,.7,.2,1), transform .7s cubic-bezier(.2,.7,.2,1), filter .7s ease;
+      will-change: opacity, transform;
+    }
+    .reveal.in { opacity: 1; transform: none; filter: none; }
+
+    /* directional / flavour variants — start state only, all land at none */
+    .reveal--left  { transform: translateX(-46px); }
+    .reveal--right { transform: translateX(46px); }
+    .reveal--scale { transform: scale(.9); }
+    .reveal--pop   { transform: translateY(24px) scale(.94); }
+    .reveal--blur  { filter: blur(10px); }
+
+    /* a section heading + lead that animate together as a little intro */
+    .reveal-head .reveal { }
+
     /* Respect users who asked for less motion. */
     @media (prefers-reduced-motion: reduce) {
       html { scroll-behavior: auto; }
-      .reveal { opacity: 1; transform: none; transition: none; }
+      .reveal { opacity: 1 !important; transform: none !important; filter: none !important; transition: none; }
       .scroll-cue { animation: none; }
+      .hero__bg { transform: none !important; }
     }
   </style>
 </head>
@@ -525,11 +541,11 @@
 
   <!-- ===================== ABOUT ===================== -->
   <section class="section about" id="about">
-    <div class="wrap reveal about-block">
-      <p class="kicker">About</p>
-      <p class="about-lead">An engineering manager who never left the engine room.</p>
-      <div class="about-cards">
-        <div class="about-card">
+    <div class="wrap about-block">
+      <p class="kicker reveal">About</p>
+      <p class="about-lead reveal">An engineering manager who never left the engine room.</p>
+      <div class="about-cards" data-reveal-group>
+        <div class="about-card reveal reveal--pop">
           <i class="fas fa-rocket about-card__icon"></i>
           <div class="about-card__year">since 2018</div>
           <h3>Way beyond release manager</h3>
@@ -538,7 +554,7 @@
             <li>Efficiency first — never forgetting the customer</li>
           </ul>
         </div>
-        <div class="about-card">
+        <div class="about-card reveal reveal--pop">
           <i class="fas fa-bolt about-card__icon"></i>
           <div class="about-card__year">current challenge</div>
           <h3>AI as an amplifier</h3>
@@ -553,11 +569,11 @@
 
   <!-- ===================== EXPERIENCE ===================== -->
   <section class="section section--alt" id="experience">
-    <div class="wrap reveal">
-      <h2>Experience</h2>
-      <p class="lead">Outcomes over duties — newest first.</p>
-      <div class="timeline">
-        <div class="tl-item">
+    <div class="wrap">
+      <h2 class="reveal">Experience</h2>
+      <p class="lead reveal">Outcomes over duties — newest first.</p>
+      <div class="timeline" data-reveal-group>
+        <div class="tl-item reveal reveal--left">
           <div class="tl-head"><span class="tl-company">Sysdig</span><span class="tl-years">2018 – present</span></div>
           <!-- visual role progression -->
           <div class="role-steps">
@@ -569,17 +585,17 @@
           </div>
           <p>Manage remote teams (up to 10 people). Throughout, I've worked constantly around tooling and Kubernetes application shipping — with a strong focus on on-prem customers.</p>
         </div>
-        <div class="tl-item">
+        <div class="tl-item reveal reveal--left">
           <div class="tl-head"><span class="tl-company">Frogtek</span><span class="tl-years">2014 – 2018</span></div>
           <p class="tl-role">QA &amp; Release Manager + Django developer</p>
           <p>Owned the release pipeline for web + Android; ran on-prem and app-store deliveries.</p>
         </div>
-        <div class="tl-item">
+        <div class="tl-item reveal reveal--left">
           <div class="tl-head"><span class="tl-company">Zentyal</span><span class="tl-years">2012 – 2014</span></div>
           <p class="tl-role">DevOps Engineer + Django developer</p>
           <p>Built and operated scalable mail / cloud infrastructure.</p>
         </div>
-        <div class="tl-item">
+        <div class="tl-item reveal reveal--left">
           <div class="tl-head"><span class="tl-company">Colegio Juan de Lanuza</span><span class="tl-years">2008 – 2012</span></div>
           <p class="tl-role">Maths / CS Teacher + Sysadmin</p>
           <p>Four years teaching while running the school's systems and network.</p>
@@ -591,28 +607,28 @@
   <!-- ===================== HOW I WORK (mantras + practice) ===================== -->
   <section class="section how" id="how">
     <div class="how__bg"></div>
-    <div class="wrap reveal">
-      <h2>How I work</h2>
-      <p class="lead">After some success and tons of failures, the lessons that stuck — and how they play out day to day.</p>
+    <div class="wrap">
+      <h2 class="reveal">How I work</h2>
+      <p class="lead reveal">After some success and tons of failures, the lessons that stuck — and how they play out day to day.</p>
 
-      <ul class="mantra-grid">
-        <li class="mantra-card"><span class="num">01</span><p>People over resources</p></li>
-        <li class="mantra-card"><span class="num">02</span><p>Measure before you improve</p></li>
-        <li class="mantra-card"><span class="num">03</span><p>SMART goals naturally gain traction</p></li>
-        <li class="mantra-card"><span class="num">04</span><p>We're all prone to error → automate, iterate, profit</p></li>
-        <li class="mantra-card mantra-card--hero"><span class="num">05</span><p>Ship value ASAP so early feedback can arrive</p></li>
+      <ul class="mantra-grid" data-reveal-group>
+        <li class="mantra-card reveal reveal--scale"><span class="num">01</span><p>People over resources</p></li>
+        <li class="mantra-card reveal reveal--scale"><span class="num">02</span><p>Measure before you improve</p></li>
+        <li class="mantra-card reveal reveal--scale"><span class="num">03</span><p>SMART goals naturally gain traction</p></li>
+        <li class="mantra-card reveal reveal--scale"><span class="num">04</span><p>We're all prone to error → automate, iterate, profit</p></li>
+        <li class="mantra-card mantra-card--hero reveal reveal--scale"><span class="num">05</span><p>Ship value ASAP so early feedback can arrive</p></li>
       </ul>
     </div>
   </section>
 
   <!-- ===================== LIFE OUTSIDE IT ===================== -->
   <section class="section section--alt" id="life">
-    <div class="wrap reveal">
-      <h2>Life outside IT</h2>
-      <p class="lead">The differentiators a CV usually buries.</p>
+    <div class="wrap">
+      <h2 class="reveal">Life outside IT</h2>
+      <p class="lead reveal">The differentiators a CV usually buries.</p>
 
       <!-- Featured card: the most personal one gets the spotlight -->
-      <div class="dragon-card">
+      <div class="dragon-card reveal reveal--scale">
         <div class="dragon-card__emoji">🐉</div>
         <div>
           <h3>Father of a dragon</h3>
@@ -620,9 +636,9 @@
         </div>
       </div>
 
-      <div class="life-bento">
+      <div class="life-bento" data-reveal-group>
         <!-- Teaching — tall tile, left column -->
-        <div class="life-tile life-tile--tall">
+        <div class="life-tile life-tile--tall reveal reveal--pop">
           <div class="life-tile__bg" style="background-image:url('/images/hobbies/python-miky.jpg')"></div>
           <span class="life-tile__icon">🎓</span>
           <h4>Teaching</h4>
@@ -630,7 +646,7 @@
         </div>
 
         <!-- Talks & workshops — talks I gave -->
-        <div class="life-tile">
+        <div class="life-tile reveal reveal--pop">
           <div class="life-tile__bg" style="background-image:url('/images/hobbies/betabeers-talk-miky.jpg')"></div>
           <span class="life-tile__icon">🎤</span>
           <h4>Talks &amp; workshops</h4>
@@ -638,7 +654,7 @@
         </div>
 
         <!-- Events — things I organised -->
-        <div class="life-tile">
+        <div class="life-tile reveal reveal--pop">
           <div class="life-tile__bg" style="background-image:url('/images/hobbies/pint_of_science_zaragoza.jpg')"></div>
           <span class="life-tile__icon">🎟️</span>
           <h4>Organising events</h4>
@@ -646,7 +662,7 @@
         </div>
 
         <!-- Astronomy -->
-        <div class="life-tile">
+        <div class="life-tile reveal reveal--pop">
           <div class="life-tile__bg" style="background-image:url('/images/hobbies/northen-star-miky.jpg')"></div>
           <span class="life-tile__icon">🔭</span>
           <h4>Astronomy</h4>
@@ -654,7 +670,7 @@
         </div>
 
         <!-- Motorsport -->
-        <div class="life-tile">
+        <div class="life-tile reveal reveal--pop">
           <div class="life-tile__bg" style="background-image:url('/images/hobbies/senna.jpg')"></div>
           <span class="life-tile__icon">🏁</span>
           <h4>Motorsport</h4>
@@ -662,7 +678,7 @@
         </div>
 
         <!-- Music -->
-        <div class="life-tile">
+        <div class="life-tile reveal reveal--pop">
           <div class="life-tile__bg" style="background-image:url('/images/hobbies/graspop_miky.png')"></div>
           <span class="life-tile__icon">🎸</span>
           <h4>Music</h4>
@@ -670,7 +686,7 @@
         </div>
 
         <!-- Journalism — solid accent tile (no photo) -->
-        <div class="life-tile life-tile--solid">
+        <div class="life-tile life-tile--solid reveal reveal--pop">
           <span class="life-tile__icon">✍️</span>
           <h4>Journalism</h4>
           <p>Genbeta (2M visits/mo) &amp; an RNE national-radio segment.</p>
@@ -681,45 +697,45 @@
 
   <!-- ===================== GALLERY ===================== -->
   <section class="section" id="gallery">
-    <div class="wrap reveal">
-      <h2>Gallery</h2>
-      <p class="lead">Travelling, astronomy, community — moments to meet great people and learn.</p>
+    <div class="wrap">
+      <h2 class="reveal">Gallery</h2>
+      <p class="lead reveal">Travelling, astronomy, community — moments to meet great people and learn.</p>
 
-      <div class="grid">
-        <figure><img loading="lazy" src="/images/hobbies/iceland_miky.png"      alt="Lone figure on a ridge over the Icelandic coast"><figcaption>Iceland</figcaption></figure>
-        <figure><img loading="lazy" src="/images/hobbies/oma_forest_miky.png"   alt="Painted trees of the Oma forest, Basque Country"><figcaption>Oma forest, Basque Country</figcaption></figure>
-        <figure><img loading="lazy" src="/images/hobbies/els_ports_miky.png"    alt="Hiking in Els Ports natural park"><figcaption>Foggy adventure</figcaption></figure>
-        <figure><img loading="lazy" src="/images/hobbies/kafla_miky.png"        alt="Krafla volcanic area, Iceland"><figcaption>Volcano</figcaption></figure>
-        <figure><img loading="lazy" src="/images/hobbies/saldo_roldan_miky.png" alt="Salto de Roldán rock formation, Huesca"><figcaption>It wasn't that risky</figcaption></figure>
-        <figure><img loading="lazy" src="/images/hobbies/backpack.png"          alt="Backpacking on the road"><figcaption>On the road</figcaption></figure>
-        <figure><img loading="lazy" src="/images/hobbies/graspop_miky.png"      alt="At the Graspop Metal Meeting festival"><figcaption>Graspop</figcaption></figure>
-        <figure><img loading="lazy" src="/images/hobbies/northen-star-miky.jpg" alt="Star-trail long exposure around the North Star"><figcaption>Star trails</figcaption></figure>
-        <figure><img loading="lazy" src="/images/stonenge_miky.jpg"             alt="Miguel at Stonehenge"><figcaption>Stonehenge</figcaption></figure>
-        <figure><img loading="lazy" src="/images/hobbies/tedxzaragoza-miky.jpg"        alt="TEDxZaragoza organising team group photo"><figcaption>TEDxZaragoza</figcaption></figure>
-        <figure><img loading="lazy" src="/images/hobbies/pint_of_science_zaragoza.jpg" alt="Pint of Science Zaragoza event"><figcaption>Pint of Science</figcaption></figure>
-        <figure><img loading="lazy" src="/images/hobbies/fosdem.jpg"                   alt="At the FOSDEM conference in Brussels"><figcaption>FOSDEM</figcaption></figure>
+      <div class="grid" data-reveal-group>
+        <figure class="reveal reveal--pop"><img loading="lazy" src="/images/hobbies/iceland_miky.png"      alt="Lone figure on a ridge over the Icelandic coast"><figcaption>Iceland</figcaption></figure>
+        <figure class="reveal reveal--pop"><img loading="lazy" src="/images/hobbies/oma_forest_miky.png"   alt="Painted trees of the Oma forest, Basque Country"><figcaption>Oma forest, Basque Country</figcaption></figure>
+        <figure class="reveal reveal--pop"><img loading="lazy" src="/images/hobbies/els_ports_miky.png"    alt="Hiking in Els Ports natural park"><figcaption>Foggy adventure</figcaption></figure>
+        <figure class="reveal reveal--pop"><img loading="lazy" src="/images/hobbies/kafla_miky.png"        alt="Krafla volcanic area, Iceland"><figcaption>Volcano</figcaption></figure>
+        <figure class="reveal reveal--pop"><img loading="lazy" src="/images/hobbies/saldo_roldan_miky.png" alt="Salto de Roldán rock formation, Huesca"><figcaption>It wasn't that risky</figcaption></figure>
+        <figure class="reveal reveal--pop"><img loading="lazy" src="/images/hobbies/backpack.png"          alt="Backpacking on the road"><figcaption>On the road</figcaption></figure>
+        <figure class="reveal reveal--pop"><img loading="lazy" src="/images/hobbies/graspop_miky.png"      alt="At the Graspop Metal Meeting festival"><figcaption>Graspop</figcaption></figure>
+        <figure class="reveal reveal--pop"><img loading="lazy" src="/images/hobbies/northen-star-miky.jpg" alt="Star-trail long exposure around the North Star"><figcaption>Star trails</figcaption></figure>
+        <figure class="reveal reveal--pop"><img loading="lazy" src="/images/stonenge_miky.jpg"             alt="Miguel at Stonehenge"><figcaption>Stonehenge</figcaption></figure>
+        <figure class="reveal reveal--pop"><img loading="lazy" src="/images/hobbies/tedxzaragoza-miky.jpg"        alt="TEDxZaragoza organising team group photo"><figcaption>TEDxZaragoza</figcaption></figure>
+        <figure class="reveal reveal--pop"><img loading="lazy" src="/images/hobbies/pint_of_science_zaragoza.jpg" alt="Pint of Science Zaragoza event"><figcaption>Pint of Science</figcaption></figure>
+        <figure class="reveal reveal--pop"><img loading="lazy" src="/images/hobbies/fosdem.jpg"                   alt="At the FOSDEM conference in Brussels"><figcaption>FOSDEM</figcaption></figure>
       </div>
     </div>
   </section>
 
   <!-- ===================== EXPLORE / FOOTER ===================== -->
   <section class="section section--finale" id="explore">
-    <div class="wrap reveal">
-      <p class="kicker">Keep exploring</p>
-      <h2>Where next?</h2>
-      <p class="lead">The rest of the site.</p>
-      <div class="explore-grid">
-        <a class="explore-card" href="/bookshelf/">
+    <div class="wrap">
+      <p class="kicker reveal">Keep exploring</p>
+      <h2 class="reveal">Where next?</h2>
+      <p class="lead reveal">The rest of the site.</p>
+      <div class="explore-grid" data-reveal-group>
+        <a class="explore-card reveal reveal--pop" href="/bookshelf/">
           <div class="emoji">📚</div>
           <h3>Bookshelf</h3>
           <p>What I've been reading — probably the funnest part.</p>
         </a>
-        <a class="explore-card" href="/blog/">
+        <a class="explore-card reveal reveal--pop" href="/blog/">
           <div class="emoji">📷</div>
           <h3>Blog</h3>
           <p>Autofocus photo log.</p>
         </a>
-        <a class="explore-card" href="/archive/">
+        <a class="explore-card reveal reveal--pop" href="/archive/">
           <div class="emoji">✍️</div>
           <h3>Writings</h3>
           <p>Archive of articles &amp; stories.</p>
@@ -769,7 +785,17 @@
     onScroll();
 
     // ---- 3: reveal-on-scroll --------------------------------------------
-    // Each .reveal element fades + slides up the first time it enters view.
+    // Items inside a [data-reveal-group] cascade in: each one waits a touch
+    // longer than the previous, so a grid/timeline ripples instead of popping
+    // all at once. The delay is reset to 0 once it has played, so re-entering
+    // a viewport (it won't, we unobserve) wouldn't re-stagger.
+    document.querySelectorAll('[data-reveal-group]').forEach(function (group) {
+      group.querySelectorAll('.reveal').forEach(function (el, i) {
+        el.style.transitionDelay = Math.min(i * 90, 700) + 'ms';
+      });
+    });
+
+    // Each .reveal element fades / slides / scales the first time it's seen.
     const observer = new IntersectionObserver(function (entries) {
       entries.forEach(function (entry) {
         if (entry.isIntersecting) {
@@ -777,7 +803,7 @@
           observer.unobserve(entry.target);   // animate once, then forget it
         }
       });
-    }, { threshold: 0.15 });
+    }, { threshold: 0.12, rootMargin: '0px 0px -8% 0px' });
 
     document.querySelectorAll('.reveal').forEach(function (el) { observer.observe(el); });
 
