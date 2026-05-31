@@ -20,7 +20,7 @@ locale: es-ES
 title: "Miguel Julián personal page"
 description: "Also known as Miky or Figarocorso"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: https://migueljulian.com/
+url: https://migueljulian.com
 logo: # /assets/images/figarocorso_looking_right.jpg
 date_format: "%B %-d, %Y"
 read_time: true

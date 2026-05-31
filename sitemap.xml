@@ -1,0 +1,48 @@
+---
+layout: null
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {%- comment -%} Home — primary page {%- endcomment -%}
+  <url>
+    <loc>{{ '/' | absolute_url }}</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  {%- comment -%} Section pages: bookshelf + blog high priority, rest medium {%- endcomment -%}
+  {%- assign sections = "/bookshelf/,/blog/" | split: "," -%}
+  {%- for page in site.html_pages -%}
+    {%- if page.sitemap == false -%}{%- continue -%}{%- endif -%}
+    {%- if page.url == "/" -%}{%- continue -%}{%- endif -%}
+    {%- unless page.url contains "/" -%}{%- continue -%}{%- endunless -%}
+  <url>
+    <loc>{{ page.url | absolute_url }}</loc>
+    {%- if sections contains page.url %}
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    {%- else %}
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    {%- endif %}
+  </url>
+  {%- endfor -%}
+
+  {%- comment -%} Individual collection entries — low priority (deep archive) {%- endcomment -%}
+  {%- for collection in site.collections -%}
+    {%- if collection.output -%}
+      {%- for doc in collection.docs -%}
+        {%- if doc.sitemap == false -%}{%- continue -%}{%- endif -%}
+  <url>
+    <loc>{{ doc.url | absolute_url }}</loc>
+    {%- if doc.date %}
+    <lastmod>{{ doc.date | date_to_xmlschema }}</lastmod>
+    {%- endif %}
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+      {%- endfor -%}
+    {%- endif -%}
+  {%- endfor -%}
+</urlset>

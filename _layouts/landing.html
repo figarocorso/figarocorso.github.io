@@ -8,6 +8,60 @@
   <meta name="description" content="Miguel Julián (Miky / Figarocorso) — Engineering Manager at Sysdig. From QA &amp; DevOps to leading remote teams that ship reliably.">
   <meta name="author" content="Miguel Julián">
 
+  <!-- Canonical -->
+  <link rel="canonical" href="{{ '/' | absolute_url }}">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:locale" content="{{ site.locale | replace: '-', '_' }}">
+  <meta property="og:title" content="Miguel Julián — Engineering Manager (Miky / Figarocorso)">
+  <meta property="og:description" content="Miguel Julián (Miky / Figarocorso) — Engineering Manager at Sysdig. From QA &amp; DevOps to leading remote teams that ship reliably.">
+  <meta property="og:url" content="{{ '/' | absolute_url }}">
+  <meta property="og:image" content="{{ '/assets/images/figarocorso_looking_right.jpg' | absolute_url }}">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@miky_kun">
+  <meta name="twitter:creator" content="@miky_kun">
+  <meta name="twitter:title" content="Miguel Julián — Engineering Manager (Miky / Figarocorso)">
+  <meta name="twitter:description" content="Miguel Julián (Miky / Figarocorso) — Engineering Manager at Sysdig. From QA &amp; DevOps to leading remote teams that ship reliably.">
+  <meta name="twitter:image" content="{{ '/assets/images/figarocorso_looking_right.jpg' | absolute_url }}">
+
+  <!-- Structured data: Person + WebSite -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "{{ '/#person' | absolute_url }}",
+        "name": "Miguel Julián",
+        "alternateName": ["Miky", "Figarocorso"],
+        "url": "{{ '/' | absolute_url }}",
+        "image": "{{ '/assets/images/figarocorso_looking_right.jpg' | absolute_url }}",
+        "jobTitle": "Engineering Manager",
+        "worksFor": { "@type": "Organization", "name": "Sysdig" },
+        "sameAs": [
+          "https://twitter.com/miky_kun",
+          "https://github.com/figarocorso/",
+          "https://www.linkedin.com/in/migueljulian/",
+          "https://www.last.fm/user/figarocorso"
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "{{ '/#website' | absolute_url }}",
+        "url": "{{ '/' | absolute_url }}",
+        "name": "{{ site.title }}",
+        "description": "{{ site.description }}",
+        "inLanguage": "{{ site.locale }}",
+        "publisher": { "@id": "{{ '/#person' | absolute_url }}" }
+      }
+    ]
+  }
+  </script>
+
   <link rel="icon" href="/images/fav_migueljulian.png" type="image/png">
 
   <!-- Fonts: Lora for headings (serif), Source Sans Pro for body -->
