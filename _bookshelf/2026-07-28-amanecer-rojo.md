@@ -4,7 +4,7 @@ category: bookshelf
 link: "https://www.goodreads.com/book/show/23148013-amanecer-rojo"
 title: "Amanecer rojo"
 author: "Pierce Brown"
-when: July 2026
+when: Julio 2026
 date: 2026-07-28
 audiobook: True
 image:
